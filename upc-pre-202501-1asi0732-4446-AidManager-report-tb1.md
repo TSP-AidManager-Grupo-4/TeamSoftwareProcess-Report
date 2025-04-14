@@ -1,4 +1,4 @@
-# <center>COURSE PROJECT</center>
+![image](https://github.com/user-attachments/assets/a80efbaa-b11d-4050-9031-9eaca58ed6a6)# <center>COURSE PROJECT</center>
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
@@ -7,21 +7,193 @@
     <strong>Diseño de Experimentos de Ingeniería de Software - 4446</strong><br>
     <strong>Profesor: Lennin Percy Cenas Vasquez</strong><br>
     <br>INFORME
+
+<p align="center">
+    Startup: </><br>
+    Producto: </>
 </p>
 
-<center>
+<div>
+    <h3 align="center">Team Members:</h3>
+    </div>
+<div>
+     <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+            <td>Nombre</td>
+            <td>Codigo</td>
+        </tr>
+        <tr>
+            <td>Cuadros Rodriguez, Juan Alejandro</td>
+            <td>U20221A359</td>
+        </tr>
+        <tr>
+            <td>Nombre</td>
+            <td>Codigo</td>
+        </tr>
+        <tr>
+            <td>Nombre</td>
+            <td>Codigo</td>
+        </tr>
+         <tr>
+            <td>Nombre</td>
+            <td>Codigo</td>
+         </tr>
+</table>
 
-#### Startup: **(Sin nombre por definir)**
+<br>
 
-#### Product: **Aid Manager**
-
-</center>
-
+---
 
 # Registro de versiones
-CONTENT
 
-STUDENT OUTCOME
+# Contenido 
+## Tabla de contenidos
+### [Registro de versiones del informe](#registro-de-versiones-del-informe)
+### [Project Report Collaboration Insights](#project-report-collaboration-insights)
+### [Student Outcome](#student-outcome)
+## [Capítulo I: Introducción](#capítulo-i-introducción)
+- [1.1. Startup Profile](#11-startup-profile)
+  - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+  - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+- [1.2. Solution Profile](#12-solution-profile)
+  - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+  - [1.2.2 Lean UX Process](#122-lean-ux-process)
+    - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+    - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+    - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+    - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+- [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+
+## [Capítulo II: Needfinding](#capítulo-ii-needfinding)
+- [2.1. Competidores](#21-competidores)
+  - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
+  - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
+- [2.2. Entrevistas](#22-entrevistas)
+  - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+  - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+  - [2.2.3. Análisis de entrevistas](#223-análisis-de-entrevistas)
+- [2.3. Needfinding](#23-needfinding)
+  - [2.3.1. User Personas](#231-user-personas)
+  - [2.3.2. User Task Matrix](#232-user-task-matrix)
+  - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+  - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+  - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+- [2.4. Requirements Specification](#24-requirements-specification)
+  - [2.4.1. To-Be Scenario Mapping](#241-to-be-scenario-mapping)
+  - [2.4.2. User Stories](#242-stories)
+  - [2.4.3. Impact Mapping](#243-impact-mapping)
+  - [2.4.4. Product Backlog](#244-product-backlog)
+
+## [Capítulo III: Arquitectura](#capítulo-iii-arquitectura)
+- [3.1.Product Design](#31-product-design)
+  - [3.1.1. Style Guidelines](#311-style-guidelines)
+    - [3.1.1.1. General Style Guidelines](#3111-general-style-guidelines)
+  - [3.1.2. Information Architecture](#312-information-architecture)
+    - [3.1.2.1. Organization Systems](#3121-organization-systems)
+    - [3.1.2.2. Labelling Systems](#3122-labelling-systems)
+    - [3.1.2.3. SEO and Meta Tags](#3123-seo-and-meta-tags)
+    - [3.1.2.4. Searching Systems](#3124-searching-systems)
+    - [3.1.2.5. Navigation Systems](#3125-navigation-systmes)
+  - [3.1.3. Landing Page UI Design](#313-landing-page-ui-desig)
+    - [3.1.3.1. Landing Page Wireframe](#3131-landing-page-wireframe)
+    - [3.1.3.2. Landing Page Mock-up](#3132-landing-page-mock--up)
+  - [3.1.4. Mobile Applications UX/UI Design](#314-mobile-applications-ux/ui-design)
+    - [3.1.4.1. Mobile Applications Wireframe](#3141-mobile-applications-wireframe)
+    - [3.1.4.2. Mobile Applications Wireflow Diagram](#3142-mobile-applications-wireflow-diagram)
+    - [3.1.4.3. Mobile Applications Mock-up](#3143-mobile-applications-mock--up)
+    - [3.1.4.4. Mobile Applications Userflow Diagram](#3144-mobile-applications-userflow-diagram)
+    - [3.1.4.5. Mobile Applications Prototyping](#3145-mobile-applications-prototyping)
+- [3.2. Architecture Overview](#32-architecure-overview)
+  - [3.2.1. Domain-Driven Software Architecture](#321-domain--driven-software-architecture)
+    - [3.2.1.1. Software Architecture Context Level Diagram](#3211-software-architecture-context-level-diagram)
+    - [3.2.1.2. Software Architecture Container Level Diagram](#3212-software-architecture-container-level-diagram)
+    - [3.2.1.3. Software Architecture Components Diagram](#3213-software-architecture-context-level-diagram)
+  - [3.2.2. Software Object-Oriented Design](#322-software-object-oriented-design)
+    - [3.2.2.1. Class Diagrams](#3221-class-diagrams)
+    - [3.2.2.2. Class Dictionary](#3222-class-dictionary)
+    - [3.2.2.3. Database Diagram](#3223-database-diagram)
+
+## [Capítulo IV: Backend Product Implementation & Validation](#capítulo-iv-backend-product-implementation-&-validation)
+- [4.1. Software Configuration Management](#41-software-configuration-management)
+  - [4.1.1. Software Development Environment Configuration](#411-software-development-environment-configuration)
+  - [4.1.2. Source Code Management](#412-source-code-management)
+  - [4.1.3. Source Code Style Guide & Conventions](#413-source-code-style-guide--conventions)
+  - [4.1.4. Software Deployment Configuration](#414-software-deployment-configuration)
+- [4.2. Software Development & Implementation](#42-software-development--implementation)
+  - [4.2.1. Sprint 1](#421-sprint-1)
+    - [4.2.1.1. Sprint Planning 1](#45211-sprint-planning-1)
+    - [4.2.1.2. Sprint Backlog 1](#4212-sprint-backlog-1)
+    - [4.2.1.3. Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)
+    - [4.2.1.4. Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)
+    - [4.2.1.5. Execution Evidence for Sprint Review](#4215-execution-evidence-for-sprint-review)
+    - [4.2.1.6. Services Documentation Evidence for Sprint Review](#4216-services-documentation-evidence-for-sprint-review)
+    - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
+    - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
+  
+## [Capítulo V: Product Implementation & Validation](#capítulo-v-product-implementation--validation)
+- [5.1. Software Configuration Management](#51-software-configuration-management)
+  - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+  - [5.1.2. Source Code Management](#512-source-code-management)
+  - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
+  - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+- [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
+  - [5.2.1. Sprint 1](#521-sprint-1)
+    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+    - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
+    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+  - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+    - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+    - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.2.4. Sprint 4](#524-sprint-4)
+    - [5.2.4.1. Sprint Planning 3](#5241-sprint-planning-4)
+    - [5.2.4.2. Sprint Backlog 3](#5242-sprint-backlog-4)
+    - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+    - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
+  
+- [5.3. Validation Interviews](#53-validation-interviews)
+  - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
+  - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
+  - [5.3.3. Evaluación según heurísticas](#532-evaluación-según-heurísticas)
+
+- [5.4. Video about the product](#54-video-about-the-product)
+
+## [Conclusiones](#conclusiones)
+- [Video about the team](#video-about-the-team)
+
+## [Bibliografía](#bibliografía)
+## [Anexos](#anexos)
+
+---  
+  
+# Student Outcome
 
 
 # Capítulo I: Presentación
