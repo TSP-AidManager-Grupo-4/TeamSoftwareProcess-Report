@@ -2002,7 +2002,54 @@ invalido.</p></th>
 ## 3.3. Product Backlog
 Se consideran las historias de usuario más importantes para el product backlog
 Asimismo, se ha realizado un Trello para hacer seguimiento de nuestras tareas.
-Link:
+<table border="1">
+  <thead>
+    <tr>
+      <th>Historia de Usuario</th>
+      <th>Descripción</th>
+      <th>Prioridad</th>
+      <th>Story Points (1/2/3/5/8)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>HU01</td><td>Ofrecer información de la empresa</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU02</td><td>Informar sobre los beneficios del producto</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU03</td><td>Conocer los testimonios de los clientes pasados</td><td>Media</td><td>3</td></tr>
+    <tr><td>HU05</td><td>Contactar con la empresa</td><td>Alta</td><td>2</td></tr>
+    <tr><td>HU06</td><td>Mostrar información de perfiles de miembros de equipo</td><td>Media</td><td>2</td></tr>
+    <tr><td>HU07</td><td>Mostrar información de perfiles de gestores</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU08</td><td>Mostrar información de perfil de la ONG</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU09</td><td>Editar información de perfil</td><td>Media</td><td>2</td></tr>
+    <tr><td>HU10</td><td>Autenticar usuarios por medio de código de organización</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU11</td><td>Mostrar lista de perfiles de miembros de equipo</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU12</td><td>Contactar a los miembros del equipo por medio de WhatsApp</td><td>Media</td><td>2</td></tr>
+    <tr><td>HU13</td><td>Eliminar Perfil de miembro de equipo</td><td>Media</td><td>3</td></tr>
+    <tr><td>HU14</td><td>Visualizar de listado de proyectos</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU15</td><td>Ingresar nuevo proyecto</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU16</td><td>Editar información de proyecto</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU17</td><td>Visualizar tareas</td><td>Media</td><td>2</td></tr>
+    <tr><td>HU18</td><td>Crear tarea</td><td>Media</td><td>2</td></tr>
+    <tr><td>HU19</td><td>Editar tarea</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU20</td><td>Cambio de estado de tarea</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU21</td><td>Eliminar una tarea</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU22</td><td>Visualizar de fechas vinculadas con las tareas y proyectos</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU23</td><td>Agregar una fecha importante</td><td>Media</td><td>2</td></tr>
+    <tr><td>HU24</td><td>Editar o Eliminar una fecha en específico</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU25</td><td>Visualizar “Posts” de la comunidad</td><td>Media</td><td>2</td></tr>
+    <tr><td>HU26</td><td>Postear un post</td><td>Media</td><td>3</td></tr>
+    <tr><td>HU27</td><td>Comentar o Reseñar un post</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU28</td><td>Eliminar un post</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU29</td><td>Visualizar las estadísticas del proyecto</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU30</td><td>Agregar datos de presupuesto</td><td>Media</td><td>2</td></tr>
+    <tr><td>HU31</td><td>Editar datos de presupuesto</td><td>Media</td><td>2</td></tr>
+    <tr><td>HU32</td><td>Implementar encriptación de contraseñas y código de organización</td><td>Media</td><td>3</td></tr>
+    <tr><td>HU33</td><td>Verificar que el código de organización sea correcto</td><td>Alta</td><td>3</td></tr>
+  </tbody>
+</table>
+<br>
+**Link:** https://trello.com/invite/b/66c568966561935d142481d8/ATTI5751dc000e3f7d636dff7058d697c8dd6B2D7184/aidmanagermobile <br>
+
+
 
 
 
@@ -2025,13 +2072,21 @@ Como startup, nos esforzamos por transmitir profesionalismo y eficiencia a trav�
 
 
 ### 4.1.1.	General Style Guidelines
-Color Primario
-Representa confianza, serenidad y estabilidad. Transmite la idea de fiabilidad y compromiso en la gestión de organizaciones benéficas, lo que inspira confianza en los donantes y en aquellos que buscan ayuda.
+**Color Primario**<br>
 
-Color Secundario
-Este color evoca calma, frescura y bienestar. Simboliza la esperanza y el apoyo el startup ofrece a las personas necesitadas, así como la naturaleza refrescante de las soluciones que proporciona.
+Representa confianza, serenidad y estabilidad. Transmite la idea de fiabilidad y compromiso en la gestión de organizaciones benéficas, lo que inspira confianza en los donantes y en aquellos que buscan ayuda.<br>
+![image_75](assets/image_75.png)
+<br>
 
-Paleta de colores:
+**Color Secundario**<br>
+Este color evoca calma, frescura y bienestar. Simboliza la esperanza y el apoyo el startup ofrece a las personas necesitadas, así como la naturaleza refrescante de las soluciones que proporciona.<br>
+![image_100](assets/image_100.png)
+<br>
+
+
+**Paleta de colores:**<br>
+![image_115](assets/image_115.png)
+
 
 ### 4.1.2.	Web Style Guidelines
 
@@ -2049,8 +2104,8 @@ Paleta de colores:
 ## 4.2.	Information Architecture
 Esta sección está dedicada a cómo vamos a organizar la navegación en nuestra aplicación móvil.
 ### 4.2.1.	Organization System
-Sistemas de organización que usaremos para el proyecto.
-El sistema de Organización se basa en un sistema secuencial donde el usuario debe seguir el workflow de la herramienta para llegar a su objetivo, no obstante, ofrecemos atajos para llegar a estos más rápido.
+Sistemas de organización que usaremos para el proyecto.<br>
+El sistema de Organización se basa en un sistema secuencial donde el usuario debe seguir el workflow de la herramienta para llegar a su objetivo, no obstante, ofrecemos atajos para llegar a estos más rápido.<br>
 Asimismo, existirá una jerarquía visual dependiendo si quien se ha ingresado es un gestor o un miembro de equipo.
 ### 4.2.2.	Labelling System
 Los labels se usan para representar muchos datos en pocas palabras para este proyecto decidimos que nuestros labels principales son Home, Projects, Community y Profile. De esta manera será fácil de reconocer y entender.
@@ -2064,56 +2119,77 @@ Título: <title> AidManager | La mejor opción de ONG para la gestión de proyec
 Descripción: <meta name = "description" content = "Gestiona, Recolecta, Analiza y Visualiza los datos y colaboradores de tus proyectos todo en un solo lugar."/>
 Palabras Clave: <meta name = "keyword" content = "ONG gestión, Gestionar Proyecto, ONG, dar Tareas, análisis de datos, Organizar, Orden "/>
 ### 4.2.4.	Searching Systems
-¿Que se busca?: El usuario busca su proyecto para gestionar. ¿Qué resultados se mostrarán?: Se debe de mostrar cards y entre ellas el proyecto que está revisando.
-Interfaz de búsqueda: El dashboard muestra en el sidebar las secciones una vez se selecciona la sección de proyectos se mostrarán las cards con sus proyectos, el usuario selecciona el proyecto específico y se hacen las redirecciones a su proyecto para gestionar específicas.
+**¿Que se busca?:** El usuario busca su proyecto para gestionar. **¿Qué resultados se mostrarán?:** Se debe de mostrar cards y entre ellas el proyecto que está revisando.<br>
+
+**Interfaz de búsqueda:** El dashboard muestra en el sidebar las secciones una vez se selecciona la sección de proyectos se mostrarán las cards con sus proyectos, el usuario selecciona el proyecto específico y se hacen las redirecciones a su proyecto para gestionar específicas.
 
 ### 4.2.5.	Navigation Systems
 La navegación de la Mobile App se estará basando en un Sistema de navegación Global donde por medio de las cards en el dashboard o los labels en el side-bar e incluso el bottom-nav. el usuario se redirija a la sección seleccionada. Asimismo, se usa la navegación local para ver información dedicada a las secciones.
 ## 4.3.	Landing Page UI Design
 Esta sección está orientada a mostrar el diseño de nuestra landing page la cual es necesaria para presentarnos y promover nuestro producto a los usuarios.
 ### 4.3.1.	Landing Page Wireframe
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image_130](assets/image_130.png)
+![image_37](assets/image_37.png)
+![image_68](assets/image_68.png)
+![image_91](assets/image_91.png)
+![image_8](assets/image_8.png)
+![image_21](assets/image_21.png)
+![image_38](assets/image_38.png)
 
 ### 4.3.2.	Landing Page Mock-up
-
-
-
-
-
-
+![image_63](assets/image_63.png)
+![image_88](assets/image_88.png)
+![image_107](assets/image_107.png)
+![image_123](assets/image_123.png)
+![image_27](assets/image_27.png)
+![image_57](assets/image_57.png)
+![image_80](assets/image_80.png)
 
 ## 4.4.	Mobile Applications UX/UI Design
 Aquí nos enfocamos en mostrar el diseño de nuestra solución móvil.
 #### 4.4.1.	Mobile Application Wireframe
-
-
+![image_1](assets/image_1.png)
+![image_14](assets/image_14.png)
+![image_28](assets/image_28.png)
+![image_51](assets/image_51.png)
+![image_76](assets/image_76.png)
+![image_101](assets/image_101.png)
+![image_116](assets/image_116.png)
+![image_126](assets/image_126.png)
+![image_46](assets/image_46.png)
+![image_69](assets/image_69.png)
+![image_92](assets/image_92.png)
+![image_9](assets/image_9.png)
+![image_22](assets/image_22.png)
+![image_39](assets/image_39.png)
+![image_64](assets/image_64.png)
+![image_93](assets/image_93.png)
+![image_108](assets/image_108.png)
+![image_119](assets/image_119.png)
+![image_29](assets/image_29.png)
 
 ### 4.4.2.	Mobile Application Wireflow Diagram
-Gestor de Proyectos necesita ver el listado de proyectos y las tareas asignadas a estos.
 
+Gestor de Proyectos necesita ver el listado de proyectos y las tareas asignadas a estos.<br>
 
-Como Gestor quiero recibir notificaciones sobre nuevos proyectos o actualizaciones de los existentes
+![image_133](assets/image_133.png)
+![image_134](assets/image_134.png)
+Como Gestor quiero recibir notificaciones sobre nuevos proyectos o actualizaciones de los existentes<br>
 
-Gestor Crea un nuevo proyecto asignado a las tareas a los integrantes
+![image_81](assets/image_81.png)
+Gestor Crea un nuevo proyecto asignado a las tareas a los integrantes<br>
 
+![image_2](assets/image_2.png)
+Como gestor de proyectos deseo revisar la información del trabajo realizado y exportar la información.<br>
 
-Como gestor de proyectos deseo revisar la información del trabajo realizado y exportar la información.
+![image_16](assets/image_16.png)
 
-Como gestor de proyecto deseo agregar un post para mi equipo pueda ver y reaccionar
+Como gestor de proyecto deseo agregar un post para mi equipo pueda ver y reaccionar<br>
 
-Como miembro de equipo deseo ver las tareas asignadas y las métricas del grupo.
+![image_30](assets/image_30.png)
+Como miembro de equipo deseo ver las tareas asignadas y las métricas del grupo.<br>
+
+![image_52](assets/image_52.png)
 
 ### 4.4.3.	Mobile Application Mock-ups
 
