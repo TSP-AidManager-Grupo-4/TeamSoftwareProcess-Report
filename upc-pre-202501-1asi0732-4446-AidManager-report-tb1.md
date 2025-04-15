@@ -1069,11 +1069,814 @@ El Journey Mapping es necesario para entender el proceso que recorren nuestros s
 
 ## 3.1. To-Be Scenario Mapping
 
+![image_50](assets/image_50.png)
+![image_79](assets/image_79.png)
+<br>
+**Enlace:** https://miro.com/welcomeonboard/NlNXV0pNbjkzNGhhN0RaVE1GZ2QxdEE0T1lxcExSSFRwOFFubkdVZlVMZ2Nuc0U2Z292TXVjZUFsZ3hlczJMWXwzNDU4NzY0NTIyNTI2OTE2NTk0fDI=?share_link_id=464993559168  
 ## 3.2. User Stories
-Épicas:
+**Épicas:**<br>
 
-Historias Usuario:
-Owner: AidManager
+**Historias Usuario:**<br>
+**Owner: AidManager**<br>
+<table>
+<colgroup>
+<col style="width: 8%" />
+<col style="width: 16%" />
+<col style="width: 21%" />
+<col style="width: 53%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>HUX</th>
+<th>Historia de Usuario</th>
+<th><p>Descripción</p>
+<p>(Escenario)</p></th>
+<th>Criterios de Aceptación (Dado que, Cuando, Entonces, Y)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td rowspan="2">HU01</td>
+<td rowspan="2">Ofrecer información de la empresa</td>
+<td rowspan="2"><strong>Como</strong> visitante, <strong>quiero</strong>
+conseguir información sobre la empresa <strong>para</strong> saber más
+sobre su misión y visión.</td>
+<td><p><strong>Caso A: El visitante encuentra información de la
+empresa.</strong></p>
+<p><strong>Given</strong> el visitante está en la página de
+información,</p>
+<p><strong>When</strong> revisa la sección de la empresa,</p>
+<p><strong>Then</strong> debería ver detalles sobre la misión y visión
+de la empresa.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso A: El visitante recibe un error de cargar
+datos.</strong></p>
+<p><strong>Given</strong> el visitante está en la página de
+información,</p>
+<p><strong>When</strong> no encuentra detalles sobre la empresa,</p>
+<p><strong>Then</strong> debería ver un mensaje de error indicando que
+la información está temporalmente no disponible.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU02</td>
+<td rowspan="2">Informar sobre los beneficios del producto</td>
+<td rowspan="2"><strong>Como</strong> visitante, quiero conocer los
+beneficios del producto para evaluar si cumple con mis necesidades.</td>
+<td><p><strong>Caso A:</strong></p>
+<p><strong>Given</strong> el visitante está en la sección de
+beneficios,</p>
+<p><strong>When</strong> revisa la lista de beneficios,</p>
+<p><strong>Then</strong> debería ver una lista detallada de los
+beneficios que ofrece el producto.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Given</strong> el visitante está en la sección de
+beneficios,</p>
+<p><strong>When</strong> no encuentra beneficios listados,</p>
+<p><strong>Then</strong> debería ver un mensaje de error indicando que
+los beneficios no están disponibles.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU03</td>
+<td rowspan="2">Conocer los testimonios de los clientes pasados</td>
+<td rowspan="2"><strong>Como</strong> visitante, <strong>quiero</strong>
+leer testimonios de clientes anteriores <strong>para</strong> saber si
+han tenido experiencias positivas.</td>
+<td><p><strong>Given</strong> el visitante está en la sección de
+testimonios,</p>
+<p><strong>When</strong> revisa los comentarios y valoraciones,</p>
+<p><strong>Then</strong> debería ver comentarios y valoraciones de
+clientes pasados.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Given</strong> el visitante está en la sección de
+testimonios,</p>
+<p><strong>When</strong> no encuentra testimonios,</p>
+<p><strong>Then</strong> debería ver un mensaje de error indicando que
+los testimonios no están disponibles.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU04</td>
+<td rowspan="2">Informarse sobre los diferentes planes de precio</td>
+<td rowspan="2"><strong>Como</strong> visitante, <strong>quiero</strong>
+ver los diferentes planes de precio <strong>para</strong> elegir el que
+mejor se ajuste a mi presupuesto.</td>
+<td><p><strong>Given</strong> el usuario está en la sección de
+precios,</p>
+<p><strong>When</strong> revisa la comparación de planes,</p>
+<p><strong>Then</strong> debería ver una comparación clara de los
+diferentes planes de precios disponibles.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Given</strong> el usuario está en la sección de
+precios,</p>
+<p><strong>When</strong> no encuentra información sobre los planes,</p>
+<p><strong>Then</strong> debería ver un mensaje de error indicando que
+los precios no están disponibles.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU05</td>
+<td rowspan="2">Contactar con la empresa</td>
+<td rowspan="2"><strong>Como</strong> usuario, <strong>quiero</strong>
+poder contactar con la empresa <strong>para</strong> resolver mis
+dudas.</td>
+<td><p><strong>Given</strong> el usuario está en la sección de
+contactos,</p>
+<p><strong>When</strong> revisa las opciones de comunicación</p>
+<p><strong>Then</strong> debería ver opciones para contactar con la
+empresa (teléfono, email, formulario de contacto).</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Given</strong> el usuario está en la sección de
+contacto,</p>
+<p><strong>When</strong> no encuentra opciones de contacto,</p>
+<p><strong>Then</strong> debería ver un mensaje de error indicando que
+los métodos de contacto no están disponibles.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU06</td>
+<td rowspan="2">Mostrar información de perfiles de miembros de
+equipo.</td>
+<td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+ver la información de los miembros de equipo <strong>para</strong>
+realizar un monitoreo de identidad y tener información de contacto.</td>
+<td><p><strong>Caso: Se ve la información del perfil<br />
+Given</strong> el gestor está en la vista donde están los perfiles de
+integrantes,</p>
+<p><strong>When</strong> selecciona un perfil,</p>
+<p><strong>Then</strong> aparece una información del miembro de equipo
+incluyendo su nombre e información de contacto.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: No se ve la información del perfil</strong></p>
+<p><strong>Given</strong> el gestor está en la vista donde están los
+perfiles de integrantes,</p>
+<p><strong>When</strong> selecciona un perfil y no ve la información del
+perfil</p>
+<p><strong>Then</strong> aparece un mensaje de error pidiendo que
+recargue el perfil.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU07</td>
+<td rowspan="2">Mostrar información de perfiles de gestores</td>
+<td rowspan="2"><strong>Como</strong> miembro de equipo,
+<strong>quiero</strong> conocer la información de los gestores de equipo
+<strong>para</strong> saber más de mis superiores e información de
+contacto.</td>
+<td><p><strong>Caso: Se ve la información del perfil</strong></p>
+<p><strong>Given</strong> el miembro de equipo está en la vista donde
+están los perfiles de los integrantes de la ONG,</p>
+<p><strong>When</strong> selecciona un perfil,</p>
+<p><strong>Then</strong> ve una información del miembro de equipo
+incluyendo la información de contacto y nombres.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: No se ve la información del perfil</strong></p>
+<p><strong>Given</strong> el miembro del equipo está en la vista donde
+está el perfil del gestor de la organización,</p>
+<p><strong>When</strong> selecciona un perfil y no ve la información del
+perfil</p>
+<p><strong>Then</strong> sale un mensaje de error pidiendo que recargue
+el perfil.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU08</td>
+<td rowspan="2">Mostrar información de perfil de la ONG</td>
+<td rowspan="2"><strong>Como</strong> usuario, <strong>quiero</strong>
+conocer más de la organización de la cual participo
+<strong>para</strong> informarme de la misión y visión de esta
+misma.</td>
+<td><p><strong>Caso: Se muestra la información de la ONG</strong></p>
+<p><strong>Given</strong> el usuario se encuentra en el menú principal o
+en la sección de proyectos,</p>
+<p><strong>When</strong> selecciona el botón con el nombre de la
+organización,</p>
+<p><strong>Then</strong> ve la información correspondiente de la
+organización.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: Se muestra la información de la ONG desde el
+usuario gestor</strong></p>
+<p><strong>Given</strong> el gestor se encuentra en el menú principal o
+en la sección de proyectos,</p>
+<p><strong>When</strong> selecciona el botón con el nombre de la
+organización,</p>
+<p><strong>Then</strong> ve la información correspondiente de la
+organización y la opción de editar esta misma información.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU09</td>
+<td rowspan="2">Editar información de perfil</td>
+<td rowspan="2"><strong>Como</strong> usuario, <strong>quiero</strong>
+poder editar mi perfil <strong>para</strong> actualizar mi información
+de contacto o errores que haya realizado al registrarme.</td>
+<td><p><strong>Caso: Usuario edita su perfil</strong></p>
+<p><strong>Given</strong> usuario está en su perfil,</p>
+<p><strong>When</strong> presiona en los botones para editar perfil,</p>
+<p><strong>Then</strong> edita la información del perfil.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: Usuario falla en editar su perfil</strong></p>
+<p><strong>Given</strong> usuario está en su perfil,</p>
+<p><strong>When</strong> presiona en los botones para editar perfil y no
+pone la información requerida,</p>
+<p><strong>Then</strong> aparece un mensaje solicitando la información
+solicitada.</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 8%" />
+<col style="width: 16%" />
+<col style="width: 21%" />
+<col style="width: 53%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">HU10</th>
+<th rowspan="2">Autenticar usuarios por medio de código de
+organización</th>
+<th rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+invitar a un miembro de equipo usando un código de organización
+<strong>para</strong> que este pueda registrarse a la organización.</th>
+<th><p><strong>Caso: El miembro de equipo se registra
+correctamente.</strong></p>
+<p><strong>Given</strong> el gestor envía el código de invitación al
+usuario miembro de equipo,</p>
+<p><strong>When</strong> ingresa el código al registrarse en la
+aplicación, <strong>Then</strong> ingresa sin problema a la organización
+del código.</p></th>
+</tr>
+<tr class="odd">
+<th><p><strong>Caso: El miembro de equipo ingresa un código
+invalido.</strong></p>
+<p><strong>Given</strong> el gestor no envía el código de invitación al
+usuario miembro de equipo,</p>
+<p><strong>When</strong> no ingresa el código o ingresa el código
+incorrecto al registrarse en la aplicación,</p>
+<p><strong>Then</strong> sale un error solicitando que ingrese un código
+valido.</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td rowspan="2">HU11</td>
+<td rowspan="2">Mostrar lista de perfiles de miembros de equipo.</td>
+<td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+ver un listado de los miembros y sus contactos <strong>para</strong>
+poder contactar fácilmente a los miembros del equipo.</td>
+<td><p><strong>Caso: Se muestra la lista de usuarios</strong></p>
+<p><strong>Given</strong> el gestor está en el panel de proyecto,</p>
+<p><strong>When</strong> va a la lista de miembros de equipo,</p>
+<p><strong>Then</strong> debería ver una lista de todos los miembros del
+equipo y sus contactos.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: No se muestra la lista de usuarios</strong></p>
+<p><strong>Given</strong> el gestor está en el panel de proyecto,</p>
+<p><strong>When</strong> no se muestra la lista de miembros de equipo,
+<strong>Then</strong> aparece un mensaje de error.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU12</td>
+<td rowspan="2">Contactar a los miembros del equipo por medio de
+WhatsApp</td>
+<td rowspan="2"><strong>Como</strong> usuario, <strong>quiero</strong>
+conocer los contactos de mis compañeros <strong>para</strong> poder
+mantener una comunicación.</td>
+<td><p><strong>Caso: El link de WhatsApp direcciona a la
+aplicación</strong></p>
+<p><strong>Given</strong> el usuario está en la lista de miembros,</p>
+<p><strong>When</strong> presiona el botón de WhatsApp y acepte los
+permisos para redireccionar a la aplicación,</p>
+<p><strong>Then</strong> se redirecciona a la aplicación de WhatsApp con
+el número del perfil.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: El link de WhatsApp falla.</strong></p>
+<p><strong>Given</strong> el usuario está en la lista de miembros,</p>
+<p><strong>When</strong> presiona el botón de WhatsApp y no acepta los
+permisos para redireccionar a la aplicación,</p>
+<p><strong>Then</strong> sale un mensaje mencionando que debe aceptar
+los permisos para redireccionar a aplicaciones.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU13</td>
+<td rowspan="2">Eliminar Perfil de miembro de equipo</td>
+<td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+eliminar un perfil de miembro de equipo <strong>para</strong> liberar
+espacio para nuevas cuentas o concluir la participación de un miembro de
+equipo.</td>
+<td><p><strong>Caso: El gestor elimina usuario de la
+organización.</strong></p>
+<p><strong>Given</strong> el gestor está en la lista de miembros,</p>
+<p><strong>When</strong> selecciona un perfil y le da al botón de
+eliminar usuario y confirma esta acción, <strong>Then</strong> el
+usuario es eliminado y se muestra un mensaje exitoso.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: El gestor falla en eliminar usuario de la
+organización.</strong></p>
+<p><strong>Given</strong> el gestor está en la lista de miembros,</p>
+<p><strong>When</strong> selecciona un perfil y le da al botón de
+eliminar usuario, pero no confirma esta acción,</p>
+<p><strong>Then</strong> el usuario no es eliminado y se muestra un
+mensaje exitoso.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU14</td>
+<td rowspan="2">Visualizar de listado de proyectos</td>
+<td rowspan="2"><strong>Como</strong> usuario, <strong>quiero</strong>
+ver el listado de proyectos de mi interés <strong>para</strong> evaluar
+la información relacionada.</td>
+<td><p><strong>Caso: Se carga el listado de proyectos</strong></p>
+<p><strong>Given</strong> el usuario está en la sección de
+proyectos,</p>
+<p><strong>When</strong> la sección carga correctamente,</p>
+<p><strong>Then</strong> se debe de mostrar un listado de los proyectos
+en relación con el usuario.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: Ocurre un error al cargar los datos</strong></p>
+<p><strong>Given</strong> el usuario está en la sección de
+proyectos,</p>
+<p><strong>When</strong> la sección carga demora demasiado,</p>
+<p><strong>Then</strong> se muestra un mensaje de error para
+recargar.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU15</td>
+<td rowspan="2">Ingresar nuevo proyecto</td>
+<td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+ingresar un nuevo proyecto <strong>para</strong> hacerle su seguimiento
+administrativo.</td>
+<td><p><strong>Caso: Se ingresa la información requerida</strong></p>
+<p><strong>Given</strong> el gestor se encuentra en la vista de
+proyectos,</p>
+<p><strong>When</strong> presiona el botón para agregar un proyecto y
+agrega el título, descripción, ubicación e imágenes de referencia,</p>
+<p><strong>Then</strong> se muestra un mensaje de proyecto agregado y se
+actualiza la lista de proyectos con el más reciente primero.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: No se ingresa la información requerida</strong></p>
+<p><strong>Given</strong> el gestor se encuentra en la vista de
+proyectos,</p>
+<p><strong>When</strong> presiona el botón para agregar un proyecto le
+falta agregar información importante como el título o imágenes de
+referencia,</p>
+<p><strong>Then</strong> se muestra un error en el dialogo solicitando
+que se ingrese la información requerida para agregar un
+proyecto.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU16</td>
+<td rowspan="2">Editar información de proyecto</td>
+<td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+editar la información del proyecto <strong>para</strong> actualizar
+cambios como ubicación o descripción.</td>
+<td><p><strong>Caso: Se edita la información del proyecto</strong></p>
+<p><strong>Given</strong> gestor está en la sección de proyecto,
+<strong>When</strong> presione el botón de editar y cambie la
+información que desea editar,</p>
+<p><strong>Then</strong> se actualiza la información del
+proyecto.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: Ocurre un error al actualizar la información del
+proyecto</strong></p>
+<p><strong>Given</strong> gestor está en la sección de proyecto,
+<strong>When</strong> presione el botón de editar y cambie la
+información que desea editar, pero ingrese datos erróneos o no
+válidos,</p>
+<p><strong>Then</strong> se muestra un mensaje de error explicando que
+salió mal.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU17</td>
+<td rowspan="2">Visualizar tareas</td>
+<td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+ver las tareas del proyecto <strong>para</strong> evaluar los pendientes
+relacionados a las tareas.</td>
+<td><p><strong>Caso: Se muestran las tareas correctamente.</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de proyecto,</p>
+<p><strong>When</strong> presiona el botón de ver tareas y se redirige a
+esa sección,</p>
+<p><strong>Then</strong> se observa las tareas To-Do, Doing y
+Done.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: No se muestran tareas</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de proyecto,</p>
+<p><strong>When</strong> presiona el botón de ver tareas y se redirige a
+esa sección y no tiene tareas agregadas,</p>
+<p><strong>Then</strong> observa un mensaje que le solicite agregar
+tareas para empezar.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU18</td>
+<td rowspan="2">Crear tarea</td>
+<td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+crear tareas <strong>para</strong> organizar a mi equipo.</td>
+<td><p><strong>Caso: Se agrega la tarea correctamente.</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de tareas,</p>
+<p><strong>When</strong> presiona el botón de agregar tarea e ingresa el
+título, descripción, fecha de expiración, el estado de la tarea y a
+quien está asignada la tarea.</p>
+<p><strong>Then</strong> Se agrega la tarea según la columna que le
+corresponde</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: Faltan datos en la tarea.</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de tareas,</p>
+<p><strong>When</strong> presiona el botón de agregar tarea y le falta
+ingresar el título, descripción, fecha de expiración, el estado de la
+tarea o a quien está asignada la tarea.</p>
+<p><strong>Then</strong> se muestra un mensaje solicitando que llene los
+campos faltantes con la información valida.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU19</td>
+<td rowspan="2">Editar tarea</td>
+<td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+editar alguna tarea <strong>para</strong> aumentar la fecha de
+expiración o cambiar al miembro de equipo asignado</td>
+<td><p><strong>Caso: Se edita la tarea correctamente</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de tareas,</p>
+<p><strong>When</strong> presiona el botón de editar tarea y cambia el
+ingresa la fecha de expiración, el estado de la tarea o a quien está
+asignada la tarea.</p>
+<p><strong>Then</strong> se muestra un mensaje confirmando que se
+actualizo la tarea y se actualiza la columna donde está.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: No se edita la tarea correctamente</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de tareas,</p>
+<p><strong>When</strong> presiona el botón de editar tarea y cambia el
+ingresa la fecha de expiración, el estado de la tarea o a quien está
+asignada la tarea con un dato erróneo.</p>
+<p><strong>Then</strong> se muestra un mensaje solicitando que se
+ingrese información valida o mostrando el error.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU20</td>
+<td rowspan="2">Cambio de estado de tarea</td>
+<td rowspan="2"><strong>Como</strong> miembro de equipo,
+<strong>quiero</strong> cambiar el estado de mi tarea
+<strong>para</strong> dar a saber cómo va mi progreso.</td>
+<td><p><strong>Caso: Se cambia el estado de una tarea</strong></p>
+<p><strong>Given</strong> el miembro de equipo está en la sección de
+tareas después de estar en la sección de proyecto,</p>
+<p><strong>When</strong> presiona el botón para cambiar el estado de su
+tarea,</p>
+<p><strong>Then</strong> la tarea debería cambiar de columna y
+actualizar su estado.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: Sucede un error al cambiar el estado de una
+tarea</strong></p>
+<p><strong>Given</strong> el miembro de equipo está en la sección de
+tareas después de estar en la sección de proyecto,</p>
+<p><strong>When</strong> presiona el botón para cambiar el estado de su
+tarea, pero esta no cambia,</p>
+<p><strong>Then</strong> se muestra un mensaje solicitando que vuelva a
+intentarlo.</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 8%" />
+<col style="width: 16%" />
+<col style="width: 21%" />
+<col style="width: 53%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">HU21</th>
+<th rowspan="2">Eliminar una tarea</th>
+<th rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+eliminar una tarea <strong>para</strong> quitar una tarea que no
+correspondía con el proyecto.</th>
+<th><p><strong>Caso: Se borra la tarea exitosamente</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de tareas,</p>
+<p><strong>When</strong> presiona el botón de eliminar tareas y confirma
+su acción,</p>
+<p><strong>Then</strong> se quita la tarea de la columna.</p></th>
+</tr>
+<tr class="odd">
+<th><p><strong>Caso: Ocurre un error al borrar la tarea</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de tareas,</p>
+<p><strong>When</strong> presiona el botón de eliminar tareas y confirma
+su acción, pero sucede un error al eliminar la tarea,</p>
+<p><strong>Then</strong> se muestra un mensaje mencionando que ocurrió
+un error y que intente de nuevo.</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td rowspan="2">HU22</td>
+<td rowspan="2">Visualizar de fechas vinculadas con las tareas y
+proyectos</td>
+<td rowspan="2"><strong>Como</strong> usuario, <strong>quiero</strong>
+revisar las fechas correspondientes de las tareas y proyectos
+<strong>para</strong> asegurarme que se cumplan a tiempo y organizar
+tiempos.</td>
+<td><p><strong>Caso: Se vinculan las tareas con fechas
+correctamente</strong></p>
+<p><strong>Given</strong> el usuario se encuentra en la sección
+calendario,</p>
+<p><strong>When</strong> carga el calendario en el formato que desee el
+usuario,</p>
+<p><strong>Then</strong> se muestran las tareas y proyectos según su
+fecha de expiración.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: No aparecen las fechas</strong></p>
+<p><strong>Given</strong> el usuario se encuentra en la sección
+calendario,</p>
+<p><strong>When</strong> no observa el calendario con las fechas,</p>
+<p><strong>Then</strong> se muestra un mensaje solicitando que se
+recargue.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU23</td>
+<td rowspan="2">Agregar una fecha relacionada a tarea</td>
+<td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+agregar una fecha importante <strong>para</strong> organizar los tiempos
+del equipo.</td>
+<td><p><strong>Caso: Se ingresa una fecha</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de
+calendario,</p>
+<p><strong>When</strong> ingresa los datos como nombre, fecha y
+descripción,</p>
+<p><strong>Then</strong> se agrega en la fecha seleccionada la fecha
+importante.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: Se ingresan datos inválidos</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de
+calendario,</p>
+<p><strong>When</strong> ingresa datos inválidos para el nombre, fecha y
+descripción,</p>
+<p><strong>Then</strong> se muestra un mensaje mencionando que los datos
+son inválidos.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU24</td>
+<td rowspan="2">Editar o Eliminar una fecha en especifico</td>
+<td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+editar o eliminar una fecha <strong>para</strong> evitar un error o
+cambiar la fecha que ingrese previamente.</td>
+<td><p><strong>Caso: Se realiza una operación con el
+calendario</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de
+calendario,</p>
+<p><strong>When</strong> presiona el botón de editar e ingresa los datos
+o presiona el botón de eliminar,</p>
+<p><strong>Then</strong> los cambios se realizan según la operación y se
+actualiza el calendario.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: Realizar una operación de calendario
+falla.</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de
+calendario,</p>
+<p><strong>When</strong> presiona el botón de editar e ingresa los datos
+o presiona el botón de eliminar y sucede un error al realizar la
+operación,</p>
+<p><strong>Then</strong> se muestra un mensaje informando del error y
+solicitando que intente de nuevo.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU25</td>
+<td rowspan="2">Visualizar “Posts” de la comunidad</td>
+<td rowspan="2"><strong>Como</strong> usuario, <strong>quiero</strong>
+saber de la comunidad de la organización <strong>para</strong> saber de
+los progresos de mis colegas e inspirarme en el cambio que se está
+generando.</td>
+<td><p><strong>Caso: Se muestra un listado de posts.</strong></p>
+<p><strong>Given</strong> el usuario está la sección de comunidad,
+<strong>When</strong> carga esta sección,</p>
+<p><strong>Then</strong> se muestran los posts de la
+organización.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: Ocurre un error al mostrar el listado de
+posts.</strong></p>
+<p><strong>Given</strong> el usuario está la sección de comunidad,
+<strong>When</strong> no carga esta sección,</p>
+<p><strong>Then</strong> se solicita recargar por medio de un
+mensaje.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU26</td>
+<td rowspan="2">Postear un post</td>
+<td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+agregar un post <strong>para</strong> mostrar a los integrantes de la
+organización el progreso que se está logrando.</td>
+<td><p><strong>Caso: Se crea un post</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de comunidad,</p>
+<p><strong>When</strong> presiona el botón de agregar post e ingresa la
+información como título, descripción e imagen referencial,</p>
+<p><strong>Then</strong> el post es agregado a la lista de posts y se
+muestra un mensaje confirmando la publicación.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: Falla la creación un post</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de comunidad,</p>
+<p><strong>When</strong> presiona el botón de agregar post e ingresa
+incorrectamente la información como título, descripción o imagen
+referencial,</p>
+<p><strong>Then</strong> se muestra un mensaje de error solicitando que
+se ingresen bien los datos.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU27</td>
+<td rowspan="2">Comentar o Reseñar un post</td>
+<td rowspan="2"><strong>Como</strong> miembro de equipo,
+<strong>quiero</strong> dar mi opinión y reseñar un post
+<strong>para</strong> compartir con mis colegas lo que pienso e
+interactuar con la comunidad.</td>
+<td><p><strong>Caso: se realiza un comentario y reseña a un
+post</strong></p>
+<p><strong>Given</strong> el miembro de equipo está en la sección de
+comunidad,</p>
+<p><strong>When</strong> ingresa su reseña y comentario,</p>
+<p><strong>Then</strong> aparece el comentario en la sección de
+comentarios del post.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: falla en realizarse un comentario y reseña a un
+post</strong></p>
+<p><strong>Given</strong> el miembro de equipo está en la sección de
+comunidad,</p>
+<p><strong>When</strong> ingresa su reseña y comentario y este no
+carga,</p>
+<p><strong>Then</strong> se muestra un mensaje de error solicitando que
+reintente comentar.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU28</td>
+<td rowspan="2">Eliminar un post</td>
+<td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+eliminar un post <strong>para</strong> corregir algún post erróneo.</td>
+<td><p><strong>Caso: Se elimina un post</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de comunidad,</p>
+<p><strong>When</strong> presiona el botón de eliminar post y se
+confirma esta operación.</p>
+<p><strong>Then</strong> se muestra un mensaje confirmando la
+eliminación del post.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: Falla la eliminación un post</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de comunidad,</p>
+<p><strong>When</strong> presiona el botón de eliminar post y tarda en
+procesarse la operación,</p>
+<p><strong>Then</strong> se muestra un mensaje de error pidiendo que
+intente de nuevo.</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 8%" />
+<col style="width: 16%" />
+<col style="width: 21%" />
+<col style="width: 53%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">HU29</th>
+<th rowspan="2">Visualizar las estadísticas del proyecto</th>
+<th rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+observar las analíticas del proyecto <strong>para</strong> evaluar
+tendencias y revisar el progreso.</th>
+<th><p><strong>Caso: Se cargan los gráficos correctamente</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de métricas,</p>
+<p><strong>When</strong> cargan los gráficos,</p>
+<p><strong>Then</strong> se muestran los gráficos de tareas completadas
+y análisis de presupuesto.</p></th>
+</tr>
+<tr class="odd">
+<th><p><strong>Caso: No cargan los gráficos correctamente</strong></p>
+<p><strong>Given</strong> el gestor está en la sección de métricas,</p>
+<p><strong>When</strong> no cargan los gráficos como se debería,</p>
+<p><strong>Then</strong> se muestra un mensaje de error solicitando que
+se recargue la sección.</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td rowspan="2">HU30</td>
+<td rowspan="2">Agregar datos de presupuesto</td>
+<td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+gestionar las prioridades de las tareas <strong>para</strong> asegurar
+que las tareas más importantes se completen primero.</td>
+<td><p><strong>Given</strong> el gestor está en la sección de
+prioridades,</p>
+<p><strong>When</strong> establece prioridades para las tareas,</p>
+<p><strong>Then</strong> debería ver las tareas organizadas según las
+prioridades establecidas.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Given</strong> el gestor está en la sección de
+prioridades,</p>
+<p><strong>When</strong> no puede gestionar prioridades,</p>
+<p><strong>Then</strong> debería ver un mensaje de error indicando que
+la gestión de prioridades no está funcionando.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU31</td>
+<td rowspan="2">Editar datos de presupuesto</td>
+<td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+revisar el estado de las tareas <strong>para</strong> asegurarse de que
+todas las tareas se están completando según lo planeado.</td>
+<td><p><strong>Given</strong> el gestor está en la sección de estado de
+tareas,</p>
+<p><strong>When</strong> revisa el estado de las tareas,</p>
+<p><strong>Then</strong> debería ver el estado actual de todas las
+tareas (completadas, en progreso, pendientes).</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Given</strong> el gestor está en la sección de estado de
+tareas,</p>
+<p><strong>When</strong> no puede ver el estado de las tareas,</p>
+<p><strong>Then</strong> debería ver un mensaje de error indicando que
+la información del estado de tareas no está disponible.</p></td>
+</tr>
+<tr class="odd">
+<td rowspan="2">HU32</td>
+<td rowspan="2">Implementar encriptación de contraseñas y código de
+organización</td>
+<td rowspan="2"><strong>Como</strong> desarrollador,
+<strong>quiero</strong> asegurar las contraseñas y códigos
+<strong>para</strong> salvaguardar los datos relevantes de mis usuarios
+y mantener confidencialidad.</td>
+<td><p><strong>Caso: La encriptación es realizada</strong></p>
+<p><strong>Given</strong> el desarrollador utiliza algoritmos de
+encriptación</p>
+<p><strong>When</strong> se ingresa una contraseña al api de la
+aplicación,</p>
+<p><strong>Then</strong> se guarda en la base de datos de manera
+encriptada.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Caso: Falla el proceso de encriptación</strong></p>
+<p><strong>Given</strong> el desarrollador utiliza algoritmos de
+encriptación</p>
+<p><strong>When</strong> se ingresa una contraseña al api de la
+aplicación y falla el proceso de encriptación,</p>
+<p><strong>Then</strong> se registra la anomalía y se devuelve un
+error.</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 8%" />
+<col style="width: 16%" />
+<col style="width: 21%" />
+<col style="width: 53%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">HU33</th>
+<th rowspan="2">Verificar que el código de organización sea
+correcto</th>
+<th rowspan="2"><strong>Como</strong> desarrollador,
+<strong>quiero</strong> mantener la integridad del código de
+organización <strong>para</strong> validar el código de
+organización.</th>
+<th><p><strong>Caso: La validación es realizada
+correctamente</strong></p>
+<p><strong>Given</strong> el desarrollador utiliza algoritmos de
+validación</p>
+<p><strong>When</strong> se ingresa un código de organización al api de
+la aplicación y es válido,</p>
+<p><strong>Then</strong> se guarda en la base de datos de manera
+encriptada.</p></th>
+</tr>
+<tr class="odd">
+<th><p><strong>Caso: La validación es realizada
+incorrectamente</strong></p>
+<p><strong>Given</strong> el desarrollador utiliza algoritmos de
+validación</p>
+<p><strong>When</strong> se ingresa un código de organización al api de
+la aplicación y no es válido,</p>
+<p><strong>Then</strong> se devuelve un error con el mensaje de código
+invalido.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 ## 3.3. Product Backlog
 Se consideran las historias de usuario más importantes para el product backlog
@@ -1083,12 +1886,13 @@ Link:
 
 
 ## 3.4. Impact Mapping
+
 Esta sección está dedicada a los mapas de impacto de nuestros segmentos objetivos.
-Segmento 1:
-
-Segmento 2:
-
-
+**Segmento 1:**<br>
+![image_13](assets/image_13.png)
+<br>
+**Segmento 2:**<br>
+![image_26](assets/image_26.png)
 
 # Capítulo IV: Product Design
 
