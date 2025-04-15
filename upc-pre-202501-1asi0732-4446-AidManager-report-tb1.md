@@ -1033,9 +1033,72 @@ En esta sección observamos los dos User personas para nuestros segmentos.<br>
 <br>
 El User Task Matrix nos sirve para identificar los procesos que realizan ambos segmentos donde se pueden observar las similitudes respecto a la importancia y frecuencias de estos procesos. Esto es antes de implementar nuestra solución.
 <br>
-
-
-
+<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; text-align: center;">
+  <thead style="background-color: #3D4B66; color: white;">
+    <tr>
+      <th rowspan="2">Título</th>
+      <th colspan="2">Segmento 1</th>
+      <th colspan="2">Segmento 2</th>
+    </tr>
+    <tr>
+      <th>Importancia</th>
+      <th>Frecuencia</th>
+      <th>Importancia</th>
+      <th>Frecuencia</th>
+    </tr>
+  </thead>
+  <tbody style="background-color: #1A2B3C; color: white;">
+    <tr>
+      <td>Comunicar al equipo de sus tareas en un proyecto.</td>
+      <td style="background-color: #B26A00;">Alta</td>
+      <td style="background-color: #665100;">Media</td>
+      <td style="background-color: #B26A00;">Alta</td>
+      <td style="background-color: #4D5F3C;">Baja</td>
+    </tr>
+    <tr>
+      <td>Establecer fechas importantes o un cronograma orientado a las actividades a realizar.</td>
+      <td style="background-color: #B26A00;">Alta</td>
+      <td style="background-color: #665100;">Media</td>
+      <td style="background-color: #665100;">Media</td>
+      <td style="background-color: #4D5F3C;">Baja</td>
+    </tr>
+    <tr>
+      <td>Evaluar los resultados del proyecto realizado.</td>
+      <td style="background-color: #B26A00;">Alta</td>
+      <td style="background-color: #665100;">Media</td>
+      <td style="background-color: #665100;">Media</td>
+      <td style="background-color: #4D5F3C;">Baja</td>
+    </tr>
+    <tr>
+      <td>Registrar información del proyecto.</td>
+      <td style="background-color: #B26A00;">Alta</td>
+      <td style="background-color: #665100;">Media</td>
+      <td style="background-color: #B26A00;">Alta</td>
+      <td style="background-color: #B26A00;">Alta</td>
+    </tr>
+    <tr>
+      <td>Planificar reuniones mensuales & anuales.</td>
+      <td style="background-color: #B26A00;">Alta</td>
+      <td style="background-color: #2F4F3E;">Baja</td>
+      <td style="background-color: #665100;">Media</td>
+      <td style="background-color: #4D5F3C;">Baja</td>
+    </tr>
+    <tr>
+      <td>Registrar datos en Excel.</td>
+      <td style="background-color: #B26A00;">Alta</td>
+      <td style="background-color: #665100;">Media</td>
+      <td style="background-color: #B26A00;">Alta</td>
+      <td style="background-color: #4D5F3C;">Baja</td>
+    </tr>
+    <tr>
+      <td>Supervisar proyecto en ejecución</td>
+      <td style="background-color: #B26A00;">Alta</td>
+      <td style="background-color: #665100;">Media</td>
+      <td style="background-color: #B26A00;">Alta</td>
+      <td style="background-color: #B26A00;">Alta</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 2.3.3. User Journey Mapping
 El Journey Mapping es necesario para entender el proceso que recorren nuestros segmentos en un escenario común en su área laboral. De esta forma entendemos sus problemas, experiencias, ideas y oportunidades.<br>
@@ -1075,6 +1138,64 @@ El Journey Mapping es necesario para entender el proceso que recorren nuestros s
 **Enlace:** https://miro.com/welcomeonboard/NlNXV0pNbjkzNGhhN0RaVE1GZ2QxdEE0T1lxcExSSFRwOFFubkdVZlVMZ2Nuc0U2Z292TXVjZUFsZ3hlczJMWXwzNDU4NzY0NTIyNTI2OTE2NTk0fDI=?share_link_id=464993559168  
 ## 3.2. User Stories
 **Épicas:**<br>
+
+<table border="1" cellspacing="0" cellpadding="8" style="border-collapse: collapse; text-align: center;">
+  <thead style="background-color: #008000; color: white;">
+    <tr>
+      <th>EPX</th>
+      <th>Título Épica</th>
+      <th>HU asignadas</th>
+    </tr>
+  </thead>
+  <tbody style="background-color: #006D8F; color: white;">
+    <tr>
+      <td>EP01</td>
+      <td>Informar del producto y empresa</td>
+      <td style="background-color: #8B4513;">HU01 – HU05</td>
+    </tr>
+    <tr>
+      <td>EP02</td>
+      <td>Gestionar Usuarios</td>
+      <td style="background-color: #5A3A2E;">HU06 – HU10</td>
+    </tr>
+    <tr>
+      <td>EP03</td>
+      <td>Gestionar miembros de equipo</td>
+      <td>HU11 – HU13</td>
+    </tr>
+    <tr>
+      <td>EP04</td>
+      <td>Gestionar Proyectos</td>
+      <td style="background-color: #8B4513;">HU14 – HU16</td>
+    </tr>
+    <tr>
+      <td>EP05</td>
+      <td>Gestionar Tareas</td>
+      <td style="background-color: #9370DB;">HU17 – HU21</td>
+    </tr>
+    <tr>
+      <td>EP06</td>
+      <td>Gestionar Fechas</td>
+      <td style="background-color: #DA70D6;">HU22 – HU24</td>
+    </tr>
+    <tr>
+      <td>EP07</td>
+      <td>Gestionar la comunicación con el equipo</td>
+      <td style="background-color: #2E8B57;">HU25 – HU28</td>
+    </tr>
+    <tr>
+      <td>EP08</td>
+      <td>Gestionar Análisis</td>
+      <td>HU29 – HU31</td>
+    </tr>
+    <tr>
+      <td>EP09</td>
+      <td>Implementación de Seguridad</td>
+      <td>HU32 – HU33</td>
+    </tr>
+  </tbody>
+</table>
+
 
 **Historias Usuario:**<br>
 **Owner: AidManager**<br>
