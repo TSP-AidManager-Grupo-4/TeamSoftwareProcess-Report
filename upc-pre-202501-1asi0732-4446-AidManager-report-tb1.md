@@ -408,23 +408,33 @@ Segmento 2:
 
 ### 2.3.5. As-is Scenario Mapping
 
-Enlace:
-## 2.4. Requirements specification
-### 2.4.1. To-Be Scenario Mapping
 
 
 Enlace:
-### 2.4.2. User Stories
+
+
+## 2.4. Ubiquitous Language
+
+# Capítulo III: Requirements Specifications
+
+## 3.1. To-Be Scenario Mapping
+
+
+Enlace:
+## 3.2. User Stories
 Épicas:
 
 Historias Usuario:
 Owner: AidManager
 
+## 3.3. Product Backlog
+Se consideran las historias de usuario más importantes para el product backlog
+Asimismo, se ha realizado un Trello para hacer seguimiento de nuestras tareas.
+Link:
 
 
 
-
-### 2.4.3. Impact Mapping
+## 3.4. Impact Mapping
 Esta sección está dedicada a los mapas de impacto de nuestros segmentos objetivos.
 Segmento 1:
 
@@ -432,27 +442,16 @@ Segmento 2:
 
 
 
+# Capítulo IV: Product Design
 
-
-
-
-
-### 2.4.4. Product Backlog
-Se consideran las historias de usuario más importantes para el product backlog
-Asimismo, se ha realizado un Trello para hacer seguimiento de nuestras tareas.
-Link:
-
-# Capítulo III: Arquitectura
-
-## 3.1.	Product Design
-### 3.1.1.	Style Guidelines
+## 4.1.	Style Guidelines
 Como startup, nos esforzamos por transmitir profesionalismo y eficiencia a través de nuestra aplicación web, AidManager. Hemos seleccionado una paleta de colores con tonos celestes y verdes para reflejar frescura y conexión con la naturaleza, mientras que las tipografías Poppins y Lora ofrecen una apariencia moderna, limpia y legible. Estas decisiones de diseño no solo buscan captar la atención de nuestros usuarios, sino también garantizar una experiencia agradable y efectiva, reforzando nuestro compromiso en la gestión eficiente de eventos benéficos y donaciones.
 
 
 
 
 
-#### 3.1.1.1.	General Style Guidelines
+### 4.1.1.	General Style Guidelines
 Color Primario
 Representa confianza, serenidad y estabilidad. Transmite la idea de fiabilidad y compromiso en la gestión de organizaciones benéficas, lo que inspira confianza en los donantes y en aquellos que buscan ayuda.
 
@@ -461,35 +460,45 @@ Este color evoca calma, frescura y bienestar. Simboliza la esperanza y el apoyo 
 
 Paleta de colores:
 
+### 4.1.2.	Web Style Guidelines
+
+### 4.1.3.	Mobile Style Guidelines
+
+
+### 4.1.3.	Mobile Style Guidelines
+
+#### 4.1.3.1.	iOS Mobile Style Guidelines
+
+#### 4.1.3.2.	Android Mobile Style Guidelines
 
 
 
-### 3.1.2.	Information Architecture
+## 4.2.	Information Architecture
 Esta sección está dedicada a cómo vamos a organizar la navegación en nuestra aplicación móvil.
-#### 3.1.2.1.	Organization System
+### 4.2.1.	Organization System
 Sistemas de organización que usaremos para el proyecto.
 El sistema de Organización se basa en un sistema secuencial donde el usuario debe seguir el workflow de la herramienta para llegar a su objetivo, no obstante, ofrecemos atajos para llegar a estos más rápido.
 Asimismo, existirá una jerarquía visual dependiendo si quien se ha ingresado es un gestor o un miembro de equipo.
-#### 3.1.2.2.	Labelling System
+### 4.2.2.	Labelling System
 Los labels se usan para representar muchos datos en pocas palabras para este proyecto decidimos que nuestros labels principales son Home, Projects, Community y Profile. De esta manera será fácil de reconocer y entender.
 
 
 
 
-#### 3.1.2.3.	SEO and Meta Tags
+### 4.2.3.	SEO and Meta Tags
 Meta & SEO (Search Engine Optimization) Tags: sirven para que la página web donde promocionamos la aplicación sea encontrada fácilmente es lo que sale al encontrar la página en el buscador (se ponen en el <"head"> de la landing page o en la página store)
 Título: <title> AidManager | La mejor opción de ONG para la gestión de proyectos </title>
 Descripción: <meta name = "description" content = "Gestiona, Recolecta, Analiza y Visualiza los datos y colaboradores de tus proyectos todo en un solo lugar."/>
 Palabras Clave: <meta name = "keyword" content = "ONG gestión, Gestionar Proyecto, ONG, dar Tareas, análisis de datos, Organizar, Orden "/>
-#### 3.1.2.4.	Searching Systems
+### 4.2.4.	Searching Systems
 ¿Que se busca?: El usuario busca su proyecto para gestionar. ¿Qué resultados se mostrarán?: Se debe de mostrar cards y entre ellas el proyecto que está revisando.
 Interfaz de búsqueda: El dashboard muestra en el sidebar las secciones una vez se selecciona la sección de proyectos se mostrarán las cards con sus proyectos, el usuario selecciona el proyecto específico y se hacen las redirecciones a su proyecto para gestionar específicas.
 
-#### 3.1.2.5.	Navigation Systems
+### 4.2.5.	Navigation Systems
 La navegación de la Mobile App se estará basando en un Sistema de navegación Global donde por medio de las cards en el dashboard o los labels en el side-bar e incluso el bottom-nav. el usuario se redirija a la sección seleccionada. Asimismo, se usa la navegación local para ver información dedicada a las secciones.
-### 3.1.3.	Landing Page UI Design
+## 4.3.	Landing Page UI Design
 Esta sección está orientada a mostrar el diseño de nuestra landing page la cual es necesaria para presentarnos y promover nuestro producto a los usuarios.
-#### 3.1.3.1.	Landing Page Wireframe
+### 4.3.1.	Landing Page Wireframe
 
 
 
@@ -504,7 +513,7 @@ Esta sección está orientada a mostrar el diseño de nuestra landing page la cu
 
 
 
-#### 3.1.3.2.	Landing Page Mock-up
+### 4.3.2.	Landing Page Mock-up
 
 
 
@@ -512,13 +521,13 @@ Esta sección está orientada a mostrar el diseño de nuestra landing page la cu
 
 
 
-### 3.1.4.	Mobile Applications UX/UI Design
+## 4.4.	Mobile Applications UX/UI Design
 Aquí nos enfocamos en mostrar el diseño de nuestra solución móvil.
-#### 3.1.4.1.	Mobile Application Wireframe
+#### 4.4.1.	Mobile Application Wireframe
 
 
 
-#### 3.1.4.2.	Mobile Application Wireflow Diagram
+### 4.4.2.	Mobile Application Wireflow Diagram
 Gestor de Proyectos necesita ver el listado de proyectos y las tareas asignadas a estos.
 
 
@@ -533,37 +542,36 @@ Como gestor de proyecto deseo agregar un post para mi equipo pueda ver y reaccio
 
 Como miembro de equipo deseo ver las tareas asignadas y las métricas del grupo.
 
-#### 3.1.4.3.	Mobile Application Mock-up
+### 4.4.3.	Mobile Application Mock-ups
 
 
 
 
-#### 3.1.4.4.	Mobile Application Userflow Diagram
+### 4.4.4.	Mobile Application Userflow Diagram
 
 
 
-#### 3.1.4.5.	Mobile Application Prototyping
+## 4.7.	Mobile Application Prototyping
 Para poder elaborar los prototipos de la interfaz de usuario destinados a Móvil se siguieron una serie de criterios fundamentales, entre ellos:
 Claridad y Facilidad: El enfoque fue lograr que la navegación en la aplicación sea intuitiva y comprensible, con el objetivo de que los usuarios puedan comprender plenamente las funciones de la aplicación. Visualización de reportes estadísticos.
 Diseño Responsive: Se ha tenido en cuenta la importancia del diseño para garantizar que la aplicación web sea compatible con una variedad tamaños de pantalla, de tal manera que los usuarios no se vean limitados por el dispositivo que utilicen.
 Priorización de Información Relevante: El diseño de la aplicación se enfoca en mostrar únicamente la información más importante para los usuarios pertenecientes al segmento objetivo.
 
-## 3.2.	Architecture Overview
-### 3.2.1.	Domain-Driven Software Architecture
-#### 3.2.1.1.	Software Architecture Context Level Diagram
+## 4.8.	Domain-Driven Software Architecture
+### 4.8.1.	Software Architecture Context Level Diagram
 
-#### 3.2.1.2.	Software Architecture Container Level Diagram
+### 4.8.2.	Software Architecture Container Level Diagram
 
-#### 3.2.1.3.	Software Architecture Components Diagram
-
+### 4.8.3.	Software Architecture Components Diagram
 
 
 
 
-### 3.2.2.	Software Object-Oriented Design
-#### 3.2.2.1.	Class Diagrams
 
-#### 3.2.2.2.	Class Dictionary
+## 4.9.	Software Object-Oriented Design
+### 4.9.1.	Class Diagrams
+
+### 4.9.2.	Class Dictionary
 Se muestran las clases que son relevantes.
 User - La clase User representa una cuenta de Organización refiriéndose a el gestor y el miembro de equipo y los métodos más importantes de estos.
 
@@ -574,102 +582,13 @@ Assistant - la clase representa a los asistentes de eventos y proyectos
 Project – la clase Project representa
 
 
-##### 3.2.2.3.	Database Diagram
+## 4.10.	Database Diagram
+
+## 4.10.	Relational/Non-Relational Database Diagram
 
 
-# Capítulo IV: Backend Product Implementation & Validation
+# Capítulo V: Product Implementation
 
-## 4.1. Software Configuration Management
-En los siguientes puntos, detallaremos las herramientas, convenciones, referencias y configuraciones empleadas a lo largo del desarrollo del desarrollo del back-end, los cuales contribuyeron a mantener la base en el trabajo realizado.
-### 4.1.1. Software Development Environment Configuration
-Diseño:
-Vertabelo: https://vertabelo.com/
-Es una herramienta online la cual ayuda en el desarrollo y creación de base de datos.
-Se usó para la base de datos del proyecto.
-Structurizr: https://www.structurizr.com/
-Esta plataforma permite el modelado de diagramas de arquitectura de software.
-Así creamos el modelo C4 de todo el proyecto.
-
-Backend Development:
-Para el desarrollo del back-end, se utiliza ASP.NetCore 8 que usa C# para hacer una RESTful API asimismo como las librerías Maven y una base de datos en MySQL.
-Software Deployment:
-Azure:
-Backend del proyecto:
-Es una plataforma en la cual hospedamos tanto el servidor de la base de datos como la API.
-Software Documentation
-Open Api:
-Es una herramienta la cual nos permite documentar el back end de manera rápida y flexible
-Swagger:
-Backend con Swagger: https://aidmanagermobile.azurewebsites.net/swagger/index.html
-Es una herramienta que nos permite poder visualizar e interactuar con la API sin problemas, cabe mencionar que se genera desde Open API.
-
-
-
-
-### 4.1.2. Source Code Management
-A continuación, se describe la gestión del código fuente que se implementará en este proyecto, la cual permitirá monitorear y controlar las modificaciones realizadas por cualquier miembro del equipo a lo largo del desarrollo. Además, se establecerá un repositorio en GitHub para administrar las distintas versiones del código de manera eficiente.
-Organización:
-Repositorio:
-Para controlar de manera eficiente los cambios en el código, usamos GitFlow para definir el flujo de trabajo, siendo creada las dos ramas principales:
-Master: También llamada "main", es donde se encuentra la versión más estable y lista del proyecto que van a pasar a producción. branches: Contiene las features, va a la par con el "main"
-Ramas auxiliares:
-feature: Son las ramas donde se desarrollan las funcionalidades del proyecto. Luego de completarlas, se fusionan con la rama branch.
-La nomenclatura para los features fueron las siguientes: feature/name. Por ejemplo, feature/sign-in, para ingresar a la aplicación web.
-Release: Son las ramas donde se prepara la próxima versión del programa. En esta, se realizan las pruebas finales y se corrigen pequeños errores antes del lanzamiento definitivo.
-Finalizado este proceso, los cambios se fusionan con la rama develop, y luego a la rama main.
-Se utilizó el formato "feature/chapter n" para la nomenclatura de las versiones del proyecto, por ejemplo: " release/x.y.z". En donde:
-X, Y Z son números enteros positivos, donde cada uno se incrementa de manera numérica.
-Commit Conventions:
-Para el formato de los commits se siguió la estructura de Conventional Commits 1.0.0, la cual tiene la siguiente estructura: < type > [optional scope]: < description >
-Donde: type: Es el tipo de cambio. Tenemos valores como: fix, feat, build, chore, ci, docs, style, refactor, perf, test, etc. scope: Indica donde se realizó el commit (opcional). description: Menciona las actualizaciones del código.
-### 4.1.3. Source Code Style Guide & Conventions
-Establecemos la arquitectura de monolitos mientras usamos un approach de MVC (Modelo vista controlador) el cual nos permite dividir nuestro proyecto de manera que tengamos un código limpio y legible.
-
-
-
-
-
-
-### 4.1.4. Software Deployment Configuration
-Este apartado describe el proceso de configuración y despliegue del software, utilizando las herramientas principales que hemos integrado en nuestro flujo de trabajo: GitHub para el control de versiones.
-GitHub - Control de Versiones y Flujo de Trabajo: GitHub es la herramienta central para el control de versiones y la gestión del código en el proyecto. Utilizamos el enfoque de branching basado en GitFlow para garantizar un ciclo de desarrollo ordenado y controlado.
-Azure – Azure SQL Database: Azure es una plataforma en la nube de Microsoft que ofrece una amplia gama de servicios para desarrollar, desplegar y gestionar aplicaciones a través de una red global de centros de datos. SQL Database servicio de base de datos relacional administrado.
-En esta sección, nos enfocaremos en desplegar nuestro BackEnd utilizando el servicio automatizado de Azure como plug-in en rider. Para alcanzar este objetivo, detallaremos los pasos necesarios para lograrlo.
-Tener las cuentas para Github y Azure.
-Crear la base de datos usando el servicio de Azure SQL server.
-Instalar el plug in de Azure en Rider.
-Clonar el repositorio de GitHub a Rider.
-Corroborar que el String de conexión en appsettings.json este correcto
-Hacerle Deploy tanto a la base de datos como a la aplicación
-Verificar la conexión.
-## 4.2. Software Development & Implementation
-### 4.2.1. Sprint 1
-#### 4.2.1.1. Sprint Planning 1.
-
-#### 4.2.1.2. Sprint Backlog
-Enlace de la herramienta de trello:
-#### 4.2.1.3. Development Evidence for Sprint Review
-
-#### 4.2.1.4. Testing Suite Evidence for Sprint Review
-No se realizaron pruebas más allá de los procesos CRUD en Swagger.
-#### 4.2.1.5. Execution Evidence for Sprint Review
-Se muestran endpoints de swagger.
-#### 4.2.1.6. Services Documentation Evidence for Sprint Review
-
-#### 4.2.1.7. Software Deployment Evidence for Sprint Review
-Para el sprint actual, se ha desarrollado el API de la aplicación web utilizando diversas herramientas.
-Se emplearon las siguientes herramientas:
-Git: Utilizamos este sistema de control de versiones para trabajar de manera colaborativa y llevar un seguimiento de las diferentes versiones de la aplicación web en un repositorio remoto. 
-Gitflow: Implementamos este flujo de trabajo colaborativo para dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilitó la colaboración en el desarrollo. 
-
-GitHub: Utilizamos esta plataforma para crear nuestro repositorio, permitiéndonos almacenar y gestionar las distintas versiones de nuestro proyecto.
-Azure: Es una plataforma en la nube de Microsoft que ofrece una amplia gama de servicios para desarrollar, desplegar y gestionar aplicaciones a través de una red global de centros de datos.
-
-
-#### 4.2.1.8. Team Collaboration Insights during Sprint
-
-
-# Capítulo V: Product Implementation & Validation
 
 ## 5.1 Software Configuration Management
 ### 5.1.1. Software Development Environment Configuration
@@ -703,239 +622,22 @@ Este apartado describe el proceso de configuración y despliegue del software, u
 GitHub - Control de Versiones y Flujo de Trabajo: GitHub es la herramienta central para el control de versiones y la gestión del código en el proyecto. Utilizamos el enfoque de branching basado en GitFlow para garantizar un ciclo de desarrollo ordenado y controlado.
 Vercel: Vercel es una plataforma en la nube que permite a los desarrolladores crear, implementar, desplegar y escalar aplicaciones de manera rápida y sencilla. En Vercel, es posible desplegar sitios web estáticos que no requieren interacciones complejas con el usuario ni actualizaciones frecuentes de contenido.
 
-## 5.2. Software Development & Implementation
-### 5.2.1. Sprint 1
-#### 5.2.1.1. Sprint Planning 1.
+## 5.2. Software Implementation & Deployment
+### 5.2.1. Sprint Backlogs
 
-#### 5.2.1.2. Sprint Backlog
+### 5.2.2. Implemented Landing Page Evidence
 
-Enlace de la herramienta de trello:
-#### 5.2.1.3. Development Evidence for Sprint Review
+### 5.2.3. Implemented Frontend-Web Application Evidence
 
+### 5.2.4. Implemented Native-Mobile Application Evidence
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
-En la entrega del Sprint 1, logramos completar el desarrollo, la implementación y el despliegue del backend, así como el desarrollo de gran parte de nuestra aplicación móvil en Flutter.
+### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+### 5.2.6. RESTful API documentation
 
+### 5.2.7. Team Collaboration Insights
 
-#### 5.2.1.6 Services Documentation Evidence for Sprint Review
-
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
-Se realizó el deploy del Backend en Azure Database for My SQL
-
-#### 5.2.1.8. Team Collaboration Insights during Sprint
-
-
-
-
-### 5.2.2. Sprint 2
-#### 5.2.2.1. Sprint Planning 2.
-
-
-#### 5.2.2.2. Sprint Backlog.
-
-#### 5.2.2.3. Development Evidence for Sprint Review.
-
-#### 5.2.2.4. Testing Suite Evidence for Sprint Review
-Para esta entrega ya se logró realizar en su gran mayoría la aplicación móvil y el back end ya se encuentra desplegado desde el sprint anterior.
-
-#### 5.2.2.5. Execution Evidence for Sprint Review.
-
-#### 5.2.2.6 Services Documentation Evidence for Sprint Review
-
-
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
-Tenemos el deploy del Backend en Azure Database for My SQL, esta actividad se realizó ya en el sprint anterior.
-
-
-#### 5.2.2.8. Team Collaboration Insights during Sprint.
-
-### 5.2.3. Sprint 3
-#### 5.2.3.1. Sprint Planning 3.
-
-#### 5.2.3.2. Sprint Backlog.
-
-#### 5.2.3.3. Development Evidence for Sprint Review.
-
-#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
-Para esta entrega ya se logró realizar en su gran mayoría la aplicación móvil y el back end ya se encuentra desplegado desde el sprint anterior.
-
-#### 5.2.3.5. Execution Evidence for Sprint Review.
-
-
-
-
-#### 5.2.3.6 Services Documentation Evidence for Sprint Review
-
-
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
-Tenemos el deploy del Backend en Azure Database for My SQL, esta actividad se realizó ya en el sprint anterior.
-
-
-
-
-#### 5.2.3.8. Team Collaboration Insights during Sprint.
-
-
-### 5.2.4. Sprint 4
-#### 5.2.4.1. Sprint Planning 4.
-
-
-#### 5.2.4.2. Sprint Backlog.
-
-#### 5.2.4.3. Development Evidence for Sprint Review.
-
-#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
-Para esta entrega ya se logró completar la aplicación móvil y el back end ya se encuentra desplegado desde sprints anteriores.
-
-
-
-
-#### 5.2.4.5. Execution Evidence for Sprint Review.
-
-
-
-
-
-
-#### 5.2.4.6 Services Documentation Evidence for Sprint Review
-
-
-
-
-
-
-
-#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
-Tenemos el deploy del Backend en Azure Database for My SQL, esta actividad se realizó ya los sprint anteriores.
-
-#### 5.2.4.8. Team Collaboration Insights during Sprint.
-
-
-
-
-
-
-
-
-
-## 5.3. Validation Interviews
-En esta sección, se presentan las entrevistas realizadas a los usuarios finales de la aplicación, con el fin de validar la solución propuesta y obtener
-feedback para mejorar la aplicación.
-### 5.3.1. Diseño de Entrevistas
-Preguntas generales:
-¿Cuál es su nombre?
-¿Qué edad tiene?
-¿A qué se dedica?
-¿De qué distrito es?
-¿Qué opinión tiene sobre el diseño visual y la apariencia general de la aplicación en su estado actual?
-¿Qué impresiones iniciales tiene sobre la dirección en la que estamos llevando el proyecto?
-¿Hay algún aspecto del diseño visual que le gustaría que ajustemos o mejoremos antes de la implementación final?
-¿Cómo se comparan los avances visuales con sus expectativas iniciales o lo que tenía en mente para el software?
-Entrevistas usuario segmento 1
-¿Hay alguna característica o funcionalidad específica que haya visto en la demostración que le haya impresionado o que le gustaría explorar con más detalle?
-¿Ha identificado áreas en las que cree que podríamos mejorar o ajustar nuestra dirección de desarrollo basándose en lo que ha visto hasta ahora?
-¿Cómo cree que nuestro software podría ayudarle en sus tareas diarias como miembro de equipo?
-¿Ha notado alguna área particular en la que nuestro software podría hacer una diferencia significativa en la operación de los proyectos desde su perspectiva como miembro de equipo?
-Entrevistas usuario segmento 2
-Desde su posición como gestor de proyectos, ¿cómo cree que nuestro software podría impactar positivamente en la eficiencia operativa y la rentabilidad de la organización?
-¿Qué métricas clave de desempeño o áreas de mejora espera que nuestro software aborde en su organización?
-¿Ha identificado alguna oportunidad de mejora en la gestión general de los proyectos que nuestro software podría ayudar a abordar?
-Después de ver los avances visuales en el desarrollo de nuestro software, ¿cómo cree que la interfaz de usuario podría facilitar la toma de decisiones y la gestión de proyectos desde su perspectiva?
-¿Hay algún aspecto del diseño visual o la usabilidad que considera especialmente importante para garantizar que el software sea efectivo para la gestión de proyectos?
-### Registro de Entrevistas
-Segmento 1:
-Nombre: Luis Eduardo Herrera
-Edad: 20 años
-Ocupación: Gestor de Proyectos
-Browser: Brave
-Device: Movil Android
-Distrito: San Borja, Lima
-
-
-Luis es un joven el cual está tomando el rol de gestor de proyectos en una ONG emergente, ha utilizado distintas herramientas de gestión de proyectos y tenía una impresión inicial antes de probar la aplicación. Al utilizar la aplicación se observa como en momentos no es necesario guiarlo por la interfaz para acciones simples, respecto a las funcionalidades le parece excelente y como observación buscaría que las imágenes se puedan asignar a los proyectos para una mejor identificación visual. Menciona que el mantener un registro de las tareas planteadas las tareas asignadas y la gestión financiera resulta extremadamente esencial. La funcionalidad que más le llamo la atención fue la implementación del botón de WhatsApp.
-
-
-Nombre: Karito Medina
-Edad: 20 años
-Ocupación: Gestor de Proyectos
-Browser: Brave
-Device: Movil Android
-Distrito: San Juan de Lurigancho, Lima
-
-La entrevista con Karito, estudiante de la UPC y gestora de proyectos en una ONG, refleja una experiencia positiva con "AidManager". Destaca la facilidad de uso y la interfaz gráfica intuitiva de la aplicación, que permite agilizar tareas, gestionar recursos, y establecer fechas límite para un mejor seguimiento de los proyectos. Le resultan útiles las métricas y la trazabilidad para ajustar los plazos según sea necesario, y valora la claridad en las funcionalidades, incluso en comparación con herramientas similares. Su comentario final resume su percepción: "muy fácil de usar, navegar y es muy gráfica".
-
-Segmento 2:
-Nombre: Jefrey Sanchez Ignacio
-Edad: 21 años
-Ocupación: Miembro de equipo
-Browser: Google Chrome
-Device: Móvil IOS
-Distrito: Callao, Lima
-
-
-
-
-Jefrey nos explica cómo le parecio excelente la aplicación móvil y como está completa para las operaciones que el hace dia a dia, menciona como puntos de mejora la verificación del cumplimiento de tareas debido a que según menciona existen casos donde un integrante puede decir que una tarea está hecha sin realmente estarlo, comenta de como los colores y funcionamiento de la aplicación son de su agrado y asimismo la satisfacción que tiene al respecto. Finalmente, nos menciona que siente que podemos agregar una función adicional para destacar en el mercado pero que fuera de eso tenemos un producto completo para sus necesidades.
-
-Nombre: Alejandro Díaz
-Edad: 20 años
-Ocupación: Miembro de equipo
-Browser: Google Chrome
-Device: Móvil Android
-Distrito: SanBorja, Lima
-
-
-Alejandro menciona como el diseño y funcionalidades están completos y amigables al usuario promedio, así mismo menciona un interés en las métricas del proyecto ya que ve una carencia de herramientas que tienen una funcionalidad así. Como observación le gustaría poder tener la opción de compartir el post generado a diferentes redes sociales como Instagram y Twitter.
-
-
-Nombre: Arian Rodriguez
-Edad: 19 años
-Ocupación: Miembro de equipo
-Browser: Google Chrome
-Device: Móvil Android
-Distrito: Jesus Maria, Lima
-
-
-En la entrevista Arian nos comenta respecto al diseño de la aplicación y como le parece excelente para un uso empresarial, no tiene recomendaciones más allá de los diagramas de las métricas para el seguimiento de tareas donde menciona que es de lo más importante. El sí recomendaría el aplicativo y siente que genera un impacto en el mercado donde ayuda mucho a los equipos de distintos tamaños.
-
-### Evaluaciones según heuristicas
-Heurística:
-Visibilidad del estado del sistema
-Coincidencia entre el sistema y el mundo real
-Control y libertad del usuario
-Consistencia y estándares
-Prevención de errores
-Mostrar antes que recordar
-Flexibilidad y eficiencia de uso
-Diseño estético y minimalista
-Comunicar errores con facilidad
-Ayuda y documentación
-SITE o APP A EVALUAR: AidManagerApp
-TAREAS A EVALUAR:
-El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
-Registro de un usuario nuevo
-Administración de las Tareas (CRUD)
-Administración del equipo (CRUD)
-Análisis de información financiera
-Comunicación por medio de posts
-Administración de proyectos (CRUD)
-Organización de tiempos.
-Uso de servicio externo de imágenes
-
-
-
-No están incluidas en esta versión de la evaluación las siguientes tareas:
-Sistema de pago
-Servicios de correo para terceros
-Niveles de Severidad:
-Problema superficial: puede ser fácilmente superador por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.
-Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.
-Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.
-Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento
-
-## 5.4. Video About-the-Product
+## 5.3. Video About-the-Product
 Link: https://youtu.be/5C6CFJQ90q8
 
 
