@@ -82,12 +82,12 @@
   - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 - [2.4. Requirements Specification](#24-requirements-specification)
   - [2.4.1. To-Be Scenario Mapping](#241-to-be-scenario-mapping)
-  - [2.4.2. User Stories](#242-stories)
+  - [2.4.2. User Stories](#242-user-stories)
   - [2.4.3. Impact Mapping](#243-impact-mapping)
   - [2.4.4. Product Backlog](#244-product-backlog)
 
 ## [Capítulo III: Arquitectura](#capítulo-iii-arquitectura)
-- [3.1.Product Design](#31-product-design)
+- [3.1. Product Design](#31-product-design)
   - [3.1.1. Style Guidelines](#311-style-guidelines)
     - [3.1.1.1. General Style Guidelines](#3111-general-style-guidelines)
   - [3.1.2. Information Architecture](#312-information-architecture)
@@ -98,15 +98,15 @@
     - [3.1.2.5. Navigation Systems](#3125-navigation-systmes)
   - [3.1.3. Landing Page UI Design](#313-landing-page-ui-desig)
     - [3.1.3.1. Landing Page Wireframe](#3131-landing-page-wireframe)
-    - [3.1.3.2. Landing Page Mock-up](#3132-landing-page-mock--up)
-  - [3.1.4. Mobile Applications UX/UI Design](#314-mobile-applications-ux/ui-design)
+    - [3.1.3.2. Landing Page Mock-up](#3132-landing-page-mock-up)
+  - [3.1.4. Mobile Applications UX/UI Design](#314-mobile-applications-uxui-design)
     - [3.1.4.1. Mobile Applications Wireframe](#3141-mobile-applications-wireframe)
     - [3.1.4.2. Mobile Applications Wireflow Diagram](#3142-mobile-applications-wireflow-diagram)
-    - [3.1.4.3. Mobile Applications Mock-up](#3143-mobile-applications-mock--up)
+    - [3.1.4.3. Mobile Applications Mock-up](#3143-mobile-applications-mock-up)
     - [3.1.4.4. Mobile Applications Userflow Diagram](#3144-mobile-applications-userflow-diagram)
     - [3.1.4.5. Mobile Applications Prototyping](#3145-mobile-applications-prototyping)
 - [3.2. Architecture Overview](#32-architecure-overview)
-  - [3.2.1. Domain-Driven Software Architecture](#321-domain--driven-software-architecture)
+  - [3.2.1. Domain-Driven Software Architecture](#321-domain-driven-software-architecture)
     - [3.2.1.1. Software Architecture Context Level Diagram](#3211-software-architecture-context-level-diagram)
     - [3.2.1.2. Software Architecture Container Level Diagram](#3212-software-architecture-container-level-diagram)
     - [3.2.1.3. Software Architecture Components Diagram](#3213-software-architecture-context-level-diagram)
@@ -167,8 +167,8 @@
     - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.2.4. Sprint 4](#524-sprint-4)
-    - [5.2.4.1. Sprint Planning 3](#5241-sprint-planning-4)
-    - [5.2.4.2. Sprint Backlog 3](#5242-sprint-backlog-4)
+    - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+    - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
     - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
     - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
     - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
@@ -541,7 +541,7 @@ Esta sección está orientada a mostrar el diseño de nuestra landing page la cu
 
 
 
-#### 3.1.3.2.	Landing Page Mockup
+#### 3.1.3.2.	Landing Page Mock-up
 
 
 
