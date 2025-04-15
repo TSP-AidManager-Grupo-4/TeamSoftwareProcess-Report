@@ -489,19 +489,404 @@ orden.</p></td>
 </tbody>
 </table>
 
-# Capitulo II: Needfinding
+# Capitulo II: Requiriments Elicitation & Analysis
 
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
 Realizamos este análisis a fin de poder conocer el mercado al que nos enfrentamos en un inicio, para de esta manera poder evaluar las estrategias adoptadas por plataformas ya existentes, y así aprender de sus aciertos y errores.
 
 
+<table style="width:100%;">
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 14%" />
+<col style="width: 17%" />
+<col style="width: 17%" />
+<col style="width: 18%" />
+<col style="width: 19%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Categoría</th>
+<th>Subcategoría</th>
+<th>(Nosotros)</th>
+<th>Jira</th>
+<th>Base Camp</th>
+<th>Logalto</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td rowspan="3">Perfil</td>
+<td>Overview</td>
+<td>Plataforma que facilita el proceso de gestionar proyectos y
+equipos.</td>
+<td><p>Plataforma muy popular en el desarrollo de software, ofrece
+gestión ágil de proyectos, seguimiento de incidencias y personalización
+según el flujo de trabajo.</p>
+<p>(De paga, versión gratuita para equipos pequeños)</p></td>
+<td><p>Plataforma sencilla para la gestión de proyectos con un enfoque
+en la comunicación y la colaboración en equipo.</p>
+<p>(De paga, ofrece plan gratuito tiempo limitado)</p></td>
+<td><p>Es un Programa web colaborativo para el monitoreo y la evaluación
+de</p>
+<p>proyectos de desarrollo internacional la cual proporciona una alta
+gama de herramientas de gestión de proyectos.</p></td>
+</tr>
+<tr class="even">
+<td><p>Ventaja</p>
+<p>Competitiva</p>
+<p>¿Qué</p>
+<p>valor ofrece a los</p>
+<p>clientes?</p></td>
+<td>Ofrecemos un precio accesible y escalabilidad para las ONG
+orientadas a mejorar. Asimismo, nos enfocamos en la experiencia del
+usuario para que la implementación sea lo más rápida y objetiva
+posible.</td>
+<td><table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Jira es altamente personalizable y se integra fácilmente con otras
+herramientas, permitiendo a los equipos adaptar la plataforma a sus
+necesidades específicas.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+</tbody>
+</table></td>
+<td>Basecamp destaca por su simplicidad y enfoque en la comunicación
+directa dentro de los equipos, evitando la dispersión de la información
+en múltiples aplicaciones.</td>
+<td><p>Ofrece herramientas avanzadas de recolección de datos, paneles
+personalizables, mapeo geoespacial y generación de informes en tiempo
+real.</p>
+<p>Es flexible y puede ser personalizada según las necesidades
+específicas de la organización.</p></td>
+</tr>
+<tr class="odd">
+<td><p>Mercado</p>
+<p>Objetivo</p></td>
+<td>ONG peruanas, de estas mismas más específicamente sus gestores y
+ayudantes del proyecto.</td>
+<td><table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Equipos de desarrollo de software, pequeñas y medianas empresas, y
+grandes corporaciones que necesitan herramientas avanzadas de gestión de
+proyectos.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+</tbody>
+</table></td>
+<td><table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Pequeñas y medianas empresas, startups, freelancers, equipos
+distribuidos en múltiples ubicaciones, y organizaciones que valoran una
+estructura de gestión plana.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+</tbody>
+</table></td>
+<td>Proyectos de desarrollo, ONG y fundaciones, ministerios,
+instituciones de gobierno y proveedores de fondos.</td>
+</tr>
+<tr class="even">
+<td>Perfil de Marketing</td>
+<td>Estrategia de Marketing</td>
+<td>Se hacen uso de redes sociales y de publicidad en línea como
+estrategia de marketing.</td>
+<td><table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Atlassian utiliza estrategias digitales como demostraciones en
+línea, pruebas gratuitas, y un enfoque en la comunidad de
+desarrolladores a través de foros y soporte comunitario.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+</tbody>
+</table></td>
+<td><table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Base camp emplea estrategias de marketing digital, incluyendo
+pruebas gratuitas sin requerir tarjeta de crédito, y apela a su base de
+clientes a través de campañas de correo electrónico y promoción en redes
+sociales.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table></td>
+<td>LogAlto utiliza marketing digital dirigido a ONGs y organizaciones
+de desarrollo internacional, destacando su enfoque en la transparencia,
+la rendición de cuentas y la generación de informes de impacto.</td>
+</tr>
+<tr class="odd">
+<td rowspan="3">Perfil de producto</td>
+<td>Producto y servicios</td>
+<td>Ofrecemos un servicio orientado a la gestión financiera de
+proyectos, equipo de trabajo y proyectos para una mejora continua.</td>
+<td><table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Jira ofrece una amplia gama de funciones para la gestión de
+proyectos ágiles, seguimiento de incidencias, reportes avanzados y
+personalización de flujos de trabajo.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+</tbody>
+</table></td>
+<td><table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Base camp ofrece una solución de gestión de proyectos que incluye
+listas de tareas, chat integrado, calendarios y almacenamiento de
+archivos en un solo lugar, orientado a facilitar la colaboración y
+reducir la necesidad de múltiples herramientas.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table></td>
+<td>Es una plataforma versátil basada en la web que proporciona un
+conjunto de herramientas para el monitoreo de proyectos, evaluación y
+análisis de datos. Permite el seguimiento de indicadores de proyectos y
+la gestión de marcos lógicos.</td>
+</tr>
+<tr class="even">
+<td>Precios y costos</td>
+<td>Para las ONG se implementa un modelo estrictamente de pago el cual
+debe variar según la suscripción mensual o anual y asimismo la
+oportunidad de mejorar la cuenta para tener capacidad de más
+cuentas.</td>
+<td><table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Jira ofrece un plan gratuito limitado para equipos pequeños y varios
+planes de pago que varían desde $7.75 por usuario al mes en el plan
+estándar hasta $15.25 en el plan Premium. Descuentos para ONGs
+disponibles.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table></td>
+<td><table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Base camp cobra una tarifa plana de $15 por usuario al mes. Ofrece
+un plan gratuito limitado que incluye hasta tres proyectos y permite 20
+usuarios.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+</tbody>
+</table></td>
+<td>Es una plataforma de pago, con precios que comienzan en
+aproximadamente $8,000 por año, con costos adicionales de implementación
+que varían entre $3,000 y $125,000, dependiendo de la complejidad.</td>
+</tr>
+<tr class="odd">
+<td>Canales de distribución o móviles</td>
+<td>Buscamos que Aid manager pueda ingresar al mercado web, pero por el
+momento está orientado a dispositivos móviles</td>
+<td><table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Jira está disponible tanto en versiones web como móvil, permitiendo
+a los equipos gestionar proyectos desde cualquier lugar.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+</tbody>
+</table></td>
+<td><table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Disponible en dispositivos móviles (iOS, Android) y navegadores
+web.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+</tbody>
+</table></td>
+<td>Disponible en aplicaciones web y móviles, incluyendo Android, y
+permite la recolección de datos sin conexión.</td>
+</tr>
+</tbody>
+</table>
 
+### 2.1.2. Estrategias y tácticas frente a competidores<br>
 
+<table>
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 19%" />
+<col style="width: 22%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><strong>SWOT</strong></th>
+<th><strong>Nosotros</strong></th>
+<th><strong>Jira</strong></th>
+<th><strong>Base Camp</strong></th>
+<th><strong>Log Alto</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Fortalezas</strong></td>
+<td>- Enfoque en ONGs peruanas con un precio accesible.<br />
+- Escalabilidad y fácil implementación.<br />
+- Enfoque en la experiencia del usuario.</td>
+<td>- Altamente personalizable y adaptable a necesidades
+específicas.<br />
+- Integración con una gran cantidad de herramientas.</td>
+<td>- Simplicidad y facilidad de uso.<br />
+- Enfoque en la comunicación directa y colaboración en equipo.</td>
+<td>- Herramientas avanzadas de recolección de datos.<br />
+- Flexibilidad y personalización.<br />
+- Capacidades de informes en tiempo real y mapeo geoespacial.</td>
+</tr>
+<tr class="even">
+<td><strong>Oportunidades</strong></td>
+<td>- Expandir presencia en mercados internacionales.<br />
+- Desarrollar más funciones de colaboración y gestión de equipos.</td>
+<td>- Expandir en mercados no técnicos.<br />
+- Mejorar integración con herramientas no relacionadas con el desarrollo
+de software.</td>
+<td>- Ampliar funcionalidades para atraer a empresas más grandes.<br />
+- Integración con más aplicaciones de terceros.</td>
+<td>- Aumentar la oferta para sectores fuera del desarrollo
+internacional.<br />
+- Mejorar la accesibilidad a precios más bajos para ONGs pequeñas.</td>
+</tr>
+<tr class="odd">
+<td><strong>Debilidades</strong></td>
+<td>- Falta de reconocimiento internacional.<br />
+- Dependencia en el mercado local peruano.</td>
+<td>- Curva de aprendizaje pronunciada para nuevos usuarios.<br />
+- Costos elevados para pequeñas organizaciones.</td>
+<td>- Limitaciones en funcionalidades avanzadas.<br />
+- No es ideal para proyectos complejos o grandes equipos.</td>
+<td>- Precio elevado y costos de implementación altos.<br />
+- Carece de una versión gratuita.<br />
+- Requiere personal capacitado para aprovechar su complejidad al
+máximo.</td>
+</tr>
+<tr class="even">
+<td><strong>Amenazas</strong></td>
+<td>- Competencia fuerte de plataformas internacionales con más
+funciones.</td>
+<td>- La creciente competencia de plataformas más simples y
+económicas.<br />
+- Amenazas de otras herramientas ágiles.</td>
+<td>- Competencia con plataformas que ofrecen más funciones por precios
+similares.<br />
+- Cambio en tendencias de gestión de proyectos.</td>
+<td>- Nuevas plataformas más económicas o gratuitas.<br />
+- Cambios en la tecnología y expectativas del cliente podrían requerir
+constantes actualizaciones y mejoras costosas.</td>
+</tr>
+</tbody>
+</table>
 
-
-
-### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 Preguntas generales:
@@ -524,122 +909,158 @@ Preguntas enfocadas en los usuarios de segmento 2, empleado de organización, de
 3. ¿Cómo hacen llegar esta información a los gestores de proyecto?
 4. ¿Si sucede un inconveniente el cual se debe de notificar al gestor del proyecto como se comunica con este, cree que la comunicación con el gestor de proyecto es efectiva?
 ### 2.2.2. Registro de entrevistas
-Las entrevistas están en un video en el siguiente URL:
-Segmento 1
-Nombre: María José Meléndez Villa-Lobos
-Edad: 53 años
-Ocupación: directora de Hogar (CAEF)
-Browser: Google Chrome
-Device: Móvil Android & Computadora personal Windows
-Distrito: Trujillo, La libertad
-Timing: [0:00]
+Las entrevistas están en un video en el siguiente URL:<br>
+**Segmento 1**<br>
+Nombre: María José Meléndez Villa-Lobos<br>
+Edad: 53 años<br>
+Ocupación: directora de Hogar (CAEF)<br>
+Browser: Google Chrome<br>
+Device: Móvil Android & Computadora personal Windows<br>
+Distrito: Trujillo, La libertad<br>
+Timing: [0:00]<br>
+![image_49](assets/image_49.png)
+<br>
 [Seg1 – Entrevista - 1]
+<br>
 María nos explica cómo su ONG no tiene una herramienta de gestión determinada y como normalmente usan Excel para los análisis de sus datos, también relata que para la planificación se hacen reuniones anuales y mensuales. Menciona como un obstáculo los medios de comunicación tecnológicos que se utilizan en su área laboral, debido a que están restringidos en ciertos horarios, para evitar accidentes con los niños.
-Nombre: Cesar Alva Posada
-Edad: 57 años
-Ocupación: Sociólogo encargado de Gestión de Proyectos
-Browser: Google Chrome
-Device: Computadora Personal Windows
-Distrito: San Miguel, Lima
-Timing: [8:14]
+<br>
+<br>
+Nombre: Cesar Alva Posada<br>
+Edad: 57 años<br>
+Ocupación: Sociólogo encargado de Gestión de Proyectos<br>
+Browser: Google Chrome<br>
+Device: Computadora Personal Windows<br>
+Distrito: San Miguel, Lima<br>
+Timing: [8:14]<br>
+![image_74](assets/image_74.png)
+<br>
 [Seg1 -Entrevista - 2]
+<br>
 En esta entrevista Cesar explica como la metodología que se usa es importante a la hora de organizarse asimismo nos comentó de otras herramientas que se implementan para la gestión, no obstante, también menciona que todos estos procesos se hacen de manera separada. Asimismo, para la gestión de datos utiliza Excel.
-
-Nombre: Guilder Quiñones Aldean
-Edad: 54 años
-Ocupación: jefe de Proyectos
-Browser: Google Chrome
-Device: Móvil iPhone & Computadora Windows
-Distrito: Miraflores
-Timing: [15:00]
+<br>
+<br>
+Nombre: Guilder Quiñones Aldean<br>
+Edad: 54 años<br>
+Ocupación: jefe de Proyectos<br>
+Browser: Google Chrome<br>
+Device: Móvil iPhone & Computadora Windows<br>
+Distrito: Miraflores<br>
+Timing: [15:00]<br>
+![image_99](assets/image_99.png)
+<br>
 [Seg1 - Entrevista - 3]
+<br>
 El jefe de Proyecto, Guilder, comparte su visión respecto a las herramientas usadas, de manera parecida a la entrevista anterior él usa Excel para manejar sus datos más también hace uso de programas de gestión como Trello.
-
-Segmento 2
-Nombre: Luis Herrera Gonzales
-Edad: 19 años
-Ocupación: Estudiante – Ayudante
-Browser: Google Chrome
-Device: Móvil iPhone
-Distrito: San Borja
-Timing: [24:00]
+<br>
+<br>
+**Segmento 2**<br>
+Nombre: Luis Herrera Gonzales<br>
+Edad: 19 años<br>
+Ocupación: Estudiante – Ayudante<br>
+Browser: Google Chrome<br>
+Device: Móvil iPhone<br>
+Distrito: San Borja<br>
+Timing: [24:00]<br>
+![image_114](assets/image_114.png)
+<br>
 [Seg2 – Entrevista - 1]
+<br>
 Luis nos cuenta de cómo participa de estas actividades usando WhatsApp como su principal fuente de recolección de datos y comunicación con su gerente, menciona que tanto el uso del correo electrónico y uso de WhatsApp son obsoletos, toman mucho tiempo y no demuestran el nivel de formalidad deseado.
-Nombre: Álvaro Jiménez
-Edad: 19 años
-Ocupación: Estudiante - Ayudante
-Browser:  Google
-Device: Android Zte
-Distrito: Magdalena
-Timing: [27:40]
-[Seg2 - Entrevista - 2]
+<br>
+<br>
+Nombre: Álvaro Jiménez<br>
+Edad: 19 años<br>
+Ocupación: Estudiante - Ayudante<br>
+Browser:  Google<br>
+Device: Android Zte<br>
+Distrito: Magdalena<br>
+Timing: [27:40]<br>
+![image_129](assets/image_129.png)
+<br>
+[Seg2 - Entrevista - 2]<br>
 Álvaro comenta sobre su experiencia como voluntario ayudante en una ONG. Se menciona como es la distribución de tareas y la comunicación entre los ayudantes y el gestor del proyecto. También menciona que no es eficiente ni rápida la gestión de la organización y que la espera se pueda mejorar en algún futuro.
-Nombre: Arián Rodríguez Vargas
-Edad: 20 años
-Ocupación: Practicante en empresa dedicado al desarrollo de Software
-Browser: Brave
-Device: Móvil Android
-Distrito: Jesús María
-Timing: [32:10]
-
-[Seg2 - Entrevista - 3]
+<br>
+<br>
+Nombre: Arián Rodríguez Vargas<br>
+Edad: 20 años<br>
+Ocupación: Practicante en empresa dedicado al desarrollo de Software<br>
+Browser: Brave<br>
+Device: Móvil Android<br>
+Distrito: Jesús María<br>
+Timing: [32:10]<br>
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/image_48.png" alt="Image 48" style="width: 45%; margin-right: 10px;">
+  <img src="assets/image_61.png" alt="Image 61" style="width: 45%;">
+</div>
+<br>
+[Seg2 - Entrevista - 3]<br>
 Arián Rodríguez, un estudiante de ingeniería de software en prácticas preprofesionales en una empresa de desarrollo de software y ha participado en proyectos donde la gestión de equipo resulta clave. En su caso, está buscando una herramienta para mejorar la gestión de tareas y la comunicación dentro de su equipo. Aunque actualmente utilizan una plataforma como Trello, Arián considera que un aplicativo con un costo menor y con mayores funcionalidades podría ser más adecuado para su equipo, especialmente para facilitar el seguimiento del progreso de los miembros del equipo y mejorar la eficiencia en la gestión de tareas. Además, una herramienta que también pueda automatizar la recolección de datos, en lugar de hacerlo manualmente, sería de gran ayuda para optimizar el flujo de trabajo.
-
-
-
-
+<br>
 
 ### 2.2.3. Análisis de entrevistas
-Segmento 1:
-Características Estadísticas: En las entrevistas realizadas encontramos que 100% del segmento utiliza Excel para su gestión y registro de datos, adicionalmente el 33% de los entrevistados utilizan dispositivos móviles de marca iPhone (sistema operativo iOS) mientras que otro 66% no utiliza ningún dispositivo móvil en el área laboral o dispone de poco tiempo para utilizarlo.
-Características Objetivas: Se observa una preferencia en utilizar Excel en este segmento. En la mayoría de los casos se menciona la importancia de una planificación y organización efectiva la cual requieren un seguimiento. Hacer más, con menos. Una parte utiliza dispositivos móviles mientras que otra parte no dispone de mucho tiempo para utilizar estos dispositivos.
-Características Subjetivas: Todos los entrevistados tienen una fuerte opinión respecto a la importancia de la planificación como un problema común, asimismo la mayoría no tiene mucho conocimiento de las nuevas herramientas de gestión disponibles. Todos están de acuerdo con un cambio parecido al que estaremos desarrollando, satisfaciendo nuestro supuesto más importante por el lado del segmento 1.
-Segmento 2:
-Características Estadísticas: En las entrevistas realizadas encontramos que 100% del segmento presentan una necesidad de comunicarse o sentirse más integrados con los proyectos de beneficencia, adicionalmente el 33% de los entrevistados mencionan disconformidad en la asignación de tareas y proyectos mientras que otro 66% menciona que existe una la recolección de datos de proyectos y gestión de equipos tiene la capacidad mejorar.
-Características Objetivas: Se observa como principales necesidades el tener las tareas asignadas y la comunicación. En la mayoría de los casos se hace mención de herramientas desactualizadas o medios saturados. Buscan realizar sus actividades efectiva y rápidamente. Dependiendo de la institución el uso de dispositivos móviles a la hora de participar del proyecto es limitada, independientemente de estos todos utilizan dispositivos móviles.
-Características Subjetivas: Todos los entrevistados tienen una fuerte opinión respecto a la importancia de mejorar los medios por los cuales se comunican con los gestores de proyecto. Sienten que una herramienta como la nuestra hará un impacto positivo en la gestión.
 
+**Segmento 1:**<br>
 
+**Características Estadísticas:** En las entrevistas realizadas encontramos que 100% del segmento utiliza Excel para su gestión y registro de datos, adicionalmente el 33% de los entrevistados utilizan dispositivos móviles de marca iPhone (sistema operativo iOS) mientras que otro 66% no utiliza ningún dispositivo móvil en el área laboral o dispone de poco tiempo para utilizarlo.<br>
 
+**Características Objetivas:** Se observa una preferencia en utilizar Excel en este segmento. En la mayoría de los casos se menciona la importancia de una planificación y organización efectiva la cual requieren un seguimiento. Hacer más, con menos. Una parte utiliza dispositivos móviles mientras que otra parte no dispone de mucho tiempo para utilizar estos dispositivos.<br>
 
+**Características Subjetivas:** Todos los entrevistados tienen una fuerte opinión respecto a la importancia de la planificación como un problema común, asimismo la mayoría no tiene mucho conocimiento de las nuevas herramientas de gestión disponibles. Todos están de acuerdo con un cambio parecido al que estaremos desarrollando, satisfaciendo nuestro supuesto más importante por el lado del segmento 1.<br>
 
+**Segmento 2:**<br>
 
+**Características Estadísticas:** En las entrevistas realizadas encontramos que 100% del segmento presentan una necesidad de comunicarse o sentirse más integrados con los proyectos de beneficencia, adicionalmente el 33% de los entrevistados mencionan disconformidad en la asignación de tareas y proyectos mientras que otro 66% menciona que existe una la recolección de datos de proyectos y gestión de equipos tiene la capacidad mejorar.<br>
 
+**Características Objetivas:** Se observa como principales necesidades el tener las tareas asignadas y la comunicación. En la mayoría de los casos se hace mención de herramientas desactualizadas o medios saturados. Buscan realizar sus actividades efectiva y rápidamente. Dependiendo de la institución el uso de dispositivos móviles a la hora de participar del proyecto es limitada, independientemente de estos todos utilizan dispositivos móviles.<br>
 
+**Características Subjetivas:** Todos los entrevistados tienen una fuerte opinión respecto a la importancia de mejorar los medios por los cuales se comunican con los gestores de proyecto. Sienten que una herramienta como la nuestra hará un impacto positivo en la gestión.<br>
 
 
 ## 2.3. Needfinding
 En esta sección nos encargamos de realizar personas en base a las entrevistas e identificar los procesos que hacen nuestros segmentos antes de implementar nuestra solución.
 ### 2.3.1. User Personas
-En esta sección observamos los dos User personas para nuestros segmentos.
-Segmento 1:
+En esta sección observamos los dos User personas para nuestros segmentos.<br>
 
-Segmento 2:
+**Segmento 1:**<br>
+![image_90](assets/image_90.png)
+<br>
+
+**Segmento 2:**<br>
+![image_7](assets/image_7.png)
+<br>
+
 ### 2.3.2. User Task Matrix
+<br>
 El User Task Matrix nos sirve para identificar los procesos que realizan ambos segmentos donde se pueden observar las similitudes respecto a la importancia y frecuencias de estos procesos. Esto es antes de implementar nuestra solución.
+<br>
 
 
 
 
 ### 2.3.3. User Journey Mapping
-El Journey Mapping es necesario para entender el proceso que recorren nuestros segmentos en un escenario común en su área laboral. De esta forma entendemos sus problemas, experiencias, ideas y oportunidades.
-Segmento 1
+El Journey Mapping es necesario para entender el proceso que recorren nuestros segmentos en un escenario común en su área laboral. De esta forma entendemos sus problemas, experiencias, ideas y oportunidades.<br>
 
-
-
-Segmento 2
-
-
+**Segmento 1**<br>
+![image_19](assets/image_19.png)
+<br>
+**Segmento 2**<br>
+![image_36](assets/image_36.png)
+<br>
 ### 2.3.4. Empathy Mapping
-Segmento 1:
 
-Segmento 2:
-
+**Segmento 1:**<br>
+![image_62](assets/image_62.png)
+<br>
+**Segmento 2:**<br>
+![image_87](assets/image_87.png)
+<br>
 ### 2.3.5. As-is Scenario Mapping
 
+![image_106](assets/image_106.png)
+![image_122](assets/image_122.png)
+<br>
 
-
-Enlace:
+**Enlace:** https://miro.com/welcomeonboard/NlNXV0pNbjkzNGhhN0RaVE1GZ2QxdEE0T1lxcExSSFRwOFFubkdVZlVMZ2Nuc0U2Z292TXVjZUFsZ3hlczJMWXwzNDU4NzY0NTIyNTI2OTE2NTk0fDI=?share_link_id=464993559168
 
 
 ## 2.4. Ubiquitous Language
@@ -648,8 +1069,6 @@ Enlace:
 
 ## 3.1. To-Be Scenario Mapping
 
-
-Enlace:
 ## 3.2. User Stories
 Épicas:
 
