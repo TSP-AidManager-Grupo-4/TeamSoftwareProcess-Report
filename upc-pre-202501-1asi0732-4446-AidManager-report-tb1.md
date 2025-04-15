@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/a80efbaa-b11d-4050-9031-9eaca58ed6a6)# <center>COURSE PROJECT</center>
-
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"><br>
@@ -199,19 +197,19 @@
 # Capítulo I: Presentación
 
 
-## Startup Profile
+## 1.1. Startup Profile
 La sección de startup profile es requerida para hacer una introducción a nuestro equipo y startup.
-### Descripción del Startup
+### 1.1.1. Descripción del Startup
 Nuestro startup AidRecruits se basa en un equipo orientado en mejorar la calidad de la ayuda social en el Perú intentando mejorar el impacto positivo en nuestra sociedad, por medio de soluciones tecnológicas buscamos mejorar las condiciones administrativas de las ONG con la visión de poder aumentar la solidaridad a nivel nacional y en un futuro internacional.
 
-### Perfiles de integrantes de grupo
+### 1.1.2. Perfiles de integrantes de grupo
 Los siguientes integrantes del grupo son presentados con su carrera y sus conocimientos relevantes al desarrollo de este proyecto.
 
 
 
-## Solution Profile
+## 1.2. Solution Profile
 Nuestro perfil de solución se divide en 2 partes los “Antecedes y Problemática” y el proceso UX.
-### Antecedentes y problemática
+### 1.2.1. Antecedentes y problemática
 Antecedentes:
 Actualmente, las organizaciones no gubernamentales (ONGs) desempeñan un papel fundamental en la atención de necesidades humanitarias y en el desarrollo de comunidades en todo el mundo. Según la Oficina de Naciones Unidas para la Coordinación de Asuntos Humanitarios (OCHA) en 2023 se reportaron 801,425 personas en necesidades de alimentación, servicios de agua, saneamiento e higiene. En el Perú existen 978 Organizaciones privadas sin fines de lucro de las cuales principalmente 428 se han categorizado como de salud, 19 de educación y 35 de vivienda (SIGCTI, 2024), esto nos demuestra que existe una gran cantidad de organizaciones privadas sin fines de lucro. No obstante, cuando buscamos organizaciones ONDG (Organizaciones No Gubernamentales de Desarrollo) encontramos un total de 1835 (SIGCTI, 2024).
 Problemática:
@@ -229,14 +227,14 @@ Where (¿Dónde se usa?): El uso está diseñado para Perú, ya que se recompila
 Who (¿Quién lo usa?): El usuario principal para nosotros son las ONG de quienes el producto está orientado a los gestores de proyectos y los miembros del equipo, ya que son estos los que van a implementar la información e interactuar entre sí, nuestro usuario principal entonces se divide en el segmento de (supervisor / gestor) y el miembro del equipo.
 How (¿Cómo?): En el aplicativo se ingresan los datos de proyectos, la organización y asimismo los miembros del equipo enfocándose en los análisis de tareas completadas y presupuestos.
 How Much (¿Cuánto costaría?): La aplicación tendrá sus funcionalidades Core a medio de pago es decir el proceso de gestión recopilación y refinamiento de datos junto con las mejores oportunidades de mejora para estas. Tanto el Core de la aplicación como la suscripción se tendrán que renovar cada cierto tiempo donde las organizaciones se tendrán que escoger un plan anual o mensual. No obstante, contamos con un límite de cuentas en el plan y si el usuario es parte de una organización más grande entonces ofreceremos un plan con mayor cantidad de cuentas.
-### Lean UX Process
+### 1.2.2. Lean UX Process
 Los procesos lean UX son críticos para poder definir bien las ideas que tenemos y realizar un plan de acción para las preguntas que necesitamos responder por medio del Needfinding.
-### Lean UX Problem Statement
+#### 1.2.2.1. Lean UX Problem Statement
 Hablamos de la situación actual, la competencia y la propuesta de solución.
 Las ONG en Perú enfrentan una falta de organización que limita su capacidad de generar un impacto significativo. Esta ineficiencia afecta principalmente la gestión de fondos, la capacitación, la comunicación y la supervisión. A pesar de las oportunidades de mejorar a través de una planificación adecuada, muchas ONG no están conscientes de los beneficios de una gestión efectiva. Esta falta de organización daña la imagen de las ONG, reduce la eficiencia de sus proyectos y disminuye el impacto que pueden generar.
 Los productos de gestión disponibles en el mercado suelen ser costosos y poco accesibles para la mayoría de las ONG peruanas, que no disponen de los recursos para adquirir estas soluciones. Además, muchas de estas herramientas son excesivamente complejas, con demasiadas funciones, lo que dificulta la adaptación de los equipos y aumenta la resistencia a su implementación.
 ¿Cómo podemos ofrecer una solución de gestión de proyectos accesible, adaptada a las necesidades de las ONG en Perú, que les permita optimizar sus operaciones, mejorar su eficiencia y aumentar su impacto social?
-### Lean UX Assumptions
+#### 1.2.2.2. Lean UX Assumptions
 Business Outcome
 En esta sección vamos a usar las métricas de Montaña conceptualizada por Jeff Gothelf e implementaremos algunas de las “pirate metrics” para poder definir los niveles de la montaña para llegar poder analizar los comportamientos de nuestros usuarios y analizar que parte del User Journey es relevante para nosotros y hacer assumptions de como actuarán nuestros usuarios en base al producto.
 Acquisition: (Base): [1000 visitantes] El usuario se percatará de nuestra solución por medio de las redes sociales como medio de comunicación asimismo promocionando nuestra landing page, de la misma manera intentaremos ofrecer el servicio a los mismos usuarios con métodos de comunicación directa como por ejemplo ofrecerles el servicio a las instituciones (ONG).
@@ -271,7 +269,7 @@ Revisión de inventario: Facilitaremos el seguimiento de los insumos y materiale
 Gestión financiera: Utilizaremos métodos básicos como comparación de presupuestos, seguimiento de gastos y finalmente observar oportunidades de optimización.
 Comunicación directa: Una línea de comunicación simple y efectiva entre el gestor y el equipo para resolver dudas o emergencias, eliminando distracciones y mejorando la respuesta rápida.
 Accesibilidad Económica: Ofrecer subscripciones a base de cantidad de cuentas y no tipos de servicios. Hace que nuestra solución sea más económicamente viable para las ONG emergentes.
-### Lean UX Hypothesis Statement
+#### 1.2.2.3. Lean UX Hypothesis Statement
 Hipótesis
 Siguiendo el formato de las Hipótesis usaremos la tabla de hipótesis.
 Creemos que, al implementar una función de gestión de tareas intuitiva y eficiente para los gestores de proyectos, aumentaremos la retención de usuarios.
@@ -292,17 +290,17 @@ Un MVP nos permitirá aprender a corto plazo. La primera pregunta que debemos pl
 En nuestro caso, lo más urgente es validar si realmente existe una demanda en el mercado para nuestra solución. Para ello, llevaremos a cabo una serie de entrevistas con gestores de proyectos en ONG, así como con sus equipos, para verificar si estamos resolviendo una necesidad real.
 Adicionalmente, crearemos una landing page como parte del MVP, orientada a captar el interés de potenciales usuarios interesados en nuestra herramienta de gestión de proyectos.
 
-### Lean UX Canvas
+#### 1.2.2.4. Lean UX Canvas
 En esta sección juntamos la información de los procesos UX y los juntamos en este canvas.
 
 
 
-## Segmentos Objetivo
+## 1.3 Segmentos Objetivo
 
 # Capitulo II: Needfinding
 
 ## 2.1. Competidores
-2.1.1. Análisis competitivo
+### 2.1.1. Análisis competitivo
 Realizamos este análisis a fin de poder conocer el mercado al que nos enfrentamos en un inicio, para de esta manera poder evaluar las estrategias adoptadas por plataformas ya existentes, y así aprender de sus aciertos y errores.
 
 
@@ -483,15 +481,15 @@ Link:
 
 # Capítulo III: Arquitectura
 
-## 3.1	Product Design
-### 3.1.1	Style Guidelines
+## 3.1.	Product Design
+### 3.1.1.	Style Guidelines
 Como startup, nos esforzamos por transmitir profesionalismo y eficiencia a través de nuestra aplicación web, AidManager. Hemos seleccionado una paleta de colores con tonos celestes y verdes para reflejar frescura y conexión con la naturaleza, mientras que las tipografías Poppins y Lora ofrecen una apariencia moderna, limpia y legible. Estas decisiones de diseño no solo buscan captar la atención de nuestros usuarios, sino también garantizar una experiencia agradable y efectiva, reforzando nuestro compromiso en la gestión eficiente de eventos benéficos y donaciones.
 
 
 
 
 
-#### 3.1.1.1	General Style Guidelines
+#### 3.1.1.1.	General Style Guidelines
 Color Primario
 Representa confianza, serenidad y estabilidad. Transmite la idea de fiabilidad y compromiso en la gestión de organizaciones benéficas, lo que inspira confianza en los donantes y en aquellos que buscan ayuda.
 
@@ -503,32 +501,32 @@ Paleta de colores:
 
 
 
-### 3.1.2	Information Architecture
+### 3.1.2.	Information Architecture
 Esta sección está dedicada a cómo vamos a organizar la navegación en nuestra aplicación móvil.
-#### 3.1.2.1	Organization System
+#### 3.1.2.1.	Organization System
 Sistemas de organización que usaremos para el proyecto.
 El sistema de Organización se basa en un sistema secuencial donde el usuario debe seguir el workflow de la herramienta para llegar a su objetivo, no obstante, ofrecemos atajos para llegar a estos más rápido.
 Asimismo, existirá una jerarquía visual dependiendo si quien se ha ingresado es un gestor o un miembro de equipo.
-#### 3.1.2.2	Labelling System
+#### 3.1.2.2.	Labelling System
 Los labels se usan para representar muchos datos en pocas palabras para este proyecto decidimos que nuestros labels principales son Home, Projects, Community y Profile. De esta manera será fácil de reconocer y entender.
 
 
 
 
-#### 3.1.2.3	SEO and Meta Tags
+#### 3.1.2.3.	SEO and Meta Tags
 Meta & SEO (Search Engine Optimization) Tags: sirven para que la página web donde promocionamos la aplicación sea encontrada fácilmente es lo que sale al encontrar la página en el buscador (se ponen en el <"head"> de la landing page o en la página store)
 Título: <title> AidManager | La mejor opción de ONG para la gestión de proyectos </title>
 Descripción: <meta name = "description" content = "Gestiona, Recolecta, Analiza y Visualiza los datos y colaboradores de tus proyectos todo en un solo lugar."/>
 Palabras Clave: <meta name = "keyword" content = "ONG gestión, Gestionar Proyecto, ONG, dar Tareas, análisis de datos, Organizar, Orden "/>
-#### 3.1.2.4	Searching Systems
+#### 3.1.2.4.	Searching Systems
 ¿Que se busca?: El usuario busca su proyecto para gestionar. ¿Qué resultados se mostrarán?: Se debe de mostrar cards y entre ellas el proyecto que está revisando.
 Interfaz de búsqueda: El dashboard muestra en el sidebar las secciones una vez se selecciona la sección de proyectos se mostrarán las cards con sus proyectos, el usuario selecciona el proyecto específico y se hacen las redirecciones a su proyecto para gestionar específicas.
 
-#### 3.1.2.5	Navigation Systems
+#### 3.1.2.5.	Navigation Systems
 La navegación de la Mobile App se estará basando en un Sistema de navegación Global donde por medio de las cards en el dashboard o los labels en el side-bar e incluso el bottom-nav. el usuario se redirija a la sección seleccionada. Asimismo, se usa la navegación local para ver información dedicada a las secciones.
-### 3.1.3	Landing Page UI Design
+### 3.1.3.	Landing Page UI Design
 Esta sección está orientada a mostrar el diseño de nuestra landing page la cual es necesaria para presentarnos y promover nuestro producto a los usuarios.
-#### 3.1.3.1	Landing Page Wireframe
+#### 3.1.3.1.	Landing Page Wireframe
 
 
 
@@ -543,7 +541,7 @@ Esta sección está orientada a mostrar el diseño de nuestra landing page la cu
 
 
 
-#### 3.1.3.2	Landing Page Mockup
+#### 3.1.3.2.	Landing Page Mockup
 
 
 
@@ -551,13 +549,13 @@ Esta sección está orientada a mostrar el diseño de nuestra landing page la cu
 
 
 
-### 3.1.4	Mobile Applications UX/UI Design
+### 3.1.4.	Mobile Applications UX/UI Design
 Aquí nos enfocamos en mostrar el diseño de nuestra solución móvil.
-#### 3.1.4.1	Mobile Application Wireframe
+#### 3.1.4.1.	Mobile Application Wireframe
 
 
 
-#### 3.1.4.2	Mobile Application Wireflow Diagram
+#### 3.1.4.2.	Mobile Application Wireflow Diagram
 Gestor de Proyectos necesita ver el listado de proyectos y las tareas asignadas a estos.
 
 
@@ -572,37 +570,37 @@ Como gestor de proyecto deseo agregar un post para mi equipo pueda ver y reaccio
 
 Como miembro de equipo deseo ver las tareas asignadas y las métricas del grupo.
 
-#### 3.1.4.3	Mobile Application Mock-up
+#### 3.1.4.3.	Mobile Application Mock-up
 
 
 
 
-#### 3.1.4.4	Mobile Application Userflow Diagram
+#### 3.1.4.4.	Mobile Application Userflow Diagram
 
 
 
-#### 3.1.4.5	Mobile Application Prototyping
+#### 3.1.4.5.	Mobile Application Prototyping
 Para poder elaborar los prototipos de la interfaz de usuario destinados a Móvil se siguieron una serie de criterios fundamentales, entre ellos:
 Claridad y Facilidad: El enfoque fue lograr que la navegación en la aplicación sea intuitiva y comprensible, con el objetivo de que los usuarios puedan comprender plenamente las funciones de la aplicación. Visualización de reportes estadísticos.
 Diseño Responsive: Se ha tenido en cuenta la importancia del diseño para garantizar que la aplicación web sea compatible con una variedad tamaños de pantalla, de tal manera que los usuarios no se vean limitados por el dispositivo que utilicen.
 Priorización de Información Relevante: El diseño de la aplicación se enfoca en mostrar únicamente la información más importante para los usuarios pertenecientes al segmento objetivo.
 
-## 3.2	Architecture Overview
-### 3.2.1	Domain-Driven Software Architecture
-#### 3.2.1.1	Software Architecture Context Level Diagram
+## 3.2.	Architecture Overview
+### 3.2.1.	Domain-Driven Software Architecture
+#### 3.2.1.1.	Software Architecture Context Level Diagram
 
-#### 3.2.1.2	Software Architecture Container Level Diagram
+#### 3.2.1.2.	Software Architecture Container Level Diagram
 
-#### 3.2.1.3	Software Architecture Components Diagram
-
-
+#### 3.2.1.3.	Software Architecture Components Diagram
 
 
 
-### 3.2.2	Software Object-Oriented Design
-#### 3.2.2.1	Class Diagrams
 
-#### 3.2.2.2	Class Dictionary
+
+### 3.2.2.	Software Object-Oriented Design
+#### 3.2.2.1.	Class Diagrams
+
+#### 3.2.2.2.	Class Dictionary
 Se muestran las clases que son relevantes.
 User - La clase User representa una cuenta de Organización refiriéndose a el gestor y el miembro de equipo y los métodos más importantes de estos.
 
@@ -613,15 +611,14 @@ Assistant - la clase representa a los asistentes de eventos y proyectos
 Project – la clase Project representa
 
 
-#### 3.2.2.3	Database Design
-##### 3.2.2.3.1	Database Diagram
+##### 3.2.2.3.	Database Diagram
 
 
 # Capítulo IV: Backend Product Implementation & Validation
 
-4.1 Software Configuration Management
+## 4.1. Software Configuration Management
 En los siguientes puntos, detallaremos las herramientas, convenciones, referencias y configuraciones empleadas a lo largo del desarrollo del desarrollo del back-end, los cuales contribuyeron a mantener la base en el trabajo realizado.
-4.1.1. Software Development Environment Configuration
+### 4.1.1. Software Development Environment Configuration
 Diseño:
 Vertabelo: https://vertabelo.com/
 Es una herramienta online la cual ayuda en el desarrollo y creación de base de datos.
@@ -706,7 +703,7 @@ GitHub: Utilizamos esta plataforma para crear nuestro repositorio, permitiéndon
 Azure: Es una plataforma en la nube de Microsoft que ofrece una amplia gama de servicios para desarrollar, desplegar y gestionar aplicaciones a través de una red global de centros de datos.
 
 
-4.2.1.8. Team Collaboration Insights during Sprint
+#### 4.2.1.8. Team Collaboration Insights during Sprint
 
 
 # Capítulo V: Product Implementation & Validation
@@ -756,15 +753,17 @@ Enlace de la herramienta de trello:
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 En la entrega del Sprint 1, logramos completar el desarrollo, la implementación y el despliegue del backend, así como el desarrollo de gran parte de nuestra aplicación móvil en Flutter.
 
-5.2.1.5. Execution Evidence for Sprint Review
+#### 5.2.1.5. Execution Evidence for Sprint Review
 
 
+#### 5.2.1.6 Services Documentation Evidence for Sprint Review
 
-
-#### 5.2.1.6. Software Deployment Evidence for Sprint Review
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
 Se realizó el deploy del Backend en Azure Database for My SQL
 
-#### 5.2.1.7. Team Collaboration Insights during Sprint
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+
+
 
 
 ### 5.2.2. Sprint 2
@@ -780,12 +779,14 @@ Para esta entrega ya se logró realizar en su gran mayoría la aplicación móvi
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review
 
-#### 5.2.2.6. Software Deployment Evidence for Sprint Review.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 Tenemos el deploy del Backend en Azure Database for My SQL, esta actividad se realizó ya en el sprint anterior.
 
 
-#### 5.2.2.7. Team Collaboration Insights during Sprint.
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1. Sprint Planning 3.
@@ -802,15 +803,16 @@ Para esta entrega ya se logró realizar en su gran mayoría la aplicación móvi
 
 
 
+#### 5.2.3.6 Services Documentation Evidence for Sprint Review
 
 
-#### 5.2.3.6. Software Deployment Evidence for Sprint Review.
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 Tenemos el deploy del Backend en Azure Database for My SQL, esta actividad se realizó ya en el sprint anterior.
 
 
 
 
-#### 5.2.3.7. Team Collaboration Insights during Sprint.
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 
 ### 5.2.4. Sprint 4
@@ -834,6 +836,7 @@ Para esta entrega ya se logró completar la aplicación móvil y el back end ya 
 
 
 
+#### 5.2.4.6 Services Documentation Evidence for Sprint Review
 
 
 
@@ -841,10 +844,10 @@ Para esta entrega ya se logró completar la aplicación móvil y el back end ya 
 
 
 
-#### 5.2.4.6. Software Deployment Evidence for Sprint Review.
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 Tenemos el deploy del Backend en Azure Database for My SQL, esta actividad se realizó ya los sprint anteriores.
 
-#### 5.2.4.7. Team Collaboration Insights during Sprint.
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 
 
