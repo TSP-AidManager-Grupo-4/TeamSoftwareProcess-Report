@@ -37,8 +37,8 @@
             <td>Codigo</td>
         </tr>
          <tr>
-            <td>Nombre</td>
-            <td>Codigo</td>
+            <td>Ramírez Méndez, Sebastián André</td>
+            <td>U20191E575</td>
          </tr>
 </table>
 
@@ -165,10 +165,68 @@ La sección de startup profile es requerida para hacer una introducción a nuest
 ### 1.1.1. Descripción del Startup
 Nuestro startup AidRecruits se basa en un equipo orientado en mejorar la calidad de la ayuda social en el Perú intentando mejorar el impacto positivo en nuestra sociedad, por medio de soluciones tecnológicas buscamos mejorar las condiciones administrativas de las ONG con la visión de poder aumentar la solidaridad a nivel nacional y en un futuro internacional.
 
+![logo](assets/logo.png)
+
 ### 1.1.2. Perfiles de integrantes de grupo
 Los siguientes integrantes del grupo son presentados con su carrera y sus conocimientos relevantes al desarrollo de este proyecto.
 
-
+<table>
+  <tr>
+    <th>
+      <img src="assets/sebas_perfil.jpeg" alt="Foto de perfil de" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Ramírez Méndez, Sebastián André</b></p>
+      <p>
+        Soy una persona entusiasta que disfruta colaborar en equipo, y me caracterizo por ser transparente en mis objetivos y en mi enfoque de trabajo. Me enorgullece la capacidad que tengo para complementar a mi equipo en áreas donde puedan necesitar apoyo. Mi pasión por mi carrera me impulsa a desafiar mis habilidades y aspirar a alcanzar todo su potencial.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="" alt="Foto de perfil de" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Apellidos, Nombres</b></p>
+      <p>
+        Descripcion
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="img/nadia_perfil.png" alt="Foto de perfil de Nadia" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Apellidos, Nombres</b></p>
+      <p>
+        Descripcion
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="" alt="Foto de perfil de" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Apellidos, Nombres</b></p>
+      <p>
+        Descripcion
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="" alt="Foto de perfil de" width="700px">
+    </th>
+    <td valign="top">
+      <p><b>Apellidos, Nombres</b></p>
+      <p>
+        Descripcion
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 1.2. Solution Profile
 Nuestro perfil de solución se divide en 2 partes los “Antecedes y Problemática” y el proceso UX.
@@ -420,7 +478,7 @@ Adicionalmente, crearemos una landing page como parte del MVP, orientada a capta
 #### 1.2.2.4. Lean UX Canvas
 En esta sección juntamos la información de los procesos UX y los juntamos en este canvas.
 
-![image_12](assets/image_12.png)
+![Lean Ux Canvas](assets/leanuxcanvas.png)
 
 ## 1.3 Segmentos Objetivo
 
@@ -918,7 +976,7 @@ Browser: Google Chrome<br>
 Device: Móvil Android & Computadora personal Windows<br>
 Distrito: Trujillo, La libertad<br>
 Timing: [0:00]<br>
-![image_49](assets/image_49.png)
+![Interview1](assets/interview1.png)
 <br>
 [Seg1 – Entrevista - 1]
 <br>
@@ -932,7 +990,7 @@ Browser: Google Chrome<br>
 Device: Computadora Personal Windows<br>
 Distrito: San Miguel, Lima<br>
 Timing: [8:14]<br>
-![image_74](assets/image_74.png)
+![Interview2](assets/interview2.png)
 <br>
 [Seg1 -Entrevista - 2]
 <br>
@@ -946,7 +1004,7 @@ Browser: Google Chrome<br>
 Device: Móvil iPhone & Computadora Windows<br>
 Distrito: Miraflores<br>
 Timing: [15:00]<br>
-![image_99](assets/image_99.png)
+![Interview3](assets/interview3.png)
 <br>
 [Seg1 - Entrevista - 3]
 <br>
@@ -961,7 +1019,7 @@ Browser: Google Chrome<br>
 Device: Móvil iPhone<br>
 Distrito: San Borja<br>
 Timing: [24:00]<br>
-![image_114](assets/image_114.png)
+![Interview4](assets/interview4.png)
 <br>
 [Seg2 – Entrevista - 1]
 <br>
@@ -975,7 +1033,7 @@ Browser:  Google<br>
 Device: Android Zte<br>
 Distrito: Magdalena<br>
 Timing: [27:40]<br>
-![image_129](assets/image_129.png)
+![Interview5](assets/interview5.png)
 <br>
 [Seg2 - Entrevista - 2]<br>
 Álvaro comenta sobre su experiencia como voluntario ayudante en una ONG. Se menciona como es la distribución de tareas y la comunicación entre los ayudantes y el gestor del proyecto. También menciona que no es eficiente ni rápida la gestión de la organización y que la espera se pueda mejorar en algún futuro.
@@ -989,8 +1047,8 @@ Device: Móvil Android<br>
 Distrito: Jesús María<br>
 Timing: [32:10]<br>
 <div style="display: flex; justify-content: space-around;">
-  <img src="assets/image_48.png" alt="Image 48" style="width: 45%; margin-right: 10px;">
-  <img src="assets/image_61.png" alt="Image 61" style="width: 45%;">
+  <img src="assets/interview6-1.png" alt="Image 48" style="width: 45%; margin-right: 10px;">
+  <img src="assets/interview6-2.png" alt="Image 61" style="width: 45%;">
 </div>
 <br>
 [Seg2 - Entrevista - 3]<br>
@@ -1022,11 +1080,11 @@ En esta sección nos encargamos de realizar personas en base a las entrevistas e
 En esta sección observamos los dos User personas para nuestros segmentos.<br>
 
 **Segmento 1:**<br>
-![image_90](assets/image_90.png)
+![User Persona](assets/persona1.png)
 <br>
 
 **Segmento 2:**<br>
-![image_7](assets/image_7.png)
+![image_7](assets/persona2.png)
 <br>
 
 ### 2.3.2. User Task Matrix
@@ -1104,23 +1162,23 @@ El User Task Matrix nos sirve para identificar los procesos que realizan ambos s
 El Journey Mapping es necesario para entender el proceso que recorren nuestros segmentos en un escenario común en su área laboral. De esta forma entendemos sus problemas, experiencias, ideas y oportunidades.<br>
 
 **Segmento 1**<br>
-![image_19](assets/image_19.png)
+![User Journey 1](assets/userjourney1.png)
 <br>
 **Segmento 2**<br>
-![image_36](assets/image_36.png)
+![User Journey 2](assets/userjourney2.png)
 <br>
 ### 2.3.4. Empathy Mapping
 
 **Segmento 1:**<br>
-![image_62](assets/image_62.png)
+![Empathy Map 1](assets/empathymap1.png)
 <br>
 **Segmento 2:**<br>
-![image_87](assets/image_87.png)
+![Empathy Map 2](assets/empathymap2.png)
 <br>
 ### 2.3.5. As-is Scenario Mapping
 
-![image_106](assets/image_106.png)
-![image_122](assets/image_122.png)
+![As-Is](assets/asis1.png)
+![As-Is](assets/asis2.png)
 <br>
 
 **Enlace:** https://miro.com/welcomeonboard/NlNXV0pNbjkzNGhhN0RaVE1GZ2QxdEE0T1lxcExSSFRwOFFubkdVZlVMZ2Nuc0U2Z292TXVjZUFsZ3hlczJMWXwzNDU4NzY0NTIyNTI2OTE2NTk0fDI=?share_link_id=464993559168
@@ -1132,8 +1190,8 @@ El Journey Mapping es necesario para entender el proceso que recorren nuestros s
 
 ## 3.1. To-Be Scenario Mapping
 
-![image_50](assets/image_50.png)
-![image_79](assets/image_79.png)
+![To-Be](assets/tobe1.png)
+![To-Be](assets/tobe2.png)
 <br>
 **Enlace:** https://miro.com/welcomeonboard/NlNXV0pNbjkzNGhhN0RaVE1GZ2QxdEE0T1lxcExSSFRwOFFubkdVZlVMZ2Nuc0U2Z292TXVjZUFsZ3hlczJMWXwzNDU4NzY0NTIyNTI2OTE2NTk0fDI=?share_link_id=464993559168  
 ## 3.2. User Stories
@@ -2057,10 +2115,10 @@ Asimismo, se ha realizado un Trello para hacer seguimiento de nuestras tareas.
 
 Esta sección está dedicada a los mapas de impacto de nuestros segmentos objetivos.
 **Segmento 1:**<br>
-![image_13](assets/image_13.png)
+![Impact Mapping 1](assets/impactmapping1.png)
 <br>
 **Segmento 2:**<br>
-![image_26](assets/image_26.png)
+![Impact Mapping 2](assets/impactmapping2.png)
 
 # Capítulo IV: Product Design
 
@@ -2075,17 +2133,17 @@ Como startup, nos esforzamos por transmitir profesionalismo y eficiencia a trav�
 **Color Primario**<br>
 
 Representa confianza, serenidad y estabilidad. Transmite la idea de fiabilidad y compromiso en la gestión de organizaciones benéficas, lo que inspira confianza en los donantes y en aquellos que buscan ayuda.<br>
-![image_75](assets/image_75.png)
+![Primary Color](assets/primarycolor.png)
 <br>
 
 **Color Secundario**<br>
 Este color evoca calma, frescura y bienestar. Simboliza la esperanza y el apoyo el startup ofrece a las personas necesitadas, así como la naturaleza refrescante de las soluciones que proporciona.<br>
-![image_100](assets/image_100.png)
+![Secondary Color](assets/secondarycolor.png)
 <br>
 
 
 **Paleta de colores:**<br>
-![image_115](assets/image_115.png)
+![Color Palette](assets/colorpalette.png)
 
 
 ### 4.1.2.	Web Style Guidelines
