@@ -2186,77 +2186,114 @@ La navegación de la Mobile App se estará basando en un Sistema de navegación 
 ## 4.3.	Landing Page UI Design
 Esta sección está orientada a mostrar el diseño de nuestra landing page la cual es necesaria para presentarnos y promover nuestro producto a los usuarios.
 ### 4.3.1.	Landing Page Wireframe
-![image_130](assets/image_130.png)
-![image_37](assets/image_37.png)
-![image_68](assets/image_68.png)
-![image_91](assets/image_91.png)
-![image_8](assets/image_8.png)
-![image_21](assets/image_21.png)
-![image_38](assets/image_38.png)
+![image_130](assets/landing-wireframe/image_130.png)
+![image_37](assets/landing-wireframe/image_37.png)
+![image_68](assets/landing-wireframe/image_68.png)
+![image_91](assets/landing-wireframe/image_91.png)
+![image_8](assets/landing-wireframe/image_8.png)
+![image_21](assets/landing-wireframe/image_21.png)
+![image_38](assets/landing-wireframe/image_38.png)
 
 ### 4.3.2.	Landing Page Mock-up
-![image_63](assets/image_63.png)
-![image_88](assets/image_88.png)
-![image_107](assets/image_107.png)
-![image_123](assets/image_123.png)
-![image_27](assets/image_27.png)
-![image_57](assets/image_57.png)
-![image_80](assets/image_80.png)
+![image_63](assets/landing-mock-up/image_63.png)
+![image_88](assets/landing-mock-up/image_88.png)
+![image_107](assets/landing-mock-up/image_107.png)
+![image_123](assets/landing-mock-up/image_123.png)
+![image_27](assets/landing-mock-up/image_27.png)
+![image_57](assets/landing-mock-up/image_57.png)
+![image_80](assets/landing-mock-up/image_80.png)
 
 ## 4.4.	Mobile Applications UX/UI Design
 Aquí nos enfocamos en mostrar el diseño de nuestra solución móvil.
 #### 4.4.1.	Mobile Application Wireframe
-![image_1](assets/image_1.png)
-![image_14](assets/image_14.png)
-![image_28](assets/image_28.png)
-![image_51](assets/image_51.png)
-![image_76](assets/image_76.png)
-![image_101](assets/image_101.png)
-![image_116](assets/image_116.png)
-![image_126](assets/image_126.png)
-![image_46](assets/image_46.png)
-![image_69](assets/image_69.png)
-![image_92](assets/image_92.png)
-![image_9](assets/image_9.png)
-![image_22](assets/image_22.png)
-![image_39](assets/image_39.png)
-![image_64](assets/image_64.png)
-![image_93](assets/image_93.png)
-![image_108](assets/image_108.png)
-![image_119](assets/image_119.png)
-![image_29](assets/image_29.png)
+![image_1](assets/mobile-wireframe/image_1.png)
+![image_14](assets/mobile-wireframe/image_14.png)
+![image_28](assets/mobile-wireframe/image_28.png)
+![image_51](assets/mobile-wireframe/image_51.png)
+![image_76](assets/mobile-wireframe/image_76.png)
+![image_101](assets/mobile-wireframe/image_101.png)
+![image_116](assets/mobile-wireframe/image_116.png)
+![image_126](assets/mobile-wireframe/image_126.png)
+![image_46](assets/mobile-wireframe/image_46.png)
+![image_69](assets/mobile-wireframe/image_69.png)
+![image_92](assets/mobile-wireframe/image_92.png)
+![image_9](assets/mobile-wireframe/image_9.png)
+![image_22](assets/mobile-wireframe/image_22.png)
+![image_39](assets/mobile-wireframe/image_39.png)
+![image_64](assets/mobile-wireframe/image_64.png)
+![image_93](assets/mobile-wireframe/image_93.png)
+![image_108](assets/mobile-wireframe/image_108.png)
+![image_119](assets/mobile-wireframe/image_119.png)
+![image_29](assets/mobile-wireframe/image_29.png)
 
 ### 4.4.2.	Mobile Application Wireflow Diagram
 
 Gestor de Proyectos necesita ver el listado de proyectos y las tareas asignadas a estos.<br>
 
-![image_133](assets/image_133.png)
-![image_134](assets/image_134.png)
+![image_133](assets/mobile-wireflow/image_133.png)
+![image_134](assets/mobile-wireflow/image_134.png)
 Como Gestor quiero recibir notificaciones sobre nuevos proyectos o actualizaciones de los existentes<br>
 
-![image_81](assets/image_81.png)
+![image_81](assets/mobile-wireflow/image_81.png)
 Gestor Crea un nuevo proyecto asignado a las tareas a los integrantes<br>
 
-![image_2](assets/image_2.png)
+![image_2](assets/mobile-wireflow/image_2.png)
 Como gestor de proyectos deseo revisar la información del trabajo realizado y exportar la información.<br>
 
-![image_16](assets/image_16.png)
+![image_16](assets/mobile-wireflow/image_16.png)
 
 Como gestor de proyecto deseo agregar un post para mi equipo pueda ver y reaccionar<br>
 
-![image_30](assets/image_30.png)
+![image_30](assets/mobile-wireflow/image_30.png)
 Como miembro de equipo deseo ver las tareas asignadas y las métricas del grupo.<br>
 
-![image_52](assets/image_52.png)
+![image_52](assets/mobile-wireflow/image_52.png)
+
+![image_58](assets/mobile-wireflow/image_58.png)
 
 ### 4.4.3.	Mobile Application Mock-ups
 
-
+![image_3](assets/mobile-mock-up/image_3.png)
+![image_10](assets/mobile-mock-up/image_10.png)
+![image_10](assets/mobile-mock-up/image_11.png)
+![image_15](assets/mobile-mock-up/image_15.png)
+![image_17](assets/mobile-mock-up/image_17.png)
+![image_10](assets/mobile-mock-up/image_23.png)
+![image_24](assets/mobile-mock-up/image_24.png)
+![image_32](assets/mobile-mock-up/image_32.png)
+![image_10](assets/mobile-mock-up/image_40.png)
+![image_43](assets/mobile-mock-up/image_43.png)
+![image_47](assets/mobile-mock-up/image_47.png)
+![image_55](assets/mobile-mock-up/image_55.png)
+![image_52](assets/mobile-mock-up/image_59.png)
+![image_52](assets/mobile-mock-up/image_65.png)
+![image_52](assets/mobile-mock-up/image_67.png)
+![image_10](assets/mobile-mock-up/image_70.png)
+![image_10](assets/mobile-mock-up/image_71.png)
+![image_52](assets/mobile-mock-up/image_72.png)
+![image_52](assets/mobile-mock-up/image_77.png)
+![image_52](assets/mobile-mock-up/image_78.png)
+![image_52](assets/mobile-mock-up/image_82.png)
+![image_52](assets/mobile-mock-up/image_85.png)
+![image_10](assets/mobile-mock-up/image_94.png)
+![image_10](assets/mobile-mock-up/image_95.png)
+![image_52](assets/mobile-mock-up/image_96.png)
+![image_52](assets/mobile-mock-up/image_97.png)
+![image_52](assets/mobile-mock-up/image_98.png)
+![image_52](assets/mobile-mock-up/image_102.png)
+![image_52](assets/mobile-mock-up/image_104.png)
+![image_52](assets/mobile-mock-up/image_111.png)
+![image_52](assets/mobile-mock-up/image_112.png)
+![image_52](assets/mobile-mock-up/image_120.png)
+![image_52](assets/mobile-mock-up/image_127.png)
 
 
 ### 4.4.4.	Mobile Application Userflow Diagram
 
-
+![image_52](assets/mobile-userflow/image_41.png)
+![image_52](assets/mobile-userflow/image_66.png)
+![image_52](assets/mobile-userflow/image_109.png)
+![image_52](assets/mobile-userflow/image_124.png)
 
 ## 4.7.	Mobile Application Prototyping
 Para poder elaborar los prototipos de la interfaz de usuario destinados a Móvil se siguieron una serie de criterios fundamentales, entre ellos:
@@ -2264,19 +2301,35 @@ Claridad y Facilidad: El enfoque fue lograr que la navegación en la aplicación
 Diseño Responsive: Se ha tenido en cuenta la importancia del diseño para garantizar que la aplicación web sea compatible con una variedad tamaños de pantalla, de tal manera que los usuarios no se vean limitados por el dispositivo que utilicen.
 Priorización de Información Relevante: El diseño de la aplicación se enfoca en mostrar únicamente la información más importante para los usuarios pertenecientes al segmento objetivo.
 
+![Mobile Prototyping](assets/prototyping.png)
+
 ## 4.8.	Domain-Driven Software Architecture
 ### 4.8.1.	Software Architecture Context Level Diagram
 
+![C4_context](assets/c4_context.png)
+
 ### 4.8.2.	Software Architecture Container Level Diagram
+
+![C4_container](assets/c4_container.png)
 
 ### 4.8.3.	Software Architecture Components Diagram
 
 
+![C4_Components](assets/c4_components1.png)
 
+![C4_Components2](assets/c4_components2.png)
 
+![C4_Components3](assets/c4_components3.png)
+
+![C4_Components4](assets/c4_components4.png)
+
+![C4_Components5](assets/c4_components5.png)
 
 ## 4.9.	Software Object-Oriented Design
 ### 4.9.1.	Class Diagrams
+
+![Class Diagrams](assets/classdiagrams.png)
+
 
 ### 4.9.2.	Class Dictionary
 Se muestran las clases que son relevantes.
@@ -2290,6 +2343,8 @@ Project – la clase Project representa
 
 
 ## 4.10.	Database Diagram
+
+![Database Diagram](assets/database.png)
 
 ## 4.10.	Relational/Non-Relational Database Diagram
 
@@ -2343,6 +2398,19 @@ Vercel: Vercel es una plataforma en la nube que permite a los desarrolladores cr
 ### 5.2.6. RESTful API documentation
 
 ### 5.2.7. Team Collaboration Insights
+
+![Insights 1](assets/insights1.png)
+
+![Insights 2](assets/insights2.png)
+
+![Insights 3](assets/insights3.png)
+
+![Insights 4](assets/insights4.png)
+
+![Insights 5](assets/insights5.png)
+
+![Insights 6](assets/insights6.png)
+
 
 ## 5.3. Video About-the-Product
 Link: https://youtu.be/5C6CFJQ90q8
@@ -2406,270 +2474,3 @@ Katti, V. S., & Sowmya, K. (2022). Flutter: Cross-platform IDE for mobile applic
 
 [1.1 LeanUX Canvas]:
 [Backend Repositorio]
-
-
-## Imágenes del documento
-
-![image_1](assets/image_1.png)
-
-![image_2](assets/image_2.png)
-
-![image_3](assets/image_3.png)
-
-![image_4](assets/image_4.png)
-
-![image_5](assets/image_5.png)
-
-![image_6](assets/image_6.png)
-
-![image_7](assets/image_7.png)
-
-![image_8](assets/image_8.png)
-
-![image_9](assets/image_9.png)
-
-![image_10](assets/image_10.png)
-
-![image_11](assets/image_11.png)
-
-![image_12](assets/image_12.png)
-
-![image_13](assets/image_13.png)
-
-![image_14](assets/image_14.png)
-
-![image_15](assets/image_15.png)
-
-![image_16](assets/image_16.png)
-
-![image_17](assets/image_17.png)
-
-![image_18](assets/image_18.png)
-
-![image_19](assets/image_19.png)
-
-![image_20](assets/image_20.png)
-
-![image_21](assets/image_21.png)
-
-![image_22](assets/image_22.png)
-
-![image_23](assets/image_23.png)
-
-![image_24](assets/image_24.png)
-
-![image_25](assets/image_25.png)
-
-![image_26](assets/image_26.png)
-
-![image_27](assets/image_27.png)
-
-![image_28](assets/image_28.png)
-
-![image_29](assets/image_29.png)
-
-![image_30](assets/image_30.png)
-
-![image_31](assets/image_31.png)
-
-![image_32](assets/image_32.png)
-
-![image_33](assets/image_33.png)
-
-![image_34](assets/image_34.png)
-
-![image_35](assets/image_35.png)
-
-![image_36](assets/image_36.png)
-
-![image_37](assets/image_37.png)
-
-![image_38](assets/image_38.png)
-
-![image_39](assets/image_39.png)
-
-![image_40](assets/image_40.png)
-
-![image_41](assets/image_41.png)
-
-![image_42](assets/image_42.png)
-
-![image_43](assets/image_43.png)
-
-![image_44](assets/image_44.png)
-
-![image_45](assets/image_45.png)
-
-![image_46](assets/image_46.png)
-
-![image_47](assets/image_47.png)
-
-![image_48](assets/image_48.png)
-
-![image_49](assets/image_49.png)
-
-![image_50](assets/image_50.png)
-
-![image_51](assets/image_51.png)
-
-![image_52](assets/image_52.png)
-
-![image_53](assets/image_53.png)
-
-![image_54](assets/image_54.png)
-
-![image_55](assets/image_55.png)
-
-![image_56](assets/image_56.png)
-
-![image_57](assets/image_57.png)
-
-![image_58](assets/image_58.png)
-
-![image_59](assets/image_59.png)
-
-![image_60](assets/image_60.png)
-
-![image_61](assets/image_61.png)
-
-![image_62](assets/image_62.png)
-
-![image_63](assets/image_63.png)
-
-![image_64](assets/image_64.png)
-
-![image_65](assets/image_65.png)
-
-![image_66](assets/image_66.png)
-
-![image_67](assets/image_67.png)
-
-![image_68](assets/image_68.png)
-
-![image_69](assets/image_69.png)
-
-![image_70](assets/image_70.png)
-
-![image_71](assets/image_71.png)
-
-![image_72](assets/image_72.png)
-
-![image_73](assets/image_73.png)
-
-![image_74](assets/image_74.png)
-
-![image_75](assets/image_75.png)
-
-![image_76](assets/image_76.png)
-
-![image_77](assets/image_77.png)
-
-![image_78](assets/image_78.png)
-
-![image_79](assets/image_79.png)
-
-![image_80](assets/image_80.png)
-
-![image_81](assets/image_81.png)
-
-![image_82](assets/image_82.png)
-
-![image_83](assets/image_83.png)
-
-![image_84](assets/image_84.png)
-
-![image_85](assets/image_85.png)
-
-![image_86](assets/image_86.png)
-
-![image_87](assets/image_87.png)
-
-![image_88](assets/image_88.png)
-
-![image_89](assets/image_89.png)
-
-![image_90](assets/image_90.png)
-
-![image_91](assets/image_91.png)
-
-![image_92](assets/image_92.png)
-
-![image_93](assets/image_93.png)
-
-![image_94](assets/image_94.png)
-
-![image_95](assets/image_95.png)
-
-![image_96](assets/image_96.png)
-
-![image_97](assets/image_97.png)
-
-![image_98](assets/image_98.png)
-
-![image_99](assets/image_99.png)
-
-![image_100](assets/image_100.png)
-
-![image_101](assets/image_101.png)
-
-![image_102](assets/image_102.png)
-
-![image_103](assets/image_103.png)
-
-![image_104](assets/image_104.png)
-
-![image_105](assets/image_105.png)
-
-![image_106](assets/image_106.png)
-
-![image_107](assets/image_107.png)
-
-![image_108](assets/image_108.png)
-
-![image_109](assets/image_109.png)
-
-![image_110](assets/image_110.png)
-
-![image_111](assets/image_111.png)
-
-![image_112](assets/image_112.png)
-
-![image_113](assets/image_113.png)
-
-![image_114](assets/image_114.png)
-
-![image_115](assets/image_115.png)
-
-![image_116](assets/image_116.png)
-
-![image_117](assets/image_117.png)
-
-![image_118](assets/image_118.png)
-
-![image_119](assets/image_119.png)
-
-![image_120](assets/image_120.png)
-
-![image_121](assets/image_121.png)
-
-![image_122](assets/image_122.png)
-
-![image_123](assets/image_123.png)
-
-![image_124](assets/image_124.png)
-
-![image_125](assets/image_125.png)
-
-![image_126](assets/image_126.png)
-
-![image_127](assets/image_127.png)
-
-![image_128](assets/image_128.png)
-
-![image_129](assets/image_129.png)
-
-![image_130](assets/image_130.png)
-
-![image_131](assets/image_131.png)
-
-![image_132](assets/image_132.png)
