@@ -29,8 +29,8 @@
             <td>U20221A359</td>
         </tr>
         <tr>
-            <td>Nombre</td>
-            <td>Codigo</td>
+            <td>Peña Rivera, Manuel Sebastian</td>
+            <td>U202210138</td>
         </tr>
         <tr>
             <td>Nombre</td>
@@ -206,12 +206,12 @@ Los siguientes integrantes del grupo son presentados con su carrera y sus conoci
   </tr>
   <tr>
     <th>
-      <img src="" alt="Foto de perfil de" width="800px">
+      <img src="assets/profile-picture-integrants/Manuel-Peña-Rivera.jpg" alt="Foto de perfil de" width="800px">
     </th>
     <td valign="top">
-      <p><b>Apellidos, Nombres</b></p>
+      <p><b>Peña Rivera, Manuel Sebastian</b></p>
       <p>
-        Descripcion
+        Cuento con experiencia en programación en C++, así como en desarrollo frontend con Vue, Angular y backend con tecnologías como JavaScript, Java, Spring Boot, C# y .NET. Me considero una persona responsable, flexible e innovadora, siempre abierta a escuchar activamente y mejorar en cada proyecto. Me esfuerzo por aprender constantemente y aportar soluciones efectivas, trabajando de manera colaborativa y con una actitud proactiva para lograr los objetivos del equipo.
       </p>
     </td>
   </tr>
