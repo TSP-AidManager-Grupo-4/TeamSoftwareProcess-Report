@@ -195,12 +195,12 @@ Los siguientes integrantes del grupo son presentados con su carrera y sus conoci
   </tr>
   <tr>
     <th>
-      <img src="img/nadia_perfil.png" alt="Foto de perfil de Nadia" width="800px">
+      <img src="assets/profile-picture-integrants/Juan-Cuadros.jpg" alt="Foto de perfil de" width="800px">
     </th>
     <td valign="top">
-      <p><b>Apellidos, Nombres</b></p>
+      <p><b>Cuadros Rodriguez, Juan Alejandro</b></p>
       <p>
-        Descripcion
+        Tengo conocimientos en los lenguajes de programación C/C++, Python y Java. También tengo conocimientos en Análisis de vulnerabilidades y explotación de datos. Estoy comprometido con el equipo y el proyecto.
       </p>
     </td>
   </tr>
