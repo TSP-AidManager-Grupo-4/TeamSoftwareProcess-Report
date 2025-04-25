@@ -460,53 +460,75 @@ siempre son las más efectivas para lo que busca</p></td>
 </tbody>
 </table>
 
-**User Outcomes & Benefits**<br>
+### User Outcomes & Benefits
 
-En esta sección buscamos empatizar con los usuarios y entender sus necesidades emocionales para ofrecerles los resultados correctos a través del producto.<br>
-**¿Qué busca lograr el usuario?**<br>
+En esta sección buscamos **empatizar** con nuestros usuarios, comprender sus necesidades emocionales y funcionales, y ofrecerles resultados tangibles a través de nuestra solución.
 
-Como gestor de una ONG, quiero asegurarme de que las tareas de mi equipo se asignen y monitoreen eficientemente.<br>
+---
 
-Como miembro del equipo, quiero saber qué tareas debo realizar y poder comunicarme fácilmente con el gestor si surge algún problema.<br>
+#### **¿Qué desea lograr el usuario?**
 
-**¿Cómo se quiere sentir el usuario en este proceso?**<br>
+- **Gestor de ONG:** Quiere asegurarse de que las tareas asignadas a su equipo se gestionen de manera clara y se puedan supervisar eficazmente.
+- **Miembro del equipo:** Desea conocer con precisión sus responsabilidades y contar con un canal ágil para comunicarse con su gestor en caso de surgir inconvenientes.
 
-Como gestor, quiero sentir que tengo el control y la capacidad de supervisar todo el proyecto desde una sola plataforma.<br>
+---
 
-Como miembro del equipo, quiero sentir que tengo una línea de comunicación directa y sin barreras con mi gestor.<br>
+#### **¿Cómo quiere sentirse el usuario durante este proceso?**
 
-**¿Cómo nuestro producto acerca al usuario a un logro personal?**<br>
+- **Gestor:** Necesita sentirse en **control**, con la capacidad de supervisar todo el proyecto desde una sola plataforma centralizada.
+- **Miembro del equipo:** Busca sentir que tiene una **comunicación directa y sin barreras**, pudiendo contribuir activamente al proyecto.
 
-El gestor podrá ver un aumento en la eficiencia de su equipo, lo que le permitirá mejorar el impacto del proyecto y sentirse exitoso.<br>
+---
 
-El equipo podrá comunicarse de manera clara y rápida, lo que facilitará el cumplimiento de tareas, ayudando a que se sientan valorados y efectivos.<br>
+#### **¿Cómo nuestro producto contribuye a su logro personal?**
 
-**¿Por qué nuestro usuario buscaría nuestro producto?**<br>
+- El **gestor** experimentará una mejora en la eficiencia operativa de su equipo, lo que incrementará el impacto social del proyecto y reforzará su percepción de **éxito profesional**.
+- El **equipo** tendrá claridad sobre sus tareas y una comunicación fluida, lo que facilitará el cumplimiento de sus funciones y les permitirá sentirse **valorados** y **eficaces**.
 
-El gestor lo busca para mejorar la organización y supervisión de los proyectos sin tener que lidiar con herramientas complicadas o caras.<br>
+---
 
-El equipo lo busca porque simplifica la comunicación y les permite saber claramente qué deben hacer en cada momento.<br>
+#### **¿Por qué nuestro usuario elegiría esta solución?**
 
-**¿Qué cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?**<br>
+- El **gestor** busca simplificar la gestión y supervisión de proyectos, evitando herramientas costosas o innecesariamente complejas.
+- El **equipo** necesita una plataforma intuitiva que facilite la comunicación y les permita tener claridad sobre sus actividades diarias.
 
-Sabremos que tuvimos éxito cuando los gestores de ONG puedan asignar y monitorear tareas de manera eficiente usando la herramienta, y cuando el equipo reporte una mejor comunicación y organización en la ejecución de sus tareas.<br>
+---
 
-**Solutions**<br>
+#### **¿Qué cambios de comportamiento validan el éxito del producto?**
 
-Las soluciones propuestas para las ONG se centran en abordar las necesidades clave identificadas a través del análisis del usuario y las restricciones.<br>
+- Los gestores serán capaces de **asignar y monitorear tareas** de forma efectiva a través de la plataforma.
+- Los equipos reportarán una **mejor comunicación interna** y una mayor **organización** en la ejecución de sus proyectos.
 
-**Monitoreo de proyectos:** Permitirá que los gestores vean el estado de cada proyecto en tiempo real sin tener que recurrir a métodos externos como correos electrónicos o WhatsApp.<br>
+---
 
-**Asignación y seguimiento de tareas:**
-El gestor podrá asignar tareas directamente desde la plataforma y monitorear el progreso de cada una. Solo el usuario asignado podrá marcar la tarea como completada.<br>
+---
 
-**Revisión de inventario:** Facilitaremos el seguimiento de los insumos y materiales necesarios para el proyecto, permitiendo registrar proveedores y cantidades. Esta función es vital para el manejo eficiente de recursos.<br>
+### Solutions
 
-**Gestión financiera:** Utilizaremos métodos básicos como comparación de presupuestos, seguimiento de gastos y finalmente observar oportunidades de optimización.<br>
+Las soluciones propuestas abordan las **necesidades prioritarias** identificadas durante el análisis de usuarios y sus restricciones operativas.
 
-**Comunicación directa:** Una línea de comunicación simple y efectiva entre el gestor y el equipo para resolver dudas o emergencias, eliminando distracciones y mejorando la respuesta rápida.<br>
+---
 
-**Accesibilidad Económica:** Ofrecer subscripciones a base de cantidad de cuentas y no tipos de servicios. Hace que nuestra solución sea más económicamente viable para las ONG emergentes.<br>
+- **Monitoreo de proyectos:**  
+  Visibilidad en tiempo real del estado de cada proyecto, eliminando la necesidad de herramientas externas como correos electrónicos o WhatsApp.
+
+- **Asignación y seguimiento de tareas:**  
+  El gestor podrá asignar tareas desde la plataforma y dar seguimiento al progreso individual. Solo el usuario asignado podrá marcar la tarea como completada, garantizando responsabilidad.
+
+- **Revisión de inventario:**  
+  Gestión eficiente de insumos y materiales mediante el registro de proveedores, cantidades y disponibilidad, facilitando la planificación de recursos.
+
+- **Gestión financiera:**  
+  Herramientas simples para la comparación de presupuestos, control de gastos y detección de oportunidades de optimización financiera.
+
+- **Comunicación directa:**  
+  Canal de comunicación ágil y enfocado entre el gestor y los miembros del equipo, reduciendo distracciones y mejorando la capacidad de respuesta ante imprevistos.
+
+- **Accesibilidad económica:**  
+  Modelos de suscripción basados en el número de cuentas activas, no en tipos de servicio, permitiendo que ONG emergentes accedan a la solución de forma **económicamente viable**.
+
+---
+
 
 ### 1.2.2.3. Lean UX Hypothesis Statement
 
@@ -559,70 +581,21 @@ En esta sección juntamos la información de los procesos UX y los juntamos en e
 
 ## 1.3 Segmentos Objetivo
 
+La segmentación de nuestros usuarios clave nos permite comprender mejor sus necesidades, comportamientos y motivaciones, facilitando la creación de soluciones adecuadas para cada perfil.
 
-<table>
-<colgroup>
-<col style="width: 23%" />
-<col style="width: 37%" />
-<col style="width: 39%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th></th>
-<th>Segmento 1</th>
-<th>Segmento 2</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Variables</td>
-<td>Gestor de proyectos de una ONG</td>
-<td>Ayudante de eventos de ONG</td>
-</tr>
-<tr class="even">
-<td><strong>Geográfica</strong></td>
-<td>En el mundo de hoy para realizar acciones estratégicas y maximizar
-recursos distintas empresas utilizan lo llamado análisis de datos, esta
-práctica se puede aplicar a un modelo de negocios sin fines de lucro
-como las ONG (DigitalForNonprofits, 2023)</td>
-<td>La recogida, división y análisis adecuados de datos recogidos por
-gobiernos, ONG y otros puede mejorar las condiciones de vida y las
-oportunidades de desarrollo para aquellas personas en sociedades que a
-menudo son ignoradas a la hora de recopilar datos. (OHCHR,2022)</td>
-</tr>
-<tr class="odd">
-<td><strong>Demográfica</strong></td>
-<td><p>Edades de entre 18 a 50+ años</p>
-<p>Género: Masculino y Femenino</p></td>
-<td>Edades de entre 18 a 50+ años Género: Masculino y Femenino</td>
-</tr>
-<tr class="even">
-<td><strong>Psicológica</strong></td>
-<td>Estos gestores de proyecto requieren cumplir con un objetivo de
-impacto en sus campañas y eventos. Buscan formas de aumentar el impacto
-general de estos mismos y reducir los gastos mal implementados.</td>
-<td>Los ayudantes tienen como objetivo el poder ser de ayuda a las
-ONG<br />
-participando de sus eventos como staff, recolectando datos de los
-visitantes y fomentando un ambiente placentero para todos los
-mencionados</td>
-</tr>
-<tr class="odd">
-<td><strong>Función de comportamiento</strong></td>
-<td><p>Actitudes: Participa de la creación de proyectos de ayuda social,
-organiza los equipos, presupuestos, objetivos y lugares donde llevar al
-cabo los eventos.</p>
-<p>Conocimientos: Sabe los pasos de organización y conoce herramientas
-para apoyar su proceso, sin embargo, no encuentra muchas que se orienten
-a proyectos de ayuda social.</p></td>
-<td><p>Actitudes: Participan de los eventos como staff para ayudar,
-animar y guiar a los participantes, recolecta la información de los
-participantes y debe dar un reporte a sus supervisores.</p>
-<p>Conoce: Sabe cómo ayudar a los participantes e intenta mantener el
-orden.</p></td>
-</tr>
-</tbody>
-</table>
+---
+
+| **Criterio**                   | **Segmento 1: Gestor de Proyectos ONG**                                                                                                       | **Segmento 2: Ayudante de Eventos ONG**                                                                                                      |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| **Variables**                  | Gestor de proyectos encargado de planificar, organizar y supervisar actividades dentro de una ONG.                                           | Ayudante operativo que colabora en la ejecución de eventos y actividades sociales como parte del equipo de apoyo.                            |
+| **Geográfica**                 | Las ONG en Perú aplican análisis de datos estratégicos para maximizar recursos y optimizar sus proyectos sociales. *(DigitalForNonprofits, 2023)* | La correcta recolección y análisis de datos por parte de ayudantes contribuye a mejorar las condiciones de vida de comunidades vulnerables. *(OHCHR, 2022)* |
+| **Demográfica**                | - Edad: 25 a 50+ años <br> - Género: Masculino y Femenino                                                                                     | - Edad: 18 a 35 años <br> - Género: Masculino y Femenino                                                                                      |
+| **Psicológica**                | - Enfocados en lograr un **impacto significativo** en sus campañas. <br> - Buscan **aumentar eficiencia** y **reducir gastos innecesarios**.  | - Motivados por contribuir activamente al éxito de las actividades sociales. <br> - Desean sentirse útiles y parte del cambio.                |
+| **Comportamiento Funcional**   | - **Actitudes:** Lidera proyectos, coordina equipos, asigna presupuestos, define objetivos y lugares de ejecución. <br> - **Conocimientos:** Tiene experiencia organizativa, pero carece de herramientas específicas para el sector social. | - **Actitudes:** Apoya logísticamente en eventos, anima y guía a los participantes, recoge información clave para los gestores. <br> - **Conocimientos:** Sabe cómo interactuar con el público y garantizar un ambiente ordenado y acogedor. |
+
+---
+
+
 
 # Capitulo II: Requiriments Elicitation & Analysis
 
@@ -1023,28 +996,44 @@ constantes actualizaciones y mejoras costosas.</td>
 </table>
 
 ## 2.2. Entrevistas
+
 ### 2.2.1. Diseño de entrevistas
-Preguntas generales:
-Para esta sección realizamos preguntas simples por cada segmento, para tener una demográfica e información de comportamientos que nos interesan y son relevantes para el proyecto. Por ejemplo, el tipo de browser/navegador que utiliza y los dispositivos que usa con mayor frecuencia. Estas preguntas son importantes para conocer el interés de nuestros usuarios sobre nuestro proyecto y el impacto que tendría en su vida diaria / trabajo.
-1. ¿Cuál es su nombre?
-2. ¿Qué edad tiene?
-3. ¿A qué se dedica?
-4. ¿En qué distrito reside?
+
+Para esta sección realizamos preguntas específicas para cada segmento, con el objetivo de recolectar información demográfica y comportamental relevante para el proyecto. Por ejemplo, indagamos sobre el tipo de navegador y dispositivos que utilizan con mayor frecuencia. Estos datos son clave para comprender el interés de nuestros usuarios y el impacto que nuestra solución podría tener en su vida diaria y entorno laboral.
+
+---
+
+#### **Preguntas Generales**
+
+Estas preguntas se aplicaron a todos los entrevistados, independientemente del segmento:
+
+1. ¿Cuál es su nombre?  
+2. ¿Qué edad tiene?  
+3. ¿A qué se dedica?  
+4. ¿En qué distrito reside?  
 5. ¿Qué navegadores y dispositivos usa?
 
-Entrevistas usuario segmento 1 <br> (Gestor)
-Preguntas enfocadas en los usuarios de segmento 1, jefe de organización, desde su perspectiva laboral/diaria.
-1. ¿Cuándo piensa en gestionar un proyecto en que piensa principalmente?
-2. ¿Qué métodos utiliza para organizar a sus ayudantes y como les asigna tareas?
-3. ¿Qué herramientas usa para gestionar o planificar proyectos?
+---
+
+#### **Entrevistas - Usuario Segmento 1 (Gestor)**
+
+Preguntas enfocadas en los gestores de organización, desde su perspectiva laboral y cotidiana:
+
+1. ¿Cuándo piensa en gestionar un proyecto en qué piensa principalmente?  
+2. ¿Qué métodos utiliza para organizar a sus ayudantes y cómo les asigna tareas?  
+3. ¿Qué herramientas usa para gestionar o planificar proyectos?  
 4. ¿Cómo analiza sus datos (asimismo financieros), qué herramientas/métodos usa?
 
-Entrevistas usuario segmento 2<br> (Empleado)
-Preguntas enfocadas en los usuarios de segmento 2, empleado de organización, desde su perspectiva laboral/diaria.
-1. ¿Qué actividades son las principales en los eventos y como se las asignan?
-2. ¿Cómo recolectan información de los participantes, qué herramientas?
-3. ¿Cómo hacen llegar esta información a los gestores de proyecto?
-4. ¿Si sucede un inconveniente el cual se debe de notificar al gestor del proyecto como se comunica con este, cree que la comunicación con el gestor de proyecto es efectiva?
+---
+
+#### **Entrevistas - Usuario Segmento 2 (Empleado)**
+
+Preguntas enfocadas en los empleados de la organización, considerando su experiencia en los eventos:
+
+1. ¿Qué actividades son las principales en los eventos y cómo se las asignan?  
+2. ¿Cómo recolectan información de los participantes, qué herramientas?  
+3. ¿Cómo hacen llegar esta información a los gestores de proyecto?  
+4. Si sucede un inconveniente que se debe notificar al gestor del proyecto, ¿cómo se comunica con este? ¿Cree que la comunicación con el gestor de proyecto es efectiva?
 
 
 ### 2.2.2. Registro de entrevistas
@@ -1176,17 +1165,27 @@ Arián, practicante de ingeniería de software, participa en proyectos donde la 
 
 
 ## 2.3. Needfinding
-En esta sección nos encargamos de realizar personas en base a las entrevistas e identificar los procesos que hacen nuestros segmentos antes de implementar nuestra solución.
+
+En esta sección se desarrollaron **User Personas** basados en la información recolectada durante las entrevistas. El objetivo es identificar los comportamientos, necesidades y procesos actuales de cada segmento antes de la implementación de nuestra solución.
+
 ### 2.3.1. User Personas
-En esta sección observamos los dos User personas para nuestros segmentos.<br>
 
-**Segmento 1:**<br>
-![User Persona](assets/persona1.png)
-<br>
+A continuación, se presentan las representaciones gráficas de los dos perfiles clave que guían el diseño de nuestra solución:
 
-**Segmento 2:**<br>
-![image_7](assets/persona2.png)
-<br>
+---
+
+**User Persona - Segmento 1 (Gestor de Proyectos):**
+
+![User Persona - Gestor](assets/persona1.png)
+
+---
+
+**User Persona - Segmento 2 (Ayudante de Eventos):**
+
+![User Persona - Ayudante](assets/persona2.png)
+
+---
+
 
 ### 2.3.2. User Task Matrix
 <br>
@@ -1260,32 +1259,71 @@ El User Task Matrix nos sirve para identificar los procesos que realizan ambos s
 </table>
 
 ### 2.3.3. User Journey Mapping
-El Journey Mapping es necesario para entender el proceso que recorren nuestros segmentos en un escenario común en su área laboral. De esta forma entendemos sus problemas, experiencias, ideas y oportunidades.<br>
 
-**Segmento 1**<br>
+El **User Journey Mapping** es fundamental para comprender el recorrido que realizan nuestros segmentos en situaciones comunes dentro de su entorno laboral. A través de esta herramienta, identificamos sus **problemas**, **experiencias**, **emociones** y **oportunidades**, permitiéndonos enfocar nuestra solución en lo que realmente necesitan.
+
+---
+
+**Segmento 1 - Gestor de Proyectos**  
 ![User Journey 1](assets/userjourney1.png)
-<br>
-**Segmento 2**<br>
+
+---
+
+**Segmento 2 - Ayudante de Eventos**  
 ![User Journey 2](assets/userjourney2.png)
-<br>
+
+---
+
 ### 2.3.4. Empathy Mapping
 
-**Segmento 1:**<br>
+El **Empathy Map** nos ayuda a visualizar lo que nuestros usuarios **piensan, sienten, dicen y hacen**, permitiéndonos generar un entendimiento más profundo de su contexto emocional y motivacional.
+
+---
+
+**Segmento 1 - Gestor de Proyectos:**  
 ![Empathy Map 1](assets/empathymap1.png)
-<br>
-**Segmento 2:**<br>
+
+---
+
+**Segmento 2 - Ayudante de Eventos:**  
 ![Empathy Map 2](assets/empathymap2.png)
-<br>
+
+---
+
 ### 2.3.5. As-is Scenario Mapping
 
-![As-Is](assets/asis1.png)
-![As-Is](assets/asis2.png)
-<br>
+A continuación, se presenta el escenario actual (**As-Is**) de nuestros usuarios, antes de la implementación de nuestra solución. Este mapa refleja las actividades, puntos de dolor y métodos actuales que emplean los segmentos.
 
-**Enlace:** https://miro.com/welcomeonboard/NlNXV0pNbjkzNGhhN0RaVE1GZ2QxdEE0T1lxcExSSFRwOFFubkdVZlVMZ2Nuc0U2Z292TXVjZUFsZ3hlczJMWXwzNDU4NzY0NTIyNTI2OTE2NTk0fDI=?share_link_id=464993559168
+---
+
+![As-Is 1](assets/asis1.png)  
+![As-Is 2](assets/asis2.png)
+
+---
+
+**Enlace al mapa interactivo:**  
+[Ver en Miro](https://miro.com/welcomeonboard/NlNXV0pNbjkzNGhhN0RaVE1GZ2QxdEE0T1lxcExSSFRwOFFubkdVZlVMZ2Nuc0U2Z292TXVjZUFsZ3hlczJMWXwzNDU4NzY0NTIyNTI2OTE2NTk0fDI=?share_link_id=464993559168)
+
+---
 
 
 ## 2.4. Ubiquitous Language
+
+En esta sección definimos los **términos clave** utilizados por los usuarios y el equipo de desarrollo, con el fin de garantizar una comprensión común y coherente durante todo el proyecto.
+
+| **Término**             | **Definición**                                                                                                 |
+|-------------------------|---------------------------------------------------------------------------------------------------------------|
+| **Gestor de Proyectos** | Usuario responsable de planificar, asignar y supervisar las tareas dentro de la ONG.                         |
+| **Ayudante / Staff**    | Usuario que colabora en la ejecución de actividades y eventos, y reporta al gestor.                           |
+| **Tarea**               | Actividad específica asignada a un miembro del equipo, con fecha límite y objetivo claro.                     |
+| **Proyecto**            | Conjunto de tareas organizadas que buscan lograr un impacto social específico dentro de la ONG.               |
+| **MVP**                 | Producto Mínimo Viable, primera versión funcional de la solución con características esenciales.              |
+| **Dashboard**           | Interfaz visual que permite al gestor visualizar el estado de proyectos, tareas y comunicación.               |
+| **Inventario**          | Registro de insumos y materiales necesarios para llevar a cabo las actividades de la ONG.                     |
+| **Comunicación Directa**| Canal interno dentro de la plataforma que permite a los usuarios intercambiar mensajes o alertas rápidamente. |
+| **Landing Page**        | Página web introductoria para presentar el producto y captar el interés de los usuarios.                      |
+| **Suscripción**         | Plan de acceso a la plataforma basado en cantidad de usuarios registrados y funcionalidades disponibles.      |
+
 
 # Capítulo III: Requirements Specifications
 
