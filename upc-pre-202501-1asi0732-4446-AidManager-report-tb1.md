@@ -2196,34 +2196,11 @@ Tendremos iconografía de búsqueda, lápiz, ropa, reciclaje, icono de gráfico,
 Se determina el color y posición según la sección
 <center><img src="assets/StyleGuidelines-images/aww-10.png" alt="app web wireframe10" style="width:80%;"></center>
 
-Descripcion de los elementos que se utilizaran en el web app
 
-Background: (primary, secondary, terniary)
+Se muestra un style guidelines general que engloba la mayoría de diseño:
 
-Para el background se hace uso del color FFFFF para resaltar la pagina y para separar secciones D9ED8F Background Preview web
+<center><img src="assets/StyleGuidelines-images/StyleGuidelines.png" alt="Guidelines" style="width:80%;"></center>
 
-<img src="assets/StyleGuidelines-images/Background.png" alt="Background" width="800px">
-
-
-Text Styles: (H1, H2, p, a,)
-
-Para el texto se escogieron colores que combinan con la tematica de la pagina y que facilitan la lectura del usuario
-
-<img src="assets/StyleGuidelines-images/TextStyles.png" alt="TextStylesExample" width="800px">
-
-Button Styles: (Button, dropdowns, Switches)
-
-Para los botones el color cambia segun el color del fondo
-
-<img src="assets/StyleGuidelines-images/ButtonStyles.png" alt="Button" width="800px">
-
-Icons: (Fondo blanco con los iconos que vamos a usar) Tendremos iconografia de busqueda, lapiz, ropa, reciclaje, icono de grafico, foco, etc
-
-<img src="assets/StyleGuidelines-images/Icons.png" alt="Icons" width="800px">
-
-Misc Se determina el color y posicion segun la seccion
-
-<img src="assets/StyleGuidelines-images/Misc.png" alt="Misc" width="800px">
 
 
 ### 4.1.3.	Mobile Style Guidelines
@@ -2409,6 +2386,12 @@ Se presenta asimismo el prototipo del figma realizado
 https://www.figma.com/proto/I9eSDqC0GqeOs3fNvBbJAv/AidManager-app-web-Wireframe--Copy-?node-id=2301-10003&starting-point-node-id=2139%3A128776&t=5t7TF9vFAZDk7V2n-1
 ```
 
+link del video prototipo:
+
+```
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/Ec5ztdvdCSNBsrwPHs9oaPwBUkfUaqyH38pDoOj_rVYPTg?e=nVMy6P&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+```
+
 ## 4.8.	Domain-Driven Software Architecture
 ### 4.8.1.	Software Architecture Context Level Diagram
 
@@ -2519,9 +2502,345 @@ Se presenta la implementación de la aplicación móvil, en esta entrega se pued
 
 Se presenta la implementación de la aplicación back end, se toma en cuenta también la base de datos en un servicio cloud.
 
+Primero que nada evidencias del funcionamiento en swagger
+<center><img src="assets/Implementations/Swagger.png" alt="swagger deployed" style="width:80%;"></center>
+
+Seguimos con evidencias del deployment en railway
+<center><img src="assets/Implementations/Railway.png" alt="railway deployment" style="width:80%;"></center>
+
 ### 5.2.6. RESTful API documentation
 
 Se presenta la documentación de la API mencionando los endpoints que tiene.
+
+#### Analytics
+
+```
+GET
+/api/v1/projects/{projectId}/analytics
+Get Analytics by Project Id
+
+PATCH
+/api/v1/projects/{projectId}/analytics/lines
+Update BarData
+
+PATCH
+/api/v1/projects/{projectId}/analytics/bardata
+Update LineBarData
+
+
+PATCH
+/api/v1/projects/{projectId}/analytics/tasks
+
+
+PATCH
+/api/v1/projects/{projectId}/analytics/progressbar
+
+
+PATCH
+/api/v1/projects/{projectId}/analytics/status
+
+
+GET
+/api/v1/analytics-by-company/{companyId}
+Get Analytics by Company Id
+
+```
+#### Authentication
+```
+
+
+POST
+/api/v1/authentication/sign-in
+SignIn
+
+```
+
+#### Comments
+
+```
+POST
+/api/v1/posts/{postId}/comments
+Post comment
+
+
+GET
+/api/v1/posts/{postId}/comments
+Get comments
+
+
+DELETE
+/api/v1/posts/{postId}/comments/{commentId}
+Delete comment
+
+
+GET
+/api/v1/posts/{postId}/comments/{commentId}
+Get a specific comment
+
+
+GET
+/api/v1/comments/user/{userId}
+Get comments by User Id
+```
+#### Company
+```
+
+GET
+/api/v1/company/{companyId}
+Get Company by Id
+
+
+PUT
+/api/v1/company/{companyId}
+Update Company
+```
+
+#### Events
+
+```
+POST
+/api/v1/events
+
+
+GET
+/api/v1/events
+
+
+GET
+/api/v1/events/{projectId}
+
+
+PUT
+/api/v1/events/{eventId}
+
+
+DELETE
+/api/v1/events/{eventId}
+
+```
+
+#### PaymentDetail
+
+```
+
+POST
+/api/v1/payment-detail
+
+
+GET
+/api/v1/payment-detail/{id}
+
+```
+#### PostInteraction
+```
+
+POST
+/api/v1/posts/post-interaction
+Add Favorite Post
+
+
+DELETE
+/api/v1/posts/post-interaction
+Remove favorite post
+
+
+GET
+/api/v1/posts/post-interaction/user/{userId}
+Get all favorite posts by user id
+```
+#### Posts
+
+```
+POST
+/api/v1/posts
+Create a new post
+
+
+PUT
+/api/v1/posts/{id}/update/{userId}/company/{companyId}
+Update post by id
+
+
+PATCH
+/api/v1/posts/{id}/rating/{userId}
+Update rating field of post by id
+
+
+GET
+/api/v1/posts/{id}
+Get post by id
+
+
+DELETE
+/api/v1/posts/{id}
+Delete post by id
+
+
+GET
+/api/v1/posts/company/{companyId}
+Get all posts by company id
+
+
+GET
+/api/v1/posts/user/{userId}
+Get all posts by author/user id
+
+
+GET
+/api/v1/posts/liked/{userId}
+Get all liked posts by user id
+```
+#### Projects
+
+```
+POST
+/api/v1/projects
+Creates a Project
+
+
+PUT
+/api/v1/projects/{projectId}
+Update project
+
+
+PATCH
+/api/v1/projects/{projectId}
+Update project rating
+
+
+DELETE
+/api/v1/projects/{projectId}
+Delete project
+
+
+GET
+/api/v1/projects/{companyId}
+Get All Projects
+
+
+GET
+/api/v1/projects/get/{projectId}
+Get Project
+
+
+PATCH
+/api/v1/projects/{projectId}/images
+Update a project Images
+
+
+GET
+/api/v1/projects/team/{projectId}
+Get all project Team Members
+
+
+GET
+/api/v1/projects/user/{userId}
+Get all projects by user
+
+
+POST
+/api/v1/projects/favorite
+Save project as favorite
+
+
+DELETE
+/api/v1/projects/favorite
+Delete project from favorite
+
+
+GET
+/api/v1/projects/favorite/{userId}
+Get all favorite projects by user
+
+```
+
+#### TaskItems
+
+
+```
+
+POST
+/api/v1/projects/{projectId}/task-items
+Creates a Task
+
+
+GET
+/api/v1/projects/{projectId}/task-items/{id}
+Get a Task by Id
+
+
+PATCH
+/api/v1/projects/{projectId}/task-items/{id}
+Change Status
+
+
+DELETE
+/api/v1/projects/{projectId}/task-items/{id}
+Deletes a Task
+
+
+PUT
+/api/v1/projects/{projectId}/task-items/edit/{id}
+Update a Task
+
+
+GET
+/api/v1/projects/{projectId}/task-items/all
+Get All Tasks from a project
+
+
+GET
+/api/v1/company-tasks/{companyId}
+Get All Tasks from a Company
+
+
+GET
+/api/v1/company-tasks/{companyId}/user/{userId}
+Get All Tasks assigned User by Company
+
+
+GET
+/api/v1/projects/{projectId}/task-items/user/{userId}
+Get All Tasks by User
+```
+
+#### Users
+
+```
+POST
+/api/v1/users/sign-up
+Creates a new user
+
+
+GET
+/api/v1/users/{companyId}
+Obtains all users
+
+
+GET
+/api/v1/users/user/{id}
+Obtains a user by id
+
+
+PUT
+/api/v1/users/{userId}
+Update a User
+
+
+PATCH
+/api/v1/users/update-image/{userId}
+Update User Image
+
+
+DELETE
+/api/v1/users/kick-member/{userId}
+Kick User
+
+GET
+/api/v1/users/deleted-users/{companyId}
+Obtains all deleted users
+
+```
 
 ### 5.2.7. Team Collaboration Insights
 
