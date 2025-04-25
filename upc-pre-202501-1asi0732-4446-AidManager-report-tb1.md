@@ -969,7 +969,7 @@ Preguntas enfocadas en los usuarios de segmento 2, empleado de organización, de
 3. ¿Cómo hacen llegar esta información a los gestores de proyecto?
 4. ¿Si sucede un inconveniente el cual se debe de notificar al gestor del proyecto como se comunica con este, cree que la comunicación con el gestor de proyecto es efectiva?
 ### 2.2.2. Registro de entrevistas
-Las entrevistas están en un video en el siguiente URL:<br>
+Las entrevistas están en un video en el siguiente URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETGPw2njqWZHl6IrOkDoq0wBvExjz8a2pqnBQaWcUuKs8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MHCwWy <br>
 **Segmento 1**<br>
 Nombre: María José Meléndez Villa-Lobos<br>
 Edad: 53 años<br>
