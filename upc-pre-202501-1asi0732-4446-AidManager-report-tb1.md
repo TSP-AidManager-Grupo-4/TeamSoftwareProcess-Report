@@ -195,8 +195,8 @@ En ambos casos se puede observar el incremento de modificaciones y revisiones en
 
 | **Criterio Específico** | **Acciones Realizadas** | **Conclusiones** |
 |-------------------------|-------------------------|------------------|
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | Sebastián Ramírez Hoffmann **TB1**: <br> participó activamente en todas las etapas del proyecto, actualizando sus conocimientos en desarrollo backend mediante el uso de tecnologías modernas. Contribuyó a la definición de las **style guidelines** del sistema y aplicó principios de diseño centrado en el usuario dentro del enfoque **Lean UX**. Esta participación permitió la integración efectiva entre los requerimientos técnicos y las necesidades del usuario final.   | El equipo logró actualizar y aplicar conceptos relevantes en soluciones de software, lo que contribuyó al fortalecimiento de nuestras competencias profesionales. Esta actualización de conocimientos fue clave para el desarrollo del proyecto. |
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. | Sebastián Ramirez Hoffmann **TB1**: <br> Asumí una actitud activa de aprendizaje permanente durante todo el desarrollo del proyecto. Participé en las entrevistas a usuarios, analicé sus necesidades e incorporó ese conocimiento en decisiones técnicas. | A lo largo del proyecto, el grupo demostró consciencia sobre la importancia del aprendizaje permanente mediante la búsqueda de información actualizada, la revisión constante de buenas prácticas en software y la reflexión grupal sobre el trabajo realizado.|
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | **Ramírez Hoffmann, Sebastián** <br> **TB1**: <br> Participé activamente en todas las etapas del proyecto, actualizando mis conocimientos en desarrollo backend mediante el uso de tecnologías modernas. Contribuí a la definición de las **style guidelines** del sistema y apliqué principios de diseño centrado en el usuario dentro del enfoque **Lean UX**. Esta participación permitió la integración efectiva entre los requerimientos técnicos y las necesidades del usuario final. <br><br> **Ramírez Méndez, Sebastián André** <br> **TB1**: <br> Reforcé mis conocimientos en gestión de proyectos aplicando metodologías ágiles. Contribuí al desarrollo de la interfaz de usuario, incorporando conceptos de accesibilidad y usabilidad. Investigué y propuse mejoras en la estructura de datos, y participé en la validación técnica del MVP para asegurar su viabilidad. <br><br> **Apellidos, Nombres** <br> **TB1**: <br> _[Espacio libre para completar]_ <br><br> **Apellidos, Nombres** <br> **TB1**: <br> _[Espacio libre para completar]_ <br><br> **Apellidos, Nombres** <br> **TB1**: <br> _[Espacio libre para completar]_ | El equipo logró actualizar y aplicar conceptos relevantes en soluciones de software, lo que contribuyó al fortalecimiento de nuestras competencias profesionales. Esta actualización de conocimientos fue clave para el desarrollo del proyecto. |
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. | **Ramírez Hoffmann, Sebastián** <br> **TB1**: <br> Asumí una actitud activa de aprendizaje permanente durante todo el desarrollo del proyecto. Participé en las entrevistas a usuarios, analicé sus necesidades e incorporé ese conocimiento en decisiones técnicas. <br><br> **Ramírez Méndez, Sebastián André** <br> **TB1**: <br> Mantuve un compromiso constante con el aprendizaje, explorando nuevas herramientas de gestión colaborativa. Lideré sesiones de revisión técnica y busqué información actualizada para mejorar nuestras decisiones. Fomenté la mejora continua dentro del equipo, asegurando que nuestras soluciones estuvieran alineadas con las mejores prácticas. <br><br> **Apellidos, Nombres** <br> **TB1**: <br> _[Espacio libre para completar]_ <br><br> **Apellidos, Nombres** <br> **TB1**: <br> _[Espacio libre para completar]_ <br><br> **Apellidos, Nombres** <br> **TB1**: <br> _[Espacio libre para completar]_ | A lo largo del proyecto, el grupo demostró consciencia sobre la importancia del aprendizaje permanente mediante la búsqueda de información actualizada, la revisión constante de buenas prácticas en software y la reflexión grupal sobre el trabajo realizado. |
 
 
 
@@ -205,11 +205,23 @@ En ambos casos se puede observar el incremento de modificaciones y revisiones en
 
 
 ## 1.1. Startup Profile
-La sección de startup profile es requerida para hacer una introducción a nuestro equipo y startup.
-### 1.1.1. Descripción del Startup
-Nuestro startup AidRecruits se basa en un equipo orientado en mejorar la calidad de la ayuda social en el Perú intentando mejorar el impacto positivo en nuestra sociedad, por medio de soluciones tecnológicas buscamos mejorar las condiciones administrativas de las ONG con la visión de poder aumentar la solidaridad a nivel nacional y en un futuro internacional.
+
+Esta sección introduce a nuestro equipo y presenta la esencia de nuestra startup.
+
+### 1.1.1. Descripción de la Startup
+
+**AidRecruits** es una startup comprometida con transformar la forma en que las **ONG** gestionan y amplifican su impacto social en el Perú. Nuestro objetivo es potenciar la **calidad de la ayuda social**, desarrollando soluciones tecnológicas innovadoras que optimicen los procesos administrativos y operativos de estas organizaciones.
+
+Buscamos brindar herramientas accesibles y efectivas que permitan a las ONG enfocarse en lo que realmente importa: **ayudar a las comunidades que más lo necesitan**. En un entorno donde los recursos son limitados y los desafíos constantes, creemos que la tecnología puede ser el catalizador para un cambio duradero.
+
+Con una visión centrada en la **solidaridad nacional** y la proyección hacia un futuro **internacional**, fortalecemos la capacidad de las ONG para generar un cambio real y sostenible en la sociedad. A través de plataformas diseñadas específicamente para sus necesidades, facilitamos la organización, la transparencia y la colaboración.
+
+Creemos firmemente que, mediante el uso eficiente de la tecnología, es posible construir un entorno más justo, inclusivo y eficiente, donde cada proyecto social logre alcanzar su máximo potencial y donde las barreras administrativas ya no limiten el deseo de ayudar.
+
+---
 
 ![logo](assets/logo.png)
+
 
 ### 1.1.2. Perfiles de integrantes de grupo
 Los siguientes integrantes del grupo son presentados con su carrera y sus conocimientos relevantes al desarrollo de este proyecto.
@@ -359,12 +371,24 @@ una comunicación abierta y efectiva entre todos los miembros del equipo.<br>
 **How Much (¿Cuánto costaría?):** La aplicación tendrá sus funcionalidades Core a medio de pago es decir el proceso de gestión recopilación y refinamiento de datos junto con las mejores oportunidades de mejora para estas. Tanto el Core de la aplicación como la suscripción se tendrán que renovar cada cierto tiempo donde las organizaciones se tendrán que escoger un plan anual o mensual. No obstante, contamos con un límite de cuentas en el plan y si el usuario es parte de una organización más grande entonces ofreceremos un plan con mayor cantidad de cuentas.
 
 ### 1.2.2. Lean UX Process
-Los procesos lean UX son críticos para poder definir bien las ideas que tenemos y realizar un plan de acción para las preguntas que necesitamos responder por medio del Needfinding.
+
+Los procesos Lean UX son fundamentales para definir con precisión nuestras ideas y establecer un plan de acción enfocado en responder preguntas clave a través del **Needfinding**.
+
 #### 1.2.2.1. Lean UX Problem Statement
-Hablamos de la situación actual, la competencia y la propuesta de solución.
-Las ONG en Perú enfrentan una falta de organización que limita su capacidad de generar un impacto significativo. Esta ineficiencia afecta principalmente la gestión de fondos, la capacitación, la comunicación y la supervisión. A pesar de las oportunidades de mejorar a través de una planificación adecuada, muchas ONG no están conscientes de los beneficios de una gestión efectiva. Esta falta de organización daña la imagen de las ONG, reduce la eficiencia de sus proyectos y disminuye el impacto que pueden generar.
-Los productos de gestión disponibles en el mercado suelen ser costosos y poco accesibles para la mayoría de las ONG peruanas, que no disponen de los recursos para adquirir estas soluciones. Además, muchas de estas herramientas son excesivamente complejas, con demasiadas funciones, lo que dificulta la adaptación de los equipos y aumenta la resistencia a su implementación.
-¿Cómo podemos ofrecer una solución de gestión de proyectos accesible, adaptada a las necesidades de las ONG en Perú, que les permita optimizar sus operaciones, mejorar su eficiencia y aumentar su impacto social?
+
+Este apartado aborda la situación actual del sector, las limitaciones de la competencia y nuestra propuesta de solución.
+
+Las **ONG en Perú** enfrentan una notoria falta de organización que limita su capacidad de generar un **impacto significativo**. Esta ineficiencia afecta especialmente la **gestión de fondos**, la **capacitación**, la **comunicación interna** y la **supervisión de proyectos**. A pesar de las oportunidades existentes para mejorar mediante una planificación adecuada, muchas ONG no son plenamente conscientes de los beneficios que una gestión efectiva puede brindarles.
+
+Esta falta de organización no solo perjudica la imagen de las ONG, sino que también reduce la **eficacia de sus iniciativas** y disminuye el alcance e impacto que podrían lograr.
+
+Por otro lado, los productos de gestión actualmente disponibles en el mercado son, en su mayoría:
+- **Costosos**, y por ende poco accesibles para la mayoría de ONG peruanas, que operan con recursos limitados.
+- **Excesivamente complejos**, con funcionalidades que no se ajustan a sus necesidades reales, lo cual dificulta la adopción y genera resistencia entre sus equipos.
+
+> **Pregunta clave:**  
+> ¿Cómo podemos ofrecer una **solución de gestión de proyectos accesible**, adaptada a las **necesidades reales de las ONG en Perú**, que les permita optimizar sus operaciones, mejorar su eficiencia y aumentar su impacto social?
+
 #### 1.2.2.2. Lean UX Assumptions
 **Business Outcome**<br>
 
@@ -435,89 +459,120 @@ siempre son las más efectivas para lo que busca</p></td>
 </tr>
 </tbody>
 </table>
-**User Outcomes & Benefits**<br>
 
-En esta sección buscamos empatizar con los usuarios y entender sus necesidades emocionales para ofrecerles los resultados correctos a través del producto.<br>
-**¿Qué busca lograr el usuario?**<br>
+### User Outcomes & Benefits
 
-Como gestor de una ONG, quiero asegurarme de que las tareas de mi equipo se asignen y monitoreen eficientemente.<br>
+En esta sección buscamos **empatizar** con nuestros usuarios, comprender sus necesidades emocionales y funcionales, y ofrecerles resultados tangibles a través de nuestra solución.
 
-Como miembro del equipo, quiero saber qué tareas debo realizar y poder comunicarme fácilmente con el gestor si surge algún problema.<br>
+---
 
-**¿Cómo se quiere sentir el usuario en este proceso?**<br>
+#### **¿Qué desea lograr el usuario?**
 
-Como gestor, quiero sentir que tengo el control y la capacidad de supervisar todo el proyecto desde una sola plataforma.<br>
+- **Gestor de ONG:** Quiere asegurarse de que las tareas asignadas a su equipo se gestionen de manera clara y se puedan supervisar eficazmente.
+- **Miembro del equipo:** Desea conocer con precisión sus responsabilidades y contar con un canal ágil para comunicarse con su gestor en caso de surgir inconvenientes.
 
-Como miembro del equipo, quiero sentir que tengo una línea de comunicación directa y sin barreras con mi gestor.<br>
+---
 
-**¿Cómo nuestro producto acerca al usuario a un logro personal?**<br>
+#### **¿Cómo quiere sentirse el usuario durante este proceso?**
 
-El gestor podrá ver un aumento en la eficiencia de su equipo, lo que le permitirá mejorar el impacto del proyecto y sentirse exitoso.<br>
+- **Gestor:** Necesita sentirse en **control**, con la capacidad de supervisar todo el proyecto desde una sola plataforma centralizada.
+- **Miembro del equipo:** Busca sentir que tiene una **comunicación directa y sin barreras**, pudiendo contribuir activamente al proyecto.
 
-El equipo podrá comunicarse de manera clara y rápida, lo que facilitará el cumplimiento de tareas, ayudando a que se sientan valorados y efectivos.<br>
+---
 
-**¿Por qué nuestro usuario buscaría nuestro producto?**<br>
+#### **¿Cómo nuestro producto contribuye a su logro personal?**
 
-El gestor lo busca para mejorar la organización y supervisión de los proyectos sin tener que lidiar con herramientas complicadas o caras.<br>
+- El **gestor** experimentará una mejora en la eficiencia operativa de su equipo, lo que incrementará el impacto social del proyecto y reforzará su percepción de **éxito profesional**.
+- El **equipo** tendrá claridad sobre sus tareas y una comunicación fluida, lo que facilitará el cumplimiento de sus funciones y les permitirá sentirse **valorados** y **eficaces**.
 
-El equipo lo busca porque simplifica la comunicación y les permite saber claramente qué deben hacer en cada momento.<br>
+---
 
-**¿Qué cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?**<br>
+#### **¿Por qué nuestro usuario elegiría esta solución?**
 
-Sabremos que tuvimos éxito cuando los gestores de ONG puedan asignar y monitorear tareas de manera eficiente usando la herramienta, y cuando el equipo reporte una mejor comunicación y organización en la ejecución de sus tareas.<br>
+- El **gestor** busca simplificar la gestión y supervisión de proyectos, evitando herramientas costosas o innecesariamente complejas.
+- El **equipo** necesita una plataforma intuitiva que facilite la comunicación y les permita tener claridad sobre sus actividades diarias.
 
-**Solutions**<br>
+---
 
-Las soluciones propuestas para las ONG se centran en abordar las necesidades clave identificadas a través del análisis del usuario y las restricciones.<br>
+#### **¿Qué cambios de comportamiento validan el éxito del producto?**
 
-**Monitoreo de proyectos:** Permitirá que los gestores vean el estado de cada proyecto en tiempo real sin tener que recurrir a métodos externos como correos electrónicos o WhatsApp.<br>
+- Los gestores serán capaces de **asignar y monitorear tareas** de forma efectiva a través de la plataforma.
+- Los equipos reportarán una **mejor comunicación interna** y una mayor **organización** en la ejecución de sus proyectos.
 
-**Asignación y seguimiento de tareas:**
-El gestor podrá asignar tareas directamente desde la plataforma y monitorear el progreso de cada una. Solo el usuario asignado podrá marcar la tarea como completada.<br>
+---
 
-**Revisión de inventario:** Facilitaremos el seguimiento de los insumos y materiales necesarios para el proyecto, permitiendo registrar proveedores y cantidades. Esta función es vital para el manejo eficiente de recursos.<br>
+---
 
-**Gestión financiera:** Utilizaremos métodos básicos como comparación de presupuestos, seguimiento de gastos y finalmente observar oportunidades de optimización.<br>
+### Solutions
 
-**Comunicación directa:** Una línea de comunicación simple y efectiva entre el gestor y el equipo para resolver dudas o emergencias, eliminando distracciones y mejorando la respuesta rápida.<br>
+Las soluciones propuestas abordan las **necesidades prioritarias** identificadas durante el análisis de usuarios y sus restricciones operativas.
 
-**Accesibilidad Económica:** Ofrecer subscripciones a base de cantidad de cuentas y no tipos de servicios. Hace que nuestra solución sea más económicamente viable para las ONG emergentes.<br>
+---
 
-#### 1.2.2.3. Lean UX Hypothesis Statement
-**Hipótesis**<br>
+- **Monitoreo de proyectos:**  
+  Visibilidad en tiempo real del estado de cada proyecto, eliminando la necesidad de herramientas externas como correos electrónicos o WhatsApp.
 
-Siguiendo el formato de las Hipótesis usaremos la tabla de hipótesis.<br>
+- **Asignación y seguimiento de tareas:**  
+  El gestor podrá asignar tareas desde la plataforma y dar seguimiento al progreso individual. Solo el usuario asignado podrá marcar la tarea como completada, garantizando responsabilidad.
 
-Creemos que, al implementar una función de gestión de tareas intuitiva y eficiente para los gestores de proyectos, aumentaremos la retención de usuarios.<br>
+- **Revisión de inventario:**  
+  Gestión eficiente de insumos y materiales mediante el registro de proveedores, cantidades y disponibilidad, facilitando la planificación de recursos.
 
-Sabremos que estamos en lo correcto cuando observemos un aumento del 20% en el número de usuarios activos recurrentes dentro de los primeros tres meses de uso.<br>
+- **Gestión financiera:**  
+  Herramientas simples para la comparación de presupuestos, control de gastos y detección de oportunidades de optimización financiera.
 
-Creemos que, al ofrecer una vista centrada en el análisis financiero para gestionar presupuestos y gastos del proyecto, mejoraremos la retención de usuarios.<br>
+- **Comunicación directa:**  
+  Canal de comunicación ágil y enfocado entre el gestor y los miembros del equipo, reduciendo distracciones y mejorando la capacidad de respuesta ante imprevistos.
 
-Sabremos que estamos en lo correcto cuando observemos una reducción del 25% en las consultas de soporte relacionadas con la gestión financiera y un aumento en el uso de esta funcionalidad.<br>
+- **Accesibilidad económica:**  
+  Modelos de suscripción basados en el número de cuentas activas, no en tipos de servicio, permitiendo que ONG emergentes accedan a la solución de forma **económicamente viable**.
 
-Creemos que, al proporcionar herramientas de gestión, análisis y comunicación que incrementen el impacto de los proyectos, mejoraremos la retención de usuarios.<br>
+---
 
-Sabremos que estamos en lo correcto cuando observemos un aumento del 60% en la tasa de usuarios recurrentes y un incremento medible en el impacto de sus proyectos.<br>
 
-Creemos que, al implementar un sistema de comunicación eficiente entre gestores de proyecto y ayudantes, mejoraremos la interacción y retención de usuarios.<br>
+### 1.2.2.3. Lean UX Hypothesis Statement
 
-Sabremos que estamos en lo correcto cuando observemos un aumento del 20% en la frecuencia de uso de la función de comunicación dentro de los primeros tres meses.<br>
+---
 
-Creemos que, al ofrecer un plan mejorado que permita a los gestores de proyectos agregar más integrantes a sus cuentas, aumentaremos nuestras ganancias.<br>
+#### **Hipótesis**
 
-Sabremos que estamos en lo correcto cuando el 10% de los usuarios se suscriba al plan mejorado dentro de los primeros seis meses de la implementación.<br>
+A continuación, se presenta la tabla de hipótesis siguiendo el enfoque Lean UX:
 
-**Lo más importante que debemos aprender**<br>
+| **Creencia** | **Validación** |
+|--------------|----------------|
+| Creemos que al implementar una función de **gestión de tareas intuitiva y eficiente** para los gestores de proyectos, aumentaremos la **retención de usuarios**. | Sabremos que estamos en lo correcto cuando observemos un **aumento del 20%** en el número de **usuarios activos recurrentes** dentro de los **primeros tres meses** de uso. |
+| Creemos que al ofrecer una vista centrada en el **análisis financiero** para gestionar presupuestos y gastos, mejoraremos la **retención de usuarios**. | Sabremos que estamos en lo correcto cuando observemos una **reducción del 25%** en las **consultas de soporte** sobre gestión financiera y un **aumento** en el **uso de esta funcionalidad**. |
+| Creemos que al proporcionar herramientas de **gestión, análisis y comunicación** que incrementen el **impacto de los proyectos**, mejoraremos la **retención de usuarios**. | Sabremos que estamos en lo correcto cuando observemos un **aumento del 60%** en la **tasa de usuarios recurrentes** y un **incremento medible** en el impacto de sus proyectos. |
+| Creemos que al implementar un sistema de **comunicación eficiente** entre gestores de proyectos y ayudantes, mejoraremos la **interacción** y **retención de usuarios**. | Sabremos que estamos en lo correcto cuando observemos un **aumento del 20%** en la **frecuencia de uso** de la función de comunicación dentro de los **primeros tres meses**. |
+| Creemos que al ofrecer un **plan mejorado** que permita a los gestores agregar más integrantes a sus cuentas, aumentaremos nuestras **ganancias**. | Sabremos que estamos en lo correcto cuando al menos el **10% de los usuarios** se **suscriba** al plan mejorado dentro de los **primeros seis meses**. |
 
-Para el éxito de nuestro proyecto, es fundamental identificar si los usuarios realmente estarán interesados en nuestra propuesta "innovadora". Aunque existan otras herramientas similares en el mercado, es crucial confirmar si nuestra solución es realmente necesaria y si puede satisfacer las necesidades de las ONG en Perú.<br>
+---
 
-**Minimum Viable Product (MVP)**<br>
-Un MVP nos permitirá aprender a corto plazo. La primera pregunta que debemos plantearnos es: ¿Qué es lo más importante que necesitamos aprender primero?<br>
+#### **Lo más importante que debemos aprender**
 
-En nuestro caso, lo más urgente es validar si realmente existe una demanda en el mercado para nuestra solución. Para ello, llevaremos a cabo una serie de entrevistas con gestores de proyectos en ONG, así como con sus equipos, para verificar si estamos resolviendo una necesidad real.<br>
+Para el éxito de nuestro proyecto, es fundamental identificar si los usuarios realmente están **interesados** en nuestra propuesta **innovadora**.
 
-Adicionalmente, crearemos una landing page como parte del MVP, orientada a captar el interés de potenciales usuarios interesados en nuestra herramienta de gestión de proyectos.<br>
+Aunque existan herramientas similares, necesitamos confirmar si nuestra solución:
+- Es **necesaria** en el contexto de las ONG peruanas.
+- **Satisface** sus necesidades específicas de gestión de proyectos.
+
+---
+
+#### **Minimum Viable Product (MVP)**
+
+El **MVP** nos permitirá obtener **aprendizajes rápidos**. Nos enfocaremos en responder la siguiente pregunta clave:
+
+> **¿Qué es lo más importante que necesitamos aprender primero?**
+
+- Validar si **existe demanda real** para nuestra solución.
+- Realizaremos **entrevistas** con gestores de proyectos y sus equipos en ONG.
+- Evaluaremos si nuestra herramienta **resuelve una necesidad concreta**.
+
+Adicionalmente, desarrollaremos una **landing page** orientada a captar el interés de potenciales usuarios y medir el **nivel de atracción** hacia nuestra herramienta de gestión.
+
+---
+
+
 
 #### 1.2.2.4. Lean UX Canvas
 En esta sección juntamos la información de los procesos UX y los juntamos en este canvas.
@@ -526,70 +581,21 @@ En esta sección juntamos la información de los procesos UX y los juntamos en e
 
 ## 1.3 Segmentos Objetivo
 
+La segmentación de nuestros usuarios clave nos permite comprender mejor sus necesidades, comportamientos y motivaciones, facilitando la creación de soluciones adecuadas para cada perfil.
 
-<table>
-<colgroup>
-<col style="width: 23%" />
-<col style="width: 37%" />
-<col style="width: 39%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th></th>
-<th>Segmento 1</th>
-<th>Segmento 2</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Variables</td>
-<td>Gestor de proyectos de una ONG</td>
-<td>Ayudante de eventos de ONG</td>
-</tr>
-<tr class="even">
-<td><strong>Geográfica</strong></td>
-<td>En el mundo de hoy para realizar acciones estratégicas y maximizar
-recursos distintas empresas utilizan lo llamado análisis de datos, esta
-práctica se puede aplicar a un modelo de negocios sin fines de lucro
-como las ONG (DigitalForNonprofits, 2023)</td>
-<td>La recogida, división y análisis adecuados de datos recogidos por
-gobiernos, ONG y otros puede mejorar las condiciones de vida y las
-oportunidades de desarrollo para aquellas personas en sociedades que a
-menudo son ignoradas a la hora de recopilar datos. (OHCHR,2022)</td>
-</tr>
-<tr class="odd">
-<td><strong>Demográfica</strong></td>
-<td><p>Edades de entre 18 a 50+ años</p>
-<p>Género: Masculino y Femenino</p></td>
-<td>Edades de entre 18 a 50+ años Género: Masculino y Femenino</td>
-</tr>
-<tr class="even">
-<td><strong>Psicológica</strong></td>
-<td>Estos gestores de proyecto requieren cumplir con un objetivo de
-impacto en sus campañas y eventos. Buscan formas de aumentar el impacto
-general de estos mismos y reducir los gastos mal implementados.</td>
-<td>Los ayudantes tienen como objetivo el poder ser de ayuda a las
-ONG<br />
-participando de sus eventos como staff, recolectando datos de los
-visitantes y fomentando un ambiente placentero para todos los
-mencionados</td>
-</tr>
-<tr class="odd">
-<td><strong>Función de comportamiento</strong></td>
-<td><p>Actitudes: Participa de la creación de proyectos de ayuda social,
-organiza los equipos, presupuestos, objetivos y lugares donde llevar al
-cabo los eventos.</p>
-<p>Conocimientos: Sabe los pasos de organización y conoce herramientas
-para apoyar su proceso, sin embargo, no encuentra muchas que se orienten
-a proyectos de ayuda social.</p></td>
-<td><p>Actitudes: Participan de los eventos como staff para ayudar,
-animar y guiar a los participantes, recolecta la información de los
-participantes y debe dar un reporte a sus supervisores.</p>
-<p>Conoce: Sabe cómo ayudar a los participantes e intenta mantener el
-orden.</p></td>
-</tr>
-</tbody>
-</table>
+---
+
+| **Criterio**                   | **Segmento 1: Gestor de Proyectos ONG**                                                                                                       | **Segmento 2: Ayudante de Eventos ONG**                                                                                                      |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| **Variables**                  | Gestor de proyectos encargado de planificar, organizar y supervisar actividades dentro de una ONG.                                           | Ayudante operativo que colabora en la ejecución de eventos y actividades sociales como parte del equipo de apoyo.                            |
+| **Geográfica**                 | Las ONG en Perú aplican análisis de datos estratégicos para maximizar recursos y optimizar sus proyectos sociales. *(DigitalForNonprofits, 2023)* | La correcta recolección y análisis de datos por parte de ayudantes contribuye a mejorar las condiciones de vida de comunidades vulnerables. *(OHCHR, 2022)* |
+| **Demográfica**                | - Edad: 25 a 50+ años <br> - Género: Masculino y Femenino                                                                                     | - Edad: 18 a 35 años <br> - Género: Masculino y Femenino                                                                                      |
+| **Psicológica**                | - Enfocados en lograr un **impacto significativo** en sus campañas. <br> - Buscan **aumentar eficiencia** y **reducir gastos innecesarios**.  | - Motivados por contribuir activamente al éxito de las actividades sociales. <br> - Desean sentirse útiles y parte del cambio.                |
+| **Comportamiento Funcional**   | - **Actitudes:** Lidera proyectos, coordina equipos, asigna presupuestos, define objetivos y lugares de ejecución. <br> - **Conocimientos:** Tiene experiencia organizativa, pero carece de herramientas específicas para el sector social. | - **Actitudes:** Apoya logísticamente en eventos, anima y guía a los participantes, recoge información clave para los gestores. <br> - **Conocimientos:** Sabe cómo interactuar con el público y garantizar un ambiente ordenado y acogedor. |
+
+---
+
+
 
 # Capitulo II: Requiriments Elicitation & Analysis
 
@@ -990,116 +996,154 @@ constantes actualizaciones y mejoras costosas.</td>
 </table>
 
 ## 2.2. Entrevistas
+
 ### 2.2.1. Diseño de entrevistas
-Preguntas generales:
-Para esta sección realizamos preguntas simples por cada segmento, para tener una demográfica e información de comportamientos que nos interesan y son relevantes para el proyecto. Por ejemplo, el tipo de browser/navegador que utiliza y los dispositivos que usa con mayor frecuencia. Estas preguntas son importantes para conocer el interés de nuestros usuarios sobre nuestro proyecto y el impacto que tendría en su vida diaria / trabajo.
-1. ¿Cuál es su nombre?
-2. ¿Qué edad tiene?
-3. ¿A qué se dedica?
-4. ¿En qué distrito reside?
+
+Para esta sección realizamos preguntas específicas para cada segmento, con el objetivo de recolectar información demográfica y comportamental relevante para el proyecto. Por ejemplo, indagamos sobre el tipo de navegador y dispositivos que utilizan con mayor frecuencia. Estos datos son clave para comprender el interés de nuestros usuarios y el impacto que nuestra solución podría tener en su vida diaria y entorno laboral.
+
+---
+
+#### **Preguntas Generales**
+
+Estas preguntas se aplicaron a todos los entrevistados, independientemente del segmento:
+
+1. ¿Cuál es su nombre?  
+2. ¿Qué edad tiene?  
+3. ¿A qué se dedica?  
+4. ¿En qué distrito reside?  
 5. ¿Qué navegadores y dispositivos usa?
 
-Entrevistas usuario segmento 1 <br> (Gestor)
-Preguntas enfocadas en los usuarios de segmento 1, jefe de organización, desde su perspectiva laboral/diaria.
-1. ¿Cuándo piensa en gestionar un proyecto en que piensa principalmente?
-2. ¿Qué métodos utiliza para organizar a sus ayudantes y como les asigna tareas?
-3. ¿Qué herramientas usa para gestionar o planificar proyectos?
+---
+
+#### **Entrevistas - Usuario Segmento 1 (Gestor)**
+
+Preguntas enfocadas en los gestores de organización, desde su perspectiva laboral y cotidiana:
+
+1. ¿Cuándo piensa en gestionar un proyecto en qué piensa principalmente?  
+2. ¿Qué métodos utiliza para organizar a sus ayudantes y cómo les asigna tareas?  
+3. ¿Qué herramientas usa para gestionar o planificar proyectos?  
 4. ¿Cómo analiza sus datos (asimismo financieros), qué herramientas/métodos usa?
 
-Entrevistas usuario segmento 2<br> (Empleado)
-Preguntas enfocadas en los usuarios de segmento 2, empleado de organización, desde su perspectiva laboral/diaria.
-1. ¿Qué actividades son las principales en los eventos y como se las asignan?
-2. ¿Cómo recolectan información de los participantes, qué herramientas?
-3. ¿Cómo hacen llegar esta información a los gestores de proyecto?
-4. ¿Si sucede un inconveniente el cual se debe de notificar al gestor del proyecto como se comunica con este, cree que la comunicación con el gestor de proyecto es efectiva?
+---
+
+#### **Entrevistas - Usuario Segmento 2 (Empleado)**
+
+Preguntas enfocadas en los empleados de la organización, considerando su experiencia en los eventos:
+
+1. ¿Qué actividades son las principales en los eventos y cómo se las asignan?  
+2. ¿Cómo recolectan información de los participantes, qué herramientas?  
+3. ¿Cómo hacen llegar esta información a los gestores de proyecto?  
+4. Si sucede un inconveniente que se debe notificar al gestor del proyecto, ¿cómo se comunica con este? ¿Cree que la comunicación con el gestor de proyecto es efectiva?
+
+
 ### 2.2.2. Registro de entrevistas
-Las entrevistas están en un video en el siguiente URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETGPw2njqWZHl6IrOkDoq0wBvExjz8a2pqnBQaWcUuKs8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MHCwWy <br>
-**Segmento 1**<br>
-Nombre: María José Meléndez Villa-Lobos<br>
-Edad: 53 años<br>
-Ocupación: directora de Hogar (CAEF)<br>
-Browser: Google Chrome<br>
-Device: Móvil Android & Computadora personal Windows<br>
-Distrito: Trujillo, La libertad<br>
-Timing: [0:00]<br>
-![Interview1](assets/interview1.png)
+Puedes acceder al video de las entrevistas mediante el siguiente enlace:
+
+🔗 **[Entrevista disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETGPw2njqWZHl6IrOkDoq0wBvExjz8a2pqnBQaWcUuKs8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MHCwWy)**.
+
+### Segmento 1: María José Meléndez Villa-Lobos
+
+- **Edad:** 53 años  
+- **Ocupación:** Directora de Hogar (CAEF)  
+- **Ubicación:** Trujillo, La Libertad  
+- **Dispositivos:** Móvil Android & Computadora personal (Windows)  
+- **Navegador:** Google Chrome  
+- **Momento de la entrevista:** [0:00]
+
+![María José Meléndez Villa-Lobos](assets/interview1.png)
+
+**Resumen de la entrevista:**  
+María comenta que su ONG no cuenta con una herramienta de gestión específica, por lo que recurren principalmente a **Microsoft Excel** para el análisis de datos. La planificación interna se realiza mediante reuniones anuales y mensuales. Destaca como una dificultad el uso limitado de medios tecnológicos en su entorno laboral, ya que estos se restringen en determinados horarios con el fin de prevenir accidentes con los niños.
+
+
+### Segmento 1: Cesar Alva Posada
+
+- **Edad:** 57 años  
+- **Ocupación:** Sociólogo encargado de Gestión de Proyectos  
+- **Ubicación:** San Miguel, Lima  
+- **Dispositivo:** Computadora personal (Windows)  
+- **Navegador:** Google Chrome  
+- **Momento de la entrevista:** [8:14]
+
+![Cesar Alva Posada](assets/interview2.png)
+
+**Resumen de la entrevista:**  
+Cesar destaca la importancia de una **metodología adecuada** para la organización y ejecución eficiente de proyectos. Explica que, aunque utilizan diversas herramientas de gestión, estas se implementan de forma **aislada**, lo que dificulta la integración de procesos. Para el manejo de datos, menciona que recurren principalmente a **Microsoft Excel**.
+
+---
 <br>
-[Seg1 – Entrevista - 1]
+
+### Segmento 1: Guilder Quiñones Aldean
+
+- **Edad:** 54 años  
+- **Ocupación:** Jefe de Proyectos  
+- **Ubicación:** Miraflores, Lima  
+- **Dispositivos:** Móvil iPhone & Computadora personal (Windows)  
+- **Navegador:** Google Chrome  
+- **Momento de la entrevista:** [15:00]
+
+![Guilder Quiñones Aldean](assets/interview3.png)
+
+**Resumen de la entrevista:**  
+Guilder comparte su perspectiva sobre el uso de herramientas de gestión. Similar a entrevistas anteriores, menciona que emplea **Microsoft Excel** para el manejo de datos. Sin embargo, también complementa su trabajo con herramientas especializadas como **Trello**, las cuales le permiten una mejor organización de proyectos.
+
+---
 <br>
-María nos explica cómo su ONG no tiene una herramienta de gestión determinada y como normalmente usan Excel para los análisis de sus datos, también relata que para la planificación se hacen reuniones anuales y mensuales. Menciona como un obstáculo los medios de comunicación tecnológicos que se utilizan en su área laboral, debido a que están restringidos en ciertos horarios, para evitar accidentes con los niños.
-<br>
-<br>
-Nombre: Cesar Alva Posada<br>
-Edad: 57 años<br>
-Ocupación: Sociólogo encargado de Gestión de Proyectos<br>
-Browser: Google Chrome<br>
-Device: Computadora Personal Windows<br>
-Distrito: San Miguel, Lima<br>
-Timing: [8:14]<br>
-![Interview2](assets/interview2.png)
-<br>
-[Seg1 -Entrevista - 2]
-<br>
-En esta entrevista Cesar explica como la metodología que se usa es importante a la hora de organizarse asimismo nos comentó de otras herramientas que se implementan para la gestión, no obstante, también menciona que todos estos procesos se hacen de manera separada. Asimismo, para la gestión de datos utiliza Excel.
-<br>
-<br>
-Nombre: Guilder Quiñones Aldean<br>
-Edad: 54 años<br>
-Ocupación: jefe de Proyectos<br>
-Browser: Google Chrome<br>
-Device: Móvil iPhone & Computadora Windows<br>
-Distrito: Miraflores<br>
-Timing: [15:00]<br>
-![Interview3](assets/interview3.png)
-<br>
-[Seg1 - Entrevista - 3]
-<br>
-El jefe de Proyecto, Guilder, comparte su visión respecto a las herramientas usadas, de manera parecida a la entrevista anterior él usa Excel para manejar sus datos más también hace uso de programas de gestión como Trello.
-<br>
-<br>
-**Segmento 2**<br>
-Nombre: Luis Herrera Gonzales<br>
-Edad: 19 años<br>
-Ocupación: Estudiante – Ayudante<br>
-Browser: Google Chrome<br>
-Device: Móvil iPhone<br>
-Distrito: San Borja<br>
-Timing: [24:00]<br>
-![Interview4](assets/interview4.png)
-<br>
-[Seg2 – Entrevista - 1]
-<br>
-Luis nos cuenta de cómo participa de estas actividades usando WhatsApp como su principal fuente de recolección de datos y comunicación con su gerente, menciona que tanto el uso del correo electrónico y uso de WhatsApp son obsoletos, toman mucho tiempo y no demuestran el nivel de formalidad deseado.
-<br>
-<br>
-Nombre: Álvaro Jiménez<br>
-Edad: 19 años<br>
-Ocupación: Estudiante - Ayudante<br>
-Browser:  Google<br>
-Device: Android Zte<br>
-Distrito: Magdalena<br>
-Timing: [27:40]<br>
-![Interview5](assets/interview5.png)
-<br>
-[Seg2 - Entrevista - 2]<br>
-Álvaro comenta sobre su experiencia como voluntario ayudante en una ONG. Se menciona como es la distribución de tareas y la comunicación entre los ayudantes y el gestor del proyecto. También menciona que no es eficiente ni rápida la gestión de la organización y que la espera se pueda mejorar en algún futuro.
-<br>
-<br>
-Nombre: Arián Rodríguez Vargas<br>
-Edad: 20 años<br>
-Ocupación: Practicante en empresa dedicado al desarrollo de Software<br>
-Browser: Brave<br>
-Device: Móvil Android<br>
-Distrito: Jesús María<br>
-Timing: [32:10]<br>
+
+### Segmento 2: Luis Herrera Gonzales
+
+- **Edad:** 19 años  
+- **Ocupación:** Estudiante – Ayudante  
+- **Ubicación:** San Borja, Lima  
+- **Dispositivo:** Móvil iPhone  
+- **Navegador:** Google Chrome  
+- **Momento de la entrevista:** [24:00]
+
+![Luis Herrera Gonzales](assets/interview4.png)
+
+**Resumen de la entrevista:**  
+Luis comenta que participa en las actividades de la ONG utilizando principalmente **WhatsApp** como medio de comunicación y recolección de datos, en coordinación con su gerente. Señala que tanto WhatsApp como el correo electrónico resultan **obsoletos** para las necesidades actuales, ya que demandan mucho tiempo y carecen del nivel de **formalidad** esperado.
+
+
+---
+
+### Segmento 2: Álvaro Jiménez
+
+- **Edad:** 19 años  
+- **Ocupación:** Estudiante – Ayudante  
+- **Ubicación:** Magdalena, Lima  
+- **Dispositivo:** Android ZTE  
+- **Navegador:** Google  
+- **Momento de la entrevista:** [27:40]
+
+![Álvaro Jiménez](assets/interview5.png)
+
+**Resumen de la entrevista:**  
+Álvaro comparte su experiencia como voluntario en una ONG, destacando la forma en que se distribuyen las tareas y se establece la comunicación entre los ayudantes y el gestor del proyecto. Menciona que la gestión actual no es **eficiente** ni **rápida**, y expresa su deseo de que estas dinámicas puedan **mejorarse en el futuro**.
+
+
+
+---
+
+### Segmento 2: Arián Rodríguez Vargas
+
+- **Edad:** 20 años  
+- **Ocupación:** Practicante en empresa de desarrollo de software  
+- **Ubicación:** Jesús María, Lima  
+- **Dispositivo:** Móvil Android  
+- **Navegador:** Brave  
+- **Momento de la entrevista:** [32:10]
+
 <div style="display: flex; justify-content: space-around;">
-  <img src="assets/interview6-1.png" alt="Image 48" style="width: 45%; margin-right: 10px;">
-  <img src="assets/interview6-2.png" alt="Image 61" style="width: 45%;">
+  <img src="assets/interview6-1.png" alt="Arián Rodríguez - Imagen 1" style="width: 45%; margin-right: 10px;">
+  <img src="assets/interview6-2.png" alt="Arián Rodríguez - Imagen 2" style="width: 45%;">
 </div>
-<br>
-[Seg2 - Entrevista - 3]<br>
-Arián Rodríguez, un estudiante de ingeniería de software en prácticas preprofesionales en una empresa de desarrollo de software y ha participado en proyectos donde la gestión de equipo resulta clave. En su caso, está buscando una herramienta para mejorar la gestión de tareas y la comunicación dentro de su equipo. Aunque actualmente utilizan una plataforma como Trello, Arián considera que un aplicativo con un costo menor y con mayores funcionalidades podría ser más adecuado para su equipo, especialmente para facilitar el seguimiento del progreso de los miembros del equipo y mejorar la eficiencia en la gestión de tareas. Además, una herramienta que también pueda automatizar la recolección de datos, en lugar de hacerlo manualmente, sería de gran ayuda para optimizar el flujo de trabajo.
-<br>
+
+**Resumen de la entrevista:**  
+Arián, practicante de ingeniería de software, participa en proyectos donde la **gestión de equipo** es crucial. Actualmente utilizan **Trello**, pero considera que una herramienta más accesible y con **mayores funcionalidades** podría optimizar el seguimiento de tareas y la eficiencia del equipo. Busca una solución que permita mejorar la **comunicación**, gestionar mejor el **progreso individual**, y que además facilite la **automatización** en la recolección de datos, evitando procesos manuales y optimizando así el flujo de trabajo.
+
+
+
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -1121,17 +1165,27 @@ Arián Rodríguez, un estudiante de ingeniería de software en prácticas prepro
 
 
 ## 2.3. Needfinding
-En esta sección nos encargamos de realizar personas en base a las entrevistas e identificar los procesos que hacen nuestros segmentos antes de implementar nuestra solución.
+
+En esta sección se desarrollaron **User Personas** basados en la información recolectada durante las entrevistas. El objetivo es identificar los comportamientos, necesidades y procesos actuales de cada segmento antes de la implementación de nuestra solución.
+
 ### 2.3.1. User Personas
-En esta sección observamos los dos User personas para nuestros segmentos.<br>
 
-**Segmento 1:**<br>
-![User Persona](assets/persona1.png)
-<br>
+A continuación, se presentan las representaciones gráficas de los dos perfiles clave que guían el diseño de nuestra solución:
 
-**Segmento 2:**<br>
-![image_7](assets/persona2.png)
-<br>
+---
+
+**User Persona - Segmento 1 (Gestor de Proyectos):**
+
+![User Persona - Gestor](assets/persona1.png)
+
+---
+
+**User Persona - Segmento 2 (Ayudante de Eventos):**
+
+![User Persona - Ayudante](assets/persona2.png)
+
+---
+
 
 ### 2.3.2. User Task Matrix
 <br>
@@ -1205,41 +1259,118 @@ El User Task Matrix nos sirve para identificar los procesos que realizan ambos s
 </table>
 
 ### 2.3.3. User Journey Mapping
-El Journey Mapping es necesario para entender el proceso que recorren nuestros segmentos en un escenario común en su área laboral. De esta forma entendemos sus problemas, experiencias, ideas y oportunidades.<br>
 
-**Segmento 1**<br>
+El **User Journey Mapping** es fundamental para comprender el recorrido que realizan nuestros segmentos en situaciones comunes dentro de su entorno laboral. A través de esta herramienta, identificamos sus **problemas**, **experiencias**, **emociones** y **oportunidades**, permitiéndonos enfocar nuestra solución en lo que realmente necesitan.
+
+---
+
+**Segmento 1 - Gestor de Proyectos**  
 ![User Journey 1](assets/userjourney1.png)
-<br>
-**Segmento 2**<br>
+
+---
+
+**Segmento 2 - Ayudante de Eventos**  
 ![User Journey 2](assets/userjourney2.png)
-<br>
+
+---
+
 ### 2.3.4. Empathy Mapping
 
-**Segmento 1:**<br>
+El **Empathy Map** nos ayuda a visualizar lo que nuestros usuarios **piensan, sienten, dicen y hacen**, permitiéndonos generar un entendimiento más profundo de su contexto emocional y motivacional.
+
+---
+
+**Segmento 1 - Gestor de Proyectos:**  
 ![Empathy Map 1](assets/empathymap1.png)
-<br>
-**Segmento 2:**<br>
+
+---
+
+**Segmento 2 - Ayudante de Eventos:**  
 ![Empathy Map 2](assets/empathymap2.png)
-<br>
+
+---
+
 ### 2.3.5. As-is Scenario Mapping
 
-![As-Is](assets/asis1.png)
-![As-Is](assets/asis2.png)
-<br>
+A continuación, se presenta el escenario actual (**As-Is**) de nuestros usuarios, antes de la implementación de nuestra solución. Este mapa refleja las actividades, puntos de dolor y métodos actuales que emplean los segmentos.
 
-**Enlace:** https://miro.com/welcomeonboard/NlNXV0pNbjkzNGhhN0RaVE1GZ2QxdEE0T1lxcExSSFRwOFFubkdVZlVMZ2Nuc0U2Z292TXVjZUFsZ3hlczJMWXwzNDU4NzY0NTIyNTI2OTE2NTk0fDI=?share_link_id=464993559168
+---
+
+![As-Is 1](assets/asis1.png)  
+![As-Is 2](assets/asis2.png)
+
+---
+
+**Enlace al mapa interactivo:**  
+[Ver en Miro](https://miro.com/welcomeonboard/NlNXV0pNbjkzNGhhN0RaVE1GZ2QxdEE0T1lxcExSSFRwOFFubkdVZlVMZ2Nuc0U2Z292TXVjZUFsZ3hlczJMWXwzNDU4NzY0NTIyNTI2OTE2NTk0fDI=?share_link_id=464993559168)
+
+---
 
 
 ## 2.4. Ubiquitous Language
+
+En esta sección definimos los **términos clave** utilizados por los usuarios y el equipo de desarrollo, con el fin de garantizar una comprensión común y coherente durante todo el proyecto.
+
+| **Término**             | **Definición**                                                                                                 |
+|-------------------------|---------------------------------------------------------------------------------------------------------------|
+| **Gestor de Proyectos** | Usuario responsable de planificar, asignar y supervisar las tareas dentro de la ONG.                         |
+| **Ayudante / Staff**    | Usuario que colabora en la ejecución de actividades y eventos, y reporta al gestor.                           |
+| **Tarea**               | Actividad específica asignada a un miembro del equipo, con fecha límite y objetivo claro.                     |
+| **Proyecto**            | Conjunto de tareas organizadas que buscan lograr un impacto social específico dentro de la ONG.               |
+| **MVP**                 | Producto Mínimo Viable, primera versión funcional de la solución con características esenciales.              |
+| **Dashboard**           | Interfaz visual que permite al gestor visualizar el estado de proyectos, tareas y comunicación.               |
+| **Inventario**          | Registro de insumos y materiales necesarios para llevar a cabo las actividades de la ONG.                     |
+| **Comunicación Directa**| Canal interno dentro de la plataforma que permite a los usuarios intercambiar mensajes o alertas rápidamente. |
+| **Landing Page**        | Página web introductoria para presentar el producto y captar el interés de los usuarios.                      |
+| **Suscripción**         | Plan de acceso a la plataforma basado en cantidad de usuarios registrados y funcionalidades disponibles.      |
+
 
 # Capítulo III: Requirements Specifications
 
 ## 3.1. To-Be Scenario Mapping
 
-![To-Be](assets/tobe1.png)
-![To-Be](assets/tobe2.png)
-<br>
-**Enlace:** https://miro.com/welcomeonboard/NlNXV0pNbjkzNGhhN0RaVE1GZ2QxdEE0T1lxcExSSFRwOFFubkdVZlVMZ2Nuc0U2Z292TXVjZUFsZ3hlczJMWXwzNDU4NzY0NTIyNTI2OTE2NTk0fDI=?share_link_id=464993559168  
+El **To-Be Scenario Mapping** representa el escenario futuro ideal que nuestros usuarios vivirán una vez implementada nuestra solución. A través de este mapeo, visualizamos cómo cambiarán y mejorarán los procesos actuales, abordando los puntos de dolor identificados en el escenario As-Is.
+
+Este escenario muestra:
+- La **optimización de tareas** mediante herramientas digitales adaptadas a las necesidades de las ONG.
+- Una **comunicación fluida y directa** entre gestores y ayudantes.
+- La **eficiencia operativa** en la planificación, ejecución y monitoreo de proyectos.
+- El uso de un **dashboard centralizado**, accesible y fácil de usar, que permite supervisar proyectos, tareas, inventarios y finanzas en tiempo real.
+- La eliminación de la dependencia de herramientas poco eficientes como Excel, WhatsApp o correos dispersos.
+
+---
+
+### Visualización del Escenario Futuro
+
+---
+
+**Gestor de Proyectos:**  
+- Planifica y asigna tareas desde una plataforma intuitiva.  
+- Supervisa el progreso de cada tarea y recibe notificaciones en tiempo real.  
+- Mantiene un control financiero básico, visualizando presupuestos y gastos.  
+- Se comunica rápidamente con el equipo mediante un canal directo dentro de la plataforma.
+
+---
+
+**Ayudante/Staff:**  
+- Recibe tareas claras con fechas y descripciones específicas.  
+- Marca tareas como completadas desde su dispositivo móvil o PC.  
+- Puede consultar información del proyecto y notificar cualquier incidencia al gestor de forma inmediata.  
+- Accede a un entorno más organizado, sintiéndose valorado y eficiente.
+
+---
+
+![To-Be 1](assets/tobe1.png)  
+![To-Be 2](assets/tobe2.png)
+
+---
+
+**Enlace al mapa interactivo:**  
+[Ver en Miro](https://miro.com/welcomeonboard/NlNXV0pNbjkzNGhhN0RaVE1GZ2QxdEE0T1lxcExSSFRwOFFubkdVZlVMZ2Nuc0U2Z292TXVjZUFsZ3hlczJMWXwzNDU4NzY0NTIyNTI2OTE2NTk0fDI=?share_link_id=464993559168)
+
+---
+
+
 ## 3.2. User Stories
 **Épicas:**<br>
 
@@ -2159,12 +2290,30 @@ Asimismo, se ha realizado un Trello para hacer seguimiento de nuestras tareas.
 
 ## 3.4. Impact Mapping
 
-Esta sección está dedicada a los mapas de impacto de nuestros segmentos objetivos.
-**Segmento 1:**<br>
+El **Impact Mapping** nos permite visualizar cómo nuestra solución contribuye a lograr los objetivos de negocio, alineando las metas con las necesidades de los usuarios y las funcionalidades clave del producto.
+
+A través de estos mapas, identificamos:
+- **Qué queremos lograr** (objetivo principal).
+- **Quiénes** pueden ayudarnos o verse afectados (actores clave).
+- **Cómo** pueden contribuir o qué comportamientos esperamos (impactos).
+- **Qué debemos hacer** para lograr estos cambios (entregables del producto).
+
+---
+
+### Segmento 1 – Gestor de Proyectos
+
 ![Impact Mapping 1](assets/impactmapping1.png)
-<br>
-**Segmento 2:**<br>
+
+---
+
+### Segmento 2 – Ayudante de Eventos
+
 ![Impact Mapping 2](assets/impactmapping2.png)
+
+---
+
+Cada mapa representa los caminos que nos llevan desde los objetivos estratégicos hasta acciones concretas dentro del sistema, permitiendo priorizar funcionalidades que generen **mayor impacto real** en el trabajo diario de los usuarios.
+
 
 # Capítulo IV: Product Design
 
