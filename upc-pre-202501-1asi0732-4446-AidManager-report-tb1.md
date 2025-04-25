@@ -954,13 +954,15 @@ Para esta sección realizamos preguntas simples por cada segmento, para tener un
 3. ¿A qué se dedica?
 4. ¿En qué distrito reside?
 5. ¿Qué navegadores y dispositivos usa?
-Entrevistas usuario segmento 1
+
+Entrevistas usuario segmento 1 <br> (Gestor)
 Preguntas enfocadas en los usuarios de segmento 1, jefe de organización, desde su perspectiva laboral/diaria.
 1. ¿Cuándo piensa en gestionar un proyecto en que piensa principalmente?
 2. ¿Qué métodos utiliza para organizar a sus ayudantes y como les asigna tareas?
 3. ¿Qué herramientas usa para gestionar o planificar proyectos?
 4. ¿Cómo analiza sus datos (asimismo financieros), qué herramientas/métodos usa?
-Entrevistas usuario segmento 2
+
+Entrevistas usuario segmento 2<br> (Empleado)
 Preguntas enfocadas en los usuarios de segmento 2, empleado de organización, desde su perspectiva laboral/diaria.
 1. ¿Qué actividades son las principales en los eventos y como se las asignan?
 2. ¿Cómo recolectan información de los participantes, qué herramientas?
