@@ -2148,6 +2148,22 @@ Este color evoca calma, frescura y bienestar. Simboliza la esperanza y el apoyo 
 ![Color Palette](assets/colorpalette.png)
 
 
+**Tipografía:** (Descripción de la tipografía escogida para el proyecto y porque)
+
+| Tipografía | Descripción |
+|-----------|-----------|
+| Poppins Font | Esta tipografía se eligió por su apariencia moderna, limpia y versátil. Su estilo geométrico y su excelente legibilidad la hacen ideal para comunicar profesionalismo y eficiencia en la gestión de organizaciones benéficas.  |
+| Lora Font | Se seleccionó Lora por su elegancia y legibilidad, que complementa perfectamente la apariencia contemporánea de Poppins. Su estilo serifado transmite una sensación de tradición y prestigio, lo que refuerza la credibilidad de tu startup en el sector de la beneficencia. |
+
+<br><center><img src="assets/StyleGuidelines-images/PoppinsFont.jpg" alt="Tipografía generales" style="width:70%"></center>
+<center><img src="assets/StyleGuidelines-images/LoraFont.jpg" alt="Tipografía generales" style="width:70%"><br><br></center>
+
+**Branding** (Describir logotipo y porque)
+
+El logo de nuestra startup, que muestra la vista superior de alguien abriendo los brazos en un color verde azulado, simboliza nuestra dedicación a la apertura, el apoyo y la generosidad hacia aquellos que más lo necesitan. Representa nuestra misión de ofrecer ayuda directa y tangible, fomentando la solidaridad, la esperanza y la renovación en la comunidad.
+
+<br><center><img src="assets/StyleGuidelines-images/LogoAidManager.jpg" alt="Tipografías generales" style="width:70%"><br><br></center>
+
 ### 4.1.2.	Web Style Guidelines
 
 ### 4.1.3.	Mobile Style Guidelines
