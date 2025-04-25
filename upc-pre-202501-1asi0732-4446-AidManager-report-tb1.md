@@ -2317,43 +2317,81 @@ Cada mapa representa los caminos que nos llevan desde los objetivos estratégico
 
 # Capítulo IV: Product Design
 
-## 4.1.	Style Guidelines
-Como startup, nos esforzamos por transmitir profesionalismo y eficiencia a través de nuestra aplicación web, AidManager. Hemos seleccionado una paleta de colores con tonos celestes y verdes para reflejar frescura y conexión con la naturaleza, mientras que las tipografías Poppins y Lora ofrecen una apariencia moderna, limpia y legible. Estas decisiones de diseño no solo buscan captar la atención de nuestros usuarios, sino también garantizar una experiencia agradable y efectiva, reforzando nuestro compromiso en la gestión eficiente de eventos benéficos y donaciones.
+## 4.1. Style Guidelines
 
+En AidManager, nos esforzamos por reflejar **profesionalismo**, **eficiencia** y **empatía** a través del diseño visual de nuestra aplicación web. Cada decisión estética ha sido cuidadosamente seleccionada para reforzar la identidad de nuestra startup y ofrecer a los usuarios una experiencia agradable, funcional y confiable.
 
+Nuestra paleta de colores, compuesta por tonos celestes y verdes, evoca frescura, tranquilidad y conexión con la naturaleza. Las tipografías **Poppins** y **Lora** complementan esta visión, aportando una estética moderna, legible y sofisticada, que equilibra lo contemporáneo con lo humano.
 
-### 4.1.1.	General Style Guidelines
-**Color Primario**<br>
+Estas decisiones de diseño están alineadas con nuestra misión: **facilitar la gestión eficiente de eventos benéficos y donaciones**, fortaleciendo la confianza de quienes colaboran con nuestras causas.
 
-Representa confianza, serenidad y estabilidad. Transmite la idea de fiabilidad y compromiso en la gestión de organizaciones benéficas, lo que inspira confianza en los donantes y en aquellos que buscan ayuda.<br>
+---
+
+### 4.1.1. General Style Guidelines
+
+---
+
+#### **Color Primario**
+
+El color primario refleja **confianza, serenidad y estabilidad**. Simboliza fiabilidad y compromiso en la gestión de organizaciones benéficas, inspirando seguridad tanto en donantes como en beneficiarios.
+
+- **Código HEX:** #008A66
+
 ![Primary Color](assets/primarycolor.png)
-<br>
 
-**Color Secundario**<br>
-Este color evoca calma, frescura y bienestar. Simboliza la esperanza y el apoyo el startup ofrece a las personas necesitadas, así como la naturaleza refrescante de las soluciones que proporciona.<br>
+---
+
+#### **Color Secundario**
+
+Nuestro color secundario transmite **calma, frescura y bienestar**. Representa la esperanza y el apoyo que brindamos, así como la naturaleza innovadora y refrescante de nuestras soluciones.
+
+- **Código HEX:** #66EAC5
+
 ![Secondary Color](assets/secondarycolor.png)
-<br>
 
+---
 
-**Paleta de colores:**<br>
+#### **Paleta de Colores Complementaria**
+
+Estos colores complementarios enriquecen la identidad visual, manteniendo coherencia y dinamismo en la experiencia del usuario.
+
+- #3652AD
+- #6CFBCE
+- #20C198
+- #008A65
+
 ![Color Palette](assets/colorpalette.png)
 
+---
 
-**Tipografía:** (Descripción de la tipografía escogida para el proyecto y porque)
+### **Tipografía**
 
-| Tipografía | Descripción |
-|-----------|-----------|
-| Poppins Font | Esta tipografía se eligió por su apariencia moderna, limpia y versátil. Su estilo geométrico y su excelente legibilidad la hacen ideal para comunicar profesionalismo y eficiencia en la gestión de organizaciones benéficas.  |
-| Lora Font | Se seleccionó Lora por su elegancia y legibilidad, que complementa perfectamente la apariencia contemporánea de Poppins. Su estilo serifado transmite una sensación de tradición y prestigio, lo que refuerza la credibilidad de tu startup en el sector de la beneficencia. |
+Nuestra selección tipográfica fue pensada para combinar modernidad, elegancia y legibilidad, asegurando una comunicación clara y atractiva.
 
-<br><center><img src="assets/StyleGuidelines-images/PoppinsFont.jpg" alt="Tipografía generales" style="width:70%"></center>
-<center><img src="assets/StyleGuidelines-images/LoraFont.jpg" alt="Tipografía generales" style="width:70%"><br><br></center>
+| **Tipografía** | **Descripción** |
+|----------------|-----------------|
+| **Poppins**    | Tipografía moderna y limpia, de estilo geométrico, ideal para transmitir profesionalismo y eficiencia. Su excelente legibilidad la hace perfecta para interfaces intuitivas. |
+| **Lora**       | Tipografía serif elegante y tradicional, que aporta un toque de prestigio. Su combinación con Poppins equilibra lo contemporáneo con la confianza y seriedad del sector benéfico. |
 
-**Branding** (Describir logotipo y porque)
+<br>
+<center><img src="assets/StyleGuidelines-images/PoppinsFont.jpg" alt="Poppins Font" style="width:70%"></center>
+<center><img src="assets/StyleGuidelines-images/LoraFont.jpg" alt="Lora Font" style="width:70%"><br><br></center>
 
-El logo de nuestra startup, que muestra la vista superior de alguien abriendo los brazos en un color verde azulado, simboliza nuestra dedicación a la apertura, el apoyo y la generosidad hacia aquellos que más lo necesitan. Representa nuestra misión de ofrecer ayuda directa y tangible, fomentando la solidaridad, la esperanza y la renovación en la comunidad.
+---
 
-<br><center><img src="assets/StyleGuidelines-images/LogoAidManager.jpg" alt="Tipografías generales" style="width:70%"><br><br></center>
+### **Branding**
+
+El logotipo de AidManager representa a una figura vista desde arriba, con los brazos abiertos, en tonos verde-azulados. Este diseño simboliza **apertura, apoyo y generosidad**, valores centrales de nuestra startup.
+
+Nuestra identidad visual transmite:
+- **Solidaridad** hacia las comunidades necesitadas.
+- **Esperanza** para quienes buscan ayuda.
+- **Renovación** a través de soluciones tecnológicas accesibles.
+
+El logo actúa como un emblema de nuestro compromiso con la ayuda directa, fomentando un entorno de colaboración y empatía.
+
+<br>
+<center><img src="assets/StyleGuidelines-images/LogoAidManager.jpg" alt="Logo AidManager" style="width:70%"><br><br></center>
 
 ### 4.1.2.	Web Style Guidelines
 Descripción de los elementos que se utilizaran en el web app
@@ -2560,117 +2598,288 @@ Como miembro de equipo deseo ver las tareas asignadas y las métricas del grupo.
 ![image_52](assets/mobile-userflow/image_109.png)
 ![image_52](assets/mobile-userflow/image_124.png)
 
-## 4.7.	Mobile Application Prototyping
-Para poder elaborar los prototipos de la interfaz de usuario destinados a Móvil se siguieron una serie de criterios fundamentales, entre ellos:
-Claridad y Facilidad: El enfoque fue lograr que la navegación en la aplicación sea intuitiva y comprensible, con el objetivo de que los usuarios puedan comprender plenamente las funciones de la aplicación. Visualización de reportes estadísticos.
-Diseño Responsive: Se ha tenido en cuenta la importancia del diseño para garantizar que la aplicación web sea compatible con una variedad tamaños de pantalla, de tal manera que los usuarios no se vean limitados por el dispositivo que utilicen.
-Priorización de Información Relevante: El diseño de la aplicación se enfoca en mostrar únicamente la información más importante para los usuarios pertenecientes al segmento objetivo.
+## 4.7. Mobile Application Prototyping
+
+Para el desarrollo de los prototipos de la **interfaz móvil** de AidManager, se aplicaron criterios fundamentales que aseguran una experiencia de usuario óptima y adaptada a las necesidades del segmento objetivo.
+
+---
+
+### **Criterios de Diseño Aplicados:**
+
+- **Claridad y Facilidad de Uso:**  
+  Se priorizó una navegación **intuitiva y comprensible**, permitiendo a los usuarios entender de forma clara las funciones disponibles. La interfaz facilita la visualización de reportes estadísticos y tareas asignadas de manera eficiente.
+
+- **Diseño Responsive:**  
+  Se garantizó la compatibilidad con diversos tamaños de pantalla, asegurando que la aplicación funcione correctamente en cualquier dispositivo móvil, sin comprometer la usabilidad ni la estética.
+
+- **Priorización de Información Relevante:**  
+  El diseño destaca únicamente la información más relevante para los usuarios, permitiendo una interacción directa con las funcionalidades clave, evitando sobrecargas visuales y distracciones.
+
+---
+
+### **Vista del Prototipo:**
 
 ![Mobile Prototyping](assets/prototyping.png)
 
-Se presenta asimismo el prototipo del figma realizado
-```
-https://www.figma.com/proto/I9eSDqC0GqeOs3fNvBbJAv/AidManager-app-web-Wireframe--Copy-?node-id=2301-10003&starting-point-node-id=2139%3A128776&t=5t7TF9vFAZDk7V2n-1
-```
+---
 
-link del video prototipo:
+### **Prototipo Interactivo en Figma:**
 
-```
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/Ec5ztdvdCSNBsrwPHs9oaPwBUkfUaqyH38pDoOj_rVYPTg?e=nVMy6P&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-```
+[Ver Prototipo en Figma](https://www.figma.com/proto/I9eSDqC0GqeOs3fNvBbJAv/AidManager-app-web-Wireframe--Copy-?node-id=2301-10003&starting-point-node-id=2139%3A128776&t=5t7TF9vFAZDk7V2n-1)
 
-## 4.8.	Domain-Driven Software Architecture
-### 4.8.1.	Software Architecture Context Level Diagram
+---
+
+### **Video del Prototipo Funcional:**
+
+[Ver Video del Prototipo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/Ec5ztdvdCSNBsrwPHs9oaPwBUkfUaqyH38pDoOj_rVYPTg?e=nVMy6P&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+---
+
+### 4.8.1. Software Architecture – Context Level Diagram
+
+El **Context Level Diagram** proporciona una visión general de alto nivel del sistema AidManager. Define cómo interactúa con usuarios externos (actores) y otros sistemas, estableciendo sus límites y relaciones clave.
 
 ![C4_context](assets/c4_context.png)
 
-### 4.8.2.	Software Architecture Container Level Diagram
+---
+
+### 4.8.2. Software Architecture – Container Level Diagram
+
+El **Container Level Diagram** descompone el sistema en contenedores, tales como aplicaciones, bases de datos y servicios, mostrando cómo cada uno colabora para cumplir con los objetivos del sistema. Este nivel detalla las tecnologías utilizadas y sus responsabilidades principales.
 
 ![C4_container](assets/c4_container.png)
 
-### 4.8.3.	Software Architecture Components Diagram
+---
+
+### 4.8.3. Software Architecture – Component Level Diagram
+
+El **Component Level Diagram** explora la estructura interna de cada contenedor, detallando los componentes clave y sus interacciones. Esto permite entender cómo se organiza y distribuye la funcionalidad dentro del sistema.
+
+---
+
+![C4_Components](assets/c4_components1.png)  
+![C4_Components2](assets/c4_components2.png)  
+![C4_Components3](assets/c4_components3.png)  
+![C4_Components4](assets/c4_components4.png)  
+![C4_Components5](assets/c4_components5.png.png)
 
 
-![C4_Components](assets/c4_components1.png)
+## 4.9. Software Object-Oriented Design
 
-![C4_Components2](assets/c4_components2.png)
+### 4.9.1. Class Diagrams
 
-![C4_Components3](assets/c4_components3.png)
-
-![C4_Components4](assets/c4_components4.png)
-
-![C4_Components5](assets/c4_components5.png)
-
-## 4.9.	Software Object-Oriented Design
-### 4.9.1.	Class Diagrams
+A continuación, se presenta el **Diagrama de Clases** del sistema AidManager, donde se visualizan las entidades clave, sus atributos, métodos y relaciones entre clases.
 
 ![Class Diagrams](assets/classdiagrams.png)
 
+---
 
-### 4.9.2.	Class Dictionary
-Se muestran las clases que son relevantes.
-User - La clase User representa una cuenta de Organización refiriéndose a el gestor y el miembro de equipo y los métodos más importantes de estos.
+### 4.9.2. Class Dictionary
 
-Project Manager - La clase representa los Project managers
+En esta sección se detallan las **clases principales** que conforman la arquitectura orientada a objetos del sistema:
 
-Assistant - la clase representa a los asistentes de eventos y proyectos
+| **Clase**          | **Descripción**                                                                                          |
+|--------------------|----------------------------------------------------------------------------------------------------------|
+| **User**           | Representa a los usuarios registrados en la plataforma, tanto **gestores** como **miembros de equipo**. Incluye métodos para gestionar cuentas, autenticación y datos de contacto. |
+| **ProjectManager** | Clase específica para los **gestores de proyectos**. Contiene métodos para planificar, asignar tareas y supervisar proyectos. |
+| **Assistant**      | Representa a los **asistentes** que colaboran en eventos y proyectos. Incluye atributos relacionados con su rol operativo y tareas asignadas. |
+| **Project**        | Define los **proyectos** gestionados en la plataforma. Contiene atributos como nombre, descripción, estado y métodos para actualizar su progreso. |
 
-Project – la clase Project representa los mismos proyectos
+---
+
+Estas clases forman la base de la lógica de negocio de AidManager, facilitando la gestión eficiente de los elementos clave dentro de la aplicación.
 
 
-## 4.10.	Database Diagram
+## 4.10. Database Diagram
+
+A continuación se presenta el **Diagrama de Base de Datos** que respalda el funcionamiento de AidManager. Este diagrama muestra las entidades principales, sus relaciones y cómo se estructura la información clave para la gestión de proyectos, usuarios y tareas dentro del sistema.
 
 ![Database Diagram](assets/database.png)
+
+Este diseño permite:
+- Una gestión eficiente de **usuarios**, diferenciando gestores y asistentes.
+- Registro y seguimiento detallado de **proyectos** y **tareas**.
+- Integración con funciones como control de fechas, estadísticas y comunicación interna.
+
+El modelo relacional asegura la **integridad de los datos** y la escalabilidad del sistema conforme crezcan las operaciones de la organización.
+
 
 # Capítulo V: Product Implementation
 
 
 ## 5.1 Software Configuration Management
+
 ### 5.1.1. Software Development Environment Configuration
-Figma:
-Es una herramienta visual, donde diseñamos el prototipo de la página web. Se usó para crear los Wireframes, Mock-ups, así como los desktop and Mobile Application del proyecto.
-Product UX/UI Design: Producto: Figma Propósito: Para llevar a cabo el diseño de la aplicación, como Wireframes y Mockups, utilizamos Figma. Esta es una plataforma de edición gráfica y diseño de interfaces, utilizada por diseñadores UX/UI.
-Enlace:
-Software Deployment: Producto: Utilizar Vercel para el despliegue del landing Page. Enlace:
+
+A continuación, se detallan las herramientas y entornos utilizados durante el desarrollo y despliegue de AidManager:
+
+---
+
+#### **Figma – Prototipado UX/UI**
+
+- **Herramienta:** Figma  
+- **Propósito:** Figma fue la plataforma utilizada para el diseño visual de la aplicación, permitiéndonos crear:
+  - **Wireframes** (bocetos de estructura de la app).
+  - **Mock-ups** (diseños visuales detallados).
+  - Prototipos interactivos tanto para **aplicaciones web como móviles**.
+
+Figma es una herramienta colaborativa basada en la nube, ampliamente usada en el diseño de interfaces UX/UI, lo que facilitó la visualización y validación temprana de la experiencia de usuario.
+
+- **Enlace al Prototipo Figma:**  
+  [Ver Prototipo](https://www.figma.com/proto/I9eSDqC0GqeOs3fNvBbJAv/AidManager-app-web-Wireframe--Copy-?node-id=2301-10003&starting-point-node-id=2139%3A128776&t=5t7TF9vFAZDk7V2n-1)
+
+---
+
+#### **Software Deployment – Vercel**
+
+- **Herramienta:** Vercel  
+- **Propósito:** Vercel se utilizó para el **despliegue de la Landing Page** de AidManager. Esta herramienta permite realizar despliegues rápidos y eficientes de aplicaciones web, facilitando la visualización de la versión online del proyecto.
+
+- **Enlace al Despliegue:**  
+  :
+
+---
+
+### Beneficios de esta configuración:
+- Facilita la **colaboración remota** del equipo de diseño y desarrollo.
+- Permite iterar rápidamente sobre la interfaz con herramientas visuales.
+- Despliegue ágil de versiones funcionales accesibles desde cualquier dispositivo.
 
 
 
 ### 5.1.2. Source Code Management
-A continuación, se detalla la gestión del código fuente que se implementará en este proyecto, la cual facilitará el seguimiento y control de los cambios y adaptaciones realizados por los miembros del equipo durante el desarrollo. Además, se establecerá un repositorio en GitHub para administrar de manera eficiente las distintas versiones del código.
-Repositorio en GitHub para el Landing Page:
-Enlace del Landing Page:
-Repositorio en GitHub para el Product Implementation:
-Desarrollo de GitFlow: Para el desarrollo de este proyecto utilizaremos GitFlow como Workflow que controlará las versiones. Esto nos permitirá la creación de las ramas principales y las ramas de apoyo.
-Ramas principales:
-Rama Main: Esta rama es la principal en Git, ya que contendrá el código fuente del proyecto que estará listo para ser utilizado.
-Rama Develop: Esta rama será la encargada de almacenar el código fuente de los cambios más recientes antes de ser actualizado por una nueva versión del proyecto.
-Rama Feature: Esta rama se origina a partir de la rama "Develop" y se destinará al desarrollo de nuevas funciones o características. Una de las ventajas inherentes a su empleo radica en la posibilidad de someter a pruebas las nuevas funcionalidades antes de su incorporación a la rama principal "Develop". Una vez que la rama "Feature" haya sido implementada, se procederá a su eliminación.
-Ramas de apoyo:
-Rama Release: Esta rama surge de la rama “Develop” y se utiliza para la preparación de una nueva versión del proyecto. En esta rama se realizarán tareas como la detección y solución de errores, sin embargo, no se podrá realizar la implementación de nuevas funcionalidades. Después de haber culminado, se deberá fusionar con la rama "Main" y “Develop”.
-Rama Hotfix: Esta rama se origina a partir de la rama "Main" y se emplea con el propósito de abordar y resolver los problemas detectados durante el proceso de depuración del código fuente en la rama Master. Una vez que se hayan resuelto los problemas, será necesario llevar a cabo la fusión con las ramas "Main" y "Develop".
+
+Para la gestión del código fuente del proyecto **AidManager**, se utilizará un sistema de control de versiones basado en **Git**, facilitando el seguimiento de cambios, la colaboración del equipo y la integración continua de nuevas funcionalidades.
+
+---
+
+#### **Repositorio GitHub**
+
+- **Landing Page:**  
+  El código correspondiente a la Landing Page será gestionado en un repositorio específico en GitHub.  
+  - **Repositorio:** https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-Web-Application
+
+- **Product Implementation:**  
+  El desarrollo completo de la aplicación se manejará en otro repositorio dedicado a la implementación del producto final.  
+  - **Repositorio:** https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-Mobile-App
+
+---
+
+#### **Workflow: GitFlow**
+
+Se adoptará **GitFlow** como metodología de control de versiones, permitiendo una organización clara del desarrollo mediante ramas principales y de apoyo.
+
+---
+
+##### **Ramas Principales:**
+
+- **Main:**  
+  Contiene el código **estable y listo para producción**. Toda versión oficial del proyecto se consolidará aquí.
+
+- **Develop:**  
+  Rama dedicada a integrar los **últimos cambios en desarrollo** antes de ser considerados para una nueva versión.
+
+---
+
+##### **Ramas de Desarrollo:**
+
+- **Feature:**  
+  - Se crea desde **Develop**.  
+  - Se utiliza para el desarrollo de nuevas funcionalidades.  
+  - Una vez completada y probada, se fusiona nuevamente a **Develop** y se elimina.
+
+---
+
+##### **Ramas de Apoyo:**
+
+- **Release:**  
+  - Nace desde **Develop**.  
+  - Sirve para la preparación de una nueva **versión estable**, enfocándose en la corrección de errores y ajustes menores.  
+  - Se fusiona tanto en **Main** como en **Develop** al finalizar.
+
+- **Hotfix:**  
+  - Se crea desde **Main**.  
+  - Se utiliza para solucionar **problemas críticos** detectados en producción.  
+  - Se fusiona tanto en **Main** como en **Develop** una vez corregidos los errores.
+
+---
+
+### **Beneficios de GitFlow:**
+
+- Facilita el **trabajo colaborativo** y paralelo.  
+- Permite una clara separación entre **desarrollo**, **pruebas** y **producción**.  
+- Mejora la gestión de versiones y la **entrega continua**.
+
+
 ### 5.1.3. Source Code Style Guide & Conventions
-Para el desarrollo del código en HTML y CSS se decidió seguir la convención de Google HTML/CSS Style Guide. Entre las más importantes destacan:
-El tipo de documento debe especificarse al principio del archivo mediante el uso de meta tags. El elemento: 
-```
-<title>
-``` 
-debe estar dentro de las etiquetas 
 
-```
-<head>
-```
+Para asegurar la consistencia y legibilidad del código en todo el proyecto AidManager, se adoptaron guías de estilo reconocidas y ampliamente aceptadas:
 
-La sangría debe tener dos espacios. Debe utilizar letras minúsculas para elementos HTML, atributos, propiedades, valores y selectores de CSS. Los atributos de los elementos HTML deben estar entre comillas. 
-Cada elemento HTML debe tener su correspondiente etiqueta de cierre. Se recomienda evitar largas líneas de código. Es importante indicar el ancho y alto de las imágenes, así como el texto alternativo (alt). 
+---
 
-Para el código JavaScript, seguimos la convención de la Guía de estilo Java de Google de terminar cada línea con un punto y coma, usar Camelcase para variables y funciones y encerrar valores de cadena entre comillas simples.
+#### **HTML & CSS – Google HTML/CSS Style Guide**
 
-Java sigue el estándar Google Java Style Guid, que determina el formato de los nombres de paquetes, clases y métodos, la sangría de la tabla, la división de líneas largas y los nombres de archivos Java que coinciden con el nombre de la clase. contenida en el mismo. Se recomienda insertar un salto de línea después de cada declaración.
+- El tipo de documento debe especificarse al principio mediante meta tags.
+- El elemento `<title>` debe estar dentro del `<head>`.
+- **Sangría:** 2 espacios por nivel.
+- Uso de **minúsculas** en elementos HTML, atributos, propiedades CSS y selectores.
+- Atributos HTML siempre entre **comillas dobles**.
+- Todos los elementos HTML deben tener su **etiqueta de cierre**.
+- Evitar líneas de código excesivamente largas.
+- Siempre especificar el **ancho**, **alto** y atributo **alt** en imágenes.
+
+---
+
+#### **JavaScript – Google JavaScript Style Guide**
+
+- Terminar cada línea con un **punto y coma**.
+- Uso de **camelCase** para nombres de variables y funciones.
+- Valores de cadenas entre **comillas simples** (' ').
+- Declaraciones agrupadas y claras, con funciones bien delimitadas y comentarios breves cuando sea necesario.
+
+---
+
+#### **Java – Google Java Style Guide**
+
+- Nombres de paquetes en **minúsculas**.
+- **Clases** con nombres en **UpperCamelCase**.
+- **Métodos** y **variables** en **camelCase**.
+- Coincidencia entre el nombre del archivo `.java` y la clase contenida.
+- Sangría consistente (2 o 4 espacios según convención del equipo).
+- Saltos de línea después de cada declaración para mejorar la legibilidad.
+- Dividir líneas largas de más de 100 caracteres de manera lógica.
+
+---
 
 ### 5.1.4. Software Deployment Configuration
-Este apartado describe el proceso de configuración y despliegue del software, utilizando las herramientas principales que hemos integrado en nuestro flujo de trabajo: GitHub para el control de versiones.
-GitHub - Control de Versiones y Flujo de Trabajo: GitHub es la herramienta central para el control de versiones y la gestión del código en el proyecto. Utilizamos el enfoque de branching basado en GitFlow para garantizar un ciclo de desarrollo ordenado y controlado.
-Vercel: Vercel es una plataforma en la nube que permite a los desarrolladores crear, implementar, desplegar y escalar aplicaciones de manera rápida y sencilla. En Vercel, es posible desplegar sitios web estáticos que no requieren interacciones complejas con el usuario ni actualizaciones frecuentes de contenido.
+
+La configuración del despliegue de AidManager se basa en herramientas modernas que permiten una gestión eficiente del código y una implementación ágil.
+
+---
+
+#### **GitHub – Control de Versiones y Flujo de Trabajo**
+
+- Utilizamos **GitHub** como plataforma principal de versionado.
+- Aplicamos la metodología **GitFlow**, garantizando:
+  - Un flujo de trabajo ordenado.
+  - Ramas específicas para desarrollo, lanzamientos y correcciones.
+  - Revisión continua y controlada del código.
+
+---
+
+#### **Vercel – Despliegue Web**
+
+- **Vercel** se emplea para el despliegue de la **Landing Page** y futuras versiones de la aplicación.
+- Ideal para aplicaciones web **estáticas** o con interacciones mínimas.
+- Permite un despliegue rápido y escalable, integrándose directamente con GitHub para **implementación automática** tras cada push a ramas configuradas.
+
+---
+
+### Beneficios:
+- Control detallado del **código fuente** con un estilo uniforme.
+- Flujo de trabajo ágil y seguro mediante GitHub y GitFlow.
+- Despliegue automatizado y accesible con Vercel, facilitando el acceso a versiones actualizadas del producto.
+
 
 ## 5.2. Software Implementation & Deployment
 ### 5.2.1. Sprint Backlogs
