@@ -2281,8 +2281,12 @@ Asimismo, se ha realizado un Trello para hacer seguimiento de nuestras tareas.
     <tr><td>HU33</td><td>Verificar que el código de organización sea correcto</td><td>Alta</td><td>3</td></tr>
   </tbody>
 </table>
+
 <br>
-**Link:** https://trello.com/invite/b/66c568966561935d142481d8/ATTI5751dc000e3f7d636dff7058d697c8dd6B2D7184/aidmanagermobile <br>
+
+**Tablero de seguimiento en Trello:**  
+[Acceder al tablero de Trello](https://trello.com/invite/b/66c568966561935d142481d8/ATTI5751dc000e3f7d636dff7058d697c8dd6B2D7184/aidmanagermobile)
+ <br>
 
 
 
@@ -2444,17 +2448,36 @@ En el caso de iOS nos enfocamos en mantener una persistencia de diseño para que
 <img src="assets/mobile-mock-up/image_104.png" alt="Analytics" width="200px">
 
 
-## 4.2.	Information Architecture
-Esta sección está dedicada a cómo vamos a organizar la navegación en nuestra aplicación móvil.
-### 4.2.1.	Organization System
-Sistemas de organización que usaremos para el proyecto.<br>
-El sistema de Organización se basa en un sistema secuencial donde el usuario debe seguir el workflow de la herramienta para llegar a su objetivo, no obstante, ofrecemos atajos para llegar a estos más rápido.<br>
-Asimismo, existirá una jerarquía visual dependiendo si quien se ha ingresado es un gestor o un miembro de equipo.
-### 4.2.2.	Labelling System
-Los labels se usan para representar muchos datos en pocas palabras para este proyecto decidimos que nuestros labels principales son Home, Projects, Community y Profile. De esta manera será fácil de reconocer y entender.
+## 4.2. Information Architecture
 
+Esta sección define cómo se organiza y estructura la **navegación** dentro de la aplicación móvil AidManager, facilitando la experiencia del usuario a través de un flujo intuitivo y eficiente.
 
+---
 
+### 4.2.1. Organization System
+
+El sistema de organización se basa en un **flujo secuencial**, guiando al usuario paso a paso a través de las funcionalidades principales de la aplicación para lograr sus objetivos.
+
+- Los usuarios siguen un **workflow estructurado**, pero también disponen de **accesos directos** para navegar rápidamente entre secciones.
+- Se implementa una **jerarquía visual diferenciada** según el tipo de usuario:
+  - **Gestores de proyecto**: Acceso prioritario a herramientas de gestión y supervisión.
+  - **Miembros de equipo**: Acceso centrado en tareas asignadas y comunicación.
+
+---
+
+### 4.2.2. Labelling System
+
+El sistema de etiquetado está diseñado para ser **claro y directo**, facilitando la comprensión de la aplicación.
+
+- Los principales **labels** o etiquetas de navegación son:
+  - **Home**
+  - **Projects**
+  - **Community**
+  - **Profile**
+
+Estos términos fueron seleccionados para representar de forma concisa las funciones clave, asegurando que los usuarios puedan identificar rápidamente las secciones más relevantes.
+
+---
 
 ### 4.2.3.	SEO and Meta Tags
 Meta & SEO (Search Engine Optimization) Tags: sirven para que la página web donde promocionamos la aplicación sea encontrada fácilmente es lo que sale al encontrar la página en el buscador (se ponen en el <"head"> de la landing page o en la página store)
