@@ -2533,6 +2533,9 @@ Los botones call to action funcionales y redirigiendo a los enlaces requeridos e
 ### 5.2.3. Implemented Frontend-Web Application Evidence
 Se presenta la implementación de la aplicación Front End, en esta entrega se dejaron las funcionalidades de manera optima mas la conexión de base de datos requiere cambios.
 
+<center><img src="assets/Implementations/WEBAplications.jpg" alt="WebApp deployed" style="width:80%;"></center>
+
+
 ### 5.2.4. Implemented Native-Mobile Application Evidence
 Se presenta la implementación de la aplicación móvil, en esta entrega se puede considerar la implementación mas completa.
 
