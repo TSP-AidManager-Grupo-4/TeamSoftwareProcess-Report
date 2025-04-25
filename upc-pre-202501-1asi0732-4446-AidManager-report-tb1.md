@@ -46,16 +46,16 @@
 
 ---
 
-# Registro de versiones
+# Registro de versiones  
 
-# Contenido 
-## Tabla de contenidos
-### [Registro de versiones del informe](#registro-de-versiones-del-informe)
-### [Project Report Collaboration Insights](#project-report-collaboration-insights)
-### [Student Outcome](#student-outcome)
-## [Capítulo I: Introducción](#capítulo-i-introducción)
-- [1.1. Startup Profile](#11-startup-profile)
-  - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+ Contenido 
+ Tabla de contenidos
+ [Registro de versiones del informe](#registro-de-versiones-del-informe)  
+ [Project Report Collaboration Insights](#project-report-collaboration-insights)  
+ [Student Outcome](#student-outcome)  
+ [Capítulo I: Introducción](#capítulo-i-introducción)  
+- [1.1. Startup Profile](#11-startup-profile)  
+  - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)  
   - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
 - [1.2. Solution Profile](#12-solution-profile)
   - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
@@ -66,7 +66,7 @@
     - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-## [Capítulo II: Requiriments Elicitation & Analysis](#capítulo-ii-requiriments-elicitation-&-analysis)
+[Capítulo II: Requiriments Elicitation & Analysis](#capítulo-ii-requiriments-elicitation-&-analysis)  
 - [2.1. Competidores](#21-competidores)
   - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
   - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -82,13 +82,13 @@
   - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 - [2.4. Ubiquitous Lenguage](#24-requirements-specification)
 
-## [Capítulo III: Requirements Specifications](#capítulo-iii-requirements-spcefications)
+ [Capítulo III: Requirements Specifications](#capítulo-iii-requirements-spcefications)
 - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 - [3.2. User Stories](#32-user-stories)
 - [3.3. Product Backlog](#33-product-backlog)
 - [3.4. Impact Mapping](#34-impact-mapping)
   
-## [Capítulo IV: Product Design](#capítulo-iv-product-design)
+ [Capítulo IV: Product Design](#capítulo-iv-product-design)
 
 - [4.1. Style Guidelines](#41-style-guidelines)
   - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
@@ -146,15 +146,21 @@
 
 - [5.3. Video about the product](#54-video-about-the-product)
 
-## [Conclusiones](#conclusiones)
-- [Video about the team](#video-about-the-team)
-
-## [Bibliografía](#bibliografía)
-## [Anexos](#anexos)
+ [Conclusiones](#conclusiones)  
+ [Video about the team](#video-about-the-team)  
+  [Bibliografía](#bibliografía)  
+ [Anexos](#anexos)  
 
 ---  
   
 # Student Outcome
+
+| **Criterio Específico** | **Acciones Realizadas** | **Conclusiones** |
+|-------------------------|-------------------------|------------------|
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | *(Acciones realizadas pendientes de completar)* | El equipo logró actualizar y aplicar conceptos relevantes en soluciones de software, lo que contribuyó al fortalecimiento de nuestras competencias profesionales. Esta actualización de conocimientos fue clave para el desarrollo del proyecto. |
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. | *(Acciones realizadas pendientes de completar)* | A lo largo del proyecto, el grupo demostró consciencia sobre la importancia del aprendizaje permanente mediante la búsqueda de información actualizada, la revisión constante de buenas prácticas en software y la reflexión grupal sobre el trabajo realizado.|
+
+
 
 
 # Capítulo I: Presentación
@@ -2439,16 +2445,12 @@ Project Manager - La clase representa los Project managers
 
 Assistant - la clase representa a los asistentes de eventos y proyectos
 
-Project – la clase Project representa
+Project – la clase Project representa los mismos proyectos
 
 
 ## 4.10.	Database Diagram
 
 ![Database Diagram](assets/database.png)
-
-## 4.10.	Relational/Non-Relational Database Diagram
-
-
 
 # Capítulo V: Product Implementation
 
@@ -2460,6 +2462,9 @@ Es una herramienta visual, donde diseñamos el prototipo de la página web. Se u
 Product UX/UI Design: Producto: Figma Propósito: Para llevar a cabo el diseño de la aplicación, como Wireframes y Mockups, utilizamos Figma. Esta es una plataforma de edición gráfica y diseño de interfaces, utilizada por diseñadores UX/UI.
 Enlace:
 Software Deployment: Producto: Utilizar Vercel para el despliegue del landing Page. Enlace:
+
+
+
 ### 5.1.2. Source Code Management
 A continuación, se detalla la gestión del código fuente que se implementará en este proyecto, la cual facilitará el seguimiento y control de los cambios y adaptaciones realizados por los miembros del equipo durante el desarrollo. Además, se establecerá un repositorio en GitHub para administrar de manera eficiente las distintas versiones del código.
 Repositorio en GitHub para el Landing Page:
@@ -2475,11 +2480,23 @@ Rama Release: Esta rama surge de la rama “Develop” y se utiliza para la prep
 Rama Hotfix: Esta rama se origina a partir de la rama "Main" y se emplea con el propósito de abordar y resolver los problemas detectados durante el proceso de depuración del código fuente en la rama Master. Una vez que se hayan resuelto los problemas, será necesario llevar a cabo la fusión con las ramas "Main" y "Develop".
 ### 5.1.3. Source Code Style Guide & Conventions
 Para el desarrollo del código en HTML y CSS se decidió seguir la convención de Google HTML/CSS Style Guide. Entre las más importantes destacan:
-El tipo de documento debe especificarse al principio del archivo mediante el uso de meta tags. El elemento <title> debe estar dentro de las etiquetas <head>. 
+El tipo de documento debe especificarse al principio del archivo mediante el uso de meta tags. El elemento: 
+```
+<title>
+``` 
+debe estar dentro de las etiquetas 
+
+```
+<head>
+```
+
 La sangría debe tener dos espacios. Debe utilizar letras minúsculas para elementos HTML, atributos, propiedades, valores y selectores de CSS. Los atributos de los elementos HTML deben estar entre comillas. 
 Cada elemento HTML debe tener su correspondiente etiqueta de cierre. Se recomienda evitar largas líneas de código. Es importante indicar el ancho y alto de las imágenes, así como el texto alternativo (alt). 
+
 Para el código JavaScript, seguimos la convención de la Guía de estilo Java de Google de terminar cada línea con un punto y coma, usar Camelcase para variables y funciones y encerrar valores de cadena entre comillas simples.
+
 Java sigue el estándar Google Java Style Guid, que determina el formato de los nombres de paquetes, clases y métodos, la sangría de la tabla, la división de líneas largas y los nombres de archivos Java que coinciden con el nombre de la clase. contenida en el mismo. Se recomienda insertar un salto de línea después de cada declaración.
+
 ### 5.1.4. Software Deployment Configuration
 Este apartado describe el proceso de configuración y despliegue del software, utilizando las herramientas principales que hemos integrado en nuestro flujo de trabajo: GitHub para el control de versiones.
 GitHub - Control de Versiones y Flujo de Trabajo: GitHub es la herramienta central para el control de versiones y la gestión del código en el proyecto. Utilizamos el enfoque de branching basado en GitFlow para garantizar un ciclo de desarrollo ordenado y controlado.
@@ -2489,28 +2506,26 @@ Vercel: Vercel es una plataforma en la nube que permite a los desarrolladores cr
 ### 5.2.1. Sprint Backlogs
 
 ### 5.2.2. Implemented Landing Page Evidence
+Se presenta la implementación de la landing page
+Los botones call to action funcionales y redirigiendo a los enlaces requeridos en el contexto de nuestra aplicación.
 
 ### 5.2.3. Implemented Frontend-Web Application Evidence
+Se presenta la implementación de la aplicación Front End, en esta entrega se dejaron las funcionalidades de manera optima mas la conexión de base de datos requiere cambios.
 
 ### 5.2.4. Implemented Native-Mobile Application Evidence
+Se presenta la implementación de la aplicación móvil, en esta entrega se puede considerar la implementación mas completa.
 
 ### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
 
+Se presenta la implementación de la aplicación back end, se toma en cuenta también la base de datos en un servicio cloud.
+
 ### 5.2.6. RESTful API documentation
+
+Se presenta la documentación de la API mencionando los endpoints que tiene.
 
 ### 5.2.7. Team Collaboration Insights
 
-![Insights 1](assets/insights1.png)
-
-![Insights 2](assets/insights2.png)
-
-![Insights 3](assets/insights3.png)
-
-![Insights 4](assets/insights4.png)
-
-![Insights 5](assets/insights5.png)
-
-![Insights 6](assets/insights6.png)
+Se presentan los commits de los Integrantes del equipo
 
 
 ## 5.3. Video About-the-Product
@@ -2518,52 +2533,27 @@ Link: https://youtu.be/5C6CFJQ90q8
 
 
 # Conclusiones
-En conclusión, para la TB1 se realizó una investigación respecto a nuestra propuesta, utilizando el proceso UX logramos plantear Assumptions para el proyecto y asimismo realizamos las herramientas de UXPressia para realizar nuestro NeedFinding. Gracias a estos procesos logramos identificar nuestras historias de usuario.
-No obstante, siguiendo la metodología ágil esperamos realizar cambios pequeños según sea necesario en los procesos de desarrollo.
-En conclusión, para la TB2 se realizó el proceso de diseño tanto para la aplicación móvil como para el back end de esta, adicionalmente se realizaron las correcciones de la entrega anterior según menciono el profesor específicamente con las historias de usuario, el Product Backlog y los Hypotesis Statements.
-En conclusión, para el TP se realizó el deployment del back-end y las primeras secciones de nuestra aplicación móvil. Se toma en alta consideración el diseño de figma y diagramas de base de datos. Asimismo, buscamos documentar extensivamente los
-Aun así, el equipo continúa presentando mejoras en la organización a base de los errores que se cometen siempre buscando un feedback para mejorar.
-En conclusión, para el TB3 se han realizado mejoras a la aplicación móvil y asimismo al back end haciendo uso de mejores prácticas y funciones más de acuerdo al diseño realizado. Se presentan mejoras en los formatos del informe y organización.
-En conclusión, para la TB4 hemos continuado el desarrollo a la aplicación móvil continuando la implementación de los ítems del backlog, mejorando la conexión con el back end y concluyendo con la gran mayoría de funciones, asimismo hemos realizado entrevistas de validación para una demo funcional de la aplicación y analizamos nuestras heuristicas.
-# Objetivos Smart
-Harold Mayta:	
-	Después de graduarme como Ingeniero de Software, mi meta es establecer, en un plazo de año y medio, mi propio negocio de desarrollo de software en el extranjero. Este emprendimiento estará enfocado en crear soluciones tecnológicas innovadoras para clientes internacionales, utilizando Angular como framework principal para el frontend, Docker para optimizar la implementación de aplicaciones, y siguiendo la metodología ágil Scrum para garantizar una gestión eficiente y colaborativa en los proyectos.
-Para lograrlo, en los primeros seis meses tras mi graduación, me comprometeré a perfeccionar mis habilidades mediante cursos avanzados en Angular y certificaciones en DevOps y Scrum, lo que me permitirá ofrecer servicios de alta calidad desde el inicio. Además, trabajaré activamente en construir una red profesional sólida que me ayude a obtener al menos tres contratos importantes en el primer año de operaciones. Mi visión a largo plazo es que este negocio no solo sea rentable, sino también un espacio donde pueda fomentar la innovación y colaborar con equipos talentosos de distintas partes del mundo.
-
-Barrionuevo Reto, Jean Franco Jo:	
-	Después de graduarme como Ingeniero de Software, mi objetivo es fundar, en un plazo de dos años, un a consultora tecnológica en América Latina especializada en inteligencia artificial y desarrollo móvil. Utilizaré Flutter para aplicaciones multiplataforma y TensorFlow para implementar soluciones de IA, enfocándome en apoyar a pequeñas y medianas empresas en su transformación digital.
-
-Para lograrlo, me certificaré en Flutter y Machine Learning durante el primer año, complementándolo con experiencia freelance y asistencia a eventos tecnológicos para construir una red de contactos y un portafolio sólido. Mi visión es liderar una consultora que promueva la innovación y adopción tecnológica en sectores clave como la educación y la salud.
-
-Manuel Peña Rivera:
-Tras obtener mi título como Ingeniero de Software, mi meta es desarrollar, en un periodo de tres años, una plataforma educativa en línea que cuente con inteligencia artificial para optimizar el aprendizaje en las habilidades tecnológicas en jóvenes peruanos de entre 15 y 25 años. Este proyecto integrará tecnologías como Vue para el Front-end, Python para el desarrollo de la inteligencia artificial y Azure para la infraestructura en la nube, asegurando escalabilidad y rendimiento.
-Para lograrlo, en el primer año me certificaré en AWS, realizaré cursos de UX y desarrollaré un prototipo funcional. Posteriormente, buscaré financiamiento y alianzas estratégicas para consolidar la plataforma y su impacto educativo.
+En conclusión, para la TB1 se realizó el desarrollo de la solución y la implementación de esta misma. En futuras entregas estaremos observando mas de cerca el código a nivel de pruebas.
 
 
-
-
-Sebastián Ramírez Hoffmann:
-Mi objetivo profesional para los próximos dos años es fortalecer mis habilidades en desarrollo back-end y ciberseguridad, logrando certificaciones clave como CompTIA Security+ o Certified Ethical Hacker (CEH), y en tecnologías de back-end como Node.js, Django o Spring. Planeo desarrollar un proyecto práctico que integre medidas avanzadas de seguridad en un sistema web, participando también en proyectos colaborativos que utilicen metodologías ágiles. Además, asistiré a tres conferencias o meetups en estas áreas y construiré una red de contactos con al menos 10 profesionales del sector. Dedicaré al menos 10 horas semanales a cursos, lectura y práctica para consolidar mi perfil profesional y alinearlo con las demandas del mercado.
-
-Nicolás Esteban:
-Después de graduarme como Ingeniero de Software, mi meta es establecerme como desarrollador web especializado en frontend y, posteriormente, expandir mis habilidades hacia el desarrollo móvil. En un plazo de año y medio, planeo construir un negocio de desarrollo de software en el extranjero, enfocado en ofrecer soluciones tecnológicas innovadoras a clientes internacionales. Inicialmente, mi enfoque estará en proyectos freelance que me permitan colaborar en equipos diversos y fortalecer mi experiencia profesional.​
-
-En el ámbito web, priorizaré el uso de tecnologías como React.js, Vue.js, y Angular para crear interfaces modernas, escalables y optimizadas. Más adelante, migraré hacia el desarrollo móvil utilizando frameworks como React Native y otras tecnologías emergentes para ampliar el alcance de mis servicios y adaptarme a las demandas del mercado.​
-
-Durante los primeros seis meses después de mi graduación, me comprometeré a perfeccionar mis habilidades mediante cursos avanzados en desarrollo frontend, así como certificaciones en DevOps y Scrum, lo que me permitirá aplicar buenas prácticas en la entrega de proyectos. Además, trabajaré en construir una red profesional sólida para asegurar al menos tres contratos importantes en mi primer año como freelance.​
-
-Mi visión a largo plazo es consolidar un negocio que sea rentable y que también sirva como un espacio para la innovación y la colaboración, uniendo talento global en la creación de proyectos que transformen la experiencia de los usuarios y contribuyan al avance tecnológico
 # Bibliografia
+
+```
 Moya, M. G. (2023b, abril 24). El desafío de las ONG en la gestión organizacional y de proyectos.
 Nonprofits, D. F. (2023, 7 agosto). Data Analytics for Nonprofits.
-        ()
+        
 Everyone Thrives Consultant Services. (2023, 15 diciembre). Data: The Key to 
         Unlocking Nonprofit Success.
+
 Frattaroli, V., Le Goaer, O., & Philippot, O. (2023). Ecological impact of native versus cross-platform mobile apps: A preliminary study. Proceedings of the 2023 38th IEEE/ACM International Conference on Automated Software Engineering Workshops (ASEW), 3-8.
+
 Pai, A. A., Kumar, P. R., Thomas, S., & Pratiba, D. (2023). NGO Connect: Technology for non-profit organisation management. In Proceedings of the 2023 IEEE Conference on Software and Information Technology Systems for Sustainability (pp. 1-6). IEEE.
+
 Gowri, S., Pappa, C. K., Tamilvizhi, T., Nelson, L., & Surendran, R. (2023). Intelligent analysis on frameworks for mobile app development. En Proceedings of the 5th International Conference on Smart Systems and Inventive Technology (ICSSIT 2023) (pp. 1506-1512). Tirunelveli, India: IEEE.
 
 Katti, V. S., & Sowmya, K. (2022). Flutter: Cross-platform IDE for mobile applications. En Proceedings of the 13th International Conference on Advances in Computing, Control, and Telecommunication Technologies (ACT 2022) (Vol. 8, pp. 468-472). IEEE.
+
+```
 
 
 
