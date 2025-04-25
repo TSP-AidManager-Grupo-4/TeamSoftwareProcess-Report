@@ -2165,6 +2165,32 @@ El logo de nuestra startup, que muestra la vista superior de alguien abriendo lo
 <br><center><img src="assets/StyleGuidelines-images/LogoAidManager.jpg" alt="Tipografías generales" style="width:70%"><br><br></center>
 
 ### 4.1.2.	Web Style Guidelines
+Descripción de los elementos que se utilizaran en el web app
+
+**Background:** (primary, secondary, terniary)
+
+Para el background se hace uso del color FFFFF para resaltar la pagina y para separar secciones D9ED8F
+![Background Preview web](assets/StyleGuidelines-images/Search.png)
+
+
+**Text Styles:** (H1, H2, p, a,)
+
+Para el texto se escogieron colores que combinan con la temática de la pagina y que facilitan la lectura del usuario
+<center><img src="assets/StyleGuidelines-images/aam-6.png" alt="app web mock-up6" style="width:80%;"></center>
+
+**Button Styles:** (Button, dropdowns, Switches)
+
+Para los botones el color cambia según el color del fondo
+<center><img src="assets/StyleGuidelines-images/aww-13.png" alt="app web wireframe13" style="width:80%;"></center>
+
+**Icons:** (Fondo blanco con los iconos que vamos a usar)
+Tendremos iconografía de búsqueda, lápiz, ropa, reciclaje, icono de gráfico, foco, etc
+
+<center><img src="assets/StyleGuidelines-images/aam-6.png" alt="app web mock-up6" style="width:80%;"></center>
+
+**Misc** 
+Se determina el color y posición según la sección
+<center><img src="assets/StyleGuidelines-images/aww-10.png" alt="app web wireframe10" style="width:80%;"></center>
 
 ### 4.1.3.	Mobile Style Guidelines
 
