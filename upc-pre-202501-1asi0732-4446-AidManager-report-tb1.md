@@ -46,12 +46,49 @@
 
 ---
 
-# Registro de versiones  
 
- Contenido 
- Tabla de contenidos
- [Registro de versiones del informe](#registro-de-versiones-del-informe)  
- [Project Report Collaboration Insights](#project-report-collaboration-insights)  
+# Registro de Versiones del Informe
+
+<div align="center">
+
+
+| Versión | Fecha       | Autor                                              | Descripción de modificación                                                                                               |
+|---------|-------------|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| TB1     | 3/04/2025  | Nicolas Sebastian Esteban Garcia     | Redacción de antecedentes y revisiones del documento. |
+| TB1     | 8/04/2025  | Sebastian Ramirez Hoffmann           | Revisión completa del Lean UX Canvas.            |
+
+
+
+</div>
+
+# Project Report Collaboration Insights
+
+Repositorios:
+
+Proyecto: 
+
+
+### TB1
+
+Para la entrega del TB1 se han realizado los procesos necesarios para lograr los objetivos propuestos de la entrega. Se toma en cuenta la importancia de la persistencia y como grupo nos dedicamos a mantener una frecuencia de commits y cambios proyectada a ser optima a futuro.
+
+Se muestran evidencias de los commits realizados en la entrega de la TB1 en el informe.
+
+<img src=" " alt="imagen de las colaboraciones">  
+
+[Colaboraciones del repositorio]
+
+<img src=" " alt="imagen de los commits">  
+[Registro de los commits donde se realizaron la mayor cantidad]
+
+En ambos casos se puede observar el incremento de modificaciones y revisiones en los dias miercoles y una cantidad mayor de cambios que commits.
+
+---
+
+# Contenidos
+
+[Registro de Versiones del Informe](#registro-de-versiones-del-informe)
+[Project Report Collaboration Insights](#project-report-collaboration-insights) 
  [Student Outcome](#student-outcome)  
  [Capítulo I: Introducción](#capítulo-i-introducción)  
 - [1.1. Startup Profile](#11-startup-profile)  
@@ -126,10 +163,10 @@
 - [4.9. Software Object-Oriented Design](#49-software-object-oriented-design)
   - [4.9.1. Class Diagrams](#491-class-diagrams)
   - [4.9.2. Class Dictionary](#492-class-dictionary)
-- [4.10. Database Diagram](#410-database-diagram)
+- [4.10. Database Diagram](#410-database-diagram)  
   - [4.10.1 Relational/Non-Relational Database Diagram](#410-database-diagram)
-  
-## [Capítulo V: Product Implementation](#capítulo-v-product-implementation)
+
+[Capítulo V: Product Implementation](#capítulo-v-product-implementation)
 - [5.1. Software Configuration Management](#51-software-configuration-management)
   - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
   - [5.1.2. Source Code Management](#512-source-code-management)
@@ -152,12 +189,13 @@
  [Anexos](#anexos)  
 
 ---  
-  
+
+
 # Student Outcome
 
 | **Criterio Específico** | **Acciones Realizadas** | **Conclusiones** |
 |-------------------------|-------------------------|------------------|
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | *(Acciones realizadas pendientes de completar)* | El equipo logró actualizar y aplicar conceptos relevantes en soluciones de software, lo que contribuyó al fortalecimiento de nuestras competencias profesionales. Esta actualización de conocimientos fue clave para el desarrollo del proyecto. |
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | Sebastian Ramirez Hoffann **TB1**:   | El equipo logró actualizar y aplicar conceptos relevantes en soluciones de software, lo que contribuyó al fortalecimiento de nuestras competencias profesionales. Esta actualización de conocimientos fue clave para el desarrollo del proyecto. |
 | Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. | *(Acciones realizadas pendientes de completar)* | A lo largo del proyecto, el grupo demostró consciencia sobre la importancia del aprendizaje permanente mediante la búsqueda de información actualizada, la revisión constante de buenas prácticas en software y la reflexión grupal sobre el trabajo realizado.|
 
 
