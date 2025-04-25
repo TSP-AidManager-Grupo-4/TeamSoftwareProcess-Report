@@ -205,11 +205,23 @@ En ambos casos se puede observar el incremento de modificaciones y revisiones en
 
 
 ## 1.1. Startup Profile
-La sección de startup profile es requerida para hacer una introducción a nuestro equipo y startup.
-### 1.1.1. Descripción del Startup
-Nuestro startup AidRecruits se basa en un equipo orientado en mejorar la calidad de la ayuda social en el Perú intentando mejorar el impacto positivo en nuestra sociedad, por medio de soluciones tecnológicas buscamos mejorar las condiciones administrativas de las ONG con la visión de poder aumentar la solidaridad a nivel nacional y en un futuro internacional.
+
+Esta sección introduce a nuestro equipo y presenta la esencia de nuestra startup.
+
+### 1.1.1. Descripción de la Startup
+
+**AidRecruits** es una startup comprometida con transformar la forma en que las **ONG** gestionan y amplifican su impacto social en el Perú. Nuestro objetivo es potenciar la **calidad de la ayuda social**, desarrollando soluciones tecnológicas innovadoras que optimicen los procesos administrativos y operativos de estas organizaciones.
+
+Buscamos brindar herramientas accesibles y efectivas que permitan a las ONG enfocarse en lo que realmente importa: **ayudar a las comunidades que más lo necesitan**. En un entorno donde los recursos son limitados y los desafíos constantes, creemos que la tecnología puede ser el catalizador para un cambio duradero.
+
+Con una visión centrada en la **solidaridad nacional** y la proyección hacia un futuro **internacional**, fortalecemos la capacidad de las ONG para generar un cambio real y sostenible en la sociedad. A través de plataformas diseñadas específicamente para sus necesidades, facilitamos la organización, la transparencia y la colaboración.
+
+Creemos firmemente que, mediante el uso eficiente de la tecnología, es posible construir un entorno más justo, inclusivo y eficiente, donde cada proyecto social logre alcanzar su máximo potencial y donde las barreras administrativas ya no limiten el deseo de ayudar.
+
+---
 
 ![logo](assets/logo.png)
+
 
 ### 1.1.2. Perfiles de integrantes de grupo
 Los siguientes integrantes del grupo son presentados con su carrera y sus conocimientos relevantes al desarrollo de este proyecto.
@@ -359,12 +371,24 @@ una comunicación abierta y efectiva entre todos los miembros del equipo.<br>
 **How Much (¿Cuánto costaría?):** La aplicación tendrá sus funcionalidades Core a medio de pago es decir el proceso de gestión recopilación y refinamiento de datos junto con las mejores oportunidades de mejora para estas. Tanto el Core de la aplicación como la suscripción se tendrán que renovar cada cierto tiempo donde las organizaciones se tendrán que escoger un plan anual o mensual. No obstante, contamos con un límite de cuentas en el plan y si el usuario es parte de una organización más grande entonces ofreceremos un plan con mayor cantidad de cuentas.
 
 ### 1.2.2. Lean UX Process
-Los procesos lean UX son críticos para poder definir bien las ideas que tenemos y realizar un plan de acción para las preguntas que necesitamos responder por medio del Needfinding.
+
+Los procesos Lean UX son fundamentales para definir con precisión nuestras ideas y establecer un plan de acción enfocado en responder preguntas clave a través del **Needfinding**.
+
 #### 1.2.2.1. Lean UX Problem Statement
-Hablamos de la situación actual, la competencia y la propuesta de solución.
-Las ONG en Perú enfrentan una falta de organización que limita su capacidad de generar un impacto significativo. Esta ineficiencia afecta principalmente la gestión de fondos, la capacitación, la comunicación y la supervisión. A pesar de las oportunidades de mejorar a través de una planificación adecuada, muchas ONG no están conscientes de los beneficios de una gestión efectiva. Esta falta de organización daña la imagen de las ONG, reduce la eficiencia de sus proyectos y disminuye el impacto que pueden generar.
-Los productos de gestión disponibles en el mercado suelen ser costosos y poco accesibles para la mayoría de las ONG peruanas, que no disponen de los recursos para adquirir estas soluciones. Además, muchas de estas herramientas son excesivamente complejas, con demasiadas funciones, lo que dificulta la adaptación de los equipos y aumenta la resistencia a su implementación.
-¿Cómo podemos ofrecer una solución de gestión de proyectos accesible, adaptada a las necesidades de las ONG en Perú, que les permita optimizar sus operaciones, mejorar su eficiencia y aumentar su impacto social?
+
+Este apartado aborda la situación actual del sector, las limitaciones de la competencia y nuestra propuesta de solución.
+
+Las **ONG en Perú** enfrentan una notoria falta de organización que limita su capacidad de generar un **impacto significativo**. Esta ineficiencia afecta especialmente la **gestión de fondos**, la **capacitación**, la **comunicación interna** y la **supervisión de proyectos**. A pesar de las oportunidades existentes para mejorar mediante una planificación adecuada, muchas ONG no son plenamente conscientes de los beneficios que una gestión efectiva puede brindarles.
+
+Esta falta de organización no solo perjudica la imagen de las ONG, sino que también reduce la **eficacia de sus iniciativas** y disminuye el alcance e impacto que podrían lograr.
+
+Por otro lado, los productos de gestión actualmente disponibles en el mercado son, en su mayoría:
+- **Costosos**, y por ende poco accesibles para la mayoría de ONG peruanas, que operan con recursos limitados.
+- **Excesivamente complejos**, con funcionalidades que no se ajustan a sus necesidades reales, lo cual dificulta la adopción y genera resistencia entre sus equipos.
+
+> **Pregunta clave:**  
+> ¿Cómo podemos ofrecer una **solución de gestión de proyectos accesible**, adaptada a las **necesidades reales de las ONG en Perú**, que les permita optimizar sus operaciones, mejorar su eficiencia y aumentar su impacto social?
+
 #### 1.2.2.2. Lean UX Assumptions
 **Business Outcome**<br>
 
