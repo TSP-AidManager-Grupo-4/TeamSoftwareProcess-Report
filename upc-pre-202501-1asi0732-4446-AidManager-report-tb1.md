@@ -33,8 +33,8 @@
             <td>U202210138</td>
         </tr>
         <tr>
-            <td>Nombre</td>
-            <td>Codigo</td>
+            <td>Ramirez Hoffmann Sebastian</td>
+            <td>U202211894</td>
         </tr>
          <tr>
             <td>Ramírez Méndez, Sebastián André</td>
@@ -173,7 +173,7 @@ Los siguientes integrantes del grupo son presentados con su carrera y sus conoci
 <table>
   <tr>
     <th>
-      <img src="assets/sebas_perfil.jpeg" alt="Foto de perfil de" width="800px">
+      <img src="assets/sebas_perfil.jpeg" alt="Foto de perfil de Sebastian Ramirez Mendez" width="800px">
     </th>
     <td valign="top">
       <p><b>Ramírez Méndez, Sebastián André</b></p>
@@ -184,12 +184,12 @@ Los siguientes integrantes del grupo son presentados con su carrera y sus conoci
   </tr>
   <tr>
     <th>
-      <img src="" alt="Foto de perfil de" width="800px">
+      <img src="../Report/assets/integrantes/Sebastian-Ramirez-Hoffmann .jpeg" alt="Foto de perfil de Sebastian Ramirez Hoffmann" width="800px">
     </th>
     <td valign="top">
-      <p><b>Apellidos, Nombres</b></p>
+      <p><b>Ramirez Hoffmann, Sebastian</b></p>
       <p>
-        Descripcion
+        Me dedico a realizar soluciones de software utilizando distintas tecnologías y frameworks de desarrollo como .NetCore, SpringBoot, Angular y Vue. Asimismo cuento con experiencia implementando tecnologías mas actuales como Large Learning Models asi como modelos de cyber seguridad. Personalmente me considero una persona proactiva con vision y dispuesto a trabajar eficientemente en proyectos colaborativos.
       </p>
     </td>
   </tr>
@@ -2129,8 +2129,6 @@ Como startup, nos esforzamos por transmitir profesionalismo y eficiencia a trav�
 
 
 
-
-
 ### 4.1.1.	General Style Guidelines
 **Color Primario**<br>
 
@@ -2166,15 +2164,50 @@ El logo de nuestra startup, que muestra la vista superior de alguien abriendo lo
 
 ### 4.1.2.	Web Style Guidelines
 
-### 4.1.3.	Mobile Style Guidelines
+Descripcion de los elementos que se utilizaran en el web app
+
+Background: (primary, secondary, terniary)
+
+Para el background se hace uso del color FFFFF para resaltar la pagina y para separar secciones D9ED8F Background Preview web
+
+<img src="assets/StyleGuidelines-images/Background.png" alt="Background" width="800px">
+
+
+Text Styles: (H1, H2, p, a,)
+
+Para el texto se escogieron colores que combinan con la tematica de la pagina y que facilitan la lectura del usuario
+
+<img src="assets/StyleGuidelines-images/TextStyles.png" alt="TextStylesExample" width="800px">
+
+Button Styles: (Button, dropdowns, Switches)
+
+Para los botones el color cambia segun el color del fondo
+
+<img src="assets/StyleGuidelines-images/ButtonStyles.png" alt="Button" width="800px">
+
+Icons: (Fondo blanco con los iconos que vamos a usar) Tendremos iconografia de busqueda, lapiz, ropa, reciclaje, icono de grafico, foco, etc
+
+<img src="assets/StyleGuidelines-images/Icons.png" alt="Icons" width="800px">
+
+Misc Se determina el color y posicion segun la seccion
+
+<img src="assets/StyleGuidelines-images/Misc.png" alt="Misc" width="800px">
 
 
 ### 4.1.3.	Mobile Style Guidelines
+Asimismo como hicimos con el web Style Guidelines seguimos un approach parecido para ambos dispositivos android y iOS
+
+En el caso de iOS nos enfocamos en mantener una persistencia de diseño para que existan muchas diferencias con la contraparte de android.
 
 #### 4.1.3.1.	iOS Mobile Style Guidelines
 
+
+<img src="assets/mobile-mock-up/image_65.png" alt="LoginExample" width="200px">
+
+
 #### 4.1.3.2.	Android Mobile Style Guidelines
 
+<img src="assets/mobile-mock-up/image_104.png" alt="Analytics" width="200px">
 
 
 ## 4.2.	Information Architecture
@@ -2191,9 +2224,27 @@ Los labels se usan para representar muchos datos en pocas palabras para este pro
 
 ### 4.2.3.	SEO and Meta Tags
 Meta & SEO (Search Engine Optimization) Tags: sirven para que la página web donde promocionamos la aplicación sea encontrada fácilmente es lo que sale al encontrar la página en el buscador (se ponen en el <"head"> de la landing page o en la página store)
-Título: <title> AidManager | La mejor opción de ONG para la gestión de proyectos </title>
-Descripción: <meta name = "description" content = "Gestiona, Recolecta, Analiza y Visualiza los datos y colaboradores de tus proyectos todo en un solo lugar."/>
-Palabras Clave: <meta name = "keyword" content = "ONG gestión, Gestionar Proyecto, ONG, dar Tareas, análisis de datos, Organizar, Orden "/>
+Título: 
+
+```
+ <title> AidManager | La mejor opción de ONG para la gestión de proyectos </title>
+
+```
+
+Descripción: 
+
+```
+ <meta name = "description" content = "Gestiona, Recolecta, Analiza y Visualiza los datos y colaboradores de tus proyectos todo en un solo lugar."/> 
+
+```
+
+Palabras Clave:
+
+```
+ <meta name = "keyword" content = "ONG gestión, Gestionar Proyecto, ONG, dar Tareas, análisis de datos, Organizar, Orden "/>
+
+```
+
 ### 4.2.4.	Searching Systems
 **¿Que se busca?:** El usuario busca su proyecto para gestionar. **¿Qué resultados se mostrarán?:** Se debe de mostrar cards y entre ellas el proyecto que está revisando.<br>
 
@@ -2321,6 +2372,11 @@ Priorización de Información Relevante: El diseño de la aplicación se enfoca 
 
 ![Mobile Prototyping](assets/prototyping.png)
 
+Se presenta asimismo el prototipo del figma realizado
+```
+https://www.figma.com/proto/I9eSDqC0GqeOs3fNvBbJAv/AidManager-app-web-Wireframe--Copy-?node-id=2301-10003&starting-point-node-id=2139%3A128776&t=5t7TF9vFAZDk7V2n-1
+```
+
 ## 4.8.	Domain-Driven Software Architecture
 ### 4.8.1.	Software Architecture Context Level Diagram
 
@@ -2365,6 +2421,7 @@ Project – la clase Project representa
 ![Database Diagram](assets/database.png)
 
 ## 4.10.	Relational/Non-Relational Database Diagram
+
 
 
 # Capítulo V: Product Implementation
