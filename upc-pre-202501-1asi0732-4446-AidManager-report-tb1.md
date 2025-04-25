@@ -2530,6 +2530,8 @@ Vercel: Vercel es una plataforma en la nube que permite a los desarrolladores cr
 Se presenta la implementación de la landing page
 Los botones call to action funcionales y redirigiendo a los enlaces requeridos en el contexto de nuestra aplicación.
 
+<center><img src="assets/Implementations/Landing_implementation.jpg" alt="WebApp deployed" style="width:80%;"></center>
+
 ### 5.2.3. Implemented Frontend-Web Application Evidence
 Se presenta la implementación de la aplicación Front End, en esta entrega se dejaron las funcionalidades de manera optima mas la conexión de base de datos requiere cambios.
 
