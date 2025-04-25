@@ -1329,10 +1329,48 @@ En esta sección definimos los **términos clave** utilizados por los usuarios y
 
 ## 3.1. To-Be Scenario Mapping
 
-![To-Be](assets/tobe1.png)
-![To-Be](assets/tobe2.png)
-<br>
-**Enlace:** https://miro.com/welcomeonboard/NlNXV0pNbjkzNGhhN0RaVE1GZ2QxdEE0T1lxcExSSFRwOFFubkdVZlVMZ2Nuc0U2Z292TXVjZUFsZ3hlczJMWXwzNDU4NzY0NTIyNTI2OTE2NTk0fDI=?share_link_id=464993559168  
+El **To-Be Scenario Mapping** representa el escenario futuro ideal que nuestros usuarios vivirán una vez implementada nuestra solución. A través de este mapeo, visualizamos cómo cambiarán y mejorarán los procesos actuales, abordando los puntos de dolor identificados en el escenario As-Is.
+
+Este escenario muestra:
+- La **optimización de tareas** mediante herramientas digitales adaptadas a las necesidades de las ONG.
+- Una **comunicación fluida y directa** entre gestores y ayudantes.
+- La **eficiencia operativa** en la planificación, ejecución y monitoreo de proyectos.
+- El uso de un **dashboard centralizado**, accesible y fácil de usar, que permite supervisar proyectos, tareas, inventarios y finanzas en tiempo real.
+- La eliminación de la dependencia de herramientas poco eficientes como Excel, WhatsApp o correos dispersos.
+
+---
+
+### Visualización del Escenario Futuro
+
+---
+
+**Gestor de Proyectos:**  
+- Planifica y asigna tareas desde una plataforma intuitiva.  
+- Supervisa el progreso de cada tarea y recibe notificaciones en tiempo real.  
+- Mantiene un control financiero básico, visualizando presupuestos y gastos.  
+- Se comunica rápidamente con el equipo mediante un canal directo dentro de la plataforma.
+
+---
+
+**Ayudante/Staff:**  
+- Recibe tareas claras con fechas y descripciones específicas.  
+- Marca tareas como completadas desde su dispositivo móvil o PC.  
+- Puede consultar información del proyecto y notificar cualquier incidencia al gestor de forma inmediata.  
+- Accede a un entorno más organizado, sintiéndose valorado y eficiente.
+
+---
+
+![To-Be 1](assets/tobe1.png)  
+![To-Be 2](assets/tobe2.png)
+
+---
+
+**Enlace al mapa interactivo:**  
+[Ver en Miro](https://miro.com/welcomeonboard/NlNXV0pNbjkzNGhhN0RaVE1GZ2QxdEE0T1lxcExSSFRwOFFubkdVZlVMZ2Nuc0U2Z292TXVjZUFsZ3hlczJMWXwzNDU4NzY0NTIyNTI2OTE2NTk0fDI=?share_link_id=464993559168)
+
+---
+
+
 ## 3.2. User Stories
 **Épicas:**<br>
 
@@ -2252,12 +2290,30 @@ Asimismo, se ha realizado un Trello para hacer seguimiento de nuestras tareas.
 
 ## 3.4. Impact Mapping
 
-Esta sección está dedicada a los mapas de impacto de nuestros segmentos objetivos.
-**Segmento 1:**<br>
+El **Impact Mapping** nos permite visualizar cómo nuestra solución contribuye a lograr los objetivos de negocio, alineando las metas con las necesidades de los usuarios y las funcionalidades clave del producto.
+
+A través de estos mapas, identificamos:
+- **Qué queremos lograr** (objetivo principal).
+- **Quiénes** pueden ayudarnos o verse afectados (actores clave).
+- **Cómo** pueden contribuir o qué comportamientos esperamos (impactos).
+- **Qué debemos hacer** para lograr estos cambios (entregables del producto).
+
+---
+
+### Segmento 1 – Gestor de Proyectos
+
 ![Impact Mapping 1](assets/impactmapping1.png)
-<br>
-**Segmento 2:**<br>
+
+---
+
+### Segmento 2 – Ayudante de Eventos
+
 ![Impact Mapping 2](assets/impactmapping2.png)
+
+---
+
+Cada mapa representa los caminos que nos llevan desde los objetivos estratégicos hasta acciones concretas dentro del sistema, permitiendo priorizar funcionalidades que generen **mayor impacto real** en el trabajo diario de los usuarios.
+
 
 # Capítulo IV: Product Design
 
