@@ -195,8 +195,8 @@ En ambos casos se puede observar el incremento de modificaciones y revisiones en
 
 | **Criterio Específico** | **Acciones Realizadas** | **Conclusiones** |
 |-------------------------|-------------------------|------------------|
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | Sebastián Ramírez Hoffmann **TB1**: <br> participó activamente en todas las etapas del proyecto, actualizando sus conocimientos en desarrollo backend mediante el uso de tecnologías modernas. Contribuyó a la definición de las **style guidelines** del sistema y aplicó principios de diseño centrado en el usuario dentro del enfoque **Lean UX**. Esta participación permitió la integración efectiva entre los requerimientos técnicos y las necesidades del usuario final.   | El equipo logró actualizar y aplicar conceptos relevantes en soluciones de software, lo que contribuyó al fortalecimiento de nuestras competencias profesionales. Esta actualización de conocimientos fue clave para el desarrollo del proyecto. |
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. | Sebastián Ramirez Hoffmann **TB1**: <br> Asumí una actitud activa de aprendizaje permanente durante todo el desarrollo del proyecto. Participé en las entrevistas a usuarios, analicé sus necesidades e incorporó ese conocimiento en decisiones técnicas. | A lo largo del proyecto, el grupo demostró consciencia sobre la importancia del aprendizaje permanente mediante la búsqueda de información actualizada, la revisión constante de buenas prácticas en software y la reflexión grupal sobre el trabajo realizado.|
+| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | Sebastián Ramírez Hoffmann <br> **TB1**: <br> participó activamente en todas las etapas del proyecto, actualizando sus conocimientos en desarrollo backend mediante el uso de tecnologías modernas. Contribuyó a la definición de las **style guidelines** del sistema y aplicó principios de diseño centrado en el usuario dentro del enfoque **Lean UX**. Esta participación permitió la integración efectiva entre los requerimientos técnicos y las necesidades del usuario final.   | El equipo logró actualizar y aplicar conceptos relevantes en soluciones de software, lo que contribuyó al fortalecimiento de nuestras competencias profesionales. Esta actualización de conocimientos fue clave para el desarrollo del proyecto. |
+| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. | Sebastián Ramirez Hoffmann <br>**TB1**: <br> Asumí una actitud activa de aprendizaje permanente durante todo el desarrollo del proyecto. Participé en las entrevistas a usuarios, analicé sus necesidades e incorporó ese conocimiento en decisiones técnicas. | A lo largo del proyecto, el grupo demostró consciencia sobre la importancia del aprendizaje permanente mediante la búsqueda de información actualizada, la revisión constante de buenas prácticas en software y la reflexión grupal sobre el trabajo realizado.|
 
 
 
@@ -435,6 +435,7 @@ siempre son las más efectivas para lo que busca</p></td>
 </tr>
 </tbody>
 </table>
+
 **User Outcomes & Benefits**<br>
 
 En esta sección buscamos empatizar con los usuarios y entender sus necesidades emocionales para ofrecerles los resultados correctos a través del producto.<br>
@@ -483,41 +484,49 @@ El gestor podrá asignar tareas directamente desde la plataforma y monitorear el
 
 **Accesibilidad Económica:** Ofrecer subscripciones a base de cantidad de cuentas y no tipos de servicios. Hace que nuestra solución sea más económicamente viable para las ONG emergentes.<br>
 
-#### 1.2.2.3. Lean UX Hypothesis Statement
-**Hipótesis**<br>
+### 1.2.2.3. Lean UX Hypothesis Statement
 
-Siguiendo el formato de las Hipótesis usaremos la tabla de hipótesis.<br>
+---
 
-Creemos que, al implementar una función de gestión de tareas intuitiva y eficiente para los gestores de proyectos, aumentaremos la retención de usuarios.<br>
+#### **Hipótesis**
 
-Sabremos que estamos en lo correcto cuando observemos un aumento del 20% en el número de usuarios activos recurrentes dentro de los primeros tres meses de uso.<br>
+A continuación, se presenta la tabla de hipótesis siguiendo el enfoque Lean UX:
 
-Creemos que, al ofrecer una vista centrada en el análisis financiero para gestionar presupuestos y gastos del proyecto, mejoraremos la retención de usuarios.<br>
+| **Creencia** | **Validación** |
+|--------------|----------------|
+| Creemos que al implementar una función de **gestión de tareas intuitiva y eficiente** para los gestores de proyectos, aumentaremos la **retención de usuarios**. | Sabremos que estamos en lo correcto cuando observemos un **aumento del 20%** en el número de **usuarios activos recurrentes** dentro de los **primeros tres meses** de uso. |
+| Creemos que al ofrecer una vista centrada en el **análisis financiero** para gestionar presupuestos y gastos, mejoraremos la **retención de usuarios**. | Sabremos que estamos en lo correcto cuando observemos una **reducción del 25%** en las **consultas de soporte** sobre gestión financiera y un **aumento** en el **uso de esta funcionalidad**. |
+| Creemos que al proporcionar herramientas de **gestión, análisis y comunicación** que incrementen el **impacto de los proyectos**, mejoraremos la **retención de usuarios**. | Sabremos que estamos en lo correcto cuando observemos un **aumento del 60%** en la **tasa de usuarios recurrentes** y un **incremento medible** en el impacto de sus proyectos. |
+| Creemos que al implementar un sistema de **comunicación eficiente** entre gestores de proyectos y ayudantes, mejoraremos la **interacción** y **retención de usuarios**. | Sabremos que estamos en lo correcto cuando observemos un **aumento del 20%** en la **frecuencia de uso** de la función de comunicación dentro de los **primeros tres meses**. |
+| Creemos que al ofrecer un **plan mejorado** que permita a los gestores agregar más integrantes a sus cuentas, aumentaremos nuestras **ganancias**. | Sabremos que estamos en lo correcto cuando al menos el **10% de los usuarios** se **suscriba** al plan mejorado dentro de los **primeros seis meses**. |
 
-Sabremos que estamos en lo correcto cuando observemos una reducción del 25% en las consultas de soporte relacionadas con la gestión financiera y un aumento en el uso de esta funcionalidad.<br>
+---
 
-Creemos que, al proporcionar herramientas de gestión, análisis y comunicación que incrementen el impacto de los proyectos, mejoraremos la retención de usuarios.<br>
+#### **Lo más importante que debemos aprender**
 
-Sabremos que estamos en lo correcto cuando observemos un aumento del 60% en la tasa de usuarios recurrentes y un incremento medible en el impacto de sus proyectos.<br>
+Para el éxito de nuestro proyecto, es fundamental identificar si los usuarios realmente están **interesados** en nuestra propuesta **innovadora**.
 
-Creemos que, al implementar un sistema de comunicación eficiente entre gestores de proyecto y ayudantes, mejoraremos la interacción y retención de usuarios.<br>
+Aunque existan herramientas similares, necesitamos confirmar si nuestra solución:
+- Es **necesaria** en el contexto de las ONG peruanas.
+- **Satisface** sus necesidades específicas de gestión de proyectos.
 
-Sabremos que estamos en lo correcto cuando observemos un aumento del 20% en la frecuencia de uso de la función de comunicación dentro de los primeros tres meses.<br>
+---
 
-Creemos que, al ofrecer un plan mejorado que permita a los gestores de proyectos agregar más integrantes a sus cuentas, aumentaremos nuestras ganancias.<br>
+#### **Minimum Viable Product (MVP)**
 
-Sabremos que estamos en lo correcto cuando el 10% de los usuarios se suscriba al plan mejorado dentro de los primeros seis meses de la implementación.<br>
+El **MVP** nos permitirá obtener **aprendizajes rápidos**. Nos enfocaremos en responder la siguiente pregunta clave:
 
-**Lo más importante que debemos aprender**<br>
+> **¿Qué es lo más importante que necesitamos aprender primero?**
 
-Para el éxito de nuestro proyecto, es fundamental identificar si los usuarios realmente estarán interesados en nuestra propuesta "innovadora". Aunque existan otras herramientas similares en el mercado, es crucial confirmar si nuestra solución es realmente necesaria y si puede satisfacer las necesidades de las ONG en Perú.<br>
+- Validar si **existe demanda real** para nuestra solución.
+- Realizaremos **entrevistas** con gestores de proyectos y sus equipos en ONG.
+- Evaluaremos si nuestra herramienta **resuelve una necesidad concreta**.
 
-**Minimum Viable Product (MVP)**<br>
-Un MVP nos permitirá aprender a corto plazo. La primera pregunta que debemos plantearnos es: ¿Qué es lo más importante que necesitamos aprender primero?<br>
+Adicionalmente, desarrollaremos una **landing page** orientada a captar el interés de potenciales usuarios y medir el **nivel de atracción** hacia nuestra herramienta de gestión.
 
-En nuestro caso, lo más urgente es validar si realmente existe una demanda en el mercado para nuestra solución. Para ello, llevaremos a cabo una serie de entrevistas con gestores de proyectos en ONG, así como con sus equipos, para verificar si estamos resolviendo una necesidad real.<br>
+---
 
-Adicionalmente, crearemos una landing page como parte del MVP, orientada a captar el interés de potenciales usuarios interesados en nuestra herramienta de gestión de proyectos.<br>
+
 
 #### 1.2.2.4. Lean UX Canvas
 En esta sección juntamos la información de los procesos UX y los juntamos en este canvas.
@@ -1012,94 +1021,116 @@ Preguntas enfocadas en los usuarios de segmento 2, empleado de organización, de
 2. ¿Cómo recolectan información de los participantes, qué herramientas?
 3. ¿Cómo hacen llegar esta información a los gestores de proyecto?
 4. ¿Si sucede un inconveniente el cual se debe de notificar al gestor del proyecto como se comunica con este, cree que la comunicación con el gestor de proyecto es efectiva?
+
+
 ### 2.2.2. Registro de entrevistas
-Las entrevistas están en un video en el siguiente URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETGPw2njqWZHl6IrOkDoq0wBvExjz8a2pqnBQaWcUuKs8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MHCwWy <br>
-**Segmento 1**<br>
-Nombre: María José Meléndez Villa-Lobos<br>
-Edad: 53 años<br>
-Ocupación: directora de Hogar (CAEF)<br>
-Browser: Google Chrome<br>
-Device: Móvil Android & Computadora personal Windows<br>
-Distrito: Trujillo, La libertad<br>
-Timing: [0:00]<br>
-![Interview1](assets/interview1.png)
+Puedes acceder al video de las entrevistas mediante el siguiente enlace:
+
+🔗 **[Entrevista disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETGPw2njqWZHl6IrOkDoq0wBvExjz8a2pqnBQaWcUuKs8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MHCwWy)**.
+
+### Segmento 1: María José Meléndez Villa-Lobos
+
+- **Edad:** 53 años  
+- **Ocupación:** Directora de Hogar (CAEF)  
+- **Ubicación:** Trujillo, La Libertad  
+- **Dispositivos:** Móvil Android & Computadora personal (Windows)  
+- **Navegador:** Google Chrome  
+- **Momento de la entrevista:** [0:00]
+
+![María José Meléndez Villa-Lobos](assets/interview1.png)
+
+**Resumen de la entrevista:**  
+María comenta que su ONG no cuenta con una herramienta de gestión específica, por lo que recurren principalmente a **Microsoft Excel** para el análisis de datos. La planificación interna se realiza mediante reuniones anuales y mensuales. Destaca como una dificultad el uso limitado de medios tecnológicos en su entorno laboral, ya que estos se restringen en determinados horarios con el fin de prevenir accidentes con los niños.
+
+
+### Segmento 1: Cesar Alva Posada
+
+- **Edad:** 57 años  
+- **Ocupación:** Sociólogo encargado de Gestión de Proyectos  
+- **Ubicación:** San Miguel, Lima  
+- **Dispositivo:** Computadora personal (Windows)  
+- **Navegador:** Google Chrome  
+- **Momento de la entrevista:** [8:14]
+
+![Cesar Alva Posada](assets/interview2.png)
+
+**Resumen de la entrevista:**  
+Cesar destaca la importancia de una **metodología adecuada** para la organización y ejecución eficiente de proyectos. Explica que, aunque utilizan diversas herramientas de gestión, estas se implementan de forma **aislada**, lo que dificulta la integración de procesos. Para el manejo de datos, menciona que recurren principalmente a **Microsoft Excel**.
+
+---
 <br>
-[Seg1 – Entrevista - 1]
+
+### Segmento 1: Guilder Quiñones Aldean
+
+- **Edad:** 54 años  
+- **Ocupación:** Jefe de Proyectos  
+- **Ubicación:** Miraflores, Lima  
+- **Dispositivos:** Móvil iPhone & Computadora personal (Windows)  
+- **Navegador:** Google Chrome  
+- **Momento de la entrevista:** [15:00]
+
+![Guilder Quiñones Aldean](assets/interview3.png)
+
+**Resumen de la entrevista:**  
+Guilder comparte su perspectiva sobre el uso de herramientas de gestión. Similar a entrevistas anteriores, menciona que emplea **Microsoft Excel** para el manejo de datos. Sin embargo, también complementa su trabajo con herramientas especializadas como **Trello**, las cuales le permiten una mejor organización de proyectos.
+
+---
 <br>
-María nos explica cómo su ONG no tiene una herramienta de gestión determinada y como normalmente usan Excel para los análisis de sus datos, también relata que para la planificación se hacen reuniones anuales y mensuales. Menciona como un obstáculo los medios de comunicación tecnológicos que se utilizan en su área laboral, debido a que están restringidos en ciertos horarios, para evitar accidentes con los niños.
-<br>
-<br>
-Nombre: Cesar Alva Posada<br>
-Edad: 57 años<br>
-Ocupación: Sociólogo encargado de Gestión de Proyectos<br>
-Browser: Google Chrome<br>
-Device: Computadora Personal Windows<br>
-Distrito: San Miguel, Lima<br>
-Timing: [8:14]<br>
-![Interview2](assets/interview2.png)
-<br>
-[Seg1 -Entrevista - 2]
-<br>
-En esta entrevista Cesar explica como la metodología que se usa es importante a la hora de organizarse asimismo nos comentó de otras herramientas que se implementan para la gestión, no obstante, también menciona que todos estos procesos se hacen de manera separada. Asimismo, para la gestión de datos utiliza Excel.
-<br>
-<br>
-Nombre: Guilder Quiñones Aldean<br>
-Edad: 54 años<br>
-Ocupación: jefe de Proyectos<br>
-Browser: Google Chrome<br>
-Device: Móvil iPhone & Computadora Windows<br>
-Distrito: Miraflores<br>
-Timing: [15:00]<br>
-![Interview3](assets/interview3.png)
-<br>
-[Seg1 - Entrevista - 3]
-<br>
-El jefe de Proyecto, Guilder, comparte su visión respecto a las herramientas usadas, de manera parecida a la entrevista anterior él usa Excel para manejar sus datos más también hace uso de programas de gestión como Trello.
-<br>
-<br>
-**Segmento 2**<br>
-Nombre: Luis Herrera Gonzales<br>
-Edad: 19 años<br>
-Ocupación: Estudiante – Ayudante<br>
-Browser: Google Chrome<br>
-Device: Móvil iPhone<br>
-Distrito: San Borja<br>
-Timing: [24:00]<br>
-![Interview4](assets/interview4.png)
-<br>
-[Seg2 – Entrevista - 1]
-<br>
-Luis nos cuenta de cómo participa de estas actividades usando WhatsApp como su principal fuente de recolección de datos y comunicación con su gerente, menciona que tanto el uso del correo electrónico y uso de WhatsApp son obsoletos, toman mucho tiempo y no demuestran el nivel de formalidad deseado.
-<br>
-<br>
-Nombre: Álvaro Jiménez<br>
-Edad: 19 años<br>
-Ocupación: Estudiante - Ayudante<br>
-Browser:  Google<br>
-Device: Android Zte<br>
-Distrito: Magdalena<br>
-Timing: [27:40]<br>
-![Interview5](assets/interview5.png)
-<br>
-[Seg2 - Entrevista - 2]<br>
-Álvaro comenta sobre su experiencia como voluntario ayudante en una ONG. Se menciona como es la distribución de tareas y la comunicación entre los ayudantes y el gestor del proyecto. También menciona que no es eficiente ni rápida la gestión de la organización y que la espera se pueda mejorar en algún futuro.
-<br>
-<br>
-Nombre: Arián Rodríguez Vargas<br>
-Edad: 20 años<br>
-Ocupación: Practicante en empresa dedicado al desarrollo de Software<br>
-Browser: Brave<br>
-Device: Móvil Android<br>
-Distrito: Jesús María<br>
-Timing: [32:10]<br>
+
+### Segmento 2: Luis Herrera Gonzales
+
+- **Edad:** 19 años  
+- **Ocupación:** Estudiante – Ayudante  
+- **Ubicación:** San Borja, Lima  
+- **Dispositivo:** Móvil iPhone  
+- **Navegador:** Google Chrome  
+- **Momento de la entrevista:** [24:00]
+
+![Luis Herrera Gonzales](assets/interview4.png)
+
+**Resumen de la entrevista:**  
+Luis comenta que participa en las actividades de la ONG utilizando principalmente **WhatsApp** como medio de comunicación y recolección de datos, en coordinación con su gerente. Señala que tanto WhatsApp como el correo electrónico resultan **obsoletos** para las necesidades actuales, ya que demandan mucho tiempo y carecen del nivel de **formalidad** esperado.
+
+
+---
+
+### Segmento 2: Álvaro Jiménez
+
+- **Edad:** 19 años  
+- **Ocupación:** Estudiante – Ayudante  
+- **Ubicación:** Magdalena, Lima  
+- **Dispositivo:** Android ZTE  
+- **Navegador:** Google  
+- **Momento de la entrevista:** [27:40]
+
+![Álvaro Jiménez](assets/interview5.png)
+
+**Resumen de la entrevista:**  
+Álvaro comparte su experiencia como voluntario en una ONG, destacando la forma en que se distribuyen las tareas y se establece la comunicación entre los ayudantes y el gestor del proyecto. Menciona que la gestión actual no es **eficiente** ni **rápida**, y expresa su deseo de que estas dinámicas puedan **mejorarse en el futuro**.
+
+
+
+---
+
+### Segmento 2: Arián Rodríguez Vargas
+
+- **Edad:** 20 años  
+- **Ocupación:** Practicante en empresa de desarrollo de software  
+- **Ubicación:** Jesús María, Lima  
+- **Dispositivo:** Móvil Android  
+- **Navegador:** Brave  
+- **Momento de la entrevista:** [32:10]
+
 <div style="display: flex; justify-content: space-around;">
-  <img src="assets/interview6-1.png" alt="Image 48" style="width: 45%; margin-right: 10px;">
-  <img src="assets/interview6-2.png" alt="Image 61" style="width: 45%;">
+  <img src="assets/interview6-1.png" alt="Arián Rodríguez - Imagen 1" style="width: 45%; margin-right: 10px;">
+  <img src="assets/interview6-2.png" alt="Arián Rodríguez - Imagen 2" style="width: 45%;">
 </div>
-<br>
-[Seg2 - Entrevista - 3]<br>
-Arián Rodríguez, un estudiante de ingeniería de software en prácticas preprofesionales en una empresa de desarrollo de software y ha participado en proyectos donde la gestión de equipo resulta clave. En su caso, está buscando una herramienta para mejorar la gestión de tareas y la comunicación dentro de su equipo. Aunque actualmente utilizan una plataforma como Trello, Arián considera que un aplicativo con un costo menor y con mayores funcionalidades podría ser más adecuado para su equipo, especialmente para facilitar el seguimiento del progreso de los miembros del equipo y mejorar la eficiencia en la gestión de tareas. Además, una herramienta que también pueda automatizar la recolección de datos, en lugar de hacerlo manualmente, sería de gran ayuda para optimizar el flujo de trabajo.
-<br>
+
+**Resumen de la entrevista:**  
+Arián, practicante de ingeniería de software, participa en proyectos donde la **gestión de equipo** es crucial. Actualmente utilizan **Trello**, pero considera que una herramienta más accesible y con **mayores funcionalidades** podría optimizar el seguimiento de tareas y la eficiencia del equipo. Busca una solución que permita mejorar la **comunicación**, gestionar mejor el **progreso individual**, y que además facilite la **automatización** en la recolección de datos, evitando procesos manuales y optimizando así el flujo de trabajo.
+
+
+
 
 ### 2.2.3. Análisis de entrevistas
 
