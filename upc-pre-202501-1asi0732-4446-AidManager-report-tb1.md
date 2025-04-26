@@ -54,12 +54,12 @@
 
 | Versión | Fecha       | Autor                                              | Descripción de modificación                                                                                               |
 |---------|-------------|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| TB1     | 3/04/2025  | Nicolas Esteban Garcia     | Redacción de antecedentes y revisiones del documento. |
-| TB1     | 8/04/2025  | Sebastian Peña            | Revisión completa del Lean UX Canvas.            |
-| TB1     | 10/04/2025  | Sebastian Ramirez.M           | Revisión completa del Entrevistas y competidores Canvas.            |
-| TB1     | 12/04/2025  | Sebastian Ramirez.H Hoffmann           | Revisión completa del Lean UX Canvas.            |
-| TB1     | 18/04/2025  | Juan Cuadros           | Revisión completa del diseño de solución            |
-| TB1     | 22/04/2025  | Sebastian Ramirez Hoffmann           | Revisión general del informe            |
+| TB1     | 18/04/2025  | Nicolas Esteban Garcia     | Redacción de antecedentes y revisiones del documento. |
+| TB1     | 20/04/2025  | Sebastian Peña            | Revisión completa del Lean UX Canvas.            |
+| TB1     | 20/04/2025  | Sebastian Ramirez.M           | Revisión completa del Entrevistas y competidores Canvas.            |
+| TB1     | 21/04/2025  | Sebastian Ramirez.H Hoffmann           | Revisión completa del Lean UX Canvas.            |
+| TB1     | 22/04/2025  | Juan Cuadros           | Revisión completa del diseño de solución            |
+| TB1     | 23/04/2025  | Sebastian Ramirez Hoffmann           | Revisión general del informe            |
 
 
 
@@ -87,14 +87,18 @@ Para la entrega del TB1 se han realizado los procesos necesarios para lograr los
 
 Se muestran evidencias de los commits realizados en la entrega de la TB1 en el informe.
 
-<img src=" " alt="imagen de las colaboraciones">  
+<img src="../Report/assets/Insights/commits.png " alt="imagen de las colaboraciones">  
 
-[Colaboraciones del repositorio]
+[Contribuciones del repositorio]
 
-<img src=" " alt="imagen de los commits">  
+<img src="../Report/assets/Insights/Screenshot 2025-04-25 230238.png" alt="imagen de las colaboraciones">  
+
+[Colaboradores del repositorio]
+
+<img src="../Report/assets/Insights/ins.png " alt="imagen de los commits">  
 [Registro de los commits donde se realizaron la mayor cantidad]
 
-En ambos casos se puede observar el incremento de modificaciones y revisiones en los dias miercoles y una cantidad mayor de cambios que commits.
+En ambos casos se puede observar el incremento de modificaciones y revisiones en los días Jueves y una cantidad mayor de cambios que commits.
 
 ---
 
@@ -3294,6 +3298,16 @@ Obtains all deleted users
 
 Se presentan los commits de los Integrantes del equipo
 
+<img src="../Report/assets/Insights/commits.png " alt="imagen de las colaboraciones">  
+
+[Contribuciones del repositorio]
+
+<img src="../Report/assets/Insights/Screenshot 2025-04-25 230238.png" alt="imagen de las colaboraciones">  
+
+[Colaboradores del repositorio]
+
+<img src="../Report/assets/Insights/ins.png " alt="imagen de los commits">  
+[Registro de los commits donde se realizaron la mayor cantidad]
 
 ## 5.3. Video About-the-Product
 Link: https://youtu.be/5C6CFJQ90q8
