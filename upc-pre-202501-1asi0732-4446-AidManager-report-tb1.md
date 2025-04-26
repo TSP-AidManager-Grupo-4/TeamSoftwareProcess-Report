@@ -273,12 +273,12 @@ Los siguientes integrantes del grupo son presentados con su carrera y sus conoci
   </tr>
   <tr>
     <th>
-      <img src="" alt="Foto de perfil de" width="700px">
+      <img src="../Report/assets/NIKOKADO.jpg" alt="Foto de perfil de Nicolas" width="700px">
     </th>
     <td valign="top">
-      <p><b>Apellidos, Nombres</b></p>
+      <p><b>Esteban Garcia, Nicolas Sebastian</b></p>
       <p>
-        Descripcion
+        Tengo experiencia en frameworks como Astro, Vue y React, y actualmente estoy aprendiendo Next.js y Express. Me apasiona el desarrollo frontend, siempre enfocado en ofrecer una experiencia de usuario fluida y cómoda. Me considero una persona sociable, responsable y proactiva, además, disfruto participar en proyectos multidisciplinarios y apoyar a comunidades que promueven el desarrollo web. Siempre busco dar lo mejor de mí para asegurar un rendimiento óptimo en cada aplicación.
       </p>
     </td>
   </tr>
@@ -3293,7 +3293,7 @@ En conclusión, para la TB1 se realizó el desarrollo de la solución y la imple
 # Bibliografia
 
 ```
-Moya, M. G. (2023b, abril 24). El desafío de las ONG en la gestión organizacional y de proyectos.
+Moya, M. G. (2023, abril 24). El desafío de las ONG en la gestión organizacional y de proyectos.
 Nonprofits, D. F. (2023, 7 agosto). Data Analytics for Nonprofits.
         
 Everyone Thrives Consultant Services. (2023, 15 diciembre). Data: The Key to 
@@ -3318,4 +3318,10 @@ Katti, V. S., & Sowmya, K. (2022). Flutter: Cross-platform IDE for mobile applic
 # Anexos
 
 [1.1 LeanUX Canvas]:
-[Backend Repositorio]
+[Backend Repositorio] : https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-General-BackEnd
+
+[Repositorio] : https://github.com/orgs/Diseno-de-Experimentos-4446/repositories
+
+[Repositorio Web App] : https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-Web-Application
+
+[Repositorio Mobile App] :  https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-Mobile-App
