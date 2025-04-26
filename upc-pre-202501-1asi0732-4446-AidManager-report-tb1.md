@@ -21,8 +21,8 @@
             <th style="text-align:center;">Code</th>
         </tr>
         <tr>
-            <td>Nombre</td>
-            <td>Codigo</td>
+            <td> Esteban Garcia, Nicolas Sebastian	</td>
+            <td>u202217485</td>
         </tr>
         <tr>
             <td>Cuadros Rodriguez, Juan Alejandro</td>
