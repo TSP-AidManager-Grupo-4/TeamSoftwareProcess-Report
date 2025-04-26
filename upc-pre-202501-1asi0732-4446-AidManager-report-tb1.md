@@ -33,7 +33,7 @@
             <td>U202210138</td>
         </tr>
         <tr>
-            <td>Ramirez Hoffmann Sebastian</td>
+            <td>Ramirez Hoffmann, Sebastian</td>
             <td>U202211894</td>
         </tr>
          <tr>
@@ -54,8 +54,12 @@
 
 | Versión | Fecha       | Autor                                              | Descripción de modificación                                                                                               |
 |---------|-------------|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| TB1     | 3/04/2025  | Nicolas Sebastian Esteban Garcia     | Redacción de antecedentes y revisiones del documento. |
-| TB1     | 8/04/2025  | Sebastian Ramirez Hoffmann           | Revisión completa del Lean UX Canvas.            |
+| TB1     | 3/04/2025  | Nicolas Esteban     | Redacción de antecedentes y revisiones del documento. |
+| TB1     | 8/04/2025  | Sebastian Peña            | Revisión completa del Lean UX Canvas.            |
+| TB1     | 10/04/2025  | Sebastian Ramirez.M           | Revisión completa del Entrevistas y competidores Canvas.            |
+| TB1     | 12/04/2025  | Sebastian Ramirez.H Hoffmann           | Revisión completa del Lean UX Canvas.            |
+| TB1     | 18/04/2025  | Juan Cuadros           | Revisión completa del diseño de solución            |
+| TB1     | 22/04/2025  | Sebastian Ramirez Hoffmann           | Revisión general del informe            |
 
 
 
@@ -64,6 +68,15 @@
 # Project Report Collaboration Insights
 
 Repositorios:
+
+[Repositorio] : https://github.com/orgs/Diseno-de-Experimentos-4446/repositories
+
+[Repositorio Web App] : https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-Web-Application
+
+[Repositorio Mobile App] :  https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-Mobile-App
+
+[Backend Repositorio] : https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-General-BackEnd
+
 
 Proyecto: 
 
@@ -3318,10 +3331,11 @@ Katti, V. S., & Sowmya, K. (2022). Flutter: Cross-platform IDE for mobile applic
 # Anexos
 
 [1.1 LeanUX Canvas]:
-[Backend Repositorio] : https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-General-BackEnd
 
 [Repositorio] : https://github.com/orgs/Diseno-de-Experimentos-4446/repositories
 
 [Repositorio Web App] : https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-Web-Application
 
 [Repositorio Mobile App] :  https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-Mobile-App
+
+[Backend Repositorio] : https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-General-BackEnd
