@@ -2907,6 +2907,17 @@ La configuración del despliegue de AidManager se basa en herramientas modernas 
 ## 5.2. Software Implementation & Deployment
 ### 5.2.1. Sprint Backlogs
 
+| Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
+|------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
+| CC01 | Projects | C01  | Correciones y Conexion de bounded context de Projects | Correciones de la API y Front End, Asimismo conectarlos	 |           2        |    Cuadros Rodriguez, Juan Alejandro   | Done   |
+| CC02 | Teams | C02 | Correciones y Conexion de bounded context de Teams | Correciones de la API y Front End, Asimismo conectarlos    	 |          2      |   Nicolas Esteban Garcia    | Done   |
+| CC03 | Tasks | C03 | Correciones y Conexion de bounded context de Tasks | Correciones de la API y Front End, Asimismo conectarlos	 |   	             2        |    Sebastián Ramírez Méndez   | Done   |
+| CC04 | Dashboard | C04 | Correciones y Conexion de bounded context para los Dashboards de Analytics | Correciones de la API y Front End, Asimismo conectarlos	 |   	           3        |   Sebastian Peña Rivera    | Done   |
+| CC05 | Home | C05 | Correciones y Conexion de bounded context relacionado a Home | Correciones de la API y Front End, Asimismo conectarlos	 |   	       2             |  Nicolas Esteban Garcia     | Done   |
+| CC06 | Calendar | C06 | Correciones y Conexion de bounded context relacionado con Calendar | Correciones de la API y Front End, Asimismo conectarlos	 |   	       3            |   Juan Cuadros Rodriguez    | Done   |
+| CC07 | Analytics | C07 | Correciones y Conexion de bounded context Analytics | Correciones de la API y Front End, Asimismo conectarlos	 |            2        |   Sebastian Peña Rivera    | Done   |
+| CC08 | Users | C08 | Correciones y Conexion de bounded context relacionado a los usuarios | Correciones de la API y Front End, Asimismo conectarlos	 |          3          |   Sebastian Ramírez Méndez    | Done   |
+
 ### 5.2.2. Implemented Landing Page Evidence
 Se presenta la implementación de la landing page
 Los botones call to action funcionales y redirigiendo a los enlaces requeridos en el contexto de nuestra aplicación.
