@@ -54,7 +54,7 @@
 
 | Versión | Fecha       | Autor                                              | Descripción de modificación                                                                                               |
 |---------|-------------|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| TB1     | 3/04/2025  | Nicolas Esteban     | Redacción de antecedentes y revisiones del documento. |
+| TB1     | 3/04/2025  | Nicolas Esteban Garcia     | Redacción de antecedentes y revisiones del documento. |
 | TB1     | 8/04/2025  | Sebastian Peña            | Revisión completa del Lean UX Canvas.            |
 | TB1     | 10/04/2025  | Sebastian Ramirez.M           | Revisión completa del Entrevistas y competidores Canvas.            |
 | TB1     | 12/04/2025  | Sebastian Ramirez.H Hoffmann           | Revisión completa del Lean UX Canvas.            |
