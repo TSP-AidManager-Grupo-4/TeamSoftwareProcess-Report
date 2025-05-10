@@ -3318,6 +3318,9 @@ Link: https://youtu.be/5C6CFJQ90q8
 
 ## 6.1. Testing Suites & Validation
 ### 6.1.1. Core Entities Unit Tests.
+
+Las pruebas unitarias son importantes para el proyecto debido a que aseguran que cada módulo/componente funcione correctamente por sí solo. Estas pruebas nos permiten validar que cada parte del sistema cumple su propósito antes de integrarse al conjunto. Para garantizar un adecuado desarrollo del proyecto, se mostrarán las pruebas unitarias más importantes que realizamos en nuestro proyecto, las cuales garantizan que las funcionalidades clave estén correctamente implementadas y funcionando como se espera.
+
 ### 6.1.2. Core Integration Tests.
 ### 6.1.3. Core Behavior-Driven Development
 ### 6.1.4. Core System Tests.
