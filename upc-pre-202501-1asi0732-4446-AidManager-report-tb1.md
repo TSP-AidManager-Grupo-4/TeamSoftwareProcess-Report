@@ -3329,9 +3329,163 @@ Link: https://youtu.be/5C6CFJQ90q8
 ### 7.1.2. Build & Test Suite Pipeline Components.
 ## 7.2. Continuous Delivery
 ### 7.2.1. Tools and Practices.
+<!-- Benchmark en HTML embebido dentro de Markdown -->
+
+<h2>Benchmark</h2>
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr>
+    <th colspan="4" style="text-align:left;">
+      <strong>¿Por qué llevar a cabo este análisis?</strong><br/>
+      Realizar un análisis competitivo es importante ya que es esencial para averiguar qué hacen las diferentes opciones que podremos tener. Asimismo, nos otorga la capacidad de reconocer sus fortalezas, oportunidades y debilidades y así poder tomar una decisión.
+    </th>
+  </tr>
+  <tr>
+    <th>Nombre</th>
+    <th>Jenkins</th>
+    <th>Bamboo</th>
+    <th>Azure DevOps</th>
+  </tr>
+  <tr>
+    <td><strong>Logo</strong></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="80"/></td>
+    <td><img src="https://wac-cdn.atlassian.com/dam/jcr:a66112c5-36b0-472b-9624-3d5db82bd404/Bamboo%20OG%20logo.png" alt="Bamboo" width="100"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Azure_DevOps_Logo.png" alt="Azure DevOps" width="100"/></td>
+  </tr>
+  <tr>
+    <td><strong>Perfil</strong><br/>Overview</td>
+    <td>Jenkins es un servidor open source para la integración continua. Es una herramienta extensible que permite compilar y probar software de forma continua, lo que facilita a los desarrolladores integrar cambios en un proyecto y entregar nuevas versiones a los usuarios.</td>
+    <td>Bamboo es una herramienta de integración continua de Atlassian que reúne compilaciones, pruebas y versiones automatizadas en un solo flujo de trabajo. Permite automatizar el flujo desde el código hasta la implementación, lo que facilita la entrega continua.</td>
+    <td>Azure DevOps es un conjunto de servicios y herramientas proporcionado por Microsoft para gestionar todo el ciclo de vida del desarrollo de software. Esta plataforma es muy utilizada para las empresas que desean integrar metodologías ágiles y prácticas modernas implementando la metodología DevOps.</td>
+  </tr>
+  <tr>
+    <td><strong>Perfil de Producto</strong><br/>Fortalezas</td>
+    <td>
+      <ul>
+        <li>Ofrece una amplia gama de plugins.</li>
+        <li>Gran comunidad de usuarios y soporte.</li>
+        <li>Open source y flexible.</li>
+        <li><strong>Ventajas:</strong> Integración continua, extensibilidad y comunidad.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Integra perfectamente con otros productos de Atlassian como JIRA y Bitbucket.</li>
+        <li>Proporciona una interfaz intuitiva y fácil de usar.</li>
+        <li><strong>Ventajas:</strong> Integración con Atlassian, seguimiento automatizado.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Proporciona servicios de compilación, gestión de repositorios, testing, integración y despliegue continuo.</li>
+        <li><strong>Ventajas:</strong> Integración nativa con Azure, control de calidad y seguridad de código.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Desventajas</strong></td>
+    <td>
+      <ul>
+        <li><strong>Complejidad inicial:</strong> Configurar Jenkins puede ser complicado debido a su amplia gama de opciones y complementos.</li>
+        <li><strong>Mantenimiento:</strong> Requiere actualizaciones y mantenimiento regular para evitar problemas de seguridad.</li>
+        <li><strong>Escalabilidad:</strong> A medida que crece, puede volverse más difícil de administrar.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><strong>Costo:</strong> Bamboo no es de código abierto y requiere una licencia, lo que puede ser costoso para algunas organizaciones.</li>
+        <li><strong>Menos personalización:</strong> Aunque es fácil de usar, tiene menos opciones de personalización en comparación con Jenkins.</li>
+        <li><strong>Dependencia de Atlassian:</strong> Si no utilizas otros productos de Atlassian, algunas características pueden no ser tan útiles.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><strong>Curva de aprendizaje:</strong> Puede llevar tiempo familiarizarse con todas las características de Azure DevOps.</li>
+        <li><strong>Integración limitada con otras herramientas:</strong> Aunque funciona bien con Azure, la integración con otras herramientas puede ser menos fluida.</li>
+        <li><strong>Costo:</strong> Algunas características avanzadas pueden requerir una suscripción de pago.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ### 7.2.2. Stages Deployment Pipeline Components.
 ## 7.3. Continuous deployment
 ### 7.3.1. Tools and Practices.
+<h2>Benchmark</h2>
+
+<table border="1" cellspacing="0" cellpadding="8">
+  <tr>
+    <th colspan="4" style="text-align:left;">
+      <strong>¿Por qué llevar a cabo este análisis?</strong><br/>
+      Realizar un análisis competitivo es importante ya que es esencial para averiguar qué hacen las diferentes opciones que podremos tener. Asimismo, nos otorga la capacidad de reconocer sus fortalezas, oportunidades y debilidades y así poder tomar una decisión.
+    </th>
+  </tr>
+  <tr>
+    <th>Nombre</th>
+    <th>GitHub Actions</th>
+    <th>Jenkins</th>
+    <th>GitLab CI/CD</th>
+  </tr>
+  <tr>
+    <td><strong>Logo</strong></td>
+    <td><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" alt="GitHub Actions Logo"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="80" alt="Jenkins Logo"/></td>
+    <td><img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="80" alt="GitLab Logo"/></td>
+  </tr>
+  <tr>
+    <td><strong>Perfil</strong><br/>Overview</td>
+    <td>GitHub Actions es un servicio de CI/CD integrado directamente en GitHub que permite automatizar flujos de trabajo y gestión de repositorios.</td>
+    <td>Jenkins es una herramienta de automatización de código abierto que permite la integración continua y la entrega continua (CI/CD).</td>
+    <td>GitLab CI/CD es una característica integrada en GitLab para la automatización del ciclo de vida del desarrollo de software.</td>
+  </tr>
+  <tr>
+    <td><strong>Perfil de Producto</strong><br/>Fortalezas</td>
+    <td>
+      <ul>
+        <li><strong>Integración Profunda:</strong> Totalmente integrado con GitHub.</li>
+        <li><strong>Personalización:</strong> Permite flujos personalizados con acciones reutilizables.</li>
+        <li><strong>Comunidad y Ecosistema:</strong> Amplia comunidad y acciones disponibles.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><strong>Flexibilidad:</strong> Altamente personalizable con una gran variedad de plugins.</li>
+        <li><strong>Escalabilidad:</strong> Administra proyectos grandes y complejos.</li>
+        <li><strong>Gran Comunidad:</strong> Amplio soporte activo.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><strong>Integración Completa:</strong> Integrado en todo el ecosistema GitLab.</li>
+        <li><strong>Automatización Extensa:</strong> CI/CD, Issues, Repos, Monitorización y más.</li>
+        <li><strong>Registros y Reportes:</strong> Visibilidad completa y herramientas de análisis.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Desventajas</strong></td>
+    <td>
+      <ul>
+        <li><strong>Curva de Aprendizaje:</strong> Configurar flujos personalizados puede ser complejo.</li>
+        <li><strong>Límites de uso:</strong> Recursos limitados en planes gratuitos.</li>
+        <li><strong>Almacenamiento y ejecución:</strong> Restricciones para usuarios gratuitos.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><strong>Configuración compleja:</strong> Requiere conocimiento técnico para configurar y mantener.</li>
+        <li><strong>Escalado Manual:</strong> La administración puede volverse compleja con el crecimiento.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><strong>Requerimientos de Infraestructura:</strong> Puede necesitar runners propios.</li>
+        <li><strong>Complejidad:</strong> Algunas configuraciones requieren más tiempo y planificación.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ### 7.3.2. Production Deployment Pipeline Components.
 
 # Conclusiones
