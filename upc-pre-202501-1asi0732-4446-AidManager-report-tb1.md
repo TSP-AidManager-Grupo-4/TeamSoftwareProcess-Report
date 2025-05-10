@@ -200,6 +200,8 @@ En ambos casos se puede observar el incremento de modificaciones y revisiones en
 
 - [5.3. Video about the product](#53-video-about-the-product)
 
+-[Capítulo VI: Product Verification & Validatio]()
+
  [Conclusiones](#conclusiones)  
  [Video about the team](#video-about-the-team)  
  [Bibliografía](#bibliografía)  
@@ -3312,6 +3314,43 @@ Se presentan los commits de los Integrantes del equipo
 ## 5.3. Video About-the-Product
 Link: https://youtu.be/5C6CFJQ90q8
 
+# Capítulo VI: Product Verification & Validation
+
+## 6.1. Testing Suites & Validation
+### 6.1.1. Core Entities Unit Tests.
+### 6.1.2. Core Integration Tests.
+### 6.1.3. Core Behavior-Driven Development
+### 6.1.4. Core System Tests.
+## 6.2. Static testing & Verification
+### 6.2.1. Static Code Analysis
+### 6.2.1.1. Coding standard & Code conventions.
+### 6.2.1.2. Code Quality & Code Security.
+### 6.2.2. Reviews
+## 6.3. Validation Interviews.
+### 6.3.1. Diseño de Entrevistas.
+### 6.3.2. Registro de Entrevistas.
+### 6.3.3. Evaluaciones según heurísticas.
+## 6.4. Auditoría de Experiencias de Usuario
+### 6.4.1. Auditoría realizada.
+#### 6.4.1.1. Información del grupo auditado.
+#### 6.4.1.2. Cronograma de auditoría realizada.
+#### 6.4.1.3. Contenido de auditoría realizada.
+### 6.4.2. Auditoría recibida.
+### 6.4.2.1. Información del grupo auditor.
+### 6.4.2.2. Cronograma de auditoría recibida.
+### 6.4.2.3. Contenido de auditoría recibida.
+
+#### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos.
+# Capítulo VII: DevOps Practices
+## 7.1. Continuous Integration
+### 7.1.1. Tools and Practices.
+### 7.1.2. Build & Test Suite Pipeline Components.
+## 7.2. Continuous Delivery
+### 7.2.1. Tools and Practices.
+### 7.2.2. Stages Deployment Pipeline Components.
+## 7.3. Continuous deployment
+### 7.3.1. Tools and Practices.
+### 7.3.2. Production Deployment Pipeline Components.
 
 # Conclusiones
 En conclusión, para la TB1 se realizó el desarrollo de la solución y la implementación de esta misma. En futuras entregas estaremos observando mas de cerca el código a nivel de pruebas.
