@@ -3347,6 +3347,19 @@ Este test valida que la creación de un nuevo proyecto mediante el comando Creat
 * Resultado esperado: Todas las propiedades del proyecto deben coincidir con los valores proporcionados en el comando.
 * Explicación: Este test garantiza que la creación de un proyecto se ejecute correctamente, configurando adecuadamente los detalles del proyecto como la fecha, ubicación y la información visual asociada.
 
+**Test Unitario: Adición de imágenes al proyecto**
+
+Este test valida que, al agregar imágenes a un proyecto, el sistema incremente correctamente el número de imágenes asociadas al proyecto.
+
+<img src="../Report/assets/Unit-Tests/UnitTest-AddImage.png" alt="imagen de unit test AddImage">  
+[Unit test AddImage_ShouldIncreaseImageCount]
+
+<br>
+
+* Descripción: Este test asegura que el método AddImage aumente el número de imágenes del proyecto correctamente al recibir un comando con nuevas imágenes.
+* Resultado esperado: El número de imágenes debe aumentar y las URLs de las imágenes deben coincidir con las proporcionadas.
+* Explicación: La capacidad de agregar imágenes a un proyecto es crucial para muchos sistemas de gestión de proyectos, ya que permite que los proyectos sean más visuales y atractivos para los usuarios.
+
 ### 6.1.2. Core Integration Tests.
 ### 6.1.3. Core Behavior-Driven Development
 ### 6.1.4. Core System Tests.
