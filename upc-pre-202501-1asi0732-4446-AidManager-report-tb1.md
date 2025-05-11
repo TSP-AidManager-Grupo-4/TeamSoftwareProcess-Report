@@ -3326,7 +3326,7 @@ Las pruebas unitarias son importantes para el proyecto debido a que aseguran que
 Este test verifica que el método UpdateRating funcione correctamente cuando se le pasa una calificación válida. Asegura que la calificación se actualice a 4.5.
 
 <img src="../Report/assets/Unit-Tests/UnitTest-UpdateRating.png" alt="imagen de unit test UpdateRating">  
-[Unit test UpdateRating_WithValidRating_ShouldUpdateRating]
+[Unit Test UpdateRating_WithValidRating_ShouldUpdateRating]
 
 <br>
 
@@ -3339,7 +3339,7 @@ Este test verifica que el método UpdateRating funcione correctamente cuando se 
 Este test valida que la creación de un nuevo proyecto mediante el comando CreateProjectCommand configure correctamente todas las propiedades del proyecto, como el nombre, la descripción, la fecha y la ubicación.
 
 <img src="../Report/assets/Unit-Tests/UnitTest-CreateProject.png" alt="imagen de unit test CreateProject">  
-[Unit test CreateProject_WithValidCommand_ShouldSetAllProperties]
+[Unit Test CreateProject_WithValidCommand_ShouldSetAllProperties]
 
 <br>
 
@@ -3352,7 +3352,7 @@ Este test valida que la creación de un nuevo proyecto mediante el comando Creat
 Este test valida que, al agregar imágenes a un proyecto, el sistema incremente correctamente el número de imágenes asociadas al proyecto.
 
 <img src="../Report/assets/Unit-Tests/UnitTest-AddImage.png" alt="imagen de unit test AddImage">  
-[Unit test AddImage_ShouldIncreaseImageCount]
+[Unit Test AddImage_ShouldIncreaseImageCount]
 
 <br>
 
@@ -3365,7 +3365,7 @@ Este test valida que, al agregar imágenes a un proyecto, el sistema incremente 
 Este test valida que cuando se llama al método UpdateProject con un comando de actualización, todas las propiedades del proyecto se actualicen correctamente.
 
 <img src="../Report/assets/Unit-Tests/UnitTest-UpdateProject.png" alt="imagen de unit test UpdateProject">  
-[Unit test UpdateProject_ShouldModifyAllProperties]
+[Unit Test UpdateProject_ShouldModifyAllProperties]
 
 <br>
 
@@ -3376,7 +3376,7 @@ Este test valida que cuando se llama al método UpdateProject con un comando de 
 Todas las pruebas unitarias realizadas fueron ejecutadas con éxito, lo que asegura que las funciones clave, como la creación, actualización y manejo de imágenes en proyectos, funcionan de manera correcta. La ejecución de estas pruebas refuerza la confianza en que el sistema maneja correctamente los proyectos y sus propiedades, garantizando un software robusto y confiable.
 
 <img src="../Report/assets/Unit-Tests/UnitTest-Success.png" alt="imagen de unit test success">  
-[Unit test Success]
+[Unit Test Success]
 
 ### 6.1.2. Core Integration Tests.
 
@@ -3386,7 +3386,20 @@ Estas pruebas son cruciales para el éxito del proyecto, ya que nos permiten ver
 
 A continuación, se detallan algunas de las pruebas de integración clave que hemos implementado en AidManager para verificar el funcionamiento de los proyectos y las tareas dentro del sistema.
 
+**Test de Integración: Obtener proyectos por ID de empresa**
 
+Este test valida que el servicio de gestión de tareas sea capaz de recuperar correctamente los proyectos asociados a un ID de empresa específico. Se verifica que el sistema sea capaz de devolver una lista de proyectos que coincidan con el CompanyId proporcionado.
+
+<img src="../Report/assets/Integration-Tests/IntegrationTest-GetProjectsByCompany.png" alt="imagen de Integration TestGetProjectsByCompany">  
+[Integration Test GetProjectsByCompany_ShouldReturnProjectsForCompanyId]
+<br>
+<br>
+
+<img src="../Report/assets/Integration-Tests/IntegrationTest-GetProjectsByCompany-2.png" alt="imagen de Integration TestGetProjectsByCompany parte 2">  
+[Integration Test GetProjectsByCompany_ShouldReturnProjectsForCompanyId 2]
+
+* Descripción: Este test asegura que la interacción entre el servicio que gestiona las tareas y los proyectos sea efectiva al recuperar los proyectos asociados a un CompanyId. Se valida que el servicio de gestión de tareas pueda retornar correctamente los proyectos correspondientes.
+* Importancia: Esta prueba es esencial para garantizar que el sistema pueda consultar y recuperar proyectos de manera efectiva, lo cual es una parte crucial en el flujo de trabajo donde las empresas gestionan sus proyectos y tareas asociadas.
 
 ### 6.1.3. Core Behavior-Driven Development
 ### 6.1.4. Core System Tests.
