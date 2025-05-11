@@ -3398,8 +3398,27 @@ Este test valida que el servicio de gestión de tareas sea capaz de recuperar co
 <img src="../Report/assets/Integration-Tests/IntegrationTest-GetProjectsByCompany-2.png" alt="imagen de Integration TestGetProjectsByCompany parte 2">  
 [Integration Test GetProjectsByCompany_ShouldReturnProjectsForCompanyId 2]
 
+<br>
+
 * Descripción: Este test asegura que la interacción entre el servicio que gestiona las tareas y los proyectos sea efectiva al recuperar los proyectos asociados a un CompanyId. Se valida que el servicio de gestión de tareas pueda retornar correctamente los proyectos correspondientes.
 * Importancia: Esta prueba es esencial para garantizar que el sistema pueda consultar y recuperar proyectos de manera efectiva, lo cual es una parte crucial en el flujo de trabajo donde las empresas gestionan sus proyectos y tareas asociadas.
+
+**Test de Integración: Actualización de proyecto con tareas**
+
+Este test verifica que las tareas asociadas a un proyecto se actualicen correctamente en un sistema que involucra múltiples "bounded contexts". El test asegura que los cambios en el estado de una tarea se reflejan adecuadamente, incluso cuando están distribuidos entre diferentes contextos.
+
+<img src="../Report/assets/Integration-Tests/IntegrationTest-UpdateProjectWithTasks.png" alt="imagen de Integration UpdateProjectWithTasks">  
+[Integration Test UpdateProjectWithTasks_ShouldTrackTasksAcrossBoundedContexts]
+<br>
+<br>
+
+<img src="../Report/assets/Integration-Tests/IntegrationTest-UpdateProjectWithTasks-2.png" alt="imagen de Integration UpdateProjectWithTasks parte 2">  
+[Integration Test UpdateProjectWithTasks_ShouldTrackTasksAcrossBoundedContexts 2]
+
+<br>
+
+* Descripción: Este test asegura que los cambios en las tareas de un proyecto sean reflejados en los contextos involucrados, validando que el estado de las tareas se mantenga consistente y actualizado entre los diferentes servicios que manejan el proyecto y sus tareas asociadas.
+* Importancia: Esta prueba valida la integridad y consistencia de las interacciones entre los diferentes servicios del sistema, como la gestión de proyectos y la gestión de tareas. Es esencial para sistemas donde múltiples módulos o servicios deben trabajar juntos de manera sincronizada.
 
 ### 6.1.3. Core Behavior-Driven Development
 ### 6.1.4. Core System Tests.
