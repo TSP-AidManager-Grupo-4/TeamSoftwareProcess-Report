@@ -3334,6 +3334,19 @@ Este test verifica que el método UpdateRating funcione correctamente cuando se 
 * Resultado esperado: La calificación del proyecto debe coincidir con el valor proporcionado (4.5).
 * Explicación: Esta prueba es fundamental, ya que verifica que el sistema mantenga la coherencia al actualizar las calificaciones de los proyectos, lo que es crucial para la experiencia del usuario al interactuar con los proyectos.
 
+**Test Unitario: Creación de un proyecto con comando válido**
+
+Este test valida que la creación de un nuevo proyecto mediante el comando CreateProjectCommand configure correctamente todas las propiedades del proyecto, como el nombre, la descripción, la fecha y la ubicación.
+
+<img src="../Report/assets/Unit-Tests/UnitTest-CreateProject.png" alt="imagen de unit test CreateProject">  
+[Unit test CreateProject_WithValidCommand_ShouldSetAllProperties]
+
+<br>
+
+* Descripción: Verifica que al crear un proyecto mediante un comando válido, todas las propiedades del proyecto sean configuradas correctamente, incluidas las imágenes, la fecha y la ubicación.
+* Resultado esperado: Todas las propiedades del proyecto deben coincidir con los valores proporcionados en el comando.
+* Explicación: Este test garantiza que la creación de un proyecto se ejecute correctamente, configurando adecuadamente los detalles del proyecto como la fecha, ubicación y la información visual asociada.
+
 ### 6.1.2. Core Integration Tests.
 ### 6.1.3. Core Behavior-Driven Development
 ### 6.1.4. Core System Tests.
