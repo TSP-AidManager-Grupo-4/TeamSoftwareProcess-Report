@@ -3321,6 +3321,19 @@ Link: https://youtu.be/5C6CFJQ90q8
 
 Las pruebas unitarias son importantes para el proyecto debido a que aseguran que cada módulo/componente funcione correctamente por sí solo. Estas pruebas nos permiten validar que cada parte del sistema cumple su propósito antes de integrarse al conjunto. Para garantizar un adecuado desarrollo del proyecto, se mostrarán las pruebas unitarias más importantes que realizamos en nuestro proyecto, las cuales garantizan que las funcionalidades clave estén correctamente implementadas y funcionando como se espera.
 
+**Test Unitario: Actualización de la calificación del proyecto**
+
+Este test verifica que el método UpdateRating funcione correctamente cuando se le pasa una calificación válida. Asegura que la calificación se actualice a 4.5.
+
+<img src="../Report/assets/Unit-Tests/UnitTest-UpdateRating.png" alt="imagen de unit test UpdateRating">  
+[Unit test UpdateRating_WithValidRating_ShouldUpdateRating]
+
+<br>
+
+* Descripción: Este test asegura que cuando se llama al método UpdateRating con un valor válido, la calificación del proyecto se actualice correctamente.
+* Resultado esperado: La calificación del proyecto debe coincidir con el valor proporcionado (4.5).
+* Explicación: Esta prueba es fundamental, ya que verifica que el sistema mantenga la coherencia al actualizar las calificaciones de los proyectos, lo que es crucial para la experiencia del usuario al interactuar con los proyectos.
+
 ### 6.1.2. Core Integration Tests.
 ### 6.1.3. Core Behavior-Driven Development
 ### 6.1.4. Core System Tests.
