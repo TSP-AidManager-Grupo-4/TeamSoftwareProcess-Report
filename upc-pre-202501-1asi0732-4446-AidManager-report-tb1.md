@@ -3379,6 +3379,15 @@ Todas las pruebas unitarias realizadas fueron ejecutadas con éxito, lo que aseg
 [Unit test Success]
 
 ### 6.1.2. Core Integration Tests.
+
+Las pruebas de integración son fundamentales para garantizar que diferentes componentes del sistema trabajen de manera conjunta y sin problemas. A diferencia de las pruebas unitarias, que validan el comportamiento aislado de una función o clase, las pruebas de integración se enfocan en verificar que los sistemas y módulos interactúan correctamente entre sí. Es vital en nuestra solución debido a que  múltiples servicios y capas del sistema interactúan, por lo que las pruebas de integración aseguran que los distintos componentes funcionen correctamente cuando se combinan. (Por ejemplo: la gestión de tareas, la autenticación y la gestión de proyectos)
+
+Estas pruebas son cruciales para el éxito del proyecto, ya que nos permiten verificar que las interacciones entre servicios o "bounded contexts" se realicen de manera fluida, sin generar errores o inconsistencias en el sistema.
+
+A continuación, se detallan algunas de las pruebas de integración clave que hemos implementado en AidManager para verificar el funcionamiento de los proyectos y las tareas dentro del sistema.
+
+
+
 ### 6.1.3. Core Behavior-Driven Development
 ### 6.1.4. Core System Tests.
 
