@@ -3373,6 +3373,11 @@ Este test valida que cuando se llama al método UpdateProject con un comando de 
 * Resultado esperado: El proyecto debe reflejar todos los cambios del comando de actualización.
 * Explicación: Esta prueba es esencial para asegurar que las actualizaciones de proyectos se realicen correctamente y sin errores, lo que es fundamental para mantener la integridad de los datos dentro del sistema.
 
+Todas las pruebas unitarias realizadas fueron ejecutadas con éxito, lo que asegura que las funciones clave, como la creación, actualización y manejo de imágenes en proyectos, funcionan de manera correcta. La ejecución de estas pruebas refuerza la confianza en que el sistema maneja correctamente los proyectos y sus propiedades, garantizando un software robusto y confiable.
+
+<img src="../Report/assets/Unit-Tests/UnitTest-Success.png" alt="imagen de unit test success">  
+[Unit test Success]
+
 ### 6.1.2. Core Integration Tests.
 ### 6.1.3. Core Behavior-Driven Development
 ### 6.1.4. Core System Tests.
