@@ -3360,6 +3360,19 @@ Este test valida que, al agregar imágenes a un proyecto, el sistema incremente 
 * Resultado esperado: El número de imágenes debe aumentar y las URLs de las imágenes deben coincidir con las proporcionadas.
 * Explicación: La capacidad de agregar imágenes a un proyecto es crucial para muchos sistemas de gestión de proyectos, ya que permite que los proyectos sean más visuales y atractivos para los usuarios.
 
+**Test Unitario: Actualización de las propiedades del proyecto**
+
+Este test valida que cuando se llama al método UpdateProject con un comando de actualización, todas las propiedades del proyecto se actualicen correctamente.
+
+<img src="../Report/assets/Unit-Tests/UnitTest-UpdateProject.png" alt="imagen de unit test UpdateProject">  
+[Unit test UpdateProject_ShouldModifyAllProperties]
+
+<br>
+
+* Descripción: Verifica que cuando se actualiza un proyecto con un comando, todas sus propiedades (nombre, descripción, imágenes, etc.) se modifican correctamente.
+* Resultado esperado: El proyecto debe reflejar todos los cambios del comando de actualización.
+* Explicación: Esta prueba es esencial para asegurar que las actualizaciones de proyectos se realicen correctamente y sin errores, lo que es fundamental para mantener la integridad de los datos dentro del sistema.
+
 ### 6.1.2. Core Integration Tests.
 ### 6.1.3. Core Behavior-Driven Development
 ### 6.1.4. Core System Tests.
