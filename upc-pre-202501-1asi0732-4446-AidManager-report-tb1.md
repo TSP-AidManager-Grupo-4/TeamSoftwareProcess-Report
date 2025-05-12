@@ -107,7 +107,10 @@ En ambos casos se puede observar el incremento de modificaciones y revisiones en
 [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
 [Project Report Collaboration Insights](#project-report-collaboration-insights) 
  [Student Outcome](#student-outcome)  
- [Capítulo I: Introducción](#capítulo-i-introducción)  
+ 
+ ---
+
+ ## [Capítulo I: Introducción](#capítulo-i-introducción)  
 - [1.1. Startup Profile](#11-startup-profile)  
   - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)  
   - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -120,7 +123,9 @@ En ambos casos se puede observar el incremento de modificaciones y revisiones en
     - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-[Capítulo II: Requiriments Elicitation & Analysis](#capítulo-ii-requiriments-elicitation-&-analysis)  
+---
+
+## [Capítulo II: Requiriments Elicitation & Analysis](#capítulo-ii-requiriments-elicitation-&-analysis)  
 - [2.1. Competidores](#21-competidores)
   - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
   - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -136,13 +141,17 @@ En ambos casos se puede observar el incremento de modificaciones y revisiones en
   - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
 - [2.4. Ubiquitous Lenguage](#24-requirements-specification)
 
- [Capítulo III: Requirements Specifications](#capítulo-iii-requirements-spcefications)
+---
+
+ ## [Capítulo III: Requirements Specifications](#capítulo-iii-requirements-spcefications)
 - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 - [3.2. User Stories](#32-user-stories)
 - [3.3. Product Backlog](#33-product-backlog)
 - [3.4. Impact Mapping](#34-impact-mapping)
-  
- [Capítulo IV: Product Design](#capítulo-iv-product-design)
+
+---
+
+ ## [Capítulo IV: Product Design](#capítulo-iv-product-design)
 
 - [4.1. Style Guidelines](#41-style-guidelines)
   - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
@@ -183,7 +192,9 @@ En ambos casos se puede observar el incremento de modificaciones y revisiones en
 - [4.10. Database Diagram](#410-database-diagram)  
   - [4.10.1 Relational/Non-Relational Database Diagram](#410-database-diagram)
 
-[Capítulo V: Product Implementation](#capítulo-v-product-implementation)
+---
+
+## [Capítulo V: Product Implementation](#capítulo-v-product-implementation)
 - [5.1. Software Configuration Management](#51-software-configuration-management)
   - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
   - [5.1.2. Source Code Management](#512-source-code-management)
@@ -201,7 +212,55 @@ En ambos casos se puede observar el incremento de modificaciones y revisiones en
 
 - [5.3. Video about the product](#53-video-about-the-product)
 
--[Capítulo VI: Product Verification & Validatio]()
+---
+
+## [Capítulo VI: Product Verification & Validation](#capítulo-vi-product-verification--validation)
+
+- [6.1. Testing Suites & Validation](#61-testing-suites--validation)
+  - [6.1.1. Core Entities Unit Tests](#611-core-entities-unit-tests)
+  - [6.1.2. Core Integration Tests](#612-core-integration-tests)
+  - [6.1.3. Core Behavior-Driven Development](#613-core-behavior-driven-development)
+  - [6.1.4. Core System Tests](#614-core-system-tests)
+- [6.2. Static Testing & Verification](#62-static-testing--verification)
+  - [6.2.1. Static Code Analysis](#621-static-code-analysis)
+    - [6.2.1.1. Coding Standard & Code Conventions](#6211-coding-standard--code-conventions)
+    - [6.2.1.2. Code Quality & Code Security](#6212-code-quality--code-security)
+  - [6.2.2. Reviews](#622-reviews)
+- [6.3. Validation Interviews](#63-validation-interviews)
+  - [6.3.1. Diseño de Entrevistas](#631-diseño-de-entrevistas)
+  - [6.3.2. Registro de Entrevistas](#632-registro-de-entrevistas)
+  - [6.3.3. Evaluaciones según heurísticas](#633-evaluaciones-según-heurísticas)
+- [6.4. Auditoría de Experiencias de Usuario](#64-auditoría-de-experiencias-de-usuario)
+  - [6.4.1. Auditoría Realizada](#641-auditoría-realizada)
+    - [6.4.1.1. Información del grupo auditado](#6411-información-del-grupo-auditado)
+    - [6.4.1.2. Cronograma de auditoría realizada](#6412-cronograma-de-auditoría-realizada)
+    - [6.4.1.3. Contenido de auditoría realizada](#6413-contenido-de-auditoría-realizada)
+  - [6.4.2. Auditoría Recibida](#642-auditoría-recibida)
+    - [6.4.2.1. Información del grupo auditor](#6421-información-del-grupo-auditor)
+    - [6.4.2.2. Cronograma de auditoría recibida](#6422-cronograma-de-auditoría-recibida)
+    - [6.4.2.3. Contenido de auditoría recibida](#6423-contenido-de-auditoría-recibida)
+    - [6.4.2.4. Resumen de modificaciones para subsanar hallazgos](#6424-resumen-de-modificaciones-para-subsanar-hallazgos)
+
+---
+
+## [Capítulo VII: DevOps Practices](#capítulo-vii-devops-practices)
+
+- [7.1. Continuous Integration](#71-continuous-integration)
+  - [7.1.1. Tools and Practices](#711-tools-and-practices)
+  - [7.1.2. Build & Test Suite Pipeline Components](#712-build--test-suite-pipeline-components)
+- [7.2. Continuous Delivery](#72-continuous-delivery)
+  - [7.2.1. Tools and Practices](#721-tools-and-practices)
+  - [7.2.2. Stages Deployment Pipeline Components](#722-stages-deployment-pipeline-components)
+- [7.3. Continuous Deployment](#73-continuous-deployment)
+  - [7.3.1. Tools and Practices](#731-tools-and-practices)
+  - [7.3.2. Production Deployment Pipeline Components](#732-production-deployment-pipeline-components)
+- [7.4. Continuous Monitoring](#74-continuous-monitoring)
+  - [7.4.1. Tools and Practices](#741-tools-and-practices)
+  - [7.4.2. Monitoring Pipeline Components](#742-monitoring-pipeline-components)
+  - [7.4.3. Alerting Pipeline Components](#743-alerting-pipeline-components)
+  - [7.4.4. Notification Pipeline Components](#744-notification-pipeline-components)
+
+---
 
  [Conclusiones](#conclusiones)  
  [Video about the team](#video-about-the-team)  
