@@ -193,10 +193,11 @@ En ambos casos se puede observar el incremento de modificaciones y revisiones en
   - [5.2.1. Sprint Backlogs](#521-sprint-backlogs)
   - [5.2.2. Implemented Landing Page Evidence](#522-implemented-landing-page-evidence)
   - [5.2.3. Implemented Frontend-Web Application Evidence](#523-implemented-frontend-web-application-evidence)
-  - [5.2.4. Implemented Native-Mobile Application Evidence](#524-implemented-native-mobile-application-evidence)
-  - [5.2.5. Implemented RESTful API and/or Severless Backend Evidence](#525-implemented-restful-api-andor-serverless-backend-evidence)
-  - [5.2.6. RESTful API documentation](#526-restful-api-documentation)
-  - [5.2.7. Team Collaboration Insights](#527-team-collaboration-insights)
+  - [5.2.4. Acuerdo de Servicio - SaaS](#524-implemented-native-mobile-application-evidence)
+  - [5.2.5. Implemented Native-Mobile Application Evidence](#524-implemented-native-mobile-application-evidence)
+  - [5.2.6. Implemented RESTful API and/or Severless Backend Evidence](#525-implemented-restful-api-andor-serverless-backend-evidence)
+  - [5.2.7. RESTful API documentation](#526-restful-api-documentation)
+  - [5.2.8. Team Collaboration Insights](#527-team-collaboration-insights)
 
 - [5.3. Video about the product](#53-video-about-the-product)
 
@@ -2948,11 +2949,105 @@ Se presenta la implementación de la aplicación Front End, en esta entrega se d
 
 <center><img src="assets/Implementations/WEBAplications.jpg" alt="WebApp deployed" style="width:80%;"></center>
 
+### 5.2.4. Acuerdo de Servicio - SaaS
 
-### 5.2.4. Implemented Native-Mobile Application Evidence
+El presente **Acuerdo de Servicio** regula los términos y condiciones bajo los cuales los usuarios acceden y utilizan la plataforma **AidRecruits**, una solución SaaS (Software as a Service) desarrollada para mejorar la gestión de proyectos en organizaciones sin fines de lucro en el Perú.
+
+Este acuerdo se incorpora como parte integral de los "Términos y Condiciones" disponibles públicamente en el sitio web de AidRecruits, y su aceptación es obligatoria para completar el registro y uso de la plataforma.
+
+---
+
+#### 1. Definiciones
+
+- **"Plataforma"**: Aplicación móvil y/o web conocida como AidRecruits, operada por el equipo de desarrollo de AidRecruits.
+- **"Usuario"**: Persona natural o jurídica que accede o utiliza la plataforma, sea en calidad de gestor de proyectos, ayudante, colaborador o invitado.
+- **"ONG"**: Organización no gubernamental registrada que hace uso de la plataforma.
+- **"Cuenta"**: Perfil de acceso individual asignado a cada usuario dentro de una organización.
+- **"Plan"**: Modalidad de suscripción elegida por la ONG, según número de cuentas y duración (mensual o anual).
+
+---
+
+#### 2. Objeto del Acuerdo
+
+AidRecruits concede al usuario una **licencia limitada, no exclusiva, intransferible y revocable** para utilizar la plataforma, exclusivamente con fines de gestión interna de proyectos sociales.
+
+---
+
+#### 3. Registro y Acceso
+
+- El uso de la plataforma requiere la **creación de una cuenta** mediante un formulario de registro o código de organización provisto por un gestor.
+- Cada usuario es responsable de la **confidencialidad de sus credenciales** y del uso que se haga bajo su sesión.
+- AidRecruits se reserva el derecho de **suspender o eliminar cuentas** que infrinjan este acuerdo o que realicen usos no autorizados.
+
+---
+
+#### 4. Tarifas y Planes
+
+- La plataforma opera bajo un modelo de **suscripción** que varía en función del número de cuentas activas y del periodo contratado (mensual o anual).
+- AidRecruits podrá ofrecer **descuentos u opciones gratuitas promocionales**, a discreción del equipo, por tiempo limitado.
+- Las suscripciones se **renuevan automáticamente**, salvo que el usuario manifieste su voluntad de cancelación antes del vencimiento del periodo actual.
+- En caso de impago o rechazo del método de pago, AidRecruits se reserva el derecho de **suspender temporalmente el servicio** hasta regularización.
+
+---
+
+#### 5. Propiedad Intelectual
+
+- Todos los derechos sobre la plataforma, su código fuente, diseño, marcas y funcionalidades pertenecen exclusivamente a **AidRecruits**.
+- El usuario no podrá copiar, distribuir, descompilar, modificar ni revender ningún componente de la plataforma, salvo autorización expresa.
+
+---
+
+#### 6. Uso Aceptable
+
+Queda expresamente prohibido:
+
+- Utilizar la plataforma con fines ilegales o no éticos.
+- Compartir credenciales o permitir el acceso a terceros no autorizados.
+- Cargar contenido que infrinja derechos de autor, privacidad o confidencialidad.
+- Interferir con la operación técnica de la plataforma.
+
+---
+
+#### 7. Protección de Datos y Privacidad
+
+AidRecruits garantiza el cumplimiento de la **Ley N.º 29733 - Ley de Protección de Datos Personales** del Perú. En ese sentido:
+
+- Los datos personales proporcionados serán usados únicamente para fines operativos de la plataforma.
+- Los usuarios tienen derecho a **acceder, rectificar, actualizar o suprimir sus datos personales**, mediante solicitud escrita.
+- AidRecruits emplea medidas de seguridad técnicas y organizativas adecuadas para proteger la confidencialidad de los datos.
+
+---
+
+#### 8. Disponibilidad del Servicio
+
+- AidRecruits procura una **alta disponibilidad** del servicio, aunque no garantiza continuidad absoluta, ya que pueden existir interrupciones por mantenimiento programado o causas externas.
+- En caso de interrupciones prolongadas, el equipo podrá ofrecer compensaciones proporcionales en el siguiente periodo de suscripción.
+
+---
+
+#### 9. Limitación de Responsabilidad
+
+- AidRecruits no se responsabiliza por pérdidas indirectas, interrupciones por causas externas, ni por decisiones tomadas en base a datos gestionados por la plataforma.
+- El uso del sistema es responsabilidad del usuario, quien acepta asumir los riesgos asociados a su operación.
+
+---
+
+#### 10. Modificaciones del Acuerdo
+
+AidRecruits podrá actualizar este acuerdo cuando lo estime conveniente. En tal caso, notificará a los usuarios registrados con al menos **5 días de anticipación**. La continuidad en el uso de la plataforma implica la aceptación de las nuevas condiciones.
+
+---
+
+#### 11. Ley Aplicable y Jurisdicción
+
+Este acuerdo se rige por las leyes de la **República del Perú**. En caso de controversia, ambas partes se someten a la jurisdicción de los juzgados y tribunales de **Lima Metropolitana**, con renuncia expresa a cualquier otro fuero.
+
+
+
+### 5.2.5. Implemented Native-Mobile Application Evidence
 Se presenta la implementación de la aplicación móvil, en esta entrega se puede considerar la implementación mas completa.
 
-### 5.2.5. Implemented RESTful API and/or Serverless Backend Evidence
+### 5.2.6. Implemented RESTful API and/or Serverless Backend Evidence
 
 Se presenta la implementación de la aplicación back end, se toma en cuenta también la base de datos en un servicio cloud.
 
@@ -2962,7 +3057,7 @@ Primero que nada evidencias del funcionamiento en swagger
 Seguimos con evidencias del deployment en railway
 <center><img src="assets/Implementations/Railway.png" alt="railway deployment" style="width:80%;"></center>
 
-### 5.2.6. RESTful API documentation
+### 5.2.7. RESTful API documentation
 
 Se presenta la documentación de la API mencionando los endpoints que tiene.
 
@@ -3296,7 +3391,7 @@ Obtains all deleted users
 
 ```
 
-### 5.2.7. Team Collaboration Insights
+### 5.2.8. Team Collaboration Insights
 
 Se presentan los commits de los Integrantes del equipo
 
