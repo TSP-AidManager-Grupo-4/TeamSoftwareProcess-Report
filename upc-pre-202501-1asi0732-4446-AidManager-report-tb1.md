@@ -2700,6 +2700,98 @@ Como miembro de equipo deseo ver las tareas asignadas y las métricas del grupo.
 ![image_52](assets/mobile-userflow/image_109.png)
 ![image_52](assets/mobile-userflow/image_124.png)
 
+## 4.5. Mobile Application Prototyping
+
+### 4.5.1. Android Mobile Applications Prototyping
+
+![Mobile Prototyping](assets/prototyping.png)
+
+### 4.5.2. iOS Mobile Applications Prototyping
+
+![Mobile Prototyping](assets/prototyping.png)
+
+## 4.6 Web Applications UX/UI Design
+
+### 4.6.1. Web Applications Wireframes
+</br>
+
+[URL del Wireframe hecho en Figma](https://www.figma.com/file/u8S0RHE4Kbl69EwQSVf7jb/AidManager-app-web-Wireframe?type=design&node-id=0%3A1&mode=design&t=FQRKS9G6nW0lMIRj-1)
+
+**Segmento 1: Manager de ONG**
+<center><img src="../assets/app-web-wireframe/aww-1.png" alt="app web wireframe1" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-2.png" alt="app web wireframe2" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-3.png" alt="app web wireframe3" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-4.png" alt="app web wireframe4" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-5.png" alt="app web wireframe5" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-6.png" alt="app web wireframe6" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-7.png" alt="app web wireframe7" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-8.png" alt="app web wireframe8" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-9.png" alt="app web wireframe9" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-10.png" alt="app web wireframe10" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-11.png" alt="app web wireframe11" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-12.png" alt="app web wireframe12" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-13.png" alt="app web wireframe13" style="width:80%;"></center>
+
+**Segmento 2: Equipo de ONG**
+<center><img src="../assets/app-web-wireframe/aww-14.png" alt="app web wireframe14" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-15.png" alt="app web wireframe15" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-16.png" alt="app web wireframe16" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-17.png" alt="app web wireframe17" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-18.png" alt="app web wireframe18" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-19.png" alt="app web wireframe19" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-20.png" alt="app web wireframe20" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-21.png" alt="app web wireframe21" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-22.png" alt="app web wireframe22" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-23.png" alt="app web wireframe23" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-24.png" alt="app web wireframe24" style="width:80%;"></center>
+
+### 4.6.2. Web Applications Wireflow Diagrams.
+
+![Web Aplication WireflowSegmento1](/assets/wireflow-images/wireflow.png)
+![Web Aplication WireflowSegmento2](/assets/wireflow-images/wireflo2.png)
+
+### 4.6.3. Web Applications Mock-ups.
+
+</br>
+
+[URL del Mock-up de la Aplicación hecho en Figma](https://www.figma.com/file/n5BSEAK3X9lFN2M1eqnmQX/AidManager-Prototype?type=design&node-id=0%3A1&mode=design&t=dhyNolXNOfDSlBEG-1)
+
+**Segmento 1: Manager de ONG**
+<center><img src="../assets/aidmanager-app-mockup/aam-1.png" alt="app web mock-up1" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-2.png" alt="app web mock-up2" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-3.png" alt="app web mock-up3" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-4.png" alt="app web mock-up4" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-5.png" alt="app web mock-up5" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-6.png" alt="app web mock-up6" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-7.png" alt="app web mock-up7" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-8.png" alt="app web mock-up8" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-9.png" alt="app web mock-up9" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-10.png" alt="app web mock-up10" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-11.png" alt="app web mock-up11" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-12.png" alt="app web mock-up12" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-13.png" alt="app web mock-up13" style="width:80%;"></center>
+
+**Segmento 2: Equipo de ONG**
+<center><img src="../assets/aidmanager-app-mockup/aam-14.png" alt="app web mock-up14" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-15.png" alt="app web mock-up15" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-16.png" alt="app web mock-up16" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-17.png" alt="app web mock-up17" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-18.png" alt="app web mock-up18" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-19.png" alt="app web mock-up19" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-20.png" alt="app web mock-up20" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-21.png" alt="app web mock-up21" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-22.png" alt="app web mock-up22" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-23.png" alt="app web mock-up23" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-24.png" alt="app web mock-up24" style="width:80%;"></center>
+
+### 4.6.4. Web Applications UserFlow Diagrams.
+
+![Web Aplication UserFlow](../assets/user-flow/Userflow1.png)
+![Web Aplication UserFlow](../assets/user-flow/Userflo2.png)
+![Web Aplication UserFlow](../assets/user-flow/Userflo3.png)
+![Web Aplication UserFlow](../assets/user-flow/userflo4.png)
+![Web Aplication UserFlow](../assets/user-flow/userflo5.png)
+
 ## 4.7. Mobile Application Prototyping
 
 Para el desarrollo de los prototipos de la **interfaz móvil** de AidManager, se aplicaron criterios fundamentales que aseguran una experiencia de usuario óptima y adaptada a las necesidades del segmento objetivo.
@@ -2794,6 +2886,8 @@ Estas clases forman la base de la lógica de negocio de AidManager, facilitando 
 
 ## 4.10. Database Diagram
 
+### 4.10.1. Relational/Non-Relational Database Diagram
+
 A continuación se presenta el **Diagrama de Base de Datos** que respalda el funcionamiento de AidManager. Este diagrama muestra las entidades principales, sus relaciones y cómo se estructura la información clave para la gestión de proyectos, usuarios y tareas dentro del sistema.
 
 ![Database Diagram](assets/database.png)
@@ -2809,7 +2903,7 @@ El modelo relacional asegura la **integridad de los datos** y la escalabilidad d
 # Capítulo V: Product Implementation
 
 
-## 5.1 Software Configuration Management
+## 5.1. Software Configuration Management
 
 ### 5.1.1. Software Development Environment Configuration
 
