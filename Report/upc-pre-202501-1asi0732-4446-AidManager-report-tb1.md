@@ -3679,7 +3679,49 @@ Este test verifica que las tareas asociadas a un proyecto se actualicen correcta
 * Importancia: Esta prueba valida la integridad y consistencia de las interacciones entre los diferentes servicios del sistema, como la gestión de proyectos y la gestión de tareas. Es esencial para sistemas donde múltiples módulos o servicios deben trabajar juntos de manera sincronizada.
 
 ### 6.1.3. Core Behavior-Driven Development
-### 6.1.4. Core System Tests.
+
+
+
+### 6.1.4. Core System Tests
+
+Las pruebas del sistema central (Core System Tests) se realizaron utilizando **Selenium IDE**, enfocándonos en validar las funcionalidades principales de la plataforma *AidManager*. Estas pruebas son de tipo **funcional**, ya que verifican que las funcionalidades claves del sistema operen según lo esperado desde la perspectiva del usuario final.
+
+A continuación, se presentan tres pruebas automatizadas que validan las funciones esenciales del sistema:
+
+---
+
+#### ✅ Prueba 1: Agregar nuevo proyecto (`add-project`)
+
+Esta prueba automatiza el flujo para agregar un nuevo proyecto al sistema, incluyendo los campos de nombre, imagen y descripción. La prueba concluye exitosamente cuando se visualiza el nuevo proyecto agregado en la lista.
+
+![add-project](../assets/add-project.png)
+*Evidencia de ejecución automática de la funcionalidad "Agregar proyecto".*
+
+---
+
+#### ✅ Prueba 2: Editar tarea (`edit-task`)
+
+Se automatiza la edición de una tarea existente, seleccionándola desde la interfaz y modificando su título. La prueba termina con una aserción para comprobar que el nuevo título fue actualizado correctamente.
+
+![edit-task](../assets/edit-task.png)
+*Evidencia de ejecución de la prueba de edición de una tarea existente.*
+
+---
+
+#### ✅ Prueba 3: Cambiar estado de tarea (`task-status`)
+
+Esta prueba automatiza el cambio de estado de una tarea dentro de un proyecto, moviéndola entre columnas (por ejemplo, de "In Progress" a "To Do"). Se valida que el título de la tarea se muestre correctamente en su nueva ubicación.
+
+![task-status](../assets/task-status.png)
+
+*Evidencia de automatización del cambio de estado de una tarea dentro del tablero.*
+
+---
+
+Estas pruebas funcionales aseguran que los principales componentes del sistema AidManager funcionan correctamente de forma integrada, proporcionando confianza en la estabilidad del producto.
+
+
+
 
 # Capítulo VII: DevOps Practices
 ## 7.1. Continuous Integration
