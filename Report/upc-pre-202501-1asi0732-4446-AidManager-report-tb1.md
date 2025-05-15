@@ -60,6 +60,12 @@
 | TB1     | 21/04/2025  | Sebastian Ramirez.H Hoffmann           | Revisión completa del Lean UX Canvas.            |
 | TB1     | 22/04/2025  | Juan Cuadros           | Revisión completa del diseño de solución            |
 | TB1     | 23/04/2025  | Sebastian Ramirez Hoffmann           | Revisión general del informe            |
+| TP     | 18/04/2025  | Nicolas Esteban Garcia     | Redacción de feedback y revisiones del documento. |
+| TP     | 9/05/2025  | Sebastian Peña            | Revisión completa de testing unitario.            |
+| TP     | 10/05/2025  | Sebastian Ramirez.M           | Revisión completa de testing funcional.            |
+| TP     | 12/05/2025  | Sebastian Ramirez.H Hoffmann           | Revisión completa integracion con backend.            |
+| TP     | 12/05/2025  | Juan Cuadros           | Revisión completa del informe preliminar            |
+| TP     | 13/05/2025  | Sebastian Ramirez Hoffmann           | Revisión general backend            |
 
 
 
@@ -87,15 +93,15 @@ Para la entrega del TB1 se han realizado los procesos necesarios para lograr los
 
 Se muestran evidencias de los commits realizados en la entrega de la TB1 en el informe.
 
-<img src="../Report/assets/Insights/commits.png " alt="imagen de las colaboraciones">  
+<img src="../assets/Insights/commits.png " alt="imagen de las colaboraciones">  
 
 [Contribuciones del repositorio]
 
-<img src="../Report/assets/Insights/Screenshot 2025-04-25 230238.png" alt="imagen de las colaboraciones">  
+<img src="../assets/Insights/Screenshot 2025-04-25 230238.png" alt="imagen de las colaboraciones">  
 
 [Colaboradores del repositorio]
 
-<img src="../Report/assets/Insights/ins.png " alt="imagen de los commits">  
+<img src="../assets/Insights/ins.png " alt="imagen de los commits">  
 [Registro de los commits donde se realizaron la mayor cantidad]
 
 En ambos casos se puede observar el incremento de modificaciones y revisiones en los días Jueves y una cantidad mayor de cambios que commits.
@@ -299,7 +305,7 @@ Creemos firmemente que, mediante el uso eficiente de la tecnología, es posible 
 
 ---
 
-![logo](assets/logo.png)
+![logo](../assets/logo.png)
 
 
 ### 1.1.2. Perfiles de integrantes de grupo
@@ -308,7 +314,7 @@ Los siguientes integrantes del grupo son presentados con su carrera y sus conoci
 <table>
   <tr>
     <th>
-      <img src="assets/sebas_perfil.jpeg" alt="Foto de perfil de Sebastian Ramirez Mendez" width="800px">
+      <img src="../assets/sebas_perfil.jpeg" alt="Foto de perfil de Sebastian Ramirez Mendez" width="800px">
     </th>
     <td valign="top">
       <p><b>Ramírez Méndez, Sebastián André</b></p>
@@ -319,7 +325,7 @@ Los siguientes integrantes del grupo son presentados con su carrera y sus conoci
   </tr>
   <tr>
     <th>
-      <img src="../Report/assets/integrantes/Sebastian-Ramirez-Hoffmann .jpeg" alt="Foto de perfil de Sebastian Ramirez Hoffmann" width="800px">
+      <img src="../assets/integrantes/Sebastian-Ramirez-Hoffmann .jpeg" alt="Foto de perfil de Sebastian Ramirez Hoffmann" width="800px">
     </th>
     <td valign="top">
       <p><b>Ramirez Hoffmann, Sebastian</b></p>
@@ -330,7 +336,7 @@ Los siguientes integrantes del grupo son presentados con su carrera y sus conoci
   </tr>
   <tr>
     <th>
-      <img src="assets/profile-picture-integrants/Juan-Cuadros.jpg" alt="Foto de perfil de" width="800px">
+      <img src="../assets/profile-picture-integrants/Juan-Cuadros.jpg" alt="Foto de perfil de" width="800px">
     </th>
     <td valign="top">
       <p><b>Cuadros Rodriguez, Juan Alejandro</b></p>
@@ -341,7 +347,7 @@ Los siguientes integrantes del grupo son presentados con su carrera y sus conoci
   </tr>
   <tr>
     <th>
-      <img src="assets/profile-picture-integrants/Manuel-Peña-Rivera.jpg" alt="Foto de perfil de" width="800px">
+      <img src="../assets/profile-picture-integrants/Manuel-Peña-Rivera.jpg" alt="Foto de perfil de" width="800px">
     </th>
     <td valign="top">
       <p><b>Peña Rivera, Manuel Sebastian</b></p>
@@ -352,7 +358,7 @@ Los siguientes integrantes del grupo son presentados con su carrera y sus conoci
   </tr>
   <tr>
     <th>
-      <img src="../Report/assets/NIKOKADO.jpg" alt="Foto de perfil de Nicolas" width="700px">
+      <img src="../assets/NIKOKADO.jpg" alt="Foto de perfil de Nicolas" width="700px">
     </th>
     <td valign="top">
       <p><b>Esteban Garcia, Nicolas Sebastian</b></p>
@@ -656,7 +662,7 @@ Adicionalmente, desarrollaremos una **landing page** orientada a captar el inter
 #### 1.2.2.4. Lean UX Canvas
 En esta sección juntamos la información de los procesos UX y los juntamos en este canvas.
 
-![Lean Ux Canvas](assets/leanuxcanvas.png)
+![Lean Ux Canvas](../assets/leanuxcanvas.png)
 
 ## 1.3 Segmentos Objetivo
 
@@ -1129,7 +1135,7 @@ Puedes acceder al video de las entrevistas mediante el siguiente enlace:
 - **Navegador:** Google Chrome  
 - **Momento de la entrevista:** [0:00]
 
-![María José Meléndez Villa-Lobos](assets/interview1.png)
+![María José Meléndez Villa-Lobos](../assets/interview1.png)
 
 **Resumen de la entrevista:**  
 María comenta que su ONG no cuenta con una herramienta de gestión específica, por lo que recurren principalmente a **Microsoft Excel** para el análisis de datos. La planificación interna se realiza mediante reuniones anuales y mensuales. Destaca como una dificultad el uso limitado de medios tecnológicos en su entorno laboral, ya que estos se restringen en determinados horarios con el fin de prevenir accidentes con los niños.
@@ -1144,7 +1150,7 @@ María comenta que su ONG no cuenta con una herramienta de gestión específica,
 - **Navegador:** Google Chrome  
 - **Momento de la entrevista:** [8:14]
 
-![Cesar Alva Posada](assets/interview2.png)
+![Cesar Alva Posada](../assets/interview2.png)
 
 **Resumen de la entrevista:**  
 Cesar destaca la importancia de una **metodología adecuada** para la organización y ejecución eficiente de proyectos. Explica que, aunque utilizan diversas herramientas de gestión, estas se implementan de forma **aislada**, lo que dificulta la integración de procesos. Para el manejo de datos, menciona que recurren principalmente a **Microsoft Excel**.
@@ -1161,7 +1167,7 @@ Cesar destaca la importancia de una **metodología adecuada** para la organizaci
 - **Navegador:** Google Chrome  
 - **Momento de la entrevista:** [15:00]
 
-![Guilder Quiñones Aldean](assets/interview3.png)
+![Guilder Quiñones Aldean](../assets/interview3.png)
 
 **Resumen de la entrevista:**  
 Guilder comparte su perspectiva sobre el uso de herramientas de gestión. Similar a entrevistas anteriores, menciona que emplea **Microsoft Excel** para el manejo de datos. Sin embargo, también complementa su trabajo con herramientas especializadas como **Trello**, las cuales le permiten una mejor organización de proyectos.
@@ -1178,7 +1184,7 @@ Guilder comparte su perspectiva sobre el uso de herramientas de gestión. Simila
 - **Navegador:** Google Chrome  
 - **Momento de la entrevista:** [24:00]
 
-![Luis Herrera Gonzales](assets/interview4.png)
+![Luis Herrera Gonzales](../assets/interview4.png)
 
 **Resumen de la entrevista:**  
 Luis comenta que participa en las actividades de la ONG utilizando principalmente **WhatsApp** como medio de comunicación y recolección de datos, en coordinación con su gerente. Señala que tanto WhatsApp como el correo electrónico resultan **obsoletos** para las necesidades actuales, ya que demandan mucho tiempo y carecen del nivel de **formalidad** esperado.
@@ -1195,7 +1201,7 @@ Luis comenta que participa en las actividades de la ONG utilizando principalment
 - **Navegador:** Google  
 - **Momento de la entrevista:** [27:40]
 
-![Álvaro Jiménez](assets/interview5.png)
+![Álvaro Jiménez](../assets/interview5.png)
 
 **Resumen de la entrevista:**  
 Álvaro comparte su experiencia como voluntario en una ONG, destacando la forma en que se distribuyen las tareas y se establece la comunicación entre los ayudantes y el gestor del proyecto. Menciona que la gestión actual no es **eficiente** ni **rápida**, y expresa su deseo de que estas dinámicas puedan **mejorarse en el futuro**.
@@ -1214,8 +1220,8 @@ Luis comenta que participa en las actividades de la ONG utilizando principalment
 - **Momento de la entrevista:** [32:10]
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="assets/interview6-1.png" alt="Arián Rodríguez - Imagen 1" style="width: 45%; margin-right: 10px;">
-  <img src="assets/interview6-2.png" alt="Arián Rodríguez - Imagen 2" style="width: 45%;">
+  <img src="../assets/interview6-1.png" alt="Arián Rodríguez - Imagen 1" style="width: 45%; margin-right: 10px;">
+  <img src="../assets/interview6-2.png" alt="Arián Rodríguez - Imagen 2" style="width: 45%;">
 </div>
 
 **Resumen de la entrevista:**  
@@ -1255,13 +1261,13 @@ A continuación, se presentan las representaciones gráficas de los dos perfiles
 
 **User Persona - Segmento 1 (Gestor de Proyectos):**
 
-![User Persona - Gestor](assets/persona1.png)
+![User Persona - Gestor](../assets/persona1.png)
 
 ---
 
 **User Persona - Segmento 2 (Ayudante de Eventos):**
 
-![User Persona - Ayudante](assets/persona2.png)
+![User Persona - Ayudante](../assets/persona2.png)
 
 ---
 
@@ -1344,12 +1350,12 @@ El **User Journey Mapping** es fundamental para comprender el recorrido que real
 ---
 
 **Segmento 1 - Gestor de Proyectos**  
-![User Journey 1](assets/userjourney1.png)
+![User Journey 1](../assets/userjourney1.png)
 
 ---
 
 **Segmento 2 - Ayudante de Eventos**  
-![User Journey 2](assets/userjourney2.png)
+![User Journey 2](../assets/userjourney2.png)
 
 ---
 
@@ -1360,12 +1366,12 @@ El **Empathy Map** nos ayuda a visualizar lo que nuestros usuarios **piensan, si
 ---
 
 **Segmento 1 - Gestor de Proyectos:**  
-![Empathy Map 1](assets/empathymap1.png)
+![Empathy Map 1](../assets/empathymap1.png)
 
 ---
 
 **Segmento 2 - Ayudante de Eventos:**  
-![Empathy Map 2](assets/empathymap2.png)
+![Empathy Map 2](../assets/empathymap2.png)
 
 ---
 
@@ -1375,8 +1381,8 @@ A continuación, se presenta el escenario actual (**As-Is**) de nuestros usuario
 
 ---
 
-![As-Is 1](assets/asis1.png)  
-![As-Is 2](assets/asis2.png)
+![As-Is 1](../assets/asis1.png)  
+![As-Is 2](../assets/asis2.png)
 
 ---
 
@@ -1439,8 +1445,8 @@ Este escenario muestra:
 
 ---
 
-![To-Be 1](assets/tobe1.png)  
-![To-Be 2](assets/tobe2.png)
+![To-Be 1](../assets/tobe1.png)  
+![To-Be 2](../assets/tobe2.png)
 
 ---
 
@@ -2385,13 +2391,13 @@ A través de estos mapas, identificamos:
 
 ### Segmento 1 – Gestor de Proyectos
 
-![Impact Mapping 1](assets/impactmapping1.png)
+![Impact Mapping 1](../assets/impactmapping1.png)
 
 ---
 
 ### Segmento 2 – Ayudante de Eventos
 
-![Impact Mapping 2](assets/impactmapping2.png)
+![Impact Mapping 2](../assets/impactmapping2.png)
 
 ---
 
@@ -2420,7 +2426,7 @@ El color primario refleja **confianza, serenidad y estabilidad**. Simboliza fiab
 
 - **Código HEX:** #008A66
 
-![Primary Color](assets/primarycolor.png)
+![Primary Color](../assets/primarycolor.png)
 
 ---
 
@@ -2430,7 +2436,7 @@ Nuestro color secundario transmite **calma, frescura y bienestar**. Representa l
 
 - **Código HEX:** #66EAC5
 
-![Secondary Color](assets/secondarycolor.png)
+![Secondary Color](../assets/secondarycolor.png)
 
 ---
 
@@ -2443,7 +2449,7 @@ Estos colores complementarios enriquecen la identidad visual, manteniendo cohere
 - #20C198
 - #008A65
 
-![Color Palette](assets/colorpalette.png)
+![Color Palette](../assets/colorpalette.png)
 
 ---
 
@@ -2457,8 +2463,8 @@ Nuestra selección tipográfica fue pensada para combinar modernidad, elegancia 
 | **Lora**       | Tipografía serif elegante y tradicional, que aporta un toque de prestigio. Su combinación con Poppins equilibra lo contemporáneo con la confianza y seriedad del sector benéfico. |
 
 <br>
-<center><img src="assets/StyleGuidelines-images/PoppinsFont.jpg" alt="Poppins Font" style="width:70%"></center>
-<center><img src="assets/StyleGuidelines-images/LoraFont.jpg" alt="Lora Font" style="width:70%"><br><br></center>
+<center><img src="../assets/StyleGuidelines-images/PoppinsFont.jpg" alt="Poppins Font" style="width:70%"></center>
+<center><img src="../assets/StyleGuidelines-images/LoraFont.jpg" alt="Lora Font" style="width:70%"><br><br></center>
 
 ---
 
@@ -2474,7 +2480,7 @@ Nuestra identidad visual transmite:
 El logo actúa como un emblema de nuestro compromiso con la ayuda directa, fomentando un entorno de colaboración y empatía.
 
 <br>
-<center><img src="assets/StyleGuidelines-images/LogoAidManager.jpg" alt="Logo AidManager" style="width:70%"><br><br></center>
+<center><img src="../assets/StyleGuidelines-images/LogoAidManager.jpg" alt="Logo AidManager" style="width:70%"><br><br></center>
 
 ### 4.1.2.	Web Style Guidelines
 Descripción de los elementos que se utilizaran en el web app
@@ -2482,32 +2488,32 @@ Descripción de los elementos que se utilizaran en el web app
 **Background:** (primary, secondary, terniary)
 
 Para el background se hace uso del color FFFFF para resaltar la pagina y para separar secciones D9ED8F
-![Background Preview web](assets/StyleGuidelines-images/Search.png)
+![Background Preview web](../assets/StyleGuidelines-images/Search.png)
 
 
 **Text Styles:** (H1, H2, p, a,)
 
 Para el texto se escogieron colores que combinan con la temática de la pagina y que facilitan la lectura del usuario
-<center><img src="assets/StyleGuidelines-images/aam-6.png" alt="app web mock-up6" style="width:80%;"></center>
+<center><img src="../assets/StyleGuidelines-images/aam-6.png" alt="app web mock-up6" style="width:80%;"></center>
 
 **Button Styles:** (Button, dropdowns, Switches)
 
 Para los botones el color cambia según el color del fondo
-<center><img src="assets/StyleGuidelines-images/aww-13.png" alt="app web wireframe13" style="width:80%;"></center>
+<center><img src="../assets/StyleGuidelines-images/aww-13.png" alt="app web wireframe13" style="width:80%;"></center>
 
 **Icons:** (Fondo blanco con los iconos que vamos a usar)
 Tendremos iconografía de búsqueda, lápiz, ropa, reciclaje, icono de gráfico, foco, etc
 
-<center><img src="assets/StyleGuidelines-images/aam-6.png" alt="app web mock-up6" style="width:80%;"></center>
+<center><img src="../assets/StyleGuidelines-images/aam-6.png" alt="app web mock-up6" style="width:80%;"></center>
 
 **Misc** 
 Se determina el color y posición según la sección
-<center><img src="assets/StyleGuidelines-images/aww-10.png" alt="app web wireframe10" style="width:80%;"></center>
+<center><img src="../assets/StyleGuidelines-images/aww-10.png" alt="app web wireframe10" style="width:80%;"></center>
 
 
 Se muestra un style guidelines general que engloba la mayoría de diseño:
 
-<center><img src="assets/StyleGuidelines-images/StyleGuidelines.png" alt="Guidelines" style="width:80%;"></center>
+<center><img src="../assets/StyleGuidelines-images/StyleGuidelines.png" alt="Guidelines" style="width:80%;"></center>
 
 
 
@@ -2519,12 +2525,12 @@ En el caso de iOS nos enfocamos en mantener una persistencia de diseño para que
 #### 4.1.3.1.	iOS Mobile Style Guidelines
 
 
-<img src="assets/mobile-mock-up/image_65.png" alt="LoginExample" width="200px">
+<img src="../assets/mobile-mock-up/image_65.png" alt="LoginExample" width="200px">
 
 
 #### 4.1.3.2.	Android Mobile Style Guidelines
 
-<img src="assets/mobile-mock-up/image_104.png" alt="Analytics" width="200px">
+<img src="../assets/mobile-mock-up/image_104.png" alt="Analytics" width="200px">
 
 
 ## 4.2. Information Architecture
@@ -2591,124 +2597,124 @@ La navegación de la Mobile App se estará basando en un Sistema de navegación 
 ## 4.3.	Landing Page UI Design
 Esta sección está orientada a mostrar el diseño de nuestra landing page la cual es necesaria para presentarnos y promover nuestro producto a los usuarios.
 ### 4.3.1.	Landing Page Wireframe
-![image_130](assets/landing-wireframe/image_130.png)
-![image_37](assets/landing-wireframe/image_37.png)
-![image_68](assets/landing-wireframe/image_68.png)
-![image_91](assets/landing-wireframe/image_91.png)
-![image_8](assets/landing-wireframe/image_8.png)
-![image_21](assets/landing-wireframe/image_21.png)
-![image_38](assets/landing-wireframe/image_38.png)
+![image_130](../assets/landing-wireframe/image_130.png)
+![image_37](../assets/landing-wireframe/image_37.png)
+![image_68](../assets/landing-wireframe/image_68.png)
+![image_91](../assets/landing-wireframe/image_91.png)
+![image_8](../assets/landing-wireframe/image_8.png)
+![image_21](../assets/landing-wireframe/image_21.png)
+![image_38](../assets/landing-wireframe/image_38.png)
 
 ### 4.3.2.	Landing Page Mock-up
-![image_63](assets/landing-mock-up/image_63.png)
-![image_88](assets/landing-mock-up/image_88.png)
-![image_107](assets/landing-mock-up/image_107.png)
-![image_123](assets/landing-mock-up/image_123.png)
-![image_27](assets/landing-mock-up/image_27.png)
-![image_57](assets/landing-mock-up/image_57.png)
-![image_80](assets/landing-mock-up/image_80.png)
+![image_63](../assets/landing-mock-up/image_63.png)
+![image_88](../assets/landing-mock-up/image_88.png)
+![image_107](../assets/landing-mock-up/image_107.png)
+![image_123](../assets/landing-mock-up/image_123.png)
+![image_27](../assets/landing-mock-up/image_27.png)
+![image_57](../assets/landing-mock-up/image_57.png)
+![image_80](../assets/landing-mock-up/image_80.png)
 
 ## 4.4.	Mobile Applications UX/UI Design
 Aquí nos enfocamos en mostrar el diseño de nuestra solución móvil.
 #### 4.4.1.	Mobile Application Wireframe
-![image_1](assets/mobile-wireframe/image_1.png)
-![image_14](assets/mobile-wireframe/image_14.png)
-![image_28](assets/mobile-wireframe/image_28.png)
-![image_51](assets/mobile-wireframe/image_51.png)
-![image_76](assets/mobile-wireframe/image_76.png)
-![image_101](assets/mobile-wireframe/image_101.png)
-![image_116](assets/mobile-wireframe/image_116.png)
-![image_126](assets/mobile-wireframe/image_126.png)
-![image_46](assets/mobile-wireframe/image_46.png)
-![image_69](assets/mobile-wireframe/image_69.png)
-![image_92](assets/mobile-wireframe/image_92.png)
-![image_9](assets/mobile-wireframe/image_9.png)
-![image_22](assets/mobile-wireframe/image_22.png)
-![image_39](assets/mobile-wireframe/image_39.png)
-![image_64](assets/mobile-wireframe/image_64.png)
-![image_93](assets/mobile-wireframe/image_93.png)
-![image_108](assets/mobile-wireframe/image_108.png)
-![image_119](assets/mobile-wireframe/image_119.png)
-![image_29](assets/mobile-wireframe/image_29.png)
+![image_1](../assets/mobile-wireframe/image_1.png)
+![image_14](../assets/mobile-wireframe/image_14.png)
+![image_28](../assets/mobile-wireframe/image_28.png)
+![image_51](../assets/mobile-wireframe/image_51.png)
+![image_76](../assets/mobile-wireframe/image_76.png)
+![image_101](../assets/mobile-wireframe/image_101.png)
+![image_116](../assets/mobile-wireframe/image_116.png)
+![image_126](../assets/mobile-wireframe/image_126.png)
+![image_46](../assets/mobile-wireframe/image_46.png)
+![image_69](../assets/mobile-wireframe/image_69.png)
+![image_92](../assets/mobile-wireframe/image_92.png)
+![image_9](../assets/mobile-wireframe/image_9.png)
+![image_22](../assets/mobile-wireframe/image_22.png)
+![image_39](../assets/mobile-wireframe/image_39.png)
+![image_64](../assets/mobile-wireframe/image_64.png)
+![image_93](../assets/mobile-wireframe/image_93.png)
+![image_108](../assets/mobile-wireframe/image_108.png)
+![image_119](../assets/mobile-wireframe/image_119.png)
+![image_29](../assets/mobile-wireframe/image_29.png)
 
 ### 4.4.2.	Mobile Application Wireflow Diagram
 
 Gestor de Proyectos necesita ver el listado de proyectos y las tareas asignadas a estos.<br>
 
-![image_133](assets/mobile-wireflow/image_133.png)
-![image_134](assets/mobile-wireflow/image_134.png)
+![image_133](../assets/mobile-wireflow/image_133.png)
+![image_134](../assets/mobile-wireflow/image_134.png)
 Como Gestor quiero recibir notificaciones sobre nuevos proyectos o actualizaciones de los existentes<br>
 
-![image_81](assets/mobile-wireflow/image_81.png)
+![image_81](../assets/mobile-wireflow/image_81.png)
 Gestor Crea un nuevo proyecto asignado a las tareas a los integrantes<br>
 
-![image_2](assets/mobile-wireflow/image_2.png)
+![image_2](../assets/mobile-wireflow/image_2.png)
 Como gestor de proyectos deseo revisar la información del trabajo realizado y exportar la información.<br>
 
-![image_16](assets/mobile-wireflow/image_16.png)
+![image_16](../assets/mobile-wireflow/image_16.png)
 
 Como gestor de proyecto deseo agregar un post para mi equipo pueda ver y reaccionar<br>
 
-![image_30](assets/mobile-wireflow/image_30.png)
+![image_30](../assets/mobile-wireflow/image_30.png)
 Como miembro de equipo deseo ver las tareas asignadas y las métricas del grupo.<br>
 
-![image_52](assets/mobile-wireflow/image_52.png)
+![image_52](../assets/mobile-wireflow/image_52.png)
 
-![image_58](assets/mobile-wireflow/image_58.png)
+![image_58](../assets/mobile-wireflow/image_58.png)
 
 ### 4.4.3.	Mobile Application Mock-ups
 
-![image_3](assets/mobile-mock-up/image_3.png)
-![image_10](assets/mobile-mock-up/image_10.png)
-![image_10](assets/mobile-mock-up/image_11.png)
-![image_15](assets/mobile-mock-up/image_15.png)
-![image_17](assets/mobile-mock-up/image_17.png)
-![image_10](assets/mobile-mock-up/image_23.png)
-![image_24](assets/mobile-mock-up/image_24.png)
-![image_32](assets/mobile-mock-up/image_32.png)
-![image_10](assets/mobile-mock-up/image_40.png)
-![image_43](assets/mobile-mock-up/image_43.png)
-![image_47](assets/mobile-mock-up/image_47.png)
-![image_55](assets/mobile-mock-up/image_55.png)
-![image_52](assets/mobile-mock-up/image_59.png)
-![image_52](assets/mobile-mock-up/image_65.png)
-![image_52](assets/mobile-mock-up/image_67.png)
-![image_10](assets/mobile-mock-up/image_70.png)
-![image_10](assets/mobile-mock-up/image_71.png)
-![image_52](assets/mobile-mock-up/image_72.png)
-![image_52](assets/mobile-mock-up/image_77.png)
-![image_52](assets/mobile-mock-up/image_78.png)
-![image_52](assets/mobile-mock-up/image_82.png)
-![image_52](assets/mobile-mock-up/image_85.png)
-![image_10](assets/mobile-mock-up/image_94.png)
-![image_10](assets/mobile-mock-up/image_95.png)
-![image_52](assets/mobile-mock-up/image_96.png)
-![image_52](assets/mobile-mock-up/image_97.png)
-![image_52](assets/mobile-mock-up/image_98.png)
-![image_52](assets/mobile-mock-up/image_102.png)
-![image_52](assets/mobile-mock-up/image_104.png)
-![image_52](assets/mobile-mock-up/image_111.png)
-![image_52](assets/mobile-mock-up/image_112.png)
-![image_52](assets/mobile-mock-up/image_120.png)
-![image_52](assets/mobile-mock-up/image_127.png)
+![image_3](../assets/mobile-mock-up/image_3.png)
+![image_10](../assets/mobile-mock-up/image_10.png)
+![image_10](../assets/mobile-mock-up/image_11.png)
+![image_15](../assets/mobile-mock-up/image_15.png)
+![image_17](../assets/mobile-mock-up/image_17.png)
+![image_10](../assets/mobile-mock-up/image_23.png)
+![image_24](../assets/mobile-mock-up/image_24.png)
+![image_32](../assets/mobile-mock-up/image_32.png)
+![image_10](../assets/mobile-mock-up/image_40.png)
+![image_43](../assets/mobile-mock-up/image_43.png)
+![image_47](../assets/mobile-mock-up/image_47.png)
+![image_55](../assets/mobile-mock-up/image_55.png)
+![image_52](../assets/mobile-mock-up/image_59.png)
+![image_52](../assets/mobile-mock-up/image_65.png)
+![image_52](../assets/mobile-mock-up/image_67.png)
+![image_10](../assets/mobile-mock-up/image_70.png)
+![image_10](../assets/mobile-mock-up/image_71.png)
+![image_52](../assets/mobile-mock-up/image_72.png)
+![image_52](../assets/mobile-mock-up/image_77.png)
+![image_52](../assets/mobile-mock-up/image_78.png)
+![image_52](../assets/mobile-mock-up/image_82.png)
+![image_52](../assets/mobile-mock-up/image_85.png)
+![image_10](../assets/mobile-mock-up/image_94.png)
+![image_10](../assets/mobile-mock-up/image_95.png)
+![image_52](../assets/mobile-mock-up/image_96.png)
+![image_52](../assets/mobile-mock-up/image_97.png)
+![image_52](../assets/mobile-mock-up/image_98.png)
+![image_52](../assets/mobile-mock-up/image_102.png)
+![image_52](../assets/mobile-mock-up/image_104.png)
+![image_52](../assets/mobile-mock-up/image_111.png)
+![image_52](../assets/mobile-mock-up/image_112.png)
+![image_52](../assets/mobile-mock-up/image_120.png)
+![image_52](../assets/mobile-mock-up/image_127.png)
 
 
 ### 4.4.4.	Mobile Application Userflow Diagram
 
-![image_52](assets/mobile-userflow/image_41.png)
-![image_52](assets/mobile-userflow/image_66.png)
-![image_52](assets/mobile-userflow/image_109.png)
-![image_52](assets/mobile-userflow/image_124.png)
+![image_52](/../assets/mobile-userflow/image_41.png)
+![image_52](../assets/mobile-userflow/image_66.png)
+![image_52](../assets/mobile-userflow/image_109.png)
+![image_52](../assets/mobile-userflow/image_124.png)
 
 ## 4.5. Mobile Application Prototyping
 
 ### 4.5.1. Android Mobile Applications Prototyping
 
-![Mobile Prototyping](assets/prototyping.png)
+![Mobile Prototyping](../assets/prototyping.png)
 
 ### 4.5.2. iOS Mobile Applications Prototyping
 
-![Mobile Prototyping](assets/prototyping.png)
+![Mobile Prototyping](../assets/prototyping.png)
 
 ## 4.6 Web Applications UX/UI Design
 
@@ -2718,33 +2724,33 @@ Como miembro de equipo deseo ver las tareas asignadas y las métricas del grupo.
 [URL del Wireframe hecho en Figma](https://www.figma.com/file/u8S0RHE4Kbl69EwQSVf7jb/AidManager-app-web-Wireframe?type=design&node-id=0%3A1&mode=design&t=FQRKS9G6nW0lMIRj-1)
 
 **Segmento 1: Manager de ONG**
-<center><img src="../main/assets/app-web-wireframe/aww-1.png" alt="app web wireframe1" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-2.png" alt="app web wireframe2" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-3.png" alt="app web wireframe3" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-4.png" alt="app web wireframe4" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-5.png" alt="app web wireframe5" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-6.png" alt="app web wireframe6" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-7.png" alt="app web wireframe7" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-8.png" alt="app web wireframe8" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-9.png" alt="app web wireframe9" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-10.png" alt="app web wireframe10" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-11.png" alt="app web wireframe11" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-12.png" alt="app web wireframe12" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-13.png" alt="app web wireframe13" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-1.png" alt="app web wireframe1" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-2.png" alt="app web wireframe2" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-3.png" alt="app web wireframe3" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-4.png" alt="app web wireframe4" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-5.png" alt="app web wireframe5" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-6.png" alt="app web wireframe6" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-7.png" alt="app web wireframe7" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-8.png" alt="app web wireframe8" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-9.png" alt="app web wireframe9" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-10.png" alt="app web wireframe10" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-11.png" alt="app web wireframe11" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-12.png" alt="app web wireframe12" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-13.png" alt="app web wireframe13" style="width:80%;"></center>
 
 
 **Segmento 2: Equipo de ONG**
-<center><img src="../main/assets/app-web-wireframe/aww-14.png" alt="app web wireframe14" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-15.png" alt="app web wireframe15" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-16.png" alt="app web wireframe16" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-17.png" alt="app web wireframe17" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-18.png" alt="app web wireframe18" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-19.png" alt="app web wireframe19" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-20.png" alt="app web wireframe20" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-21.png" alt="app web wireframe21" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-22.png" alt="app web wireframe22" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-23.png" alt="app web wireframe23" style="width:80%;"></center>
-<center><img src="../main/assets/app-web-wireframe/aww-24.png" alt="app web wireframe24" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-14.png" alt="app web wireframe14" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-15.png" alt="app web wireframe15" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-16.png" alt="app web wireframe16" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-17.png" alt="app web wireframe17" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-18.png" alt="app web wireframe18" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-19.png" alt="app web wireframe19" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-20.png" alt="app web wireframe20" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-21.png" alt="app web wireframe21" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-22.png" alt="app web wireframe22" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-23.png" alt="app web wireframe23" style="width:80%;"></center>
+<center><img src="../assets/app-web-wireframe/aww-24.png" alt="app web wireframe24" style="width:80%;"></center>
 
 ### 4.6.2. Web Applications Wireflow Diagrams.
 
@@ -2758,42 +2764,42 @@ Como miembro de equipo deseo ver las tareas asignadas y las métricas del grupo.
 [URL del Mock-up de la Aplicación hecho en Figma](https://www.figma.com/file/n5BSEAK3X9lFN2M1eqnmQX/AidManager-Prototype?type=design&node-id=0%3A1&mode=design&t=dhyNolXNOfDSlBEG-1)
 
 **Segmento 1: Manager de ONG**
-<center><img src="../main/assets/aidmanager-app-mockup/aam-1.png" alt="app web mock-up1" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-1.png" alt="app web mock-up1" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-2.png" alt="app web mock-up2" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-3.png" alt="app web mock-up3" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-4.png" alt="app web mock-up4" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-5.png" alt="app web mock-up5" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-6.png" alt="app web mock-up6" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-7.png" alt="app web mock-up7" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-8.png" alt="app web mock-up8" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-9.png" alt="app web mock-up9" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-10.png" alt="app web mock-up10" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-11.png" alt="app web mock-up11" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-12.png" alt="app web mock-up12" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-13.png" alt="app web mock-up13" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-1.png" alt="app web mock-up1" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-1.png" alt="app web mock-up1" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-2.png" alt="app web mock-up2" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-3.png" alt="app web mock-up3" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-4.png" alt="app web mock-up4" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-5.png" alt="app web mock-up5" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-6.png" alt="app web mock-up6" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-7.png" alt="app web mock-up7" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-8.png" alt="app web mock-up8" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-9.png" alt="app web mock-up9" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-10.png" alt="app web mock-up10" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-11.png" alt="app web mock-up11" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-12.png" alt="app web mock-up12" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-13.png" alt="app web mock-up13" style="width:80%;"></center>
 
 
 **Segmento 2: Equipo de ONG**
-<center><img src="../main/assets/aidmanager-app-mockup/aam-14.png" alt="app web mock-up14" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-15.png" alt="app web mock-up15" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-16.png" alt="app web mock-up16" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-17.png" alt="app web mock-up17" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-18.png" alt="app web mock-up18" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-19.png" alt="app web mock-up19" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-20.png" alt="app web mock-up20" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-21.png" alt="app web mock-up21" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-22.png" alt="app web mock-up22" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-23.png" alt="app web mock-up23" style="width:80%;"></center>
-<center><img src="../main/assets/aidmanager-app-mockup/aam-24.png" alt="app web mock-up24" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-14.png" alt="app web mock-up14" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-15.png" alt="app web mock-up15" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-16.png" alt="app web mock-up16" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-17.png" alt="app web mock-up17" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-18.png" alt="app web mock-up18" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-19.png" alt="app web mock-up19" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-20.png" alt="app web mock-up20" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-21.png" alt="app web mock-up21" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-22.png" alt="app web mock-up22" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-23.png" alt="app web mock-up23" style="width:80%;"></center>
+<center><img src="../assets/aidmanager-app-mockup/aam-24.png" alt="app web mock-up24" style="width:80%;"></center>
 
 ### 4.6.4. Web Applications UserFlow Diagrams.
 
-![Web Aplication UserFlow](../main/assets/user-flow/Userflow1.png)
-![Web Aplication UserFlow](../main/assets/user-flow/Userflo2.png)
-![Web Aplication UserFlow](../main/assets/user-flow/Userflo3.png)
-![Web Aplication UserFlow](../main/assets/user-flow/userflo4.png)
-![Web Aplication UserFlow](../main/assets/user-flow/userflo5.png)
+![Web Aplication UserFlow](../assets/user-flow/Userflow1.png)
+![Web Aplication UserFlow](../assets/user-flow/Userflo2.png)
+![Web Aplication UserFlow](../assets/user-flow/Userflo3.png)
+![Web Aplication UserFlow](../assets/user-flow/userflo4.png)
+![Web Aplication UserFlow](../assets/user-flow/userflo5.png)
 
 ## 4.7. Mobile Application Prototyping
 
@@ -2816,7 +2822,7 @@ Para el desarrollo de los prototipos de la **interfaz móvil** de AidManager, se
 
 ### **Vista del Prototipo:**
 
-![Mobile Prototyping](assets/App-Web-Prototyping.png)
+![Mobile Prototyping](../assets/App-Web-Prototyping.png)
 
 ---
 
@@ -2836,7 +2842,7 @@ Para el desarrollo de los prototipos de la **interfaz móvil** de AidManager, se
 
 El **Context Level Diagram** proporciona una visión general de alto nivel del sistema AidManager. Define cómo interactúa con usuarios externos (actores) y otros sistemas, estableciendo sus límites y relaciones clave.
 
-![C4_context](assets/c4_context.png)
+![C4_context](../assets/c4_context.png)
 
 ---
 
@@ -2844,7 +2850,7 @@ El **Context Level Diagram** proporciona una visión general de alto nivel del s
 
 El **Container Level Diagram** descompone el sistema en contenedores, tales como aplicaciones, bases de datos y servicios, mostrando cómo cada uno colabora para cumplir con los objetivos del sistema. Este nivel detalla las tecnologías utilizadas y sus responsabilidades principales.
 
-![C4_container](assets/c4_container.png)
+![C4_container](../assets/c4_container.png)
 
 ---
 
@@ -2854,11 +2860,11 @@ El **Component Level Diagram** explora la estructura interna de cada contenedor,
 
 ---
 
-![C4_Components](assets/c4_components1.png)  
-![C4_Components2](assets/c4_components2.png)  
-![C4_Components3](assets/c4_components3.png)  
-![C4_Components4](assets/c4_components4.png)  
-![C4_Components5](assets/c4_components5.png.png)
+![C4_Components](../assets/c4_components1.png)  
+![C4_Components2](../assets/c4_components2.png)  
+![C4_Components3](../assets/c4_components3.png)  
+![C4_Components4](../assets/c4_components4.png)  
+![C4_Components5](../assets/c4_components5.png.png)
 
 
 ## 4.9. Software Object-Oriented Design
@@ -2867,7 +2873,7 @@ El **Component Level Diagram** explora la estructura interna de cada contenedor,
 
 A continuación, se presenta el **Diagrama de Clases** del sistema AidManager, donde se visualizan las entidades clave, sus atributos, métodos y relaciones entre clases.
 
-![Class Diagrams](assets/classdiagrams.png)
+![Class Diagrams](../assets/classdiagrams.png)
 
 ---
 
@@ -2893,7 +2899,7 @@ Estas clases forman la base de la lógica de negocio de AidManager, facilitando 
 
 A continuación se presenta el **Diagrama de Base de Datos** que respalda el funcionamiento de AidManager. Este diagrama muestra las entidades principales, sus relaciones y cómo se estructura la información clave para la gestión de proyectos, usuarios y tareas dentro del sistema.
 
-![Database Diagram](assets/database.png)
+![Database Diagram](../assets/database.png)
 
 Este diseño permite:
 - Una gestión eficiente de **usuarios**, diferenciando gestores y asistentes.
@@ -3098,12 +3104,12 @@ La configuración del despliegue de AidManager se basa en herramientas modernas 
 Se presenta la implementación de la landing page
 Los botones call to action funcionales y redirigiendo a los enlaces requeridos en el contexto de nuestra aplicación.
 
-<center><img src="assets/Implementations/Landing_implementation.jpg" alt="WebApp deployed" style="width:80%;"></center>
+<center><img src="../assets/Implementations/Landing_implementation.jpg" alt="WebApp deployed" style="width:80%;"></center>
 
 ### 5.2.3. Implemented Frontend-Web Application Evidence
 Se presenta la implementación de la aplicación Front End, en esta entrega se dejaron las funcionalidades de manera optima mas la conexión de base de datos requiere cambios.
 
-<center><img src="assets/Implementations/WEBAplications.jpg" alt="WebApp deployed" style="width:80%;"></center>
+<center><img src="../assets/Implementations/WEBAplications.jpg" alt="WebApp deployed" style="width:80%;"></center>
 
 ### 5.2.4. Acuerdo de Servicio - SaaS
 
@@ -3208,10 +3214,10 @@ Se presenta la implementación de la aplicación móvil, en esta entrega se pued
 Se presenta la implementación de la aplicación back end, se toma en cuenta también la base de datos en un servicio cloud.
 
 Primero que nada evidencias del funcionamiento en swagger
-<center><img src="assets/Implementations/Swagger.png" alt="swagger deployed" style="width:80%;"></center>
+<center><img src="../assets/Implementations/Swagger.png" alt="swagger deployed" style="width:80%;"></center>
 
 Seguimos con evidencias del deployment en railway
-<center><img src="assets/Implementations/Railway.png" alt="railway deployment" style="width:80%;"></center>
+<center><img src="../assets/Implementations/Railway.png" alt="railway deployment" style="width:80%;"></center>
 
 ### 5.2.7. RESTful API documentation
 
@@ -3551,15 +3557,15 @@ Obtains all deleted users
 
 Se presentan los commits de los Integrantes del equipo
 
-<img src="../main/assets/Insights/commits.png " alt="imagen de las colaboraciones">  
+<img src="../assets/Insights/commits.png " alt="imagen de las colaboraciones">  
 
 [Contribuciones del repositorio]
 
-<img src="../main/assets/Insights/Screenshot 2025-04-25 230238.png" alt="imagen de las colaboraciones">  
+<img src="../assets/Insights/Screenshot 2025-04-25 230238.png" alt="imagen de las colaboraciones">  
 
 [Colaboradores del repositorio]
 
-<img src="../main/assets/Insights/ins.png " alt="imagen de los commits">  
+<img src="/assets/Insights/ins.png " alt="imagen de los commits">  
 [Registro de los commits donde se realizaron la mayor cantidad]
 
 ## 5.3. Video About-the-Product
@@ -3576,7 +3582,7 @@ Las pruebas unitarias son importantes para el proyecto debido a que aseguran que
 
 Este test verifica que el método UpdateRating funcione correctamente cuando se le pasa una calificación válida. Asegura que la calificación se actualice a 4.5.
 
-<img src="../main/assets/Unit-Tests/UnitTest-UpdateRating.png" alt="imagen de unit test UpdateRating">  
+<img src="../assets/Unit-Tests/UnitTest-UpdateRating.png" alt="imagen de unit test UpdateRating">  
 [Unit Test UpdateRating_WithValidRating_ShouldUpdateRating]
 
 <br>
@@ -3589,7 +3595,7 @@ Este test verifica que el método UpdateRating funcione correctamente cuando se 
 
 Este test valida que la creación de un nuevo proyecto mediante el comando CreateProjectCommand configure correctamente todas las propiedades del proyecto, como el nombre, la descripción, la fecha y la ubicación.
 
-<img src="../main/assets/Unit-Tests/UnitTest-CreateProject.png" alt="imagen de unit test CreateProject">  
+<img src="../assets/Unit-Tests/UnitTest-CreateProject.png" alt="imagen de unit test CreateProject">  
 [Unit Test CreateProject_WithValidCommand_ShouldSetAllProperties]
 
 <br>
@@ -3602,7 +3608,7 @@ Este test valida que la creación de un nuevo proyecto mediante el comando Creat
 
 Este test valida que, al agregar imágenes a un proyecto, el sistema incremente correctamente el número de imágenes asociadas al proyecto.
 
-<img src="../main/assets/Unit-Tests/UnitTest-AddImage.png" alt="imagen de unit test AddImage">  
+<img src="../assets/Unit-Tests/UnitTest-AddImage.png" alt="imagen de unit test AddImage">  
 [Unit Test AddImage_ShouldIncreaseImageCount]
 
 <br>
@@ -3615,7 +3621,7 @@ Este test valida que, al agregar imágenes a un proyecto, el sistema incremente 
 
 Este test valida que cuando se llama al método UpdateProject con un comando de actualización, todas las propiedades del proyecto se actualicen correctamente.
 
-<img src="../main/assets/Unit-Tests/UnitTest-UpdateProject.png" alt="imagen de unit test UpdateProject">  
+<img src="../assets/Unit-Tests/UnitTest-UpdateProject.png" alt="imagen de unit test UpdateProject">  
 [Unit Test UpdateProject_ShouldModifyAllProperties]
 
 <br>
@@ -3626,7 +3632,7 @@ Este test valida que cuando se llama al método UpdateProject con un comando de 
 
 Todas las pruebas unitarias realizadas fueron ejecutadas con éxito, lo que asegura que las funciones clave, como la creación, actualización y manejo de imágenes en proyectos, funcionan de manera correcta. La ejecución de estas pruebas refuerza la confianza en que el sistema maneja correctamente los proyectos y sus propiedades, garantizando un software robusto y confiable.
 
-<img src="../main/assets/Unit-Tests/UnitTest-Success.png" alt="imagen de unit test success">  
+<img src="../assets/Unit-Tests/UnitTest-Success.png" alt="imagen de unit test success">  
 [Unit Test Success]
 
 ### 6.1.2. Core Integration Tests.
@@ -3641,12 +3647,12 @@ A continuación, se detallan algunas de las pruebas de integración clave que he
 
 Este test valida que el servicio de gestión de tareas sea capaz de recuperar correctamente los proyectos asociados a un ID de empresa específico. Se verifica que el sistema sea capaz de devolver una lista de proyectos que coincidan con el CompanyId proporcionado.
 
-<img src="../main/assets/Integration-Tests/IntegrationTest-GetProjectsByCompany.png" alt="imagen de Integration TestGetProjectsByCompany">  
+<img src="../assets/Integration-Tests/IntegrationTest-GetProjectsByCompany.png" alt="imagen de Integration TestGetProjectsByCompany">  
 [Integration Test GetProjectsByCompany_ShouldReturnProjectsForCompanyId]
 <br>
 <br>
 
-<img src="../main/assets/Integration-Tests/IntegrationTest-GetProjectsByCompany-2.png" alt="imagen de Integration TestGetProjectsByCompany parte 2">  
+<img src="../assets/Integration-Tests/IntegrationTest-GetProjectsByCompany-2.png" alt="imagen de Integration TestGetProjectsByCompany parte 2">  
 [Integration Test GetProjectsByCompany_ShouldReturnProjectsForCompanyId 2]
 
 <br>
@@ -3658,12 +3664,13 @@ Este test valida que el servicio de gestión de tareas sea capaz de recuperar co
 
 Este test verifica que las tareas asociadas a un proyecto se actualicen correctamente en un sistema que involucra múltiples "bounded contexts". El test asegura que los cambios en el estado de una tarea se reflejan adecuadamente, incluso cuando están distribuidos entre diferentes contextos.
 
-<img src="../main/assets/Integration-Tests/IntegrationTest-UpdateProjectWithTasks.png" alt="imagen de Integration UpdateProjectWithTasks">  
+<img src="../assets/Integration-Tests/IntegrationTest-UpdateProjectWithTasks.png" alt="imagen de Integration UpdateProjectWithTasks">  
 [Integration Test UpdateProjectWithTasks_ShouldTrackTasksAcrossBoundedContexts]
 <br>
 <br>
 
-<img src="../main/assets/Integration-Tests/IntegrationTest-UpdateProjectWithTasks-2.png" alt="imagen de Integration UpdateProjectWithTasks parte 2">  
+<img src="../assets/Integration-Tests/IntegrationTest-UpdateProjectWithTasks-2.png" alt="imagen de Integration UpdateProjectWithTasks parte 2">  
+
 [Integration Test UpdateProjectWithTasks_ShouldTrackTasksAcrossBoundedContexts 2]
 
 <br>
@@ -3848,6 +3855,8 @@ En esta sección, se detallan las herramientas y prácticas utilizadas durante e
 
 # Conclusiones
 En conclusión, para la TB1 se realizó el desarrollo de la solución y la implementación de esta misma. En futuras entregas estaremos observando mas de cerca el código a nivel de pruebas.
+
+En conclusión, para la TP1 se realizó el el testing necesario para nustras soluciones implementamos herramienas nuevas y distinos procesos para lograr nuestros objetivos.
 
 
 # Bibliografia
