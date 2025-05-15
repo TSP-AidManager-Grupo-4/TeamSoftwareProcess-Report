@@ -3679,7 +3679,20 @@ Este test verifica que las tareas asociadas a un proyecto se actualicen correcta
 * Importancia: Esta prueba valida la integridad y consistencia de las interacciones entre los diferentes servicios del sistema, como la gestión de proyectos y la gestión de tareas. Es esencial para sistemas donde múltiples módulos o servicios deben trabajar juntos de manera sincronizada.
 
 ### 6.1.3. Core Behavior-Driven Development
+En esta sección se colocará el desarrollo del Behavior-Driven Development Tests (BDD). Esto se desarrolló gracias el lenguaje Gherkin con el que mediremos el comportamiento de nuestro software.
+De igual manera, se han subido las historias del usuario al repositorio de testing de la organización:
+https://github.com/disenio-de-experimentos-4446/acceptance-tests
 
+![add-Repo](../assets/acceptense-test/featurefirst.png)
+
+Se presentan algunas historias de usuario core:  
+![add-Acceptense-test](../assets/acceptense-test/feature1.png)
+![add-Acceptense-test](../assets/acceptense-test/feature2.png)
+![add-Acceptense-test](../assets/acceptense-test/feature3.png)
+![add-Acceptense-test](../assets/acceptense-test/feature4.png)
+![add-Acceptense-test](../assets/acceptense-test/feature5.png)
+![add-Acceptense-test](../assets/acceptense-test/feature6.png)
+![add-Acceptense-test](../assets/acceptense-test/feature7.png)
 
 
 ### 6.1.4. Core System Tests
