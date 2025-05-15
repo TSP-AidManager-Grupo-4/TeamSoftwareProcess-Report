@@ -3734,7 +3734,51 @@ En esta sección, se detallan las herramientas y prácticas utilizadas durante e
 <img src="../assets/github-actions-logo.png" alt="imagen de Integration UpdateProjectWithTasks">  
 
 ### 7.1.2. Build & Test Suite Pipeline Components.
+
+Se implementó un pipeline de compilación y ejecución de pruebas automatizadas utilizando **GitHub Actions**, con el objetivo de validar la calidad y funcionamiento del backend desarrollado en .NET 8 antes de su despliegue.
+
+El pipeline se activa automáticamente al realizar `push` o `pull_request` en las ramas `main`, `testing` o `pipeline-test`. Este asegura que el código se descargue, compile correctamente, restaure sus dependencias y que la suite completa de pruebas unitarias y de integración se ejecute satisfactoriamente.
+
+## Estructura del Pipeline
+
+El pipeline está definido en el archivo `.github/workflows/build-test-suite.yml`, compuesto por los siguientes pasos:
+
+1. **Clonación del repositorio**  
+   Descarga el código fuente para trabajar con la versión más reciente.
+
+2. **Configuración del SDK de .NET 8**  
+   Se instala la versión 8 del SDK de .NET para asegurar la compatibilidad con el proyecto.
+
+3. **Restauración de dependencias**  
+   Se restauran los paquetes NuGet necesarios para compilar el proyecto.
+
+4. **Compilación de la solución**  
+   El proyecto se compila en modo Release para garantizar que el código está listo para producción.
+
+5. **Ejecución de la suite de pruebas**  
+   Se ejecutan todas las pruebas unitarias e integración definidas en la solución, asegurando la calidad del código.
+
+```yaml
+steps:
+  - uses: actions/checkout@v3
+  - uses: actions/setup-dotnet@v3
+    with:
+      dotnet-version: '8.0.x'
+  - run: dotnet restore AidManager-BackEnd.sln
+  - run: dotnet build AidManager-BackEnd.sln --configuration Release --no-restore
+  - run: dotnet test AidManager-BackEnd.sln --configuration Release --no-build --verbosity normal --logger "trx"
+```
+
+<img src="../assets/gh-actions-one.jpg" alt="imagen de Integration UpdateProjectWithTasks">  
+<br>
+<br>
+
+
+<img src="../assets/gh-actions-two.jpg" alt="imagen de Integration UpdateProjectWithTasks">  
+
+
 ## 7.2. Continuous Delivery
+
 ### 7.2.1. Tools and Practices.
 <!-- Benchmark en HTML embebido dentro de Markdown -->
 
