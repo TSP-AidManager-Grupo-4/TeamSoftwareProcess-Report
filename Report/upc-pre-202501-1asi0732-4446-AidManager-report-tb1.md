@@ -3987,6 +3987,46 @@ Resultado de la ejecucion: Visualizacion del archivo .yml
 
 ### 7.3.2. Production Deployment Pipeline Components.
 
+Este apartado describe la configuración y ejecución del pipeline de despliegue a producción del proyecto **AidManager-General-BackEnd** utilizando GitHub Actions y Railway.
+
+### Configuración del Workflow
+
+El workflow `deploy-to-production.yml` se activa automáticamente cuando se hace `push` a la rama `testing`, permitiendo automatizar las etapas de build, test y despliegue del proyecto.
+
+```yaml
+name: AidManager CI/CD Pipeline
+
+on:
+  push:
+    branches: [testing]  # Rama de despliegue
+
+jobs:
+  build-test-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0.x'
+
+      - run: dotnet restore AidManager-BackEnd.sln
+
+      - run: dotnet build AidManager-BackEnd.sln --configuration Release --no-restore
+
+      - run: dotnet test AidManager-BackEnd.sln --configuration Release --no-build
+
+      - run: npm install -g @railway/cli
+
+      - run: railway login --token ${{ secrets.RAILWAY_TOKEN }}
+
+      - run: railway up --production
+```
+
+### Éxito en ejecución del pipeline:
+![Pipeline Success](../assets/deploy1.png)
+
 # Conclusiones
 En conclusión, para la TB1 se realizó el desarrollo de la solución y la implementación de esta misma. En futuras entregas estaremos observando mas de cerca el código a nivel de pruebas.
 
