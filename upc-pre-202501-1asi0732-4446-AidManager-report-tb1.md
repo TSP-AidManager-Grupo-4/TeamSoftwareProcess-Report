@@ -3677,6 +3677,13 @@ Este test verifica que las tareas asociadas a un proyecto se actualicen correcta
 # Capítulo VII: DevOps Practices
 ## 7.1. Continuous Integration
 ### 7.1.1. Tools and Practices.
+En esta sección, se detallan las herramientas y prácticas utilizadas durante el desarrollo del proyecto. Estas herramientas jugaron un papel fundamental en la implementación exitosa del proyecto y en la garantía de su calidad y eficiencia.
+
+* GitHub Actions sirvió como plataforma central para la gestión del código fuente y el control de versiones. Facilitó el despliegue de producción desde la rama master hacia la aplicación web en Azure. 
+
+<br>
+<img src="./assets/github-actions-logo.png" alt="imagen de Integration UpdateProjectWithTasks">  
+
 ### 7.1.2. Build & Test Suite Pipeline Components.
 ## 7.2. Continuous Delivery
 ### 7.2.1. Tools and Practices.
