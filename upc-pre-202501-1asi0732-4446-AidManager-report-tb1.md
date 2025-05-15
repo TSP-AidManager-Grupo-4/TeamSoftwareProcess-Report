@@ -3551,15 +3551,15 @@ Obtains all deleted users
 
 Se presentan los commits de los Integrantes del equipo
 
-<img src="../Report/assets/Insights/commits.png " alt="imagen de las colaboraciones">  
+<img src="../main/assets/Insights/commits.png " alt="imagen de las colaboraciones">  
 
 [Contribuciones del repositorio]
 
-<img src="../Report/assets/Insights/Screenshot 2025-04-25 230238.png" alt="imagen de las colaboraciones">  
+<img src="../main/assets/Insights/Screenshot 2025-04-25 230238.png" alt="imagen de las colaboraciones">  
 
 [Colaboradores del repositorio]
 
-<img src="../Report/assets/Insights/ins.png " alt="imagen de los commits">  
+<img src="../main/assets/Insights/ins.png " alt="imagen de los commits">  
 [Registro de los commits donde se realizaron la mayor cantidad]
 
 ## 5.3. Video About-the-Product
@@ -3576,7 +3576,7 @@ Las pruebas unitarias son importantes para el proyecto debido a que aseguran que
 
 Este test verifica que el método UpdateRating funcione correctamente cuando se le pasa una calificación válida. Asegura que la calificación se actualice a 4.5.
 
-<img src="../Report/assets/Unit-Tests/UnitTest-UpdateRating.png" alt="imagen de unit test UpdateRating">  
+<img src="../main/assets/Unit-Tests/UnitTest-UpdateRating.png" alt="imagen de unit test UpdateRating">  
 [Unit Test UpdateRating_WithValidRating_ShouldUpdateRating]
 
 <br>
@@ -3589,7 +3589,7 @@ Este test verifica que el método UpdateRating funcione correctamente cuando se 
 
 Este test valida que la creación de un nuevo proyecto mediante el comando CreateProjectCommand configure correctamente todas las propiedades del proyecto, como el nombre, la descripción, la fecha y la ubicación.
 
-<img src="../Report/assets/Unit-Tests/UnitTest-CreateProject.png" alt="imagen de unit test CreateProject">  
+<img src="../main/assets/Unit-Tests/UnitTest-CreateProject.png" alt="imagen de unit test CreateProject">  
 [Unit Test CreateProject_WithValidCommand_ShouldSetAllProperties]
 
 <br>
@@ -3602,7 +3602,7 @@ Este test valida que la creación de un nuevo proyecto mediante el comando Creat
 
 Este test valida que, al agregar imágenes a un proyecto, el sistema incremente correctamente el número de imágenes asociadas al proyecto.
 
-<img src="../Report/assets/Unit-Tests/UnitTest-AddImage.png" alt="imagen de unit test AddImage">  
+<img src="../main/assets/Unit-Tests/UnitTest-AddImage.png" alt="imagen de unit test AddImage">  
 [Unit Test AddImage_ShouldIncreaseImageCount]
 
 <br>
@@ -3615,7 +3615,7 @@ Este test valida que, al agregar imágenes a un proyecto, el sistema incremente 
 
 Este test valida que cuando se llama al método UpdateProject con un comando de actualización, todas las propiedades del proyecto se actualicen correctamente.
 
-<img src="../Report/assets/Unit-Tests/UnitTest-UpdateProject.png" alt="imagen de unit test UpdateProject">  
+<img src="../main/assets/Unit-Tests/UnitTest-UpdateProject.png" alt="imagen de unit test UpdateProject">  
 [Unit Test UpdateProject_ShouldModifyAllProperties]
 
 <br>
@@ -3626,7 +3626,7 @@ Este test valida que cuando se llama al método UpdateProject con un comando de 
 
 Todas las pruebas unitarias realizadas fueron ejecutadas con éxito, lo que asegura que las funciones clave, como la creación, actualización y manejo de imágenes en proyectos, funcionan de manera correcta. La ejecución de estas pruebas refuerza la confianza en que el sistema maneja correctamente los proyectos y sus propiedades, garantizando un software robusto y confiable.
 
-<img src="../Report/assets/Unit-Tests/UnitTest-Success.png" alt="imagen de unit test success">  
+<img src="../main/assets/Unit-Tests/UnitTest-Success.png" alt="imagen de unit test success">  
 [Unit Test Success]
 
 ### 6.1.2. Core Integration Tests.
@@ -3641,12 +3641,12 @@ A continuación, se detallan algunas de las pruebas de integración clave que he
 
 Este test valida que el servicio de gestión de tareas sea capaz de recuperar correctamente los proyectos asociados a un ID de empresa específico. Se verifica que el sistema sea capaz de devolver una lista de proyectos que coincidan con el CompanyId proporcionado.
 
-<img src="../Report/assets/Integration-Tests/IntegrationTest-GetProjectsByCompany.png" alt="imagen de Integration TestGetProjectsByCompany">  
+<img src="../main/assets/Integration-Tests/IntegrationTest-GetProjectsByCompany.png" alt="imagen de Integration TestGetProjectsByCompany">  
 [Integration Test GetProjectsByCompany_ShouldReturnProjectsForCompanyId]
 <br>
 <br>
 
-<img src="../Report/assets/Integration-Tests/IntegrationTest-GetProjectsByCompany-2.png" alt="imagen de Integration TestGetProjectsByCompany parte 2">  
+<img src="../main/assets/Integration-Tests/IntegrationTest-GetProjectsByCompany-2.png" alt="imagen de Integration TestGetProjectsByCompany parte 2">  
 [Integration Test GetProjectsByCompany_ShouldReturnProjectsForCompanyId 2]
 
 <br>
@@ -3658,12 +3658,12 @@ Este test valida que el servicio de gestión de tareas sea capaz de recuperar co
 
 Este test verifica que las tareas asociadas a un proyecto se actualicen correctamente en un sistema que involucra múltiples "bounded contexts". El test asegura que los cambios en el estado de una tarea se reflejan adecuadamente, incluso cuando están distribuidos entre diferentes contextos.
 
-<img src="../Report/assets/Integration-Tests/IntegrationTest-UpdateProjectWithTasks.png" alt="imagen de Integration UpdateProjectWithTasks">  
+<img src="../main/assets/Integration-Tests/IntegrationTest-UpdateProjectWithTasks.png" alt="imagen de Integration UpdateProjectWithTasks">  
 [Integration Test UpdateProjectWithTasks_ShouldTrackTasksAcrossBoundedContexts]
 <br>
 <br>
 
-<img src="../Report/assets/Integration-Tests/IntegrationTest-UpdateProjectWithTasks-2.png" alt="imagen de Integration UpdateProjectWithTasks parte 2">  
+<img src="../main/assets/Integration-Tests/IntegrationTest-UpdateProjectWithTasks-2.png" alt="imagen de Integration UpdateProjectWithTasks parte 2">  
 [Integration Test UpdateProjectWithTasks_ShouldTrackTasksAcrossBoundedContexts 2]
 
 <br>
@@ -3674,7 +3674,6 @@ Este test verifica que las tareas asociadas a un proyecto se actualicen correcta
 ### 6.1.3. Core Behavior-Driven Development
 ### 6.1.4. Core System Tests.
 
-#### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos.
 # Capítulo VII: DevOps Practices
 ## 7.1. Continuous Integration
 ### 7.1.1. Tools and Practices.
@@ -3701,8 +3700,8 @@ Este test verifica que las tareas asociadas a un proyecto se actualicen correcta
   <tr>
     <td><strong>Logo</strong></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="80"/></td>
-    <td><img src="https://wac-cdn.atlassian.com/dam/jcr:a66112c5-36b0-472b-9624-3d5db82bd404/Bamboo%20OG%20logo.png" alt="Bamboo" width="100"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Azure_DevOps_Logo.png" alt="Azure DevOps" width="100"/></td>
+    <td><img src="https://cdn.prod.website-files.com/6203daf47137054c031fa0e6/66bf5b4bf7dece48d211a4ac_Atlassian%20Bamboo.svg" alt="Bamboo" width="100"/></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png" alt="Azure DevOps" width="100"/></td>
   </tr>
   <tr>
     <td><strong>Perfil</strong><br/>Overview</td>
