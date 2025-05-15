@@ -3689,7 +3689,7 @@ En esta sección, se detallan las herramientas y prácticas utilizadas durante e
 * GitHub Actions sirvió como plataforma central para la gestión del código fuente y el control de versiones. Facilitó el despliegue de producción desde la rama master hacia la aplicación web en Azure. 
 
 <br>
-<img src="./assets/github-actions-logo.png" alt="imagen de Integration UpdateProjectWithTasks">  
+<img src="../assets/github-actions-logo.png" alt="imagen de Integration UpdateProjectWithTasks">  
 
 ### 7.1.2. Build & Test Suite Pipeline Components.
 ## 7.2. Continuous Delivery
@@ -3774,6 +3774,54 @@ En esta sección, se detallan las herramientas y prácticas utilizadas durante e
 </table>
 
 ### 7.2.2. Stages Deployment Pipeline Components.
+
+Se implementó un pipeline de integración continua (CI) utilizando **GitHub Actions** para automatizar la validación del backend desarrollado en .NET 8. Este pipeline se activa al realizar `push` o `pull_request` en las ramas `main`, `testing` o `pipeline-test`.
+
+El objetivo del pipeline es asegurar que el código se descargue, compile, restaure sus dependencias y pase las pruebas unitarias antes de cualquier despliegue.
+
+---
+
+##Estructura del Pipeline
+
+El pipeline está definido en el archivo `.github/workflows/ci-cd.yml`, y está compuesto por los siguientes pasos:
+
+1. **Clonación del repositorio**
+2. **Configuración del SDK de .NET 8**
+3. **Restauración de dependencias**
+4. **Compilación del proyecto**
+5. **Ejecución de pruebas unitarias**
+
+```yaml
+steps:
+  - uses: actions/checkout@v3
+  - uses: actions/setup-dotnet@v3
+    with:
+      dotnet-version: '8.0.x'
+  - run: dotnet restore AidManager-BackEnd.sln
+  - run: dotnet build AidManager-BackEnd.sln --configuration Release --no-restore
+  - run: dotnet test AidManager-BackEnd.sln --configuration Release --no-build 
+```
+Resultado de la ejecucion: Visualizacion del archivo .yml
+1. Visualizacion del archivo .yml
+   <br>
+   <img src="../assets/pipe1.png" alt="imagen de Visualizacion del archivo .yml">  
+
+2. Inicio del pipeline tras un commit en la rama pipeline-test
+   <br>
+   <img src="../assets/pipe2.png" alt="imagen de pipeline">  
+
+3. Resultado general del build test
+   <br>
+   <img src="../assets/pipe3.png" alt="imagen de Build Test">  
+
+4. Logs detallados del pipeline
+   <br>
+   <img src="../assets/pipe4.png" alt="imagen de detalles del pipeline">  
+
+5. Compilacion y pruebas unitarias exitosa
+    <br>
+   <img src="../assets/pipe5.png" alt="imagen de compilacion y pruebas unitarias exitosa">
+   
 ## 7.3. Continuous deployment
 ### 7.3.1. Tools and Practices.
 <h2>Benchmark</h2>
