@@ -269,6 +269,30 @@ En ambos casos se puede observar el incremento de modificaciones y revisiones en
 
 ---
 
+## [Capítulo VIII: Experiment-Driven Development](#capítulo-viii-experiment-driven-development)
+
+- [8.1. Experiment Planning](#81-experiment-planning)  
+  - [8.1.1. As-Is Summary](#811-as-is-summary)  
+  - [8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims](#812-raw-material-assumptions-knowledge-gaps-ideas-claims)  
+  - [8.1.3. Experiment-Ready Questions](#813-experiment-ready-questions)  
+  - [8.1.4. Question Backlog](#814-question-backlog)  
+  - [8.1.5. Experiment Cards](#815-experiment-cards)  
+
+- [8.2. Experiment Design](#82-experiment-design)  
+  - [8.2.1. Hypotheses](#821-hypotheses)  
+  - [8.2.2. Measures](#822-measures)  
+  - [8.2.3. Conditions](#823-conditions)  
+  - [8.2.4. Scale Calculations and Decisions](#824-scale-calculations-and-decisions)  
+  - [8.2.5. Methods Selection](#825-methods-selection)  
+  - [8.2.6. Data Analytics: Goals, KPIs and Metrics Selection](#826-data-analytics-goals-kpis-and-metrics-selection)  
+  - [8.2.7. Web and Mobile Tracking Plan](#827-web-and-mobile-tracking-plan)  
+
+- [8.3. Experimentation](#83-experimentation)  
+  - [8.3.1. To-Be User Stories](#831-to-be-user-stories)  
+  - [8.3.2. To-Be Product Backlog](#832-to-be-product-backlog)  
+
+---
+
  [Conclusiones](#conclusiones)  
  [Video about the team](#video-about-the-team)  
  [Bibliografía](#bibliografía)  
@@ -4053,7 +4077,31 @@ jobs:
 
 ### Éxito en ejecución del pipeline:
 ![Pipeline Success](../assets/deploy1.png)
+## 7.4. Continuous Monitoring
+### 7.4.1. Tools and Practices
+### 7.4.2. Monitoring Pipeline Components
+### 7.4.3. Alerting Pipeline Components
+### 7.4.4. Notification Pipeline Components
+# Capítulo VIII: Experiment-Driven Development
+## 8.1. Experiment Planning
+### 8.1.1. As-Is Summary
+### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims
+### 8.1.3. Experiment-Ready Questions
+### 8.1.4. Question Backlog
+### 8.1.5. Experiment Cards
 
+## 8.2. Experiment Design
+### 8.2.1. Hypotheses
+### 8.2.2. Measures
+### 8.2.3. Conditions
+### 8.2.4. Scale Calculations and Decisions
+### 8.2.5. Methods Selection
+### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection
+### 8.2.7. Web and Mobile Tracking Plan
+
+## 8.3. Experimentation
+### 8.3.1. To-Be User Stories
+### 8.3.2. To-Be Product Backlog
 # Conclusiones
 En conclusión, para la TB1 se realizó el desarrollo de la solución y la implementación de esta misma. En futuras entregas estaremos observando mas de cerca el código a nivel de pruebas.
 
