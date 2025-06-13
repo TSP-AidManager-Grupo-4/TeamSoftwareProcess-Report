@@ -4177,6 +4177,31 @@ Los equipos han reportado dificultades para gestionar las tareas debido a la fal
 ### 8.2.1. Hypotheses
 ### 8.2.2. Measures
 ### 8.2.3. Conditions
+
+## **Experimental Condition:**
+
+### **Pregunta de investigación**
+¿El sistema de gráficos analíticos mejora la visibilidad del desempeño del proyecto y ayuda en la toma de decisiones?
+
+### **Hipótesis**
+Los usuarios que tienen acceso a los gráficos analíticos mejorarán su capacidad para gestionar proyectos, aumentando la eficiencia en la toma de decisiones y la finalización de tareas.
+
+### **Condición experimental**
+Los usuarios que participen en el grupo experimental tendrán acceso a gráficos analíticos que muestren el progreso del proyecto, como el porcentaje de tareas completadas, los plazos cumplidos y los retrasos. El objetivo es medir cómo el acceso a estos gráficos mejora la productividad de los proyectos y la toma de decisiones informadas.
+
+---
+
+### **Control Condition:**
+
+### **Pregunta de investigación**
+¿El sistema de gestión de tareas con estados "Todo", "In Process" y "Done" mejora la eficiencia y organización de los proyectos?
+
+### **Hipótesis**
+Los usuarios que utilicen el sistema de gestión de tareas con los estados definidos ("Todo", "In Process", "Done") aumentarán la eficiencia de los proyectos gestionados.
+
+### **Condición control**
+Los usuarios en el grupo de control seguirán utilizando el sistema tradicional de gestión de tareas sin una visualización clara de los estados de las tareas. No tendrán acceso a los gráficos analíticos ni a las mejoras de organización que permite la gestión de tareas con estados definidos.
+
 ### 8.2.4. Scale Calculations and Decisions
 ### 8.2.5. Methods Selection
 ### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection
