@@ -4090,6 +4090,34 @@ jobs:
 ### 8.1.4. Question Backlog
 ### 8.1.5. Experiment Cards
 
+## Experiment Card 1: Implementación de Gráficos Analíticos para el Desempeño del Proyecto
+
+### **Question**
+¿La implementación de gráficos analíticos en AidManager mejora la toma de decisiones y la visibilidad del desempeño del proyecto?
+
+### **Why (¿Por qué es importante para el negocio?)**
+Los gráficos analíticos proporcionan a los usuarios una forma visual y clara de evaluar el progreso y desempeño de sus proyectos. Esto puede ayudar a los gestores a identificar rápidamente áreas de mejora y tomar decisiones informadas para optimizar los plazos y resultados.
+
+### **What (¿Cuál es la manera más fácil de validarlo?)**
+Desarrollar gráficos analíticos que muestren métricas clave del proyecto, como el progreso general, las tareas completadas y los retrasos. Realizar un análisis A/B entre un grupo de usuarios con acceso a estos gráficos y un grupo de control sin ellos, midiendo el impacto en la eficiencia de la gestión de proyectos.
+
+### **Hypothesis**
+Los usuarios que tienen acceso a gráficos analíticos mejorarán su capacidad de gestionar proyectos y tomar decisiones, aumentando la eficiencia del proyecto en un 15%.
+
+### **Métricas**
+- Tasa de toma de decisiones informadas (medida por la cantidad de cambios realizados basados en la información de los gráficos)
+- Tiempo promedio para completar proyectos
+- Nivel de satisfacción del usuario con los gráficos analíticos
+
+### **Metas**
+- Incrementar la eficiencia de la gestión de proyectos en un 15%.
+- Aumentar el uso de los gráficos analíticos en un 20%.
+  
+### **Análisis Previo**
+Sin herramientas visuales para el análisis del desempeño, los usuarios se han basado principalmente en informes textuales, lo que podría dificultar la rápida identificación de áreas críticas dentro de los proyectos.
+
+---
+
 ## 8.2. Experiment Design
 ### 8.2.1. Hypotheses
 ### 8.2.2. Measures
