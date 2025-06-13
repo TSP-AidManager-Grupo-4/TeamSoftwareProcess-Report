@@ -4146,6 +4146,33 @@ Los usuarios han experimentado dificultades para visualizar el progreso de las t
 
 ---
 
+## Experiment Card 3: Impacto de la Mejora de la Visibilidad de Tareas Pendientes en la Productividad
+
+### **Question**
+¿La mejora en la visibilidad de las tareas pendientes mediante el sistema de "Todo", "In Process" y "Done" incrementa la productividad general del equipo?
+
+### **Why (¿Por qué es importante para el negocio?)**
+Un sistema claro para visualizar las tareas pendientes puede ayudar a los usuarios a enfocarse en lo que es importante en cada momento, aumentando su productividad y reduciendo el tiempo perdido en la gestión de tareas.
+
+### **What (¿Cuál es la manera más fácil de validarlo?)**
+Implementar el sistema de gestión de tareas con los tres estados mencionados y medir la eficiencia del equipo en términos de tiempo de entrega y número de tareas completadas antes de la fecha límite.
+
+### **Hypothesis**
+Mejorar la visibilidad de las tareas pendientes mediante la implementación de un sistema organizado de "Todo", "In Process" y "Done" incrementará la productividad del equipo en un 30%.
+
+### **Métricas**
+- Número de tareas completadas dentro del tiempo límite
+- Tiempo promedio de finalización de tareas
+- Nivel de satisfacción del usuario con la visibilidad de las tareas pendientes
+
+### **Metas**
+- Incrementar la productividad del equipo en un 30%.
+- Reducir el tiempo de finalización de tareas en un 20%.
+
+### **Análisis Previo**
+Los equipos han reportado dificultades para gestionar las tareas debido a la falta de un sistema claro de priorización y seguimiento. Las tareas pendientes no siempre son visibles o bien gestionadas, lo que causa retrasos en el proyecto.
+
+
 ## 8.2. Experiment Design
 ### 8.2.1. Hypotheses
 ### 8.2.2. Measures
