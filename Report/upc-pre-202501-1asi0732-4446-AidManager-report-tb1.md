@@ -4118,6 +4118,34 @@ Sin herramientas visuales para el análisis del desempeño, los usuarios se han 
 
 ---
 
+## Experiment Card 2: Gestión de Tareas con Estado "Todo", "In Process" y "Done"
+
+### **Question**
+¿El uso de un gestor de tareas con estados "Todo", "In Process" y "Done" mejora la organización y el seguimiento de tareas en AidManager?
+
+### **Why (¿Por qué es importante para el negocio?)**
+Un sistema visual y claro de gestión de tareas, donde los usuarios puedan ver el estado de cada tarea, facilita el seguimiento del progreso y mejora la organización dentro de los equipos. Esto podría mejorar la eficiencia operativa y la entrega de proyectos a tiempo.
+
+### **What (¿Cuál es la manera más fácil de validarlo?)**
+Implementar un sistema de gestión de tareas en tres estados: "Todo", "In Process" y "Done". Realizar un test A/B entre un grupo que utiliza este sistema y un grupo de control sin el sistema, para evaluar cómo afecta a la productividad y al cumplimiento de plazos.
+
+### **Hypothesis**
+Los usuarios que utilizan el sistema de gestión de tareas con los estados definidos aumentarán la eficiencia de la gestión de proyectos en un 20%.
+
+### **Métricas**
+- Número de tareas completadas dentro del tiempo asignado
+- Tiempo promedio de transición entre estados
+- Nivel de satisfacción de los usuarios con el sistema de gestión de tareas
+
+### **Metas**
+- Aumentar la tasa de tareas completadas dentro del tiempo en un 25%.
+- Reducir el tiempo promedio de transición entre estados en un 15%.
+
+### **Análisis Previo**
+Los usuarios han experimentado dificultades para visualizar el progreso de las tareas y a menudo pierden de vista el estado actual de cada tarea dentro del proyecto.
+
+---
+
 ## 8.2. Experiment Design
 ### 8.2.1. Hypotheses
 ### 8.2.2. Measures
