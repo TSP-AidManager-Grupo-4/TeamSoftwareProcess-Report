@@ -4088,6 +4088,16 @@ jobs:
 ### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims
 ### 8.1.3. Experiment-Ready Questions
 ### 8.1.4. Question Backlog
+
+- ¿Cuánto tiempo de gestión y seguimiento de tareas se ahorrará con el uso de AidManager en comparación con métodos tradicionales como Excel o WhatsApp?
+- ¿Cómo influirá el uso de un sistema de comunicación interno en la rapidez y eficacia de la coordinación entre gestores y ayudantes?
+- ¿Qué impacto tendrá la visualización en tiempo real del avance de proyectos en la toma de decisiones de los gestores?
+- ¿La herramienta de gestión financiera permitirá detectar desviaciones presupuestarias de manera más rápida que los métodos actuales?
+- ¿Qué porcentaje de organizaciones estaría dispuesto a pagar por un plan mejorado después de probar el sistema por tres meses?
+- ¿La inclusión de dashboards visuales incrementará el uso semanal de la aplicación por parte de los gestores?
+- ¿Qué funcionalidades son percibidas como imprescindibles por los ayudantes de proyectos en campo?
+- ¿Cuánto mejora la satisfacción del usuario al contar con una única plataforma para comunicación, gestión y seguimiento?
+
 ### 8.1.5. Experiment Cards
 
 ## Experiment Card 1: Implementación de Gráficos Analíticos para el Desempeño del Proyecto
@@ -4204,7 +4214,113 @@ Los usuarios en el grupo de control seguirán utilizando el sistema tradicional 
 
 ### 8.2.4. Scale Calculations and Decisions
 ### 8.2.5. Methods Selection
+
+Para analizar los datos y validar las hipótesis de nuestro producto AidManager, evaluamos tres herramientas ampliamente utilizadas en el mercado: **Google Analytics**, **Matomo** y **Plausible Analytics**. Esta evaluación se basó en criterios relevantes como: precio, privacidad, facilidad de integración, nivel de personalización, escalabilidad y enfoque hacia organizaciones sin fines de lucro.
+
+<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
+  <thead>
+    <tr>
+      <th>Característica</th>
+      <th>Google Analytics</th>
+      <th>Matomo</th>
+      <th>Plausible Analytics</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Precio</td>
+      <td>Gratis (GA4) / Premium (GA360)</td>
+      <td>Gratis (self-hosted) / Premium (cloud-hosted)</td>
+      <td>Pago mensual (modelo transparente, open source)</td>
+    </tr>
+    <tr>
+      <td>Privacidad de datos</td>
+      <td>Datos almacenados en servidores de Google</td>
+      <td>Alto control de privacidad, self-hosted</td>
+      <td>Sin cookies, cumple con GDPR, datos anónimos</td>
+    </tr>
+    <tr>
+      <td>Facilidad de implementación</td>
+      <td>Alta, especialmente en ecosistema Google</td>
+      <td>Alta (self-hosted), media (cloud)</td>
+      <td>Muy alta, se integra con una línea de código</td>
+    </tr>
+    <tr>
+      <td>Nivel de personalización</td>
+      <td>Avanzado, requiere curva de aprendizaje</td>
+      <td>Muy alto, informes personalizables</td>
+      <td>Básico pero efectivo</td>
+    </tr>
+    <tr>
+      <td>Integraciones</td>
+      <td>Amplia (Google Ads, Firebase, etc.)</td>
+      <td>CMS, e-commerce, CRMs</td>
+      <td>Compatible con CMS modernos</td>
+    </tr>
+    <tr>
+      <td>Visualización de datos</td>
+      <td>Dashboards avanzados, informes completos</td>
+      <td>Dashboards editables, exportación a Excel</td>
+      <td>Gráficos simples y fáciles de entender</td>
+    </tr>
+    <tr>
+      <td>Soporte y comunidad</td>
+      <td>Documentación extensa, comunidad activa</td>
+      <td>Comunidad fuerte, soporte en versión de pago</td>
+      <td>Comunidad activa, documentación clara</td>
+    </tr>
+    <tr>
+      <td>Escalabilidad</td>
+      <td>Alta, recomendada para grandes volúmenes</td>
+      <td>Alta en ambientes auto-gestionados</td>
+      <td>Ideal para startups y ONGs pequeñas</td>
+    </tr>
+    <tr>
+      <td>Actualizaciones</td>
+      <td>Constantes</td>
+      <td>Comunidad activa, mejoras frecuentes</td>
+      <td>Constantes, con foco en rendimiento y privacidad</td>
+    </tr>
+  </tbody>
+</table>
+
+**Elección final:**  
+Seleccionamos **Google Analytics 4** por su integración nativa con herramientas de seguimiento web, métricas de usuario, y por ser ampliamente adoptado y documentado. Asimismo, su plan gratuito es funcional para ONGs en crecimiento y nos permite configurar eventos clave sin costo adicional.
+
 ### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection
+
+A continuación, se describen los **objetivos**, **KPIs** y **métricas** que utilizaremos para evaluar el desempeño del producto AidManager, en relación con nuestros experimentos y validaciones.
+
+1. **Tasa de activación de gestores**
+   - **Descripción:** Porcentaje de usuarios gestores que completan el registro de su ONG y configuran al menos un proyecto.
+   - **Meta:** Alcanzar una tasa del 40% durante los primeros dos meses tras el lanzamiento.
+
+2. **Tasa de asignación de tareas**
+   - **Descripción:** Porcentaje de proyectos en los que se han asignado tareas a al menos un miembro del equipo.
+   - **Meta:** Lograr que el 60% de los gestores activos utilicen el módulo de asignación en el primer mes.
+
+3. **Frecuencia de uso del módulo de comunicación**
+   - **Descripción:** Número de veces que se utiliza el chat interno o se envían mensajes entre gestores y miembros del equipo.
+   - **Meta:** Promediar al menos 2 interacciones por usuario activo semanalmente.
+
+4. **Tasa de tareas completadas a tiempo**
+   - **Descripción:** Porcentaje de tareas marcadas como completadas antes o en la fecha límite establecida.
+   - **Meta:** Superar el 70% de cumplimiento puntual al tercer mes.
+
+5. **Uso del módulo financiero**
+   - **Descripción:** Porcentaje de usuarios gestores que ingresan presupuestos y gastos en el sistema.
+   - **Meta:** Lograr que el 50% de los gestores activen y utilicen el módulo financiero dentro de los primeros 45 días.
+
+6. **Tiempo promedio en la aplicación**
+   - **Descripción:** Tiempo promedio que un usuario pasa dentro de la aplicación móvil o web en cada sesión.
+   - **Meta:** Aumentar el tiempo medio a más de 7 minutos por sesión luego de 2 meses de uso continuo.
+
+7. **Tasa de upgrade al plan premium**
+   - **Descripción:** Porcentaje de organizaciones que migran a un plan con mayor capacidad de usuarios.
+   - **Meta:** Alcanzar un 10% de upgrade en los primeros 6 meses.
+
+Estas métricas nos permitirán analizar con precisión el comportamiento de los usuarios y validar si nuestro producto logra resolver los problemas identificados en la etapa de needfinding.
+
 ### 8.2.7. Web and Mobile Tracking Plan
 
 ## 8.3. Experimentation
