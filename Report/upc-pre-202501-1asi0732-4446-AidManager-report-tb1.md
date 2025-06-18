@@ -4518,6 +4518,65 @@ Estas métricas nos permitirán analizar con precisión el comportamiento de los
 
 ### 8.2.7. Web and Mobile Tracking Plan
 
+Con el objetivo de evaluar en tiempo real el comportamiento de los usuarios en la plataforma **AidManager**, se implementará un plan de seguimiento integral tanto para la versión web como para la aplicación móvil. Este plan permitirá recolectar datos clave para validar hipótesis, medir la efectividad del diseño de UX y analizar el impacto funcional del producto en contextos reales de uso.
+
+---
+
+#### Herramienta de Tracking Seleccionada
+
+La herramienta elegida para el seguimiento es **Google Analytics 4 (GA4)**, por su capacidad multiplataforma, soporte de eventos personalizados, y su integración sencilla con Firebase para la app móvil.
+
+Además, se utilizará **Google Tag Manager (GTM)** para facilitar la gestión de eventos sin necesidad de intervención directa en el código.
+
+---
+
+#### Eventos y Acciones a Rastrear
+
+| **Categoría**                | **Evento de Tracking**         | **Propósito**                                                              |
+|-----------------------------|-------------------------------|---------------------------------------------------------------------------|
+| Onboarding                  | `onboarding_completed`        | Medir tasa de activación de nuevos usuarios                               |
+| Registro de ONG             | `org_created`                 | Validar si los usuarios configuran correctamente su primera organización  |
+| Creación de proyecto        | `project_created`             | Confirmar el inicio de actividad en la plataforma                         |
+| Asignación de tareas        | `task_assigned`               | Rastrear adopción del módulo de tareas                                    |
+| Cambio de estado de tarea   | `task_status_updated`         | Medir uso del sistema "Todo/In Progress/Done"                             |
+| Envío de mensajes           | `message_sent`                | Analizar uso del canal de comunicación interno                            |
+| Acceso al módulo financiero | `financial_module_opened`     | Validar uso de herramientas de planificación financiera                   |
+| Registro de gasto           | `expense_registered`          | Medir profundidad del uso del módulo financiero                           |
+| Visualización de gráficos   | `analytics_viewed`            | Rastrear el interés por los dashboards de análisis de desempeño           |
+| Tiempo en pantalla          | `session_duration`            | Obtener promedio de interacción por sesión                                |
+| Upgrade de plan             | `plan_upgraded`               | Medir conversión al plan premium                                          |
+| Referencia                  | `referral_invited`            | Evaluar el crecimiento por recomendaciones                                |
+
+---
+
+#### Segmentación
+
+Los datos serán segmentados por:
+
+- Tipo de usuario: **gestor**, **ayudante**, **administrador ONG**
+- Plataforma: **Web** y **Mobile**
+- Región geográfica: Lima, provincias, zonas rurales
+- Tipo de proyecto: educación, salud, medioambiente, etc.
+- Frecuencia de uso: usuarios recurrentes vs. nuevos
+
+---
+
+#### Objetivo del Tracking
+
+- Validar hipótesis clave mediante comportamiento real
+- Optimizar los flujos de usuario (UX) a partir de los embudos de conversión
+- Identificar puntos de abandono o fricción
+- Detectar funcionalidades subutilizadas que requieran mejoras o rediseño
+- Medir la eficacia del onboarding y del contenido informativo
+
+---
+
+#### Consideraciones de Privacidad
+
+- Se implementará el anonimato de IP y eventos conforme al reglamento **GDPR** y **Ley de Protección de Datos Personales en Perú (Ley 29733)**.
+- Se incluirá un consentimiento de cookies y política de privacidad explícita en el sitio y la app.
+- No se capturarán datos sensibles ni identificadores personales sin autorización explícita.
+
 ## 8.3. Experimentation
 ### 8.3.1. To-Be User Stories
 ### 8.3.2. To-Be Product Backlog
