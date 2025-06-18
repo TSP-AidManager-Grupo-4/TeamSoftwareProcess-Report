@@ -4230,7 +4230,28 @@ Los equipos han reportado dificultades para gestionar las tareas debido a la fal
 
 
 ## 8.2. Experiment Design
+
 ### 8.2.1. Hypotheses
+
+A continuación, se presentan las principales hipótesis del proyecto AidManager, siguiendo la estructura de Lean UX. Cada hipótesis responde a una necesidad concreta detectada en los usuarios y se puede validar mediante pruebas reales con el MVP y entrevistas.
+
+---
+
+| **Hipótesis**                                                                                                   | **Cómo lo validaremos**                                                                 |
+|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Creemos que al ofrecer una **interfaz sencilla para asignar tareas**, los gestores podrán trabajar más rápido. | Observaremos un aumento del **20% en la creación de tareas** durante las primeras semanas. |
+| Creemos que al implementar un **módulo financiero claro**, los gestores podrán planificar mejor sus recursos.  | El **uso del módulo financiero** alcanzará al menos un **50% de adopción** entre proyectos activos. |
+| Creemos que una **comunicación integrada** mejorará la coordinación equipo-gestor.                             | Se observará un **incremento del 20% en la frecuencia de mensajes** enviados dentro del sistema. |
+| Creemos que una **plataforma orientada a ONGs peruanas** generará mayor adopción que herramientas genéricas.   | Al menos un **60% de los entrevistados** preferirá nuestra solución sobre herramientas existentes. |
+| Creemos que una **versión premium con más cuentas** atraerá a ONGs en expansión.                               | Un **10% de usuarios** migrará al plan premium en los primeros seis meses. |
+| Creemos que una **landing page informativa** generará interés inicial suficiente para validar demanda.         | Mediremos una tasa de conversión de **al menos 10%** de visitantes a registros en lista de espera. |
+
+---
+
+Cada una de estas hipótesis se vincula directamente con funcionalidades clave del MVP y será contrastada con datos reales a través de pruebas controladas, entrevistas y análisis de comportamiento de los usuarios.
+
+--
+
 ### 8.2.2. Measures
 
 En esta sección se definen las **medidas clave** que permitirán evaluar el éxito o fracaso de los experimentos. Estas métricas se alinean con los resultados esperados del usuario y del negocio, permitiendo validar o refutar las hipótesis formuladas.
