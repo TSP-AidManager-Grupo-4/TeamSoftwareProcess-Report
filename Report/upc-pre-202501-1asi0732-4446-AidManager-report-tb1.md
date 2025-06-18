@@ -4085,7 +4085,53 @@ jobs:
 # Capítulo VIII: Experiment-Driven Development
 ## 8.1. Experiment Planning
 ### 8.1.1. As-Is Summary
+
+
 ### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims
+
+En esta sección se listan los insumos en bruto que alimentan el diseño de nuestros experimentos. Se clasifican en cuatro categorías: **supuestos (assumptions)**, **lagunas de conocimiento (knowledge gaps)**, **ideas** y **afirmaciones (claims)** que influencian la estrategia de validación.
+
+---
+
+####  Assumptions
+
+- Las ONG desean digitalizar su gestión pero no cuentan con herramientas accesibles ni adaptadas a su contexto.
+- Los gestores de proyectos tienen disposición para adoptar nuevas tecnologías si estas no requieren capacitación extensa.
+- Los voluntarios y ayudantes valoran la claridad en tareas y comunicación directa con el gestor.
+- La falta de adopción tecnológica se debe más a desconocimiento que a resistencia al cambio.
+- La gestión financiera es un punto crítico que influye directamente en la sostenibilidad de los proyectos sociales.
+
+---
+
+#### Knowledge Gaps
+
+- ¿Cuáles son las principales razones por las que las ONG no usan soluciones existentes como Trello o Jira?
+- ¿Qué funcionalidades consideran imprescindibles los gestores al momento de organizar sus proyectos?
+- ¿Qué tan dispuestos están los usuarios a pagar por una plataforma de gestión si actualmente usan medios gratuitos como Excel o WhatsApp?
+- ¿Qué porcentaje del tiempo se pierde actualmente en tareas de coordinación que podrían automatizarse?
+- ¿Qué nivel de digitalización tienen las ONGs fuera de Lima y cómo afecta esto la viabilidad del producto?
+
+---
+
+#### Ideas
+
+- Incluir un onboarding simplificado con tutorial interactivo para nuevos usuarios.
+- Implementar recordatorios automáticos para tareas pendientes vía notificación push.
+- Usar un sistema de tags para clasificar proyectos por tipo, zona de impacto o prioridad.
+- Diseñar dashboards visuales que faciliten el seguimiento del impacto social por proyecto.
+- Ofrecer un modo offline que sincronice datos al recuperar conexión, útil para zonas rurales.
+
+---
+
+#### Claims 
+
+- “Las ONG peruanas tienen necesidades tecnológicas específicas que no están siendo atendidas por plataformas genéricas.”  
+- “Una solución ágil y adaptada a las ONG puede mejorar sustancialmente la eficiencia operativa.”  
+- “La adopción de tecnología en el tercer sector está limitada por la falta de productos asequibles y adecuados, no por falta de interés.”  
+- “La mejora en la gestión interna tiene un efecto directo en el impacto social de los proyectos.”  
+- “La comunicación fluida entre gestores y ayudantes puede reducir errores y tiempos muertos en la ejecución de actividades.”
+
+---
 ### 8.1.3. Experiment-Ready Questions
 ### 8.1.4. Question Backlog
 
