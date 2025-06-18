@@ -4082,6 +4082,7 @@ jobs:
 ### 7.4.2. Monitoring Pipeline Components
 ### 7.4.3. Alerting Pipeline Components
 ### 7.4.4. Notification Pipeline Components
+
 # Capítulo VIII: Experiment-Driven Development
 ## 8.1. Experiment Planning
 ### 8.1.1. As-Is Summary
@@ -4215,6 +4216,97 @@ Estas preguntas permitirán diseñar experimentos enfocados, como pruebas de usa
 - ¿Cuánto mejora la satisfacción del usuario al contar con una única plataforma para comunicación, gestión y seguimiento?
 
 ### 8.1.5. Experiment Cards
+
+---
+
+#### Supuestos
+
+**¿Qué sé o creo firmemente y NO voy a someter a prueba? Mi punto de partida.**
+
+> Un chatbot puede reducir la carga de trabajo del equipo de recursos humanos en tareas repetitivas.
+
+---
+
+#### Question Backlog
+
+**Preguntas relacionadas al negocio de las que no tengo respuesta certera y alrededor de las cuales plantearé mi hipótesis.**
+
+> ¿Cuánto tiempo ahorrará el equipo de recursos humanos con la implementación del chatbot?
+
+---
+
+#### Experiment Card
+
+| Sección | Contenido |
+|--------|----------|
+| **Question** | ¿Cómo afectará la implementación de un chatbot en la eficiencia del equipo de recursos humanos y en la experiencia del candidato? |
+| **Why (¿Por qué es importante para el negocio?)** | Reducirá el tiempo y esfuerzo del equipo de recursos humanos al automatizar respuestas a preguntas frecuentes y tareas repetitivas. |
+| **What (¿Cuál es la manera más fácil de validarlo?)** | Implementación de un prototipo de chatbot en la página de preguntas frecuentes de la aplicación de reclutamiento durante un periodo de prueba (por ejemplo, 1 mes). |
+| **Hypothesis** | Si implementamos un chatbot en la aplicación de reclutamiento, entonces la carga de trabajo del equipo de recursos humanos se reducirá en un 20% y la satisfacción del candidato aumentará en un 15%, medido por el número de interacciones exitosas con el chatbot. |
+| **Métricas** | - Reducción del tiempo empleado por el equipo de recursos humanos en responder preguntas frecuentes (medido en horas por semana).<br> - Porcentaje de satisfacción de candidatos según encuestas post-interacción. |
+| **Metas** | - Reducción del tiempo de trabajo del equipo de recursos humanos en un 20%.<br> - Aumento de satisfacción del candidato en un 15%. |
+
+---
+
+#### Supuestos
+
+**¿Qué sé o creo firmemente y NO voy a someter a prueba? Mi punto de partida.**
+
+> Las pruebas técnicas permiten evaluar de manera objetiva a los miembros del equipo en una ONG y mejorar la calidad operativa del proyecto.
+
+---
+
+#### Question Backlog
+
+**Preguntas relacionadas al negocio de las que no tengo respuesta certera y alrededor de las cuales plantearé mi hipótesis.**
+
+> ¿Cómo impacta la implementación de pruebas técnicas internas en la eficiencia operativa y calidad de ejecución de proyectos en una ONG?
+
+---
+
+#### Experiment Card
+
+| Sección | Contenido |
+|--------|----------|
+| **Question** | ¿Cómo afectará la implementación de pruebas técnicas internas a la eficiencia y calidad del desempeño del equipo dentro de un proyecto social? |
+| **Why (¿Por qué es importante para el proyecto?)** | Evaluar objetivamente las habilidades de los miembros permite asignarles tareas según sus fortalezas, optimizando los tiempos y la calidad del trabajo dentro del proyecto social. |
+| **What (¿Cuál es la manera más fácil de validarlo?)** | Monitoreo del porcentaje de voluntarios o ayudantes que superan las pruebas, y evaluación del tiempo medio que tardan en cumplir sus tareas antes y después del experimento. |
+| **Hypothesis** | Si implementamos pruebas técnicas internas dentro de AidManager para roles operativos (como recojo de datos o coordinación de eventos), entonces la calidad del trabajo realizado aumentará y el tiempo promedio de ejecución de tareas se reducirá en un 30%, medido por la tasa de éxito en las pruebas y la duración promedio de las tareas asignadas. |
+| **Métricas** | - Tasa de éxito en las pruebas técnicas internas (porcentaje de miembros que las aprueban).<br> - Tiempo promedio de cumplimiento de tareas operativas.<br> - Nivel de satisfacción del gestor respecto al desempeño del equipo. |
+| **Metas** | - Aumentar la tasa de éxito en pruebas al menos en un 70%.<br> - Reducir el tiempo promedio de ejecución de tareas en un 30%.<br> - Lograr que el 80% de los gestores reporten una mejora en la asignación de tareas según resultados. |
+
+---
+
+
+#### Supuestos
+
+**¿Qué sé o creo firmemente y NO voy a someter a prueba? Mi punto de partida.**
+
+> Las notificaciones inteligentes pueden mejorar la puntualidad del equipo y reducir tareas olvidadas o entregadas fuera de plazo.
+
+---
+
+#### Question Backlog
+
+**Preguntas relacionadas al negocio de las que no tengo respuesta certera y alrededor de las cuales plantearé mi hipótesis.**
+
+> ¿Qué tan efectivas son las notificaciones automáticas para mejorar la entrega puntual de tareas dentro de un equipo en una ONG?
+
+---
+
+#### Experiment Card
+
+| Sección | Contenido |
+|--------|----------|
+| **Question** | ¿Cómo afectará la implementación de notificaciones inteligentes en la puntualidad y seguimiento de tareas dentro de los equipos de trabajo de una ONG? |
+| **Why (¿Por qué es importante para el proyecto?)** | Los gestores necesitan que los ayudantes completen las tareas a tiempo, especialmente cuando se trata de eventos o campañas críticas. Las notificaciones pueden prevenir olvidos y mejorar el flujo operativo. |
+| **What (¿Cuál es la manera más fácil de validarlo?)** | Activar notificaciones automáticas en AidManager para avisar a los usuarios 24 y 2 horas antes del vencimiento de cada tarea. Luego, comparar el porcentaje de tareas completadas a tiempo antes y después del experimento. |
+| **Hypothesis** | Si activamos notificaciones inteligentes en AidManager que alerten al usuario sobre vencimientos de tareas, entonces el porcentaje de tareas entregadas puntualmente aumentará en al menos 25%, medido por la comparación del historial de tareas antes y después del experimento. |
+| **Métricas** | - Porcentaje de tareas completadas dentro del plazo.<br> - Número de tareas atrasadas o no entregadas.<br> - Nivel de satisfacción del gestor respecto al cumplimiento del equipo. |
+| **Metas** | - Aumentar el porcentaje de tareas entregadas puntualmente en un 25%.<br> - Reducir tareas atrasadas en un 30%.<br> - Obtener una puntuación promedio de satisfacción ≥ 4/5 por parte de gestores respecto al módulo de notificaciones. |
+
+---
+
 
 ## Experiment Card 1: Implementación de Gráficos Analíticos para el Desempeño del Proyecto
 
