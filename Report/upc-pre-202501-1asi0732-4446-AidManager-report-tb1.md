@@ -4086,6 +4086,33 @@ jobs:
 ## 8.1. Experiment Planning
 ### 8.1.1. As-Is Summary
 
+Actualmente, las ONG en Perú enfrentan una serie de desafíos relacionados con la gestión de sus proyectos, recursos humanos y fondos financieros. A pesar de contar con personal comprometido y voluntad de generar impacto, la mayoría de estas organizaciones no dispone de herramientas adecuadas para optimizar su operativa interna.
+
+---
+
+#### Herramientas utilizadas actualmente
+
+- **Microsoft Excel:** Es la herramienta más utilizada para llevar registros financieros y planificar tareas, aunque presenta limitaciones para colaboración y seguimiento en tiempo real.
+- **WhatsApp / Correo electrónico:** Utilizados como medios principales de comunicación entre gestores y equipos, lo cual genera dispersión, falta de trazabilidad y pérdida de información.
+- **Reuniones presenciales o por videollamada:** Son el medio más formal para coordinar acciones, pero requieren tiempo, logística y disponibilidad simultánea.
+
+---
+
+#### Problemas identificados
+
+- Fragmentación en la gestión de información.
+- Dificultad para realizar seguimiento de tareas asignadas.
+- Poca claridad en roles, metas y avance de proyectos.
+- Limitado uso de datos para evaluar impacto y tomar decisiones.
+- Comunicación ineficiente y poco estructurada entre los miembros del equipo.
+
+---
+
+#### Necesidad de mejora
+
+Existe una oportunidad significativa para implementar una solución **todo-en-uno** que integre planificación, comunicación, análisis financiero y gestión de tareas, en un entorno centralizado y accesible. Esto permitiría mejorar la eficiencia operativa, reducir errores de coordinación y facilitar la transparencia del impacto social generado por cada ONG.
+
+---
 
 ### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims
 
