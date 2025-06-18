@@ -4078,10 +4078,78 @@ jobs:
 ### Éxito en ejecución del pipeline:
 ![Pipeline Success](../assets/deploy1.png)
 ## 7.4. Continuous Monitoring
+
+Esta sección describe las herramientas, prácticas y componentes implementados para garantizar una estrategia efectiva de monitoreo continuo, enfocada en asegurar la disponibilidad del sistema, detectar fallas de forma proactiva y mejorar la confiabilidad general del servicio.
+
 ### 7.4.1. Tools and Practices
+
+Se utilizaron diversas herramientas orientadas a monitoreo de aplicaciones distribuidas:
+
+- **Prometheus:** Para la recolección de métricas del backend y contenedores. <img src="https://miro.medium.com/v2/resize:fit:800/1*XE0ObomSZ6cwRHKNZ751Vg.png" alt="Prometheus"/>
+- **Grafana:** Visualización de métricas clave mediante dashboards personalizables. <img src="https://images.icon-icons.com/2699/PNG/512/grafana_logo_icon_171049.png" alt="Grafana"/>
+- **Elastic Stack (Elasticsearch, Logstash, Kibana):** Gestión centralizada de logs para facilitar auditorías, trazabilidad y diagnóstico. <img src="https://www.dariawan.com/media/images/tech-elastic-stack.width-400.png" alt="Elastic Stack"/>
+- **Firebase Crashlytics:** Diagnóstico de errores en tiempo real en la aplicación móvil. <img src="https://i.ibb.co/21P5WbHf/1-u-Jfn7k-Aw-O6d-Q2z-Paca8-MKA-removebg-preview.png" alt="Firebase Crashlytics"/>
+- **StatusCake:** Verificación continua de disponibilidad en endpoints críticos. <img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/177420/horizontal-logo-blackberry-text.png" alt="Statuscake"/>
+
+Prácticas clave aplicadas:
+
+- **Establecimiento de líneas base:** Se definieron indicadores de referencia de uso de CPU, memoria y latencia por servicio.
+- **Monitoreo de métricas clave:** Incluye uso de recursos, tiempos de respuesta, tasa de errores HTTP, disponibilidad y actividad por módulo.
+- **Monitoreo sintético:** Simulación de peticiones a rutas específicas como `/health` para asegurar disponibilidad continua.
+- **Registro centralizado:** Logs del backend, frontend y base de datos son recolectados y almacenados en Elasticsearch mediante Filebeat.
+- **Cheques de salud automatizados:** Incluidos en el pipeline de despliegue, ejecutados antes de habilitar cada servicio.
+
 ### 7.4.2. Monitoring Pipeline Components
+
+El pipeline de monitoreo está compuesto por múltiples módulos para recolectar, almacenar y analizar datos operativos.
+
+**Agentes de recolección de datos:**
+- **Node Exporter:** Métricas del sistema operativo en servidores Linux.
+- **cAdvisor:** Métricas de uso de contenedores.
+- **Filebeat:** Recolección de logs desde múltiples fuentes.
+
+**Agregación y almacenamiento:**
+- **Prometheus Server:** Almacenamiento de métricas de series temporales.
+- **Elasticsearch:** Indexación de logs para búsqueda eficiente.
+- **InfluxDB:** Base de datos de métricas con alta frecuencia de escritura.
+
+**Procesamiento y análisis:**
+- **Logstash:** Transformación de logs antes de enviarlos a Elasticsearch.
+- **Kibana:** Interfaz para visualización y exploración de registros.
+- **Grafana:** Dashboards para monitoreo en tiempo real.
+- **Alertmanager:** Encargado de gestionar alertas generadas desde Prometheus.
+  
 ### 7.4.3. Alerting Pipeline Components
+
+**Generación de alertas:**
+- **Reglas en Prometheus:** Condiciones configuradas para métricas como uso de CPU elevado, errores HTTP 5xx, y caídas en servicios críticos.
+- **StatusCake:** Alertas cuando la API o servicios clave no están disponibles.
+
+**Gestión de alertas:**
+- **Alertmanager:** Agrupación y envío de alertas a través de múltiples canales.
+- **OpsGenie:** Enrutamiento automatizado hacia el equipo responsable según nivel de severidad.
+
+**Integración y escalación:**
+- **PagerDuty:** Escalación programada para incidentes fuera del horario laboral.
+- **Slack:** Canal específico para alertas técnicas y colaboración en incidentes.
+  
 ### 7.4.4. Notification Pipeline Components
+
+**Configuración de notificaciones:**
+- **Alertmanager:** Define receptores y reglas de enrutamiento por tipo de alerta.
+- **Webhooks:** Integración con sistemas externos y dashboards de operación.
+
+**Canales de notificación:**
+- **Correo electrónico:** Notificaciones automáticas de errores críticos y fallas de disponibilidad.
+- **SMS (Twilio):** Para notificaciones de incidentes urgentes al equipo de soporte.
+
+**Aplicaciones de mensajería:**
+- **Slack:** Alertas en tiempo real para el equipo de desarrollo y operaciones.
+- **Microsoft Teams:** Integración para notificaciones al equipo de gestión y análisis.
+
+**Paneles de control:**
+- **Grafana:** Visualización del estado de los servicios, métricas clave y alertas.
+- **Kibana:** Exploración de eventos, errores y logs históricos en múltiples entornos.
 
 # Capítulo VIII: Experiment-Driven Development
 ## 8.1. Experiment Planning
