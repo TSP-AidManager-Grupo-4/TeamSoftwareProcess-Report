@@ -4232,6 +4232,41 @@ Los equipos han reportado dificultades para gestionar las tareas debido a la fal
 ## 8.2. Experiment Design
 ### 8.2.1. Hypotheses
 ### 8.2.2. Measures
+
+En esta sección se definen las **medidas clave** que permitirán evaluar el éxito o fracaso de los experimentos. Estas métricas se alinean con los resultados esperados del usuario y del negocio, permitiendo validar o refutar las hipótesis formuladas.
+
+---
+
+#### Métricas cuantitativas
+
+| Métrica                                 | Descripción                                                                                 | Objetivo esperado           |
+|-----------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------|
+| **Tasa de activación**                  | Porcentaje de usuarios que completan el registro y configuran su primer proyecto           | ≥ 45% de usuarios nuevos    |
+| **Retención mensual**                   | Porcentaje de usuarios activos que retornan a la plataforma al siguiente mes               | ≥ 60%                       |
+| **Tasa de tareas completadas**          | Porcentaje de tareas asignadas que son marcadas como completadas por los ayudantes         | ≥ 80% de cumplimiento       |
+| **Uso del módulo financiero**           | Número de veces que los usuarios acceden al módulo de análisis financiero                  | ≥ 50 sesiones por semana    |
+| **Frecuencia de uso de la mensajería**  | Cantidad de mensajes enviados entre gestores y ayudantes en la plataforma                  | ≥ 20 mensajes por proyecto  |
+| **Tasa de mejora de plan**              | Porcentaje de usuarios que cambian a un plan premium por necesidad de más cuentas          | ≥ 10% de los usuarios activos |
+| **Tasa de referencia**                  | Porcentaje de usuarios que recomiendan la plataforma a otras ONG                           | ≥ 5%                        |
+
+---
+
+#### Métricas cualitativas
+
+- **Satisfacción del usuario (NPS)**: Recogida mediante encuestas post-uso sobre la utilidad del sistema.
+- **Feedback abierto en entrevistas de validación**: Comentarios sobre facilidad de uso, velocidad, claridad y percepción de impacto.
+- **Percepción de impacto social**: Evaluaciones sobre si la plataforma ayudó a mejorar la ejecución del proyecto social.
+
+---
+
+#### Indicadores de validación mínima
+
+- Si el **NPS** es mayor a **+30**, se considera validado el enfoque de experiencia de usuario.
+- Si al menos el **60% de los gestores** indican que prefieren la solución frente a sus métodos actuales (Excel/WhatsApp), se valida la propuesta de valor.
+- Si el uso del módulo de tareas supera el **70%** de los proyectos registrados, se valida la funcionalidad central.
+
+---
+
 ### 8.2.3. Conditions
 
 ## **Experimental Condition:**
