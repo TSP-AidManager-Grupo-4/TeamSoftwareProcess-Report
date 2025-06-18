@@ -4133,6 +4133,49 @@ En esta sección se listan los insumos en bruto que alimentan el diseño de nues
 
 ---
 ### 8.1.3. Experiment-Ready Questions
+
+Esta sección presenta un conjunto de **preguntas listas para experimentar**, diseñadas para validar las hipótesis clave planteadas previamente. Cada pregunta busca descubrir información crítica sobre el comportamiento, las necesidades y la aceptación del usuario hacia la solución propuesta.
+
+---
+
+#### Validación del producto y su utilidad
+
+- ¿Los gestores de ONG consideran que una plataforma especializada puede reemplazar sus métodos actuales como Excel o WhatsApp?
+- ¿Qué funcionalidades consideran imprescindibles para organizar sus proyectos de forma efectiva?
+- ¿Los ayudantes entienden fácilmente las tareas asignadas dentro de la plataforma?
+- ¿La plataforma permite una comunicación más eficiente que los medios actuales?
+
+---
+
+#### Validación del modelo de negocio
+
+- ¿Están dispuestos los gestores a pagar por una suscripción mensual/anual por una herramienta que centraliza tareas, finanzas y comunicación?
+- ¿El precio por cuenta adicional representa una barrera significativa para organizaciones en crecimiento?
+- ¿Qué tipo de planes o esquemas de pago serían más atractivos para organizaciones con presupuestos limitados?
+
+---
+
+#### Validación de impacto y retención
+
+- ¿Qué tan seguido ingresan los usuarios a la plataforma para monitorear tareas o revisar presupuestos?
+- ¿Los usuarios continuarían usando la plataforma después del primer mes?
+- ¿Los usuarios perciben una mejora tangible en la organización de sus proyectos sociales?
+
+---
+
+#### Validación de atracción y recomendación
+
+- ¿Los usuarios recomendarían esta herramienta a otras ONG?
+- ¿Qué elementos de la landing page captan más la atención del visitante?
+- ¿Qué canal de comunicación (redes, email, referidos) genera más registros?
+
+---
+
+Estas preguntas permitirán diseñar experimentos enfocados, como pruebas de usabilidad, entrevistas, encuestas y análisis de métricas, que servirán para evaluar el nivel de aceptación del producto, la utilidad real de sus funciones y la viabilidad del modelo de negocio.
+
+---
+
+
 ### 8.1.4. Question Backlog
 
 - ¿Cuánto tiempo de gestión y seguimiento de tareas se ahorrará con el uso de AidManager en comparación con métodos tradicionales como Excel o WhatsApp?
