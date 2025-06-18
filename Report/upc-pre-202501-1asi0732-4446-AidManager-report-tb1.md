@@ -4386,6 +4386,28 @@ Los usuarios que utilicen el sistema de gestión de tareas con los estados defin
 Los usuarios en el grupo de control seguirán utilizando el sistema tradicional de gestión de tareas sin una visualización clara de los estados de las tareas. No tendrán acceso a los gráficos analíticos ni a las mejoras de organización que permite la gestión de tareas con estados definidos.
 
 ### 8.2.4. Scale Calculations and Decisions
+
+Esta sección define los criterios y decisiones a tomar en función de los resultados obtenidos durante los experimentos, tanto para el sistema de **gráficos analíticos** como para la **gestión de tareas con estados definidos**.
+
+| **Condición**                  | **Resultado Esperado**                                                                                                                                     | **Decisión**                                                                                  |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Validación total            | - Los usuarios del grupo experimental usan los gráficos de forma recurrente.<br> - Aumenta el porcentaje de tareas completadas y decisiones efectivas.   | Escalar los **gráficos analíticos** a todos los usuarios y convertirlo en funcionalidad principal. |
+| Validación del tablero Kanban | - Los usuarios del grupo de control muestran mejoras claras con la visualización "Todo", "In Process", "Done".                                            | Incorporar el **sistema de estados de tareas** como parte central de la UX del módulo de tareas. |
+| Validación parcial          | - Solo se cumple una de las dos métricas clave (por ejemplo, mayor visibilidad pero sin aumento en tareas finalizadas).                                   | Iterar sobre la funcionalidad (por ejemplo, simplificar gráficos o mejorar onboarding del sistema de tareas). |
+| Resultado inconcluso        | - El uso fue bajo, o los resultados muestran mucha variabilidad según el tipo de usuario u ONG.                                                             | Ajustar la segmentación de usuarios o rediseñar los dashboards/estados según tipo de proyecto. |
+| Invalidación                | - No hay diferencia significativa entre grupo control y experimental.<br> - El sistema añade complejidad sin mejoras en productividad.                     | Descartar la funcionalidad en su forma actual y considerar otras soluciones (como alertas automatizadas o dashboards simplificados). |
+
+---
+
+#### ✔ Reglas de decisión para escalar (thresholds)
+
+- **Gráficos analíticos se escalarán** si el 60% de los usuarios activos en el experimento reportan mejoras en toma de decisiones **y** hay un aumento de al menos **20% en finalización de tareas**.
+- **Sistema de estados de tareas se escalará** si el 70% de los proyectos experimentales registran **una disminución del tiempo promedio por tarea** o un incremento en tareas "Done".
+- Se considerará **validación parcial** si solo se cumple uno de los dos indicadores clave en cada funcionalidad.
+- Si **ninguno de los objetivos mínimos se cumple**, se considera **invalidado** y se propone rediseño o descarte.
+
+---
+
 ### 8.2.5. Methods Selection
 
 Para analizar los datos y validar las hipótesis de nuestro producto AidManager, evaluamos tres herramientas ampliamente utilizadas en el mercado: **Google Analytics**, **Matomo** y **Plausible Analytics**. Esta evaluación se basó en criterios relevantes como: precio, privacidad, facilidad de integración, nivel de personalización, escalabilidad y enfoque hacia organizaciones sin fines de lucro.
