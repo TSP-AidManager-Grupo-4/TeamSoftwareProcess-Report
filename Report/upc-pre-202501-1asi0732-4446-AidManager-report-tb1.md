@@ -3771,8 +3771,43 @@ Esta prueba automatiza el cambio de estado de una tarea dentro de un proyecto, m
 
 Estas pruebas funcionales aseguran que los principales componentes del sistema AidManager funcionan correctamente de forma integrada, proporcionando confianza en la estabilidad del producto.
 
+## 6.2. Static Testing & Verification
 
+### 6.2.1. Static Code Analysis
 
+#### 6.2.1.1. Coding Standard & Code Conventions
+
+#### 6.2.1.2. Code Quality & Code Security
+
+### 6.2.2. Reviews
+
+## 6.3. Validation Interviews
+
+### 6.3.1. Diseño de Entrevistas
+
+### 6.3.2. Registro de Entrevistas
+
+### 6.3.3. Evaluaciones según heurísticas
+
+## 6.4. Auditoría de Experiencias de Usuario
+
+### 6.4.1. Auditoría realizada
+
+#### 6.4.1.1. Información del grupo auditado
+
+#### 6.4.1.2. Cronograma de auditoría realizada
+
+#### 6.4.1.3. Contenido de auditoría realizada
+
+### 6.4.2. Auditoría recibida
+
+#### 6.4.2.1. Información del grupo auditor
+
+#### 6.4.2.2. Cronograma de auditoría recibida
+
+#### 6.4.2.3. Contenido de auditoría recibida
+
+#### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos
 
 # Capítulo VII: DevOps Practices
 ## 7.1. Continuous Integration
