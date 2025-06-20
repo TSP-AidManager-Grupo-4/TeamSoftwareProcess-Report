@@ -3834,7 +3834,7 @@ Estas pruebas funcionales aseguran que los principales componentes del sistema A
 
 <center>
 
-![code-store](../assets/code-standards/code-entity.png)
+![code-entity](../assets/code-standards/code-entity.png)
 </center>
 
 * <p>Manejo Robusto de Errores y Operaciones Asíncronas </p>
@@ -3844,9 +3844,59 @@ Estas pruebas funcionales aseguran que los principales componentes del sistema A
 <p>Esta implementación garantiza una experiencia de usuario más estable, facilita el debugging en desarrollo, previene crashes inesperados de la aplicación, y proporciona información valiosa para el monitoreo en producción.</p>
 <center>
 
-![code-store](../assets/code-standards/code-user.png)
+![code-user](../assets/code-standards/code-user.png)
 </center>
 
+<p>API:</p>
+
+* <p>Arquitectura Limpia y Patrones de Diseño Consistentes</p>
+
+<p>Implementación sistemática de Domain-Driven Design (DDD) y arquitectura en capas siguiendo las mejores prácticas de desarrollo empresarial con .NET.</p>
+<p>El código utiliza una estructura arquitectónica bien definida organizando el proyecto en bounded contexts claramente separados (Authentication, Collaborate, IAM, ManageCosts, ManageTasks, Payment, UserProfile), implementa el patrón Repository con interfaces bien definidas que separan la lógica de dominio de la infraestructura de datos, y mantiene consistencia en la nomenclatura usando PascalCase para clases y métodos públicos (UserCommandService, CreateProjectCommand) y camelCase para parámetros y variables locales. </p>
+<p>El código también implementa primary constructors de C# de manera consistente en todas las clases de servicio, como en public class AnalyticsCommandService(IAnalyticsRepository analyticsRepository, IUnitOfWork unitOfWork), y utiliza convenciones de nombres descriptivos que expresan claramente la intención del código.</p>
+
+<p>Esta implementación garantiza mantenibilidad a largo plazo del código, facilita la comprensión del dominio de negocio por parte de nuevos desarrolladores, promueve la reutilización de componentes y establece una base sólida para el crecimiento y evolución del sistema.</p>
+
+<center>
+
+![back-folder-structure](../assets/code-standards/back-folder-structure.png)
+</center>
+
+* <p>Manejo Robusto de Errores y Operaciones Asíncronas</p>
+
+<p>Implementación consistente de manejo de errores y operaciones asíncronas siguiendo las mejores prácticas de C# moderno con async/await.</p>
+
+<p>El código utiliza bloques try-catch sistemáticamente en todos los métodos de servicio para capturar errores, proporciona mensajes de error descriptivos con Console.WriteLine que incluyen contexto específico como IDs y parámetros, y maneja correctamente las promesas con async/await evitando deadlocks. Los servicios implementan transacciones de base de datos robustas con rollback automático en caso de error, como se observa en BaseRepository donde cada operación utiliza using (var trans = Context.Database.BeginTransaction()) con manejo explícito de commit y rollback. </p>
+
+<p>Esta implementación garantiza una experiencia de usuario más estable, facilita el debugging en desarrollo, previene crashes inesperados de la aplicación, y proporciona información valiosa para el monitoreo en producción.</p>
+
+<center>
+<p> bloques try-catch</p>
+
+![code-try-catch](../assets/code-standards/code-try-catch.png)
+
+<p> Async/Await</p>
+
+![code-async](../assets/code-standards/code-async.png)
+
+<p> Transaction handling</p>
+
+![code-repository](../assets/code-standards/code-repository.png)
+</center>
+
+* <p>Configuración Diferenciada por Entorno y Gestión Segura de Variables</p>
+
+<p>Implementación de configuración adaptativa por entorno con gestión segura de variables de entorno y logging contextual.</p>
+
+<p>El código implementa configuración diferenciada por entorno de ejecución, cargando variables de entorno de forma segura usando Env.Load() y Environment.GetEnvironmentVariable("CONN_STRING"), configura diferentes niveles de logging según el entorno (LogLevel.Information para desarrollo y LogLevel.Error para producción), y habilita características específicas de debugging como EnableSensitiveDataLogging() y EnableDetailedErrors() únicamente en entornos de desarrollo. La configuración también incluye la detección automática del entorno mediante builder.Environment.IsDevelopment() y builder.Environment.IsProduction() para aplicar configuraciones específicas sin intervención manual.</p>
+
+<p>Esta implementación garantiza seguridad en producción al ocultar información sensible, optimiza el rendimiento reduciendo el logging innecesario en producción, facilita el debugging en desarrollo con información detallada, y permite despliegues automáticos sin cambios de configuración manual.</p>
+
+<center>
+
+![code-db-api](../assets/code-standards/api-db.png)
+
+</center>
 
 #### 6.2.1.2. Code Quality & Code Security
 
