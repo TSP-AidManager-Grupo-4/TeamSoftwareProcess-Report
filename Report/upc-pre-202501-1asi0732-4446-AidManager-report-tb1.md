@@ -3977,7 +3977,7 @@ Rol Actual / Ocupación: (Confirmar su alineación con el segmento objetivo).
 
 ---
 
-#### 🙋 Segmento 2: Voluntarios
+#### Segmento 2: (TeamMembers) Ayudante de Eventos ONG
 
 - "Al buscar tus tareas o la información de un proyecto, ¿te pareció que la información estaba clara y era fácil de entender? ¿Las etiquetas o textos tenían sentido para ti?"
 
