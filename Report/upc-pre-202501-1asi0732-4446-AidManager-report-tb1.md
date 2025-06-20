@@ -7,8 +7,8 @@
     <br>INFORME
 
 <p align="center">
-    Startup: </><br>
-    Producto: </>
+    Startup: PManagers </><br>
+    Producto: AidManager </>
 </p>
 
 <div>
@@ -56,17 +56,22 @@
 |---------|-------------|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | TB1     | 18/04/2025  | Nicolas Esteban Garcia     | Redacción de antecedentes y revisiones del documento. |
 | TB1     | 20/04/2025  | Sebastian Peña            | Revisión completa del Lean UX Canvas.            |
-| TB1     | 20/04/2025  | Sebastian Ramirez.M           | Revisión completa del Entrevistas y competidores Canvas.            |
-| TB1     | 21/04/2025  | Sebastian Ramirez.H Hoffmann           | Revisión completa del Lean UX Canvas.            |
+| TB1     | 20/04/2025  | Sebastian Ramirez Mendez           | Revisión completa del Entrevistas y competidores Canvas.            |
+| TB1     | 21/04/2025  | Sebastian Ramirez Hoffmann           | Revisión completa del Lean UX Canvas.            |
 | TB1     | 22/04/2025  | Juan Cuadros           | Revisión completa del diseño de solución            |
 | TB1     | 23/04/2025  | Sebastian Ramirez Hoffmann           | Revisión general del informe            |
 | TP     | 18/04/2025  | Nicolas Esteban Garcia     | Redacción de feedback y revisiones del documento. |
 | TP     | 9/05/2025  | Sebastian Peña            | Revisión completa de testing unitario.            |
-| TP     | 10/05/2025  | Sebastian Ramirez.M           | Revisión completa de testing funcional.            |
+| TP     | 10/05/2025  | Sebastian Ramirez Mendez           | Revisión completa de testing funcional.            |
 | TP     | 12/05/2025  | Sebastian Ramirez.H Hoffmann           | Revisión completa integracion con backend.            |
 | TP     | 12/05/2025  | Juan Cuadros           | Revisión completa del informe preliminar            |
 | TP     | 13/05/2025  | Sebastian Ramirez Hoffmann           | Revisión general backend            |
-
+| TB2     | 15/05/2025  | Nicolas Esteban Garcia     | Redacción de feedback y actualizacion front end. |
+| TB2     | 16/05/2025  | Sebastian Peña            | Preparacion de entrevistas.            |
+| TB2     | 17/05/2025  | Sebastian Ramirez Mendez           | Revisión completa de experiment cards.            |
+| TB2     | 14/06/2025  | Sebastian Ramirez Hoffmann           | Revisión de avances y audioria.            |
+| TB2     | 16/06/2025  | Juan Cuadros           | Revisión completa del informe preliminar            |
+| TB2     | 17/06/2025  | Sebastian Ramirez Hoffmann           | Revisión general backend    
 
 
 
@@ -4041,19 +4046,101 @@ Este diseño de entrevistas fue aplicado como parte del proceso de validación t
 
 #### 6.4.1.1. Información del grupo auditado
 
+En esta auditoria hacemos una evaluacion del sistema del equipo 4 enfocandonos en la app web y app movil.
+
+Grupo 4:
+
+Miembros de equipo:
+
+##### Objetivos
+
+El equipo 4 de la startup -__- se enfocan en el rubro de ??? y a lo largo del curso han realizado su aplicacion movil y web, en esta auditoria nos enfocaremos en utilizar las soluciones y el flujo principal.
+
+Objetivo del negocio:
+
+Usuarios Principales (Segmentos):
+- 1
+- 2
+
 #### 6.4.1.2. Cronograma de auditoría realizada
 
+Tomando en cuenta que el producto del grupo a auditar estaba en fase de pruebas cuando nos contactamos acordamos en hacer la auditoria el 18 de Junio del 2025.
+
+- la auditoria inico el 18 de Junio del 2025
+
+- la auditoria finalizo el 20 de Junio del 2025
+
 #### 6.4.1.3. Contenido de auditoría realizada
+
+Objetivos de la auditoría: Evaluar la usabilidad de la nueva funcionalidad de reporte y verificar la conformidad con principios de accesibilidad.
+
+Metodología utilizada: Revisión heurística y análisis de flujo de usuario.
+
+Áreas evaluadas: Registro de usuario, funciones principales como: y  sistema core de la solucion.
+
+Principales hallazgos y problemas identificados: 
+
+- Dificultad para encontrar la sección de ayuda
+- Proceso de pago con demasiados pasos
+- Botones de llamado a la acción no suficientemente visibles
+
+Recomendaciones clave: 
+- Simplificar el proceso de registro a 3 pasos
+- Rediseñar la navegación principal con etiquetas más claras
+- Implementar iconos reconocibles en los botones
 
 ### 6.4.2. Auditoría recibida
 
 #### 6.4.2.1. Información del grupo auditor
 
+Para esta auditoria el mismo grupo 4 nos hara una revision a nuestros productos web y mobil enfocandose en los cambios en base a nuestras nuevas features, igualmente haran uso del sistema completo y daran su retroalimentacion.
+
+Nombre del grupo/entidad auditora: Grupo 4
+
+
+
 #### 6.4.2.2. Cronograma de auditoría recibida
+
+Tomando en cuenta que nuestros productos a auditar estaban listos cuando nos contactamos acordamos en que hagan la auditoria el 17 de Junio del 2025.
+
+- la auditoria inicoo el 17 de Junio del 2025
+
+- la auditoria finalizo el 20 de Junio del 2025
 
 #### 6.4.2.3. Contenido de auditoría recibida
 
+En la auditoria el equipo de ____ realiza la auditoria y nos presenta las siguientes observaciones. 
+A continuacion, se muestran los puntos clave de la auditoria.
+
+Objetivos de la auditoría: Evaluar la usabilidad de la nueva funcionalidad de reporte y verificar la conformidad con principios de accesibilidad.
+
+Metodología utilizada: Revisión heurística y análisis de flujo de usuario.
+
+Áreas evaluadas: Registro de usuario, funciones principales como: y  sistema core de la solucion.
+
+Principales hallazgos y problemas identificados: 
+
+- Dificultad para encontrar la sección de ayuda
+- Proceso de pago con demasiados pasos
+- Botones de llamado a la acción no suficientemente visibles
+
+Recomendaciones clave: 
+- Simplificar el proceso de registro a 3 pasos
+- Rediseñar la navegación principal con etiquetas más claras
+- Implementar iconos reconocibles en los botones
+
 #### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos
+
+This is crucial for demonstrating that you've acted on the audit's findings.
+
+Hallazgos priorizados para subsanar: De lo que se reporto tomamos en consideracion para corregir lo siguiente...
+
+Acciones tomadas o planificadas: En base al feedback el plan sera el siguiente...
+
+Estado actual de las modificaciones: las modificaciones estan en los siguientes estados...
+
+
+Fecha de implementación o fecha estimada: estos cambios estan estimados a cambiarse el 25/06/2025 aproximadamente
 
 # Capítulo VII: DevOps Practices
 ## 7.1. Continuous Integration
@@ -4902,7 +4989,7 @@ Además, se utilizará **Google Tag Manager (GTM)** para facilitar la gestión d
 
 Los datos serán segmentados por:
 
-- Tipo de usuario: **gestor**, **ayudante**, **administrador ONG**
+- Tipo de usuario: **Manager**, **TeamMember**, 
 - Plataforma: **Web** y **Mobile**
 - Región geográfica: Lima, provincias, zonas rurales
 - Tipo de proyecto: educación, salud, medioambiente, etc.
