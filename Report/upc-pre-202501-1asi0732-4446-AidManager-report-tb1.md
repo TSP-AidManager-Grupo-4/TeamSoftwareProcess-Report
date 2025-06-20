@@ -3777,13 +3777,31 @@ Estas pruebas funcionales aseguran que los principales componentes del sistema A
 
 #### 6.2.1.1. Coding Standard & Code Conventions
 
-<p>Landing Page:</p>
+<p> Landing Page:</p>
 
-<p>Arquitectura Modular y Separación de Responsabilidades <p>
+* <p>Arquitectura Modular y Separación de Responsabilidades <p>
 <p>Estructura organizada del Proyecto debido a que se implementa una arquitectura modular ejemplar siguiendo las mejores prácticas de React. </p>
 <p>Cada componente tiene su propia carpeta con archivos JSX y CSS separados, facilitando el mantenimiento, escalabilidad y reutilización del código. Esta estructura permite que múltiples desarrolladores trabajen simultáneamente sin conflictos y sigue el principio de responsabilidad única. </p>
+<center>
 
 ![folder-structure](../assets/code-standards/folder-structure.png)
+</center>
+
+* <p>Convenciones de Nomenclatura React (PascalCase)</p>
+<p>El código cumple estrictamente con las convenciones de nomenclatura de React usando PascalCase para todos los componentes.</p> 
+<p> Esto mejora la legibilidad, permite diferenciación inmediata entre componentes React y elementos HTML, y facilita la detección de errores durante el desarrollo. </p>
+<center>
+
+![code-components](../assets/code-standards/code-components.png)
+</center>
+
+* <p>Implementación Correcta de React Hooks</p>
+<p>Su funcionalidad es para la gestión de Estado y Efectos, el código demuestra un uso correcto y profesional de React Hooks (useState y useEffect) siguiendo las reglas de hooks y mejores prácticas. </p> 
+<p>La implementación incluye cleanup de event listeners, gestión apropiada de dependencias, y manejo de estado local sin mutaciones directas, lo que garantiza un comportamiento predecible y eficiente.</p>
+<center>
+
+![code-burger](../assets/code-standards/burger-code.png)
+</center>
 
 #### 6.2.1.2. Code Quality & Code Security
 
