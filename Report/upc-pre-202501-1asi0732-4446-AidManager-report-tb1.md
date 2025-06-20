@@ -3907,13 +3907,14 @@ Estas pruebas funcionales aseguran que los principales componentes del sistema A
 
 Durante el desarrollo del sistema **AidManager**, se aplicaron prácticas orientadas a garantizar la calidad del código y su seguridad. Las medidas implementadas incluyen:
 
-- ✅ **Linting automático** mediante herramientas como ESLint (frontend) y SonarLint (backend), lo que permitió detectar y corregir errores de estilo, declaraciones redundantes o malas prácticas de programación.
-- ✅ **Convenciones de estilo** estandarizadas (Airbnb Style Guide para JavaScript/TypeScript y convenciones de Spring Boot para Java) aplicadas en todo el equipo para asegurar la legibilidad y mantenibilidad del código.
-- ✅ **Uso de revisiones por pares (code reviews)** en cada solicitud de merge (pull request), garantizando la validación cruzada de lógica, rendimiento y claridad.
-- 🔒 **Gestión segura de credenciales y secretos**, utilizando variables de entorno (`.env`) para almacenar claves API, tokens y credenciales, evitando exposición en el repositorio.
-- 🔒 **Validaciones del lado del servidor** para prevenir inyecciones SQL o ataques de tipo XSS (Cross-site Scripting), especialmente en endpoints de registro, login y tareas.
-- ✅ **Separación de capas** siguiendo principios de arquitectura limpia (Clean Architecture) para evitar lógica de negocio en el controlador o acceso inseguro a la base de datos.
-- ✅ **Uso de control de versiones (Git)** con ramas organizadas (`main`, `dev`, `feature/*`) que facilitaron trazabilidad, integración continua y rollback cuando fue necesario.
+- Linting automático mediante herramientas como ESLint (frontend) y SonarLint (backend), lo que permitió detectar y corregir errores de estilo, declaraciones redundantes o malas prácticas de programación.
+
+- Uso de revisiones por pares (code reviews) en cada solicitud de merge (pull request), garantizando la validación cruzada de lógica, rendimiento y claridad.
+
+- Gestión segura de credenciales y secretos, utilizando variables de entorno (`.env`) para almacenar claves API, tokens y credenciales, evitando exposición en el repositorio.
+
+- Separación de capas siguiendo principios de arquitectura limpia (Clean Architecture) para evitar lógica de negocio en el controlador o acceso inseguro a la base de datos.
+- Uso de control de versiones (Git) con ramas organizadas (`main`, `dev`, `feature/*`) que facilitaron trazabilidad, integración continua y rollback cuando fue necesario.
 
 Estas prácticas no solo fortalecen la base del software, sino que también reducen el riesgo de fallos en producción y mejoran la seguridad de los datos manejados por la plataforma.
 
@@ -3922,16 +3923,16 @@ Estas prácticas no solo fortalecen la base del software, sino que también redu
 
 Durante el desarrollo del sistema **AidManager**, se llevaron a cabo revisiones periódicas del producto con el objetivo de validar el avance, identificar mejoras y garantizar la alineación con los requerimientos del usuario. Las principales revisiones realizadas fueron:
 
-#### ✅ Sprint Reviews
+#### Sprint Reviews
 
 Al final de cada sprint se realizaron reuniones de revisión (Sprint Review) donde se presentaron los entregables funcionales al equipo y se recolectaron observaciones clave. Estas sesiones incluyeron:
 
 - Demostraciones del sistema en su estado actual.
 - Validación de historias de usuario completadas.
-- Feedback inmediato por parte de compañeros y asesor técnico.
+- Feedback inmediato por parte de los integrantes del grupo.
 - Ajustes propuestos para el siguiente sprint.
 
-#### ✅ Peer Reviews de Código
+#### Peer Reviews de Código
 
 Cada componente desarrollado pasó por un proceso de revisión entre pares (peer review) antes de ser fusionado en la rama principal. En este proceso se revisaron aspectos como:
 
@@ -3940,101 +3941,56 @@ Cada componente desarrollado pasó por un proceso de revisión entre pares (peer
 - Detección de errores lógicos o redundancias.
 - Posibles mejoras en rendimiento y seguridad.
 
-#### ✅ Validación con Usuarios Reales (Pruebas Informales)
-
-En paralelo, se realizó una validación informal con potenciales usuarios del sistema (coordinadores y voluntarios de ONG), a través de entrevistas y pruebas exploratorias, permitiendo:
-
-- Verificar la usabilidad de la plataforma.
-- Confirmar si la funcionalidad desarrollada respondía a sus necesidades.
-- Detectar puntos de confusión o fricción en el uso.
-
-Estas revisiones fueron clave para asegurar que el sistema evolucione con calidad, centrado en el usuario final y alineado con los objetivos del proyecto.
-
-
 ## 6.3. Validation Interviews
 
 ### 6.3.1. Diseño de Entrevistas
 
-Las entrevistas de validación fueron diseñadas con el propósito de comprender las necesidades reales de los usuarios del sistema **AidManager** y validar la propuesta de valor desde sus propias experiencias y problemáticas cotidianas. A continuación, se presenta el guion estructurado utilizado para cada segmento objetivo.
+Estas preguntas se aplicaron a todos los entrevistados de validación para recopilar información demográfica y de uso tecnológico, relevante para el contexto de la solución AidManager.
+
+Nombre Completo: (Para identificación interna y seguimiento, si es necesario).
+Edad: (Dato demográfico).
+Rol Actual / Ocupación: (Confirmar su alineación con el segmento objetivo).
+¿En qué distrito reside / Dónde desarrolla principalmente sus actividades? (Contexto geográfico).
+¿Qué tipo de navegador web utiliza con mayor frecuencia para actividades laborales/voluntariado? (Ej. Chrome, Firefox, Safari, Edge).
+¿Qué dispositivos utiliza con mayor frecuencia para acceder a herramientas o plataformas digitales (ordenador, tablet, smartphone)?
+
 
 ---
 
-#### 👥 Segmento 1: Coordinadores de ONG
+#### Segmento 1: (Managers) Gestor de Projectos de ONG
 
-**Objetivo:** Identificar los principales desafíos en la gestión de proyectos sociales, tareas y equipos de voluntarios, así como validar la utilidad de un sistema centralizado como AidManager.
+- "Después de la interacción, ¿te resultó fácil saber dónde ir o qué hacer en cada momento? ¿Encontraste alguna sección confusa o dónde te perdiste?"
 
-**Perfil del entrevistado:** Coordinadores o responsables de planificación y seguimiento de proyectos en organizaciones sociales o sin fines de lucro.
+- "Cuando realizaste las tareas (ej. al crear un proyecto o asignar una tarea), ¿tuviste claro si la acción se había completado con éxito, si había un error, o qué estaba ocurriendo? ¿Recibiste feedback adecuado?"
 
-##### 🟦 Parte 1: Introducción
+- "Para las tareas que realizaste (ej. crear proyecto, asignar tarea), ¿qué tan rápido o fácil te pareció completarlas? ¿Hubo algo que te tomó más tiempo de lo esperado o que sentiste que podría ser más directo?"
 
-1. ¿Podrías contarnos brevemente sobre tu rol dentro de la organización?
-2. ¿Cuántos proyectos suelen gestionar simultáneamente?
-3. ¿Con cuántos voluntarios colaboras regularmente?
+- "Si cometiste un error o quisiste deshacer algo, ¿te resultó fácil corregirlo o volver atrás? ¿Sentiste que tenías control sobre la aplicación?"
 
-##### 🟦 Parte 2: Gestión actual de proyectos y tareas
+- "Los términos usados en la aplicación (ej. 'proyecto', 'tarea', 'team Register Code') y el diseño general (botones, iconos), ¿te parecieron consistentes y fáciles de entender? ¿Se alinean con lo que esperas de una herramienta de gestión?"
 
-4. ¿Qué herramientas utilizas actualmente para gestionar proyectos y tareas?
-5. ¿Qué tan eficiente consideras ese proceso actual? ¿Qué complicaciones enfrentas?
-6. ¿Cómo llevas el control del avance de las tareas y el seguimiento de responsables?
+- "¿Qué te pareció el diseño visual de la aplicación? ¿Sentiste que había información innecesaria o que la interfaz estaba recargada?"
 
-##### 🟦 Parte 3: Comunicación interna y seguimiento
+- "Pensando en tus desafíos actuales de gestión, ¿crees que AidManager, tal como lo probaste, te ayudaría a resolver alguno de esos problemas? ¿Cuál específicamente?"
 
-7. ¿Cómo se comunican los responsables con los voluntarios?
-8. ¿Existen problemas de descoordinación o pérdida de información?
-9. ¿Cómo gestionan los recordatorios o notificaciones de tareas?
-
-##### 🟦 Parte 4: Análisis e impacto
-
-10. ¿Cuentas con algún sistema para visualizar métricas del impacto social generado?
-11. ¿Qué indicadores te gustaría ver automáticamente al finalizar un proyecto?
-12. ¿Qué tan importante sería para ti poder exportar esos datos para reportes?
-
-##### 🟦 Parte 5: Propuesta AidManager
-
-13. ¿Qué opinas de la idea de un sistema web para centralizar la gestión de proyectos, tareas, usuarios y métricas?
-14. ¿Qué funcionalidades serían imprescindibles para ti?
-15. ¿Qué agregarías o cambiarías de la propuesta actual?
+- "Si tuvieras que priorizar las funcionalidades que probaste o imaginaste, ¿cuáles serían las más valiosas para ti? ¿Hay alguna funcionalidad clave que sentiste que faltaba o que te gustaría ver mejorada?"
 
 ---
 
 #### 🙋 Segmento 2: Voluntarios
 
-**Objetivo:** Explorar la experiencia de los voluntarios al participar en proyectos sociales, entender cómo reciben y reportan tareas, y validar si una plataforma como AidManager facilitaría su participación.
+- "Al buscar tus tareas o la información de un proyecto, ¿te pareció que la información estaba clara y era fácil de entender? ¿Las etiquetas o textos tenían sentido para ti?"
 
-**Perfil del entrevistado:** Jóvenes y adultos que colaboran activamente en ONG o proyectos sociales.
+- "Cuando necesitaste encontrar una tarea específica o los detalles de un evento, ¿te resultó sencillo llegar a esa información? ¿Hubo algo que te costó encontrar?"
 
-##### 🟦 Parte 1: Introducción
+- "Para las tareas que realizaste (ej. marcar tarea como completada), ¿qué tan fácil te resultó ejecutar esa acción? ¿Cómo supiste que tu acción se había guardado correctamente?"
 
-1. ¿Hace cuánto tiempo colaboras como voluntario/a?
-2. ¿Con qué tipo de actividades participas habitualmente?
-3. ¿Qué herramientas o canales usas para recibir información sobre tus tareas?
+- "Al intentar comunicarte con tu gestor, ¿te pareció un proceso intuitivo? ¿Crees que este canal te permitiría una comunicación efectiva en tu rol de voluntario?"
+- "El diseño general de la aplicación, ¿te pareció coherente entre las diferentes pantallas? ¿Hubo algo que te llamó la atención positivamente o negativamente en la parte visual?"
+- "¿Crees que usar una herramienta como AidManager, tal como la probaste, mejoraría tu experiencia como voluntario o simplificaría alguna parte de tu participación?"
 
-##### 🟦 Parte 2: Gestión y seguimiento de tareas
+- "Si pudieras darle una sugerencia basada en tu experiencia de hoy, ¿cuál sería? ¿Qué te gustaría ver añadido o cambiado para que fuera aún más útil para ti?"
 
-4. ¿Te resulta fácil saber qué tareas tienes asignadas y en qué estado están?
-5. ¿Qué dificultades enfrentas para cumplir con tus tareas?
-6. ¿Tienes alguna forma de registrar el avance o marcar tareas como completadas?
-
-##### 🟦 Parte 3: Comunicación y recordatorios
-
-7. ¿Cómo te enteras de nuevos encargos o tareas urgentes?
-8. ¿Te gustaría recibir recordatorios automáticos o notificaciones?
-
-##### 🟦 Parte 4: Uso de tecnología
-
-9. ¿Te sentirías cómodo/a usando una aplicación web para gestionar tus tareas y comunicación con la ONG?
-10. ¿Desde qué dispositivo accederías normalmente (celular, laptop, etc.)?
-11. ¿Qué elementos visuales o funciones te facilitarían la experiencia?
-
-##### 🟦 Parte 5: Propuesta AidManager
-
-12. ¿Crees que una herramienta como AidManager podría mejorar tu experiencia como voluntario?
-13. ¿Qué funcionalidades te serían más útiles?
-14. ¿Qué sugerencias tienes para hacerla más efectiva o fácil de usar?
-
----
-
-Este diseño de entrevistas fue aplicado como parte del proceso de validación temprana del sistema, permitiendo detectar necesidades reales, validar hipótesis clave y ajustar el enfoque funcional de la plataforma.
 
 ### 6.3.2. Registro de Entrevistas
 
