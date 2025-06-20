@@ -4803,7 +4803,37 @@ Los datos serán segmentados por:
 
 ## 8.3. Experimentation
 ### 8.3.1. To-Be User Stories
+
+A continuación se detallan las historias de usuario previstas para la plataforma **AidManager**, orientadas a mejorar la eficiencia operativa de organizaciones sociales mediante la gestión digital de proyectos, tareas, usuarios y métricas de impacto.
+
+| ID         | Actor              | User Story                                                                 | Criterios de Aceptación                                                                                   |
+|------------|--------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| US-AM-01   | Coordinador ONG    | Como coordinador, quiero registrar nuevos proyectos sociales, para gestionarlos desde la plataforma. | - El sistema debe permitir crear proyectos con título, descripción, objetivos, fechas y responsables.<br>- Se debe mostrar mensaje de confirmación tras el registro. |
+| US-AM-02   | Voluntario         | Como voluntario, quiero visualizar los proyectos en los que participo, para conocer mis tareas asignadas. | - El sistema debe mostrar una lista de proyectos relacionados al usuario logueado.<br>- Debe incluir fechas clave y responsables del proyecto. |
+| US-AM-03   | Coordinador ONG    | Como coordinador, quiero asignar tareas específicas a los voluntarios, para asegurar una correcta distribución del trabajo. | - El sistema debe permitir crear tareas y asignarlas a usuarios del proyecto.<br>- Cada tarea debe tener estado, prioridad y fecha límite. |
+| US-AM-04   | Voluntario         | Como voluntario, quiero registrar el progreso de mis tareas, para mantener al equipo informado. | - El sistema debe permitir actualizar el estado de una tarea.<br>- Se debe guardar un historial de cambios por tarea. |
+| US-AM-05   | Coordinador ONG    | Como coordinador, quiero visualizar un dashboard con el avance de cada proyecto, para tomar decisiones informadas. | - El sistema debe mostrar porcentaje de avance, tareas completadas y pendientes por proyecto.<br>- Debe permitir filtrar por fechas o responsables. |
+| US-AM-06   | Administrador ONG  | Como administrador, quiero gestionar los usuarios de la plataforma, para controlar accesos y roles. | - El sistema debe permitir registrar, editar, eliminar y asignar roles a los usuarios.<br>- Se deben validar roles antes de mostrar funcionalidades. |
+| US-AM-07   | Coordinador ONG    | Como coordinador, quiero enviar notificaciones automáticas a los voluntarios sobre tareas pendientes, para mejorar la eficiencia del equipo. | - El sistema debe enviar recordatorios según fecha límite configurada.<br>- Debe notificarse por correo o dentro de la app. |
+| US-AM-08   | Administrador ONG  | Como administrador, quiero visualizar métricas de impacto social por proyecto, para sustentar reportes institucionales. | - El sistema debe mostrar indicadores como beneficiarios alcanzados, horas voluntarias, etc.<br>- Debe poder exportarse a PDF o Excel. |
+| US-AM-09   | Voluntario         | Como voluntario, quiero recibir notificaciones de nuevas tareas asignadas, para actuar con rapidez. | - El sistema debe generar una notificación inmediata tras la asignación.<br>- Debe incluir un enlace directo a la tarea correspondiente. |
+
 ### 8.3.2. To-Be Product Backlog
+
+A continuación se presenta el backlog de producto correspondiente al sistema **AidManager**, basado en las historias de usuario definidas en la sección anterior. Cada ítem está priorizado según su valor funcional y esfuerzo estimado para el desarrollo.
+
+| ID         | Historia de Usuario Relacionada | Épica                   | Característica                                              | Prioridad | Esfuerzo Estimado |
+|------------|----------------------------------|--------------------------|-------------------------------------------------------------|-----------|--------------------|
+| PB-AM-01   | US-AM-01                         | Gestión de Proyectos     | Registro de nuevos proyectos sociales                       | Alta      | 5 puntos           |
+| PB-AM-02   | US-AM-02                         | Visualización Personal   | Listado de proyectos asignados al voluntario                | Alta      | 3 puntos           |
+| PB-AM-03   | US-AM-03                         | Gestión de Tareas        | Asignación de tareas a voluntarios                          | Alta      | 5 puntos           |
+| PB-AM-04   | US-AM-04                         | Seguimiento de Tareas    | Registro y actualización del progreso de tareas             | Alta      | 5 puntos           |
+| PB-AM-05   | US-AM-05                         | Panel de Control         | Dashboard con avance y estado de proyectos                  | Alta      | 8 puntos           |
+| PB-AM-06   | US-AM-06                         | Gestión de Usuarios      | Alta, edición y eliminación de usuarios y asignación de roles | Media     | 5 puntos           |
+| PB-AM-07   | US-AM-07                         | Notificaciones           | Recordatorios automáticos de tareas pendientes              | Media     | 5 puntos           |
+| PB-AM-08   | US-AM-08                         | Reportes e Indicadores   | Métricas de impacto social y exportación                    | Alta      | 8 puntos           |
+| PB-AM-09   | US-AM-09                         | Notificaciones           | Aviso inmediato al voluntario por nueva tarea asignada      | Media     | 3 puntos           |
+
 # Conclusiones
 En conclusión, para la TB1 se realizó el desarrollo de la solución y la implementación de esta misma. En futuras entregas estaremos observando mas de cerca el código a nivel de pruebas.
 
