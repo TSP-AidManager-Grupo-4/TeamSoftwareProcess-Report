@@ -3777,6 +3777,14 @@ Estas pruebas funcionales aseguran que los principales componentes del sistema A
 
 #### 6.2.1.1. Coding Standard & Code Conventions
 
+<p>Landing Page:</p>
+
+<p>Arquitectura Modular y Separación de Responsabilidades <p>
+<p>Estructura organizada del Proyecto debido a que se implementa una arquitectura modular ejemplar siguiendo las mejores prácticas de React. </p>
+<p>Cada componente tiene su propia carpeta con archivos JSX y CSS separados, facilitando el mantenimiento, escalabilidad y reutilización del código. Esta estructura permite que múltiples desarrolladores trabajen simultáneamente sin conflictos y sigue el principio de responsabilidad única. </p>
+
+![folder-structure](../assets/code-standards/folder-structure.png)
+
 #### 6.2.1.2. Code Quality & Code Security
 
 ### 6.2.2. Reviews
