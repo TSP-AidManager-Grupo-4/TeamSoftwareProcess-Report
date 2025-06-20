@@ -3803,6 +3803,51 @@ Estas pruebas funcionales aseguran que los principales componentes del sistema A
 ![code-burger](../assets/code-standards/burger-code.png)
 </center>
 
+<p>Web Application:</p>
+
+* <p>Arquitectura Modular y Separación de Responsabilidades </p>
+
+<p>Estructura organizada del proyecto debido a que se implementa una arquitectura modular ejemplar siguiendo las mejores prácticas de Vue.js.</p> 
+<p>El proyecto mantiene una separación clara de responsabilidades con carpetas dedicadas para modelos (entities), servicios (API communication), componentes reutilizables organizados por funcionalidad, páginas principales, y gestión de estado centralizada con Vue.
+<p> Esta estructura permite que múltiples desarrolladores trabajen simultáneamente sin conflictos, facilita el mantenimiento y escalabilidad del código, y sigue el principio de responsabilidad única donde cada archivo tiene un propósito específico y bien definido. Arquitectura de front-end modular basada en la separación de responsabilidades</p>
+
+<center>
+
+![folder-structure](../assets/code-standards/web-folder-structure.png)
+</center>
+
+* <p>Gestión de estado centralizada con vue</p>
+
+<p>Implementación de store centralizado para el manejo de estado global siguiendo las mejores prácticas de Vue con una estructura bien organizada. </p>
+<p>El store incluye state para gestión del usuario y formularios, mutations con nombres descriptivos para modificaciones síncronas del estado, actions para operaciones asíncronas de actualización de datos, e integración con localStorage para persistencia de sesión. </p>
+<p>Esta implementación garantiza un flujo de datos predecible, facilita el debugging, y permite compartir estado entre componentes de manera eficiente sin prop drilling. </p>
+
+<center>
+
+![code-store](../assets/code-standards/code-store.png)
+</center>
+
+* <p>Modelos de dominio bien estructurados</p>
+
+<p>Implementación de entidades de dominio con constructores claros y propiedades bien definidas que reflejan fielmente el modelo de negocio. Los modelos como User.entity.js definen constructores explícitos con todos los parámetros necesarios, utilizan nombres de propiedades descriptivos y consistentes, y mantienen una estructura clara que refleja el dominio del negocio. </p>
+<p>Esta implementación facilita la validación de datos, mejora la legibilidad del código, reduce errores de tipeo en propiedades, y permite un mapeo directo entre los datos de la API y los objetos del frontend.</p>
+
+<center>
+
+![code-store](../assets/code-standards/code-entity.png)
+</center>
+
+* <p>Manejo Robusto de Errores y Operaciones Asíncronas </p>
+
+<p>Implementación consistente de manejo de errores y operaciones asíncronas siguiendo las mejores prácticas de JavaScript moderno con async/await.</p>
+<p> El código utiliza bloques try-catch sistemáticamente en todos los métodos de servicio para capturar errores, proporciona mensajes de error descriptivos con console.error que incluyen contexto específico como IDs y parámetros, y maneja correctamente las promesas con async/await evitando callback hell. </p>
+<p>Esta implementación garantiza una experiencia de usuario más estable, facilita el debugging en desarrollo, previene crashes inesperados de la aplicación, y proporciona información valiosa para el monitoreo en producción.</p>
+<center>
+
+![code-store](../assets/code-standards/code-user.png)
+</center>
+
+
 #### 6.2.1.2. Code Quality & Code Security
 
 ### 6.2.2. Reviews
