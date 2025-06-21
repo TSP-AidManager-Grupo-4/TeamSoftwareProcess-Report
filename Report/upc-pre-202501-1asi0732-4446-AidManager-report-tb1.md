@@ -3868,7 +3868,7 @@ Estas pruebas funcionales aseguran que los principales componentes del sistema A
 
 * <p>Arquitectura Limpia y Patrones de Diseño Consistentes</p>
 
-<p>Implementación sistemática de Domain-Driven Design (DDD) y arquitectura en capas siguiendo las mejores prácticas de desarrollo empresarial con .NET.</p>
+<p>Implementación sistemática de Domain-Driven Design (DDD) y arquitectura en capas siguiendo las mejores prácticas de desarrollo gestion con .NET.</p>
 <p>El código utiliza una estructura arquitectónica bien definida organizando el proyecto en bounded contexts claramente separados (Authentication, Collaborate, IAM, ManageCosts, ManageTasks, Payment, UserProfile), implementa el patrón Repository con interfaces bien definidas que separan la lógica de dominio de la infraestructura de datos, y mantiene consistencia en la nomenclatura usando PascalCase para clases y métodos públicos (UserCommandService, CreateProjectCommand) y camelCase para parámetros y variables locales. </p>
 <p>El código también implementa primary constructors de C# de manera consistente en todas las clases de servicio, como en public class AnalyticsCommandService(IAnalyticsRepository analyticsRepository, IUnitOfWork unitOfWork), y utiliza convenciones de nombres descriptivos que expresan claramente la intención del código.</p>
 
@@ -3969,7 +3969,7 @@ Estas preguntas se aplicaron a todos los entrevistados de validación para recop
 
 ---
 
-#### Segmento 1: (Managers) Gestor de Projectos de ONG
+#### Segmento 1: (Managers) Gestor de proyectos de ONG
 
 - "Después de la interacción, ¿te resultó fácil saber dónde ir o qué hacer en cada momento? ¿Encontraste alguna sección confusa o dónde te perdiste?"
 
@@ -4017,8 +4017,7 @@ Distrito: San Isidro
 Timing: 0:30 (Inicio de la entrevista)
 
 <center>
-<img src="imagenentrevista" alt="Entrevista 1 Segmento TeamMember" width="500"/>
-</center>
+<img src="../assets/entrevistasvalidar/diego.png" alt="Entrevista 1 Segmento TeamMember" width="500"/></center>
 
 <p>Diego Ávalos, quien se dedica a la comunicación de eventos y relaciones públicas para diversas ONGs, utiliza Chrome en su laptop o celular para trabajar. Durante la entrevista, se le mostró una demo de una herramienta de gestión de proyectos para ONGs, que incluía funcionalidades como la gestión de tareas, analíticas, un calendario y la creación de publicaciones.</p>
 
@@ -4027,6 +4026,39 @@ Timing: 0:30 (Inicio de la entrevista)
 <p>En cuanto al diseño, la coherencia visual y el uso de colores le resultaron agradables y no generaron distracciones. Diego cree que esta herramienta de gestión de proyectos mejoraría significativamente su experiencia como voluntario, ya que permitiría un seguimiento integral de los proyectos y reduciría la necesidad de buscar información en correos o chats dispersos. Como sugerencia, propuso añadir un calendario que permitiera visualizar los eventos y tareas por días, con la posibilidad de vincularse con otras aplicaciones de calendario como Google Calendar u Outlook.</p>
 
 
+Nombre: Isabel Hoffmann
+Edad: 51
+Ocupación: Gestion de eventos
+Browser: Chrome
+Device: Laptop, Celular 
+Distrito: La Libertad
+Timing: 13:22
+
+Isabel es gestora de proyectos de ONG donde menciona que el uso de excel y la baja comunicacion puede generar problemas a la hora de organizarse.
+En la entrevista un poco breve menciona que le encanto la propuesta y que esta muy interesada en la seccion de analiticas de la solucion ya que menciona que el seguimiento financiero y gestion de tareas es sumamente relevante en su rubro.
+
+<center>
+<img src="../assets/entrevistasvalidar/maria.png" alt="Entrevista 1 Segmento TeamMember" width="500"/>
+</center>
+
+ ---
+
+Nombre: Maria Hoffmann
+Edad: 51
+Ocupación: Gestion de eventos
+Browser: Chrome
+Device: Laptop, Celular 
+Distrito: La Libertad
+Timing: 40:00
+
+Maria trabaja como gestora de eventos en una ONG donde ya ha participado de distintos proyectos de ayuda social, maneja un equipo de voluntarios en cada equipo y menciona que se comunica con ellos via whatsapp.
+Cuando Maria prueba la app se ve interesada en saber las restriciones que tiene los voluntarios respecto as sus tareas, es decir que solo vean aquellas tareas que les corresponden, adicionalmente, menciona que la UI de la aplicacion movil es muy  fluida y se siente profesional, efficiente y rapida.
+Como comentario final se sorprende de la velocidad y simpleza del proceso que implica usar la aplicacion movil.
+
+
+<center>
+<img src="../assets/entrevistasvalidar/mariah.png" alt="Entrevista 1 Segmento TeamMember" width="500"/>
+</center>
 
 ## Segmento 2: (TeamMembers) Ayudante de Eventos ONG
 
@@ -4048,7 +4080,52 @@ Timing: 0:30 (Inicio de la entrevista)
 
 <p>Alvaro cree que AidManager mejoraría su experiencia como voluntario y recomendó añadir un sistema de notificaciones y una vista de calendario para facilitar la planificación y evitar olvidar fechas importantes.</p>
 
+---
 
+**Nombre:** Luis Eduardo 
+
+**Edad:** 21
+
+**Ocupación:** Voluntario de ONG 
+
+**Browser:** Chrome  
+
+**Device:** Laptop y Movil 
+
+**Distrito:** SanBorja, Lima  
+**Timing:** 59:38
+
+<center>
+<img src="../assets/entrevistasvalidar/luis.png" alt="Entrevista 1 Segmento TeamMember" width="500"/>
+</center>
+
+<p>Luis Eduardo, un joven de 21 años residente en San Borja, es estudiante de Ingeniería de Software y colabora como TEAM Member en diversas ONGs. Para sus actividades de voluntariado y estudio, prefiere los navegadores web Brave o Chrome y utiliza principalmente su computadora y laptop.</p>
+
+<p>Durante la demostración de la aplicación (que asumo fue para él, dado que se inicia una nueva sección de demo después de su presentación), se le mostró el flujo de ingreso a la plataforma, donde el usuario debe introducir credenciales y un código de ONG provisto por el gestor. Se resaltó la vista principal donde aparecen los posts de su project manager y la sección de proyectos. Como TEAM Member, Luis Eduardo no puede agregar proyectos, pero sí puede observar los que tiene asignados y moverlos según su estado (ej. a "done"), después de un proceso de validación. También se le presentó la sección de analíticas, la cual se actualiza mensualmente (con planes de futura actualización en vivo), y la función de calendario, donde debería ver las fechas de las tareas de sus proyectos.</p>
+
+Nombre: Diego Bazán
+Edad: 25 años
+Ocupación: Estudiante y Asesor de ventas para una ONG
+Browser: Chrome
+Device: Laptop
+Distrito: San Isidro
+Timing: 1:07:00
+
+<center>
+<img src="../assets/entrevistasvalidar/bazan.png" alt="Entrevista 1 Segmento TeamMember" width="500"/>
+</center>
+
+<p>Diego Bazán, un estudiante de 25 años con más de dos años de experiencia como asesor de ventas para una ONG, fue entrevistado sobre su percepción de una herramienta de gestión de proyectos. Para él, la información general y las etiquetas en la herramienta eran entendibles y digeribles, pero notó que los plazos extendidos y la desorganización en la creación de eventos y gestión de ventas dificultaban el proceso. Sugirió que los plazos y funciones deberían estar más definidos para mayor claridad y entendimiento.</p>
+
+<p>Al buscar tareas específicas o detalles de eventos, Diego encontró complicaciones debido a que la información estaba descentralizada, haciendo difícil localizar lo necesario para la creación del evento o la asignación de roles. También le resultó difícil encontrar el historial de eventos pasados.</p>
+
+<p>Marcar las tareas como completadas fue un proceso fácil, y le agradó la confirmación visual (un "check verde") que le daba seguridad de que su acción se había guardado correctamente. Como mejora, sugirió un mensaje de confirmación que pudiera ser anexado al correo para doble verificación y visibilidad para el equipo.</p>
+
+<p>La comunicación con el gestor a través de la herramienta le pareció bastante intuitiva, con un botón visible que llevaba a un chat o formulario directo. Aunque no sabía si los mensajes se recibían de forma inmediata, tenía la confirmación de envío y que serían leídos.</p>
+
+<p>El diseño visual de la aplicación le pareció perfecto, coherente y ordenado, con colores que no generaban distracciones ni fatiga. Destacó la claridad como primordial y el tamaño de las letras como adecuado.</p>
+
+<p>Diego cree que una herramienta como Aid Manager mejoraría "definitivamente" su experiencia como voluntario y simplificaría su participación. La considera "perfecta" para la organización y seguimiento integral de tareas y proyectos para todo un equipo, ya que reduce la necesidad de buscar información dispersa en correos o chats primitivos. Su principal sugerencia para mejorar la herramienta es la adición de un tipo de calendario integrado donde pueda visualizar eventos y tareas organizados por días, con la posibilidad de vincular alertas a otras aplicaciones de calendario como Google Calendar u Outlook.</p>
 
 
 ### 6.3.3. Evaluaciones según heurísticas
@@ -4075,13 +4152,13 @@ Añadir un nuevo proyecto.
 Agendar reuniones o hitos de proyecto.
 Actualizar información de un proyecto.
 Visualizar estadísticas de proyectos en el Dashboard (Web).
-Enviar consultas a un especialista.
+Enviar consultas a un gestion.
 Eliminar un proyecto.
 Monitoreo rápido de información de proyectos (Móvil).
 Registrar/Editar proyecto desde la aplicación móvil.
 
 Tareas No Incluidas en esta Versión:
-Cualquier funcionalidad no cubierta o no principal para esta etapa de validación, tales como el uso de API externa de especialista, cambio de datos de perfil, implementación de CRM en su totalidad en móvil, etc
+Cualquier funcionalidad no cubierta o no principal para esta etapa de validación, tales como el cambio de datos de perfil, implementación de CRM en su totalidad en móvil, etc
 
 <table>
     <tr>
@@ -4136,48 +4213,36 @@ Cualquier funcionalidad no cubierta o no principal para esta etapa de validació
             </tr>
             <tr class="severity-2">
                 <td>4</td>
-                <td>Problemas de visibilidad de scroll: Usuarios tuvieron que ser guiados para desplazarse hacia abajo y encontrar campos adicionales o selecciones de horario en formularios (ej. añadir planta, agendar instalación, secciones iniciales de Landing Page). </td>
+                <td>Problemas de visibilidad de scroll: Usuarios tuvieron que ser guiados para desplazarse hacia abajo y encontrar campos adicionales o selecciones de horario en formularios (ej. añadir proyecto, agendar instalación, secciones iniciales de Landing Page). </td>
                 <td>2</td>
                 <td>Usabilidad: Visibilidad del estado del sistema / Estética y diseño minimalista.</td>
             </tr>
             <tr class="severity-2">
                 <td>5</td>
-                <td>Ambigüedad en la entrada de datos de prueba: La interfaz para la fecha de expiración de la tarjeta de prueba no indicaba claramente el requisito de una fecha futura , y hubo confusión sobre cómo introducir el número de tarjeta de prueba. </td>
-                <td>2</td>
-                <td>Usabilidad: Consistencia y estándares / Ayuda y documentación.</td>
-            </tr>
-            <tr class="severity-2">
-                <td>6</td>
-                <td>Falta de opciones avanzadas de facturación y exportación de datos para el segmento empresarial: El usuario empresarial deseaba opciones de facturación más detalladas (ej. RUC, nombre de empresa)  y la capacidad de descargar datos del dashboard (ej. Excel) para análisis. </td>
+                <td>Falta de opciones avanzadas de facturación y exportación de datos para el segmento gestion: El usuario gestion deseaba opciones de facturación más detalladas (ej. RUC, nombre de empresa)  y la capacidad de descargar datos del dashboard (ej. Excel) para análisis. </td>
                 <td>2</td>
                 <td>Usabilidad: Flexibilidad y eficiencia de uso / Coincidencia entre el sistema y el mundo real.</td>
             </tr>
             <tr class="severity-2">
-                <td>7</td>
-                <td>Iconografía o etiquetado poco claro: El significado del icono "ojo" para ver más información de la planta no fue inmediatamente claro para un usuario.  Hubo ligera confusión entre "nombre" y "tipo" de planta, y "título" y "descripción" para preguntas. </td>
+                <td>6</td>
+                <td>Iconografía o etiquetado poco claro: El significado del icono "ojo" para ver más información de la proyecto no fue inmediatamente claro para un usuario.  Hubo ligera confusión entre "nombre" y "tipo" de proyecto, y "título" y "descripción" para preguntas. </td>
                 <td>2</td>
                 <td>Usabilidad: Reconocimiento en lugar de recuerdo / Coincidencia entre el sistema y el mundo real.</td>
             </tr>
             <tr class="severity-2">
-                <td>8</td>
-                <td>Incapacidad para subir fotos a la información de la planta. </td>
+                <td>7</td>
+                <td>Incapacidad para subir fotos a la información de la proyecto. </td>
                 <td>2</td>
                 <td>Usabilidad: Flexibilidad y eficiencia de uso (característica esperada).</td>
             </tr>
-            <tr class="severity-2">
-                <td>9</td>
-                <td>Falta de claridad en la visibilidad de las respuestas a las consultas: Un usuario preguntó dónde aparecerían las respuestas de los especialistas. </td>
-                <td>2</td>
-                <td>Usabilidad: Visibilidad del estado del sistema / Ayuda y documentación.</td>
-            </tr>
             <tr class="severity-1">
-                <td>10</td>
+                <td>8</td>
                 <td>Información de perfil estática: La sección de perfil del usuario mostraba datos fijos debido a problemas de conexión con la base de datos, lo que afectó la expectativa del usuario de ver su información dinámica. </td>
                 <td>1</td>
                 <td>Usabilidad: Coincidencia entre el sistema y el mundo real (limitación técnica impactando la expectativa).</td>
             </tr>
             <tr class="severity-1">
-                <td>11</td>
+                <td>9</td>
                 <td>Interrupciones o pausas en la aplicación móvil: Se observó una pausa inicial o problema de carga antes de que el usuario pudiera interactuar completamente con la aplicación móvil. </td>
                 <td>1</td>
                 <td>Usabilidad: Visibilidad del estado del sistema / Tiempos de respuesta.</td>
@@ -4221,10 +4286,11 @@ Recomendación:
 Soporte Multi-idioma: Implementar un sistema de localización que permita traducir toda la interfaz de usuario al español y a otros idiomas relevantes.
 Selector de Idioma Visible: Colocar un selector de idioma de fácil acceso (ej., en el encabezado, pie de página o configuración del perfil) para que los usuarios puedan cambiar el idioma según sus preferencias.
 Detección Automática (Opcional): Considerar la detección del idioma del navegador o del dispositivo para ofrecer la aplicación en el idioma preferido del usuario por defecto, siempre con la opción de cambiarlo.
+
 #### Problema #4: Problemas de visibilidad de scroll y falta de indicación de contenido oculto (y botones pequeños).
+
 Severidad: 2
 Heurística violada: Usabilidad: Visibilidad del estado del sistema / Estética y diseño minimalista.
-
 Problema:
 En múltiples ocasiones, los entrevistadores tuvieron que indicar a los usuarios que "bajen" o "hagan scroll hacia abajo" para poder ver campos adicionales en formularios (como al añadir un proyecto, ingresar el correo y país en el registro, o ver las opciones de horarios para agendar un hito). Esto indica que no hay suficientes indicadores visuales (ej., barras de scroll, elementos "cortados" en la parte inferior de la pantalla) que sugieran la presencia de contenido más allá del área visible inicial, lo que interrumpe el flujo del usuario y puede llevar a la omisión de información importante. Adicionalmente, la mención de "botones pequeños" puede contribuir a la dificultad de interacción, haciendo que los usuarios no los perciban o les cueste interactuar con ellos, especialmente si están cerca de los bordes o requieren scroll.
 
@@ -4251,11 +4317,11 @@ Severidad: 2
 Heurística violada: Usabilidad: Flexibilidad y eficiencia de uso / Coincidencia entre el sistema y el mundo real.
 
 Problema:
-El usuario del segmento de Gestor de Proyectos expresó la necesidad de funcionalidades de gestión de proyectos más robustas, como la capacidad de incluir datos específicos del proyecto (ej. presupuesto asignado, tipo de tarea) en los reportes, lo cual no estaba visiblemente disponible. Además, solicitó opciones de filtrado más avanzadas en el dashboard (ej. por trimestre, por mes) y la capacidad de exportar datos a formatos como Excel, para un análisis más profundo ("una opción de descarga en Excel también me sirve porque a esos datos hay que tratarlos más"). Se mencionó también que "la vista de analíticas podría ser más centralizada y que tenga distintas áreas", lo que sugiere una necesidad de una visión más comprensiva y personalizable de los datos del proyecto. Esto indica que la aplicación, en su estado actual, no satisface completamente las necesidades de gestión y análisis de datos más complejas de un usuario de perfil empresarial.
+El usuario del segmento de Gestor de Proyectos expresó la necesidad de funcionalidades de gestión de proyectos más robustas, como la capacidad de incluir datos específicos del proyecto (ej. presupuesto asignado, tipo de tarea) en los reportes, lo cual no estaba visiblemente disponible. Además, solicitó opciones de filtrado más avanzadas en el dashboard (ej. por trimestre, por mes) y la capacidad de exportar datos a formatos como Excel, para un análisis más profundo ("una opción de descarga en Excel también me sirve porque a esos datos hay que tratarlos más"). Se mencionó también que "la vista de analíticas podría ser más centralizada y que tenga distintas áreas", lo que sugiere una necesidad de una visión más comprensiva y personalizable de los datos del proyecto. Esto indica que la aplicación, en su estado actual, no satisface completamente las necesidades de gestión y análisis de datos más complejas de un usuario de perfil gestion.
 
 Recomendación:
 
-Gestión de Proyectos Empresarial: Expandir las opciones de reportes para incluir campos para información corporativa y de proyecto detallada (presupuesto, hitos, responsabilidades, etc.) y permitir la generación de informes detallados.
+Gestión de Proyectos gestion: Expandir las opciones de reportes para incluir campos para información corporativa y de proyecto detallada (presupuesto, hitos, responsabilidades, etc.) y permitir la generación de informes detallados.
 Filtros Avanzados en Dashboard: Añadir opciones de filtrado de tiempo más granulares (ej. día, semana, mes, trimestre, año) y personalizables en el dashboard, permitiendo a los usuarios segmentar y analizar datos por diferentes criterios de proyecto (ej. por estado, por tipo de tarea, por miembro del equipo).
 Exportación de Datos: Implementar funcionalidades de exportación de datos del dashboard a formatos comunes como CSV o Excel para permitir a los usuarios realizar análisis externos.
 Centralización de Analíticas: Rediseñar la sección de analíticas para ofrecer una vista más consolidada y personalizable, permitiendo a los usuarios visualizar diferentes aspectos del rendimiento del proyecto en un solo lugar y navegar fácilmente entre ellos.
@@ -4264,7 +4330,7 @@ Severidad: 2
 Heurística violada: Usabilidad: Reconocimiento en lugar de recuerdo / Coincidencia entre el sistema y el mundo real.
 
 Problema:
-Un usuario tuvo dudas sobre el significado del icono de "ojito" en la interfaz ("el del ojito no estaba seguro. ¿Para qué era?"). Además, se observó una ligera confusión entre los términos "nombre" y "tipo" de proyecto al registrar un nuevo proyecto, y entre "título" y "descripción" al formular una pregunta a un especialista. Estas inconsistencias o ambigüedades en la terminología y la iconografía requieren que el usuario adivine o dependa de la guía, lo que reduce la eficiencia y aumenta la carga cognitiva.
+Un usuario tuvo dudas sobre el significado del icono de "ojito" en la interfaz ("el del ojito no estaba seguro. ¿Para qué era?"). Además, se observó una ligera confusión entre los términos "nombre" y "tipo" de proyecto al registrar un nuevo proyecto, y entre "título" y "descripción". Estas inconsistencias o ambigüedades en la terminología y la iconografía requieren que el usuario adivine o dependa de la guía, lo que reduce la eficiencia y aumenta la carga cognitiva.
 
 Recomendación:
 
@@ -4282,31 +4348,8 @@ Recomendación:
 
 Implementar Carga de Archivos: Desarrollar e integrar una funcionalidad que permita a los usuarios adjuntar documentos, imágenes y otros archivos relevantes a sus proyectos.
 Beneficios Claros: Comunicar cómo esta característica puede enriquecer la experiencia del usuario (ej., "Adjunte planes, presupuestos y recursos clave a su proyecto", "Centralice toda la información de su proyecto").
-#### Problema #9: Falta de claridad en la visibilidad de las respuestas a las consultas.
-Severidad: 2
-Heurística violada: Usabilidad: Visibilidad del estado del sistema / Ayuda y documentación.
 
-Problema:
-Después de enviar una consulta a un especialista, un usuario preguntó directamente: "¿Y la respuesta me sale acá también o me agenda como esa idea?". Esto indica que no hay una indicación clara en la interfaz sobre dónde o cómo el usuario recibirá la respuesta a su consulta, generando incertidumbre sobre el estado y el resultado de su acción.
-
-Recomendación:
-
-Notificaciones Claras: Al enviar una consulta, mostrar un mensaje de éxito que indique claramente: "Su consulta ha sido enviada. Recibirá una respuesta en la sección 'Mis Consultas' y/o por correo electrónico."
-Sección "Mis Consultas": Asegurarse de que la sección donde se mostrarán las respuestas sea fácilmente accesible y que tenga un indicador visual (ej., un punto de notificación) cuando haya una nueva respuesta.
-Comunicación Consistente: Si las respuestas también se envían por correo electrónico, mencionarlo explícitamente en la interfaz.
-#### Problema #10: Información de perfil estática y no editable.
-Severidad: 1
-Heurística violada: Usabilidad: Coincidencia entre el sistema y el mundo real (debido a limitaciones técnicas).
-
-Problema:
-El entrevistador mencionó que la vista de perfil "más que nada lo hemos mantenido con datos fijos por el momento, ya que actualmente contamos con unos problemas para vincular en la base de datos la información de la cuenta, o sea del perfil del usuario, no de la cuenta." Aunque es una limitación técnica conocida por el equipo, para el usuario esto se percibe como una sección de perfil no funcional o incompleta, lo cual va en contra de la expectativa de poder ver y editar su propia información de cuenta en una aplicación moderna.
-
-Recomendación:
-
-Comunicación Temporal: Si la funcionalidad está deshabilitada temporalmente por problemas técnicos, considerar un mensaje discreto en la interfaz que informe al usuario (ej., "Estamos trabajando para mejorar tu perfil. La edición estará disponible pronto.").
-Priorizar Corrección: Corregir el problema de vinculación con la base de datos para habilitar la edición de perfiles lo antes posible.
-Funcionalidad Esencial: Asegurar que las funcionalidades básicas de gestión de perfil (ver datos, editar email/contraseña, etc.) estén operativas para proporcionar una experiencia de usuario completa y satisfactoria.
-#### Problema #11: Pausas o cargas iniciales en la aplicación móvil.
+#### Problema #9: Pausas o cargas iniciales en la aplicación móvil.
 Severidad: 1
 Heurística violada: Usabilidad: Visibilidad del estado del sistema / Tiempos de respuesta.
 
