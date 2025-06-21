@@ -3947,12 +3947,12 @@ Cada componente desarrollado pasó por un proceso de revisión entre pares (peer
 
 Estas preguntas se aplicaron a todos los entrevistados de validación para recopilar información demográfica y de uso tecnológico, relevante para el contexto de la solución AidManager.
 
-Nombre Completo: (Para identificación interna y seguimiento, si es necesario).
-Edad: (Dato demográfico).
-Rol Actual / Ocupación: (Confirmar su alineación con el segmento objetivo).
-¿En qué distrito reside / Dónde desarrolla principalmente sus actividades? (Contexto geográfico).
-¿Qué tipo de navegador web utiliza con mayor frecuencia para actividades laborales/voluntariado? (Ej. Chrome, Firefox, Safari, Edge).
-¿Qué dispositivos utiliza con mayor frecuencia para acceder a herramientas o plataformas digitales (ordenador, tablet, smartphone)?
+<p>Nombre Completo: (Para identificación interna y seguimiento, si es necesario).</p>
+<p>Edad: (Dato demográfico).</p>
+<p>Rol Actual / Ocupación: (Confirmar su alineación con el segmento objetivo).</p>
+<p>¿En qué distrito reside / Dónde desarrolla principalmente sus actividades? (Contexto geográfico).</p>
+<p>¿Qué tipo de navegador web utiliza con mayor frecuencia para actividades laborales/voluntariado? (Ej. Chrome, Firefox, Safari, Edge).</p>
+<p>¿Qué dispositivos utiliza con mayor frecuencia para acceder a herramientas o plataformas digitales (ordenador, tablet, smartphone)?</p>
 
 
 ---
@@ -4076,7 +4076,7 @@ Objetivos de la auditoría: Evaluar la usabilidad de la nueva funcionalidad de r
 
 Metodología utilizada: Revisión heurística y análisis de flujo de usuario.
 
-Áreas evaluadas: Registro de usuario, funciones principales como: y  sistema core de la solucion.
+Áreas evaluadas: Registro de usuario, funciones principales como: y  sistema core de la solución.
 
 Principales hallazgos y problemas identificados: 
 
