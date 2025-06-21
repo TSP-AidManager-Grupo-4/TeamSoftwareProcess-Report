@@ -5394,10 +5394,18 @@ A continuación se presenta el backlog de producto correspondiente al sistema **
 | PB-AM-08   | US-AM-08                         | Reportes e Indicadores   | Métricas de impacto social y exportación                    | Alta      | 8 puntos           |
 | PB-AM-09   | US-AM-09                         | Notificaciones           | Aviso inmediato al voluntario por nueva tarea asignada      | Media     | 3 puntos           |
 
+# Video About The Team
+
+Se adjunta el video about the team realizado con los testimonios de nuestros miembros de equipo
+
+[Video About the Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EUqRhCrrTLZNmi4a01sIQF0BjjUrnatGGcPXhUmdNg_OHA?e=bWmeMG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 # Conclusiones
 En conclusión, para la TB1 se realizó el desarrollo de la solución y la implementación de esta misma. En futuras entregas estaremos observando mas de cerca el código a nivel de pruebas.
 
 En conclusión, para la TP1 se realizó el el testing necesario para nustras soluciones implementamos herramienas nuevas y distinos procesos para lograr nuestros objetivos.
+
+En conclusión, para la TP2 se realizó el las en trevistas, auditorias y adicion de features segun los experiment cards siguiendo el approach de experiment driven design
 
 
 # Bibliografia
@@ -5423,8 +5431,6 @@ Katti, V. S., & Sowmya, K. (2022). Flutter: Cross-platform IDE for mobile applic
 
 
 
-
-
 # Anexos
 
 [1.1 LeanUX Canvas]:
@@ -5435,4 +5441,4 @@ Katti, V. S., & Sowmya, K. (2022). Flutter: Cross-platform IDE for mobile applic
 
 [Repositorio Mobile App] :  https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-Mobile-App
 
-[Backend Repositorio] : https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-General-BackEnd
+[Backend Repositorio](https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-General-BackEnd)
