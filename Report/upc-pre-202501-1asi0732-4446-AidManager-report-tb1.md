@@ -4006,6 +4006,26 @@ Estas preguntas se aplicaron a todos los entrevistados de validación para recop
 
 ### 6.3.2. Registro de Entrevistas
 
+## Segmento 2: (TeamMembers) Ayudante de Eventos ONG
+
+**Nombre:** Alvaro Jimenez Agapito  
+**Edad:** 19
+**Ocupación:** Voluntario de ONG 
+**Browser:** Google Chrome  
+**Device:** Laptop Toshiba  
+**Distrito:** Miraflores, Lima  
+**Timing:** 25:02  
+
+<center>
+<img src="../assets/interview-3-validation.png" alt="Entrevista 1 Segmento TeamMember" width="500"/>
+</center>
+
+<p>Alvaro Jimenez Agapito, Voluntario de ONG, utiliza herramientas manuales como hojas de cálculo y registros en papel para gestionar los proyectos. Con AidManager, encontró que la información de las tareas era clara, pero sugirió que sería útil tener más detalles visibles sin abrir cada tarea. La interfaz fue intuitiva, aunque al principio le costó entender cómo filtrar las tareas correctamente. </p>
+
+<p>Marcar tareas como completadas fue fácil y recibió una confirmación visual clara. La comunicación con el lider del proyecto fue buena, pero sugirió un chat en tiempo real o notificaciones para mejorar la efectividad. El diseño de la aplicación le pareció coherente, aunque recomendó mejorar el contraste de los textos pequeños.</p>
+
+<p>Alvaro cree que AidManager mejoraría su experiencia como voluntario y recomendó añadir un sistema de notificaciones y una vista de calendario para facilitar la planificación y evitar olvidar fechas importantes.</p>
+
 ### 6.3.3. Evaluaciones según heurísticas
 
 ## 6.4. Auditoría de Experiencias de Usuario
