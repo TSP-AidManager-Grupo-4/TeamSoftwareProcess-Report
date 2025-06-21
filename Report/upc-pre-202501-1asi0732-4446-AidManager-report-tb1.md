@@ -4006,6 +4006,28 @@ Estas preguntas se aplicaron a todos los entrevistados de validación para recop
 
 ### 6.3.2. Registro de Entrevistas
 
+## Segmento 1: (Managers) Gestores de proyectos ONG
+
+Nombre: Diego Ávalos
+Edad: 28
+Ocupación: Comunicación de Eventos y RRPP
+Browser: Chrome
+Device: Laptop, Celular (en campo)
+Distrito: San Isidro
+Timing: 0:30 (Inicio de la entrevista)
+
+<center>
+<img src="imagenentrevista" alt="Entrevista 1 Segmento TeamMember" width="500"/>
+</center>
+
+<p>Diego Ávalos, quien se dedica a la comunicación de eventos y relaciones públicas para diversas ONGs, utiliza Chrome en su laptop o celular para trabajar. Durante la entrevista, se le mostró una demo de una herramienta de gestión de proyectos para ONGs, que incluía funcionalidades como la gestión de tareas, analíticas, un calendario y la creación de publicaciones.</p>
+
+<p>En su experiencia con la herramienta, Diego encontró que la información de las tareas era digerible y entendible, pero sugirió que los plazos y las funciones podrían ser más definidos para una mejor comprensión. Le resultó complicado encontrar información específica y el historial de eventos pasados debido a que la información estaba descentralizada. Sin embargo, marcar las tareas como completadas fue sencillo y le gustó la confirmación visual de que su acción se había guardado correctamente. La comunicación con el gestor a través de la aplicación le pareció intuitiva y útil, a pesar de no saber si los mensajes se recibían de inmediato.</p>
+
+<p>En cuanto al diseño, la coherencia visual y el uso de colores le resultaron agradables y no generaron distracciones. Diego cree que esta herramienta de gestión de proyectos mejoraría significativamente su experiencia como voluntario, ya que permitiría un seguimiento integral de los proyectos y reduciría la necesidad de buscar información en correos o chats dispersos. Como sugerencia, propuso añadir un calendario que permitiera visualizar los eventos y tareas por días, con la posibilidad de vincularse con otras aplicaciones de calendario como Google Calendar u Outlook.</p>
+
+
+
 ## Segmento 2: (TeamMembers) Ayudante de Eventos ONG
 
 **Nombre:** Alvaro Jimenez Agapito  
@@ -4025,6 +4047,9 @@ Estas preguntas se aplicaron a todos los entrevistados de validación para recop
 <p>Marcar tareas como completadas fue fácil y recibió una confirmación visual clara. La comunicación con el lider del proyecto fue buena, pero sugirió un chat en tiempo real o notificaciones para mejorar la efectividad. El diseño de la aplicación le pareció coherente, aunque recomendó mejorar el contraste de los textos pequeños.</p>
 
 <p>Alvaro cree que AidManager mejoraría su experiencia como voluntario y recomendó añadir un sistema de notificaciones y una vista de calendario para facilitar la planificación y evitar olvidar fechas importantes.</p>
+
+
+
 
 ### 6.3.3. Evaluaciones según heurísticas
 
