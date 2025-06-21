@@ -4093,8 +4093,8 @@ Metodología utilizada: Revisión heurística y análisis de flujo de usuario.
 Principales hallazgos y problemas identificados: 
 
 - Dificultad para encontrar la sección de ayuda
-- Proceso de pago con demasiados pasos
 - Botones de llamado a la acción no suficientemente visibles
+- Necesidad de mejora en la estructura de navegación
 
 Recomendaciones clave: 
 - Simplificar el proceso de registro a 3 pasos
@@ -4103,12 +4103,31 @@ Recomendaciones clave:
 
 #### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos
 
-Hallazgos priorizados para subsanar: De lo que se reporto tomamos en consideracion para corregir lo siguiente...
+**Hallazgos priorizados para subsanar**: De lo que se reporto tomamos en consideracion para corregir lo siguiente:
 
-Acciones tomadas o planificadas: En base al feedback el plan sera el siguiente...
+- Dificultad para encontrar la sección de ayuda: Esto se resolverá reubicando la sección de ayuda en una posición más prominente en la navegación principal, para facilitar su acceso.
 
-Estado actual de las modificaciones: las modificaciones estan en los siguientes estados...
+- Mejora de la navegación: Se reorganizará la navegación de la aplicación para que sea más intuitiva, con etiquetas claras y accesibles en todo momento, mejorando la experiencia del usuario al interactuar con las funciones principales.
 
+- Botones de llamado a la acción no suficientemente visibles: Se aumentará el contraste y el tamaño de los botones para hacerlos más destacables en todas las pantallas.
+
+
+**Acciones tomadas o planificadas**: En base al feedback, el plan será el siguiente:*
+
+- Reestructuración de la sección de ayuda: Reubicaremos la sección de ayuda en el menú principal, además de incorporar un acceso rápido en el pie de página para que los usuarios siempre tengan fácil acceso.
+
+- Rediseño de la navegación: Trabajaremos en una reorganización de la estructura de navegación para hacerla más clara y accesible, asegurando que las funciones clave sean fáciles de encontrar y utilizar sin esfuerzo.
+
+- Mejoras en la visibilidad de los botones de acción: Implementaremos cambios de diseño para los botones, agregando más contraste visual y usando iconos reconocibles que guíen mejor al usuario en sus acciones.
+
+
+**Estado actual de las modificaciones**: las modificaciones estan en los siguientes estados:
+
+- Sección de ayuda: El rediseño y reubicación están en fase de desarrollo, con el diseño final aprobado y la implementación programada para la próxima semana.
+
+- Navegación: El rediseño de la navegación ha comenzado, con los primeros prototipos ya creados y el proceso de validación con usuarios en curso.
+
+- Botones de acción: El rediseño de los botones ya está en la fase de prueba de usuario, con los ajustes de visibilidad listos para implementarse en la próxima actualización.
 
 Fecha de implementación o fecha estimada: estos cambios estan estimados a cambiarse el 25/06/2025 aproximadamente
 
