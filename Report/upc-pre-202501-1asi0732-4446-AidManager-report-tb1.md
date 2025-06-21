@@ -4004,19 +4004,24 @@ Rol Actual / Ocupación: (Confirmar su alineación con el segmento objetivo).
 
 En esta auditoria hacemos una evaluacion del sistema del equipo 4 enfocandonos en la app web y app movil.
 
-Grupo 4:
+<p>Grupo 4: Tegnogurus - Proyecto Kitchen Tech </p>
 
-Miembros de equipo:
+<p>Miembros de equipo:</p>
+
+- <p>Diego Jesus Alonso Garay</p>
+- <p>Gabriel Anthony Braithuaite Toledo</p>
+- <p>Johan Príncipe Godoy</p>
+- <p>Nicolás Zagal Vallejo</p>
 
 ##### Objetivos
 
-El equipo 4 de la startup -__- se enfocan en el rubro de ??? y a lo largo del curso han realizado su aplicacion movil y web, en esta auditoria nos enfocaremos en utilizar las soluciones y el flujo principal.
+El equipo 4 de la startup Kitchen Tech se enfocan en el rubro de la industria de Restaurantes y a lo largo del curso han realizado su aplicacion movil y web, en esta auditoria nos enfocaremos en utilizar las soluciones y el flujo principal.
 
 Objetivo del negocio:
 
 Usuarios Principales (Segmentos):
-- 1
-- 2
+- 1 Meseros
+- 2 Administradores
 
 #### 6.4.1.2. Cronograma de auditoría realizada
 
@@ -4051,8 +4056,7 @@ Recomendaciones clave:
 
 Para esta auditoria el mismo grupo 4 nos hara una revision a nuestros productos web y mobil enfocandose en los cambios en base a nuestras nuevas features, igualmente haran uso del sistema completo y daran su retroalimentacion.
 
-Nombre del grupo/entidad auditora: Grupo 4
-
+Nombre del grupo/entidad auditora: Grupo 4 Tegnogurus - Proyecto Kitchen Tech
 
 
 #### 6.4.2.2. Cronograma de auditoría recibida
@@ -4065,7 +4069,7 @@ Tomando en cuenta que nuestros productos a auditar estaban listos cuando nos con
 
 #### 6.4.2.3. Contenido de auditoría recibida
 
-En la auditoria el equipo de ____ realiza la auditoria y nos presenta las siguientes observaciones. 
+En la auditoria el equipo de Kitchen Tech realiza la auditoria y nos presenta las siguientes observaciones. 
 A continuacion, se muestran los puntos clave de la auditoria.
 
 Objetivos de la auditoría: Evaluar la usabilidad de la nueva funcionalidad de reporte y verificar la conformidad con principios de accesibilidad.
@@ -4086,8 +4090,6 @@ Recomendaciones clave:
 - Implementar iconos reconocibles en los botones
 
 #### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos
-
-This is crucial for demonstrating that you've acted on the audit's findings.
 
 Hallazgos priorizados para subsanar: De lo que se reporto tomamos en consideracion para corregir lo siguiente...
 
