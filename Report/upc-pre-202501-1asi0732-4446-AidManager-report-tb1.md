@@ -5469,10 +5469,82 @@ Estas preguntas están diseñadas para validar la experiencia de los usuarios co
 #### 8.4.2. Re-scored and Re-prioritized Question Backlog
 
 ### 8.5. Continuous Learning
+
 #### 8.5.1. Shareback Session Artifacts: Learning Workflow
 
+El aprendizaje continuo ha sido un pilar fundamental en el desarrollo de **AidManager**. Para garantizar la mejora constante del equipo y del producto, se implementaron sesiones periódicas de retroalimentación conocidas como *Shareback Sessions*.
+
+#### Formato de la Shareback Session
+
+Estas sesiones fueron diseñadas para promover un espacio colaborativo donde los integrantes del equipo pudieran compartir sus aprendizajes, desafíos y buenas prácticas adquiridas durante cada ciclo de desarrollo. La estructura seguida fue:
+
+1. Introducción y objetivos de la sesión.
+2. Presentación de aprendizajes individuales.
+3. Análisis y discusión colectiva de los hallazgos.
+4. Registro de acciones para mejorar procesos, tecnología y colaboración.
+
+#### Documentación de los Aprendizajes
+
+Cada sesión generó artefactos que fueron almacenados en un repositorio interno accesible para todo el equipo. Esta documentación permitió visibilizar el progreso del equipo y fomentar la reutilización de soluciones. Los aprendizajes se registraron utilizando el siguiente formato:
+
+- **Título del Aprendizaje**
+- **Descripción Detallada**
+- **Evidencia (datos, ejemplos concretos)**
+- **Impacto en el Proyecto**
+- **Acciones Futuras**
+
+#### Integración con la Mejora Continua
+
+Los aprendizajes extraídos fueron discutidos y reaplicados en las retrospectivas de sprint, permitiendo ajustar prácticas de desarrollo, pruebas, comunicación y despliegue. Esto aseguró que el conocimiento no se quede aislado, sino que retroalimente el proceso ágil adoptado por el equipo.
+
+#### Artefactos de la Sesión
+
+A continuación, se presentan ejemplos de artefactos generados durante las sesiones de aprendizaje:
+
+---
+
+**Ejemplo de Artefacto 1**
+
+- **Título del Aprendizaje**: Optimización de despliegues en Railway  
+- **Descripción**: Reducción del tiempo de despliegue automatizando la verificación de errores mediante GitHub Actions.  
+- **Evidencia**: Tiempo de despliegue se redujo de 4 min a 2 min en promedio.  
+- **Impacto en el Proyecto**: Aceleró la validación de cambios y mejoró el tiempo de respuesta ante errores.  
+- **Acciones Futuras**: Mantener documentación actualizada de los workflows e integrar alertas automáticas.
+
+---
+
+**Ejemplo de Artefacto 2**
+
+- **Título del Aprendizaje**: Mejora de comunicación entre backend y frontend  
+- **Descripción**: Uso de Swagger para alinear definiciones de API y evitar errores por interpretación ambigua.  
+- **Evidencia**: Disminución del 40% en errores de integración entre microservicios.  
+- **Impacto en el Proyecto**: Facilitó la colaboración entre desarrolladores de distintas capas.  
+- **Acciones Futuras**: Definir contratos de API desde etapas tempranas del sprint.
+
+---
+
 ### 8.6. To-Be Software Platform Pre-launch
+
 #### 8.6.1. About-the-Product Intro Video
+
+En esta sección se presenta el video **about-the-product** que introduce de manera concisa las principales funcionalidades de la aplicación **AidManager** a usuarios potenciales, especialmente gestores y miembros de ONGs.
+
+El video tiene como objetivo mostrar cómo AidManager facilita la gestión de tareas, proyectos, comunicación interna y análisis financiero dentro de una plataforma intuitiva y accesible.
+
+#### Enlaces del video:
+
+- *Microsoft Stream**: [Ver video en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/EYbJuyXOTX9DtQJzU_p6V7ABlDaHvU3h3Ei1NwjH5P03sA?e=yPsjN4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- **YouTube**: [Ver video en YouTube](https://www.youtube.com/watch?v=2cZpH5GsaWg)
+
+
+#### Duración del video:  
+**01:15 segundos**
+
+#### Screenshot del video:
+
+<p align="center">
+  <img src="../assets/AidManager-Video.png" alt="Screenshot del video de presentación de AidManager" width="600px">
+</p>
 
 # Video About The Team
 
