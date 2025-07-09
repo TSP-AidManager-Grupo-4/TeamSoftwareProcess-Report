@@ -5421,6 +5421,47 @@ A continuación se presenta el backlog de producto correspondiente al sistema **
 
 ### 8.3.4. To-Be Validation Interviews
 #### 8.3.4.1. Diseño de Entrevistas
+
+##### 1. **Preguntas Generales:**
+   - ¿Cuál es tu nombre completo? 
+   - ¿Qué edad tienes? 
+   - ¿En qué distrito resides actualmente?
+   - ¿Cuál es tu ocupación y cuál es tu rol en la ONG?
+   - ¿Que dispositivos usas?
+
+##### **Preguntas para Gestores de Proyectos**
+   - ¿Qué te parece el diseño de la landing page de AidManager? ¿Es clara y fácil de navegar para gestionar tus proyectos?
+   - ¿La interfaz de la aplicación web te resulta intuitiva al asignar tareas y gestionar proyectos? ¿Te fue fácil encontrar las funciones clave?
+   - ¿La plataforma te permite gestionar las tareas de tu equipo de manera efectiva? ¿Las métricas visualizadas te son útiles para el desempeño del proyecto?
+   - Al marcar tareas como completadas o asignadas, ¿el proceso es fácil y recibes una confirmación visual clara de que se guardó correctamente?
+   - ¿La experiencia en la aplicación móvil es la misma que en la aplicación web? ¿Encuentras que ambas versiones son funcionales para la gestión de tu equipo y proyectos?
+   - ¿Te resulta coherente el diseño entre la aplicación web y móvil? ¿Encontraste alguna dificultad en la interfaz al gestionar múltiples proyectos?
+   - ¿Qué funcionalidad adicional te gustaría ver en la plataforma para mejorar la gestión de tus proyectos o tareas de equipo?
+
+---
+
+#### **Preguntas para Voluntarios**
+   - ¿Qué te parece el diseño de la landing page de AidManager? ¿Te resulta clara y fácil de navegar para encontrar tus tareas asignadas?
+   - ¿La interfaz de la aplicación web es fácil de usar? ¿Pudiste encontrar rápidamente las tareas y eventos que te han sido asignados?
+   - ¿Te resultó fácil marcar las tareas como completadas? ¿La acción fue clara y recibiste una confirmación visual de que se guardó correctamente?
+   - ¿La plataforma te permite organizar tus tareas de manera eficiente? ¿Te ayudó a tener una visión clara de qué tareas tienes pendientes y cuáles están en progreso?
+   - ¿La aplicación móvil ofrece la misma experiencia que la aplicación web? ¿Te resultó fácil utilizar ambas versiones para gestionar tus tareas como voluntario?
+   - ¿El diseño de la plataforma es coherente entre la versión móvil y la web? ¿Te resultó cómodo usar la aplicación en tu dispositivo móvil para realizar tus tareas?
+   - ¿Te parece que la plataforma facilita la gestión de tus responsabilidades como voluntario? ¿Cómo crees que AidManager podría ayudarte a organizar mejor tu día a día?
+   - Si pudieras sugerir una mejora para la plataforma, ¿qué cambiarías o añadirías para que te sea más útil como voluntario?
+
+---
+
+### **Resumen**:
+He ajustado las preguntas para los **voluntarios** enfocándome en su experiencia con la plataforma y cómo puede mejorar su eficiencia en la gestión de tareas. Las preguntas buscan entender si la plataforma les ayuda a organizar mejor su trabajo, cómo se siente la experiencia en diferentes dispositivos, y qué mejoras podrían hacerla más útil para su día a día.
+
+Si necesitas más ajustes o cambios, ¡avísame!
+
+
+---
+
+Estas preguntas están diseñadas para validar la experiencia de los usuarios con los **experiment cards** de **AidManager**, tanto desde el punto de vista del **gestor de proyectos** como del **voluntario**, cubriendo aspectos clave como la usabilidad, la comunicación, la gestión de tareas y la visualización de datos. Si necesitas algún ajuste o más detalles, ¡avísame!
+
 #### 8.3.4.2. Registro de Entrevistas
 
 ### 8.4. Experiment Aftermath & Analysis
