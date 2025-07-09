@@ -5412,7 +5412,28 @@ A continuación se presenta el backlog de producto correspondiente al sistema **
 | PB-AM-09   | US-AM-09                         | Notificaciones           | Aviso inmediato al voluntario por nueva tarea asignada      | Media     | 3 puntos           |
 
 ### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
+
 #### 8.3.3.1. To-Be Sprint Backlogs
+
+Durante el Sprint del proyecto **AidManager**, se priorizaron historias de usuario clave que permiten la gestión de proyectos sociales, visualización de asignaciones, y seguimiento del avance de tareas por parte de los voluntarios. El enfoque fue construir una base funcional sólida, cubriendo tanto el backend como el frontend, y garantizando una experiencia de usuario clara y útil para cada actor involucrado.
+
+A continuación, se detalla el Sprint Backlog con las tareas desarrolladas:
+
+
+---
+
+| User story                                         | Id  | Title                                  | Description                                                                 | Estimation (Hours) | Assigned To                | Status |
+|---------------------------------------------------|-----|----------------------------------------|-----------------------------------------------------------------------------|---------------------|-----------------------------|--------|
+| US-AM-01 – Registro de nuevos proyectos sociales  | T1  | Backend: Crear endpoint de registro    | Implementar `POST /projects` con validaciones de campos obligatorios       | 5                   | Sebastián Ramírez Hoffmann | Done   |
+|                                                   | T2  | Frontend: Formulario de registro       | UI para registrar proyectos con conexión al backend y validación           | 4                   | Juan Cuadros               | Done   |
+| US-AM-02 – Listado de proyectos asignados         | T3  | Backend: Endpoint de proyectos asignados | Implementar `GET /volunteers/{id}/projects` con datos filtrados         | 3                   | Manuel Peña                | Done   |
+|                                                   | T4  | Frontend: Vista de proyectos asignados | Tabla dinámica con filtros por fecha y estado del proyecto                 | 3                   | Juan Cuadros               | Done   |
+| US-AM-03 – Asignación de tareas a voluntarios     | T5  | Backend: Endpoint de asignación        | Crear `POST /tasks/assign` para asignar tareas con lógica de validación    | 5                   | Nicolás Esteban            | Done   |
+|                                                   | T6  | Frontend: Vista de asignación          | Selector de voluntarios para tareas desde vista de proyecto               | 4                   | Sebastián Ramírez Méndez   | Done   |
+| US-AM-04 – Seguimiento de tareas                  | T7  | Backend: Actualización de tareas       | Endpoint `PATCH /tasks/{id}` para progreso y comentarios                   | 4                   | Manuel Peña                | Done   |
+|                                                   | T8  | Frontend: Vista de seguimiento         | Visualización de progreso con barra de avance y comentarios               | 4                   | Sebastián Ramírez Méndez   | Done   |
+| US-AM-05 – Dashboard con estado de proyectos      | T9  | Backend: KPIs generales                | Crear endpoint de métricas de avance y estados por proyecto               | 5                   | Nicolás Esteban            | Done   |
+|                                                   | T10 | Frontend: Dashboard de estado          | Mostrar gráficas e indicadores clave de los proyectos                      | 5                   | Juan Cuadros               | Done   |
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
@@ -5454,6 +5475,7 @@ A continuación se presenta el backlog de producto correspondiente al sistema **
 #### 8.3.4.2. Registro de Entrevistas
 
 ### 8.4. Experiment Aftermath & Analysis
+
 #### 8.4.1. Analysis and Interpretation of Results
 
 #### 8.4.2. Re-scored and Re-prioritized Question Backlog
