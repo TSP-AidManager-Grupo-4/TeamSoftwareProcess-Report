@@ -5466,7 +5466,20 @@ Estas preguntas están diseñadas para validar la experiencia de los usuarios co
 
 ### 8.4. Experiment Aftermath & Analysis
 #### 8.4.1. Analysis and Interpretation of Results
+
 #### 8.4.2. Re-scored and Re-prioritized Question Backlog
+
+El nuevo question backlog con las re priorizaciones y puntajes
+Principalmente despues de evaluar y observar los resultados de este proceo quedamos con las preguntas pendientes en distinta prioridad.
+
+- ¿Cómo influirá el uso de un sistema de comunicación interno en la rapidez y eficacia de la coordinación entre gestores y ayudantes?
+- ¿Qué porcentaje de organizaciones estaría dispuesto a pagar por un plan mejorado después de probar el sistema por tres meses?
+- ¿La inclusión de dashboards visuales incrementará el uso semanal de la aplicación por parte de los gestores?
+- ¿Qué funcionalidades son percibidas como imprescindibles por los ayudantes de proyectos en campo?
+- ¿Cuánto mejora la satisfacción del usuario al contar con una única plataforma para comunicación, gestión y seguimiento?
+
+Asimismo creamos nuevas preguntas orientadas a
+
 
 ### 8.5. Continuous Learning
 
