@@ -5435,6 +5435,30 @@ A continuación, se detalla el Sprint Backlog con las tareas desarrolladas:
 | US-AM-05 – Dashboard con estado de proyectos      | T9  | Backend: KPIs generales                | Crear endpoint de métricas de avance y estados por proyecto               | 5                   | Nicolás Esteban            | Done   |
 |                                                   | T10 | Frontend: Dashboard de estado          | Mostrar gráficas e indicadores clave de los proyectos                      | 5                   | Juan Cuadros               | Done   |
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence
+
+Se evidencian capturas de la implementación de la landing page desplegado en Vercel.
+Se realizaron mejoras de optimización
+Link de landing page: https://landing-page-aid-manager-37nb.vercel.app
+
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-landing-page-1.png" alt="Seccion de landing page hero" width="600px">
+</p>
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-landing-page-2.png" alt="Seccion de landing page hero" width="600px">
+</p>
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-landing-page-3.png" alt="Seccion de landing page hero" width="600px">
+</p>
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-landing-page-4.png" alt="Seccion de landing page hero" width="600px">
+</p>
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-landing-page-5.png" alt="Seccion de landing page hero" width="600px">
+</p>
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-landing-page-6.png" alt="Seccion de landing page hero" width="600px">
+</p>
+
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
@@ -5470,18 +5494,6 @@ A continuación, se detalla el Sprint Backlog con las tareas desarrolladas:
    - ¿El diseño de la plataforma es coherente entre la versión móvil y la web? ¿Te resultó cómodo usar la aplicación en tu dispositivo móvil para realizar tus tareas?
    - ¿Te parece que la plataforma facilita la gestión de tus responsabilidades como voluntario? ¿Cómo crees que AidManager podría ayudarte a organizar mejor tu día a día?
    - Si pudieras sugerir una mejora para la plataforma, ¿qué cambiarías o añadirías para que te sea más útil como voluntario?
-
----
-
-### **Resumen**:
-He ajustado las preguntas para los **voluntarios** enfocándome en su experiencia con la plataforma y cómo puede mejorar su eficiencia en la gestión de tareas. Las preguntas buscan entender si la plataforma les ayuda a organizar mejor su trabajo, cómo se siente la experiencia en diferentes dispositivos, y qué mejoras podrían hacerla más útil para su día a día.
-
-Si necesitas más ajustes o cambios, ¡avísame!
-
-
----
-
-Estas preguntas están diseñadas para validar la experiencia de los usuarios con los **experiment cards** de **AidManager**, tanto desde el punto de vista del **gestor de proyectos** como del **voluntario**, cubriendo aspectos clave como la usabilidad, la comunicación, la gestión de tareas y la visualización de datos. Si necesitas algún ajuste o más detalles, ¡avísame!
 
 #### 8.3.4.2. Registro de Entrevistas
 
