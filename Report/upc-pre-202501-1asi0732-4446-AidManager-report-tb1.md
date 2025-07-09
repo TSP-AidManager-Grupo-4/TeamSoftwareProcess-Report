@@ -5450,17 +5450,6 @@ A continuación se presenta el backlog de producto correspondiente al sistema **
    - ¿Te parece que la plataforma facilita la gestión de tus responsabilidades como voluntario? ¿Cómo crees que AidManager podría ayudarte a organizar mejor tu día a día?
    - Si pudieras sugerir una mejora para la plataforma, ¿qué cambiarías o añadirías para que te sea más útil como voluntario?
 
----
-
-### **Resumen**:
-He ajustado las preguntas para los **voluntarios** enfocándome en su experiencia con la plataforma y cómo puede mejorar su eficiencia en la gestión de tareas. Las preguntas buscan entender si la plataforma les ayuda a organizar mejor su trabajo, cómo se siente la experiencia en diferentes dispositivos, y qué mejoras podrían hacerla más útil para su día a día.
-
-Si necesitas más ajustes o cambios, ¡avísame!
-
-
----
-
-Estas preguntas están diseñadas para validar la experiencia de los usuarios con los **experiment cards** de **AidManager**, tanto desde el punto de vista del **gestor de proyectos** como del **voluntario**, cubriendo aspectos clave como la usabilidad, la comunicación, la gestión de tareas y la visualización de datos. Si necesitas algún ajuste o más detalles, ¡avísame!
 
 #### 8.3.4.2. Registro de Entrevistas
 
