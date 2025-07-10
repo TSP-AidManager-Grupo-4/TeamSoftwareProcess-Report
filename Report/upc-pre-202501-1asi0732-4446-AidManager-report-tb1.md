@@ -5604,39 +5604,61 @@ Link: https://github.com/disenio-de-experimentos-4446/Aid-Manager-Mobile-App
 # Segmento 1
 
 Nombre: Luis Eduardo Herrera González
+
 Edad: 21 años
+
 Ocupación: Miembro de equipo
+
 Ubicación: San Borja
+
 Dispositivos: Móvil (WhatsApp) & Computadora personal
+
 Navegador: Chrome
+
 Momento de la entrevista: [0:00]
 
 Resumen de la entrevista:
+
 Luis es miembro de un equipo en una ONG, encargado de tareas relacionadas con la comunicación. No lidera equipos, pero apoya en el área de comunicación. Usa principalmente su teléfono móvil para WhatsApp y su computadora para otras tareas. En cuanto a la interfaz y funcionalidad de las herramientas, menciona que la plataforma web y móvil son coherentes en diseño y fáciles de usar. Sugiere mejorar la interfaz visual agregando iconos o fotos de perfil para facilitar la identificación de los miembros del equipo. Destaca la mejora en la gestión de tareas dentro de la plataforma, señalando que la interfaz renovada de la sección de proyectos y las opciones de visualización de tareas asignadas mejoran la experiencia. En términos de usabilidad, Luis menciona que los cambios propuestos, especialmente aquellos que hacen la plataforma más intuitiva y visualmente agradable, cumplen con sus expectativas.
 
 Nombre Ariana Aranda
+
 Edad: 23 años
+
 Ocupación: Miembro de equipo
+
 Ubicación: San Luis
+
 Dispositivos: Laptop & Celular
+
 Navegador: Chrome
+
 Momento de la entrevista: [0:00]
 
 
+
 Resumen de la entrevista:
+
 Ariana, como Community Manager, maneja redes sociales y comunicaciones para una ONG. En la entrevista, destaca la facilidad de navegación de la plataforma, mencionando que el diseño de la página de inicio es claro y coherente con la oferta del producto, facilitando la visualización de tareas y la asignación de eventos. Resalta que la interfaz de la aplicación es intuitiva, lo que permitiría a cualquier persona adaptarse rápidamente, incluso sin experiencia previa.
 En cuanto a la gestión de tareas y responsabilidades, Ariana opina que la aplicación sería fácil de usar para un voluntario dentro de una ONG, ya que las opciones son accesibles y claras. También valora la confirmación visual que ofrece la plataforma, lo que facilita el seguimiento de tareas y eventos.
 Finalmente, sugiere una mejora relacionada con la gestión de usuarios dentro de la plataforma, recomendando incluir una opción que permita ver cuántas personas se han registrado o suscrito a la plataforma, lo que sería útil para gestionar equipos grandes dentro de una ONG. A pesar de esta sugerencia, considera que la aplicación está bien diseñada y cumple con las necesidades básicas de los usuarios.
 
 Nombre: Keisy
+
 Edad: 23 años
+
 Ocupación: Team Member
+
 Ubicación: La Victoria
+
 Dispositivos: Celular & Laptop
+
 Navegador: Chrome
+
 Momento de la entrevista: [0:00]
 
 Resumen de la entrevista:
+
 Keisy, utiliza su celular y laptop en su día a día. En cuanto a la landing page de la plataforma, menciona que la interfaz es bastante clara, pero tiene algunas reservas sobre el uso del color verde, ya que lo asocia con la ecología, lo cual le parece apropiado. Sin embargo, encuentra que los íconos en la página son demasiado separados y sugirió que podrían ser más dinámicos y mejor organizados. Además, comenta que le gustaría que la navegación fuera más interactiva, con más movimiento y animaciones, para hacer la experiencia más atractiva visualmente para miembros de equipo.
 Respecto a la funcionalidad de crear posts, Kazy no entendió bien cómo funcionaba al principio, pero después de la explicación, sugirió que podría mejorar para que sea más claro y fácil de usar. También mencionó que los posts deberían incluir imágenes y que la opción para crear estos dentro de la organización podría ser más explicativa, similar a una plataforma como Facebook, donde se publican actualizaciones de proyectos.
 Finalmente, sugiere que la plataforma podría tener más interactividad y animaciones para hacerla más atractiva y funcional en su conjunto, especialmente en la página de inicio.
@@ -5645,26 +5667,41 @@ Finalmente, sugiere que la plataforma podría tener más interactividad y animac
 # Segmento 2
 
 Nombre: María Teresa
+
 Edad: 51 años
+
 Ocupación: Organizadora de eventos, gestión de personal
+
 Ubicación: Trujillo, La Libertad
+
 Dispositivos: Celular, Tablet, Laptop
+
 Navegador: Chrome
+
 Momento de la entrevista: [0:00]
 
 Resumen de la entrevista:
+
 María Teresa utiliza múltiples dispositivos (celular, tablet y laptop) para gestionar proyectos dentro de su ONG, lo que le permite estar conectada desde cualquier lugar. En cuanto a las mejoras implementadas en la plataforma, destaca positivamente el diseño de la landing page, mencionando que es amigable y clara. La interfaz de la aplicación web le resulta intuitiva, especialmente en la visualización de tareas y proyectos, y nota una mejora en la facilidad de uso, señalando que los colores y el diseño ayudan a mejorar la experiencia. Respecto a las métricas y las analíticas, María menciona que las mejoras realizadas para visualizar el desempeño del equipo y el progreso de las tareas son claras y útiles.
 Además, aprecia los cambios implementados en la aplicación móvil, aunque sugiere que el menú podría ser un poco más grande para facilitar su uso. La internacionalización también ha sido un aspecto positivo para ella, ya que puede trabajar en español e inglés sin problemas. María no encuentra dificultades en las interfaces ni sugiere mejoras adicionales, destacando que el gráfico de métricas es muy útil para gestionar los flujos de trabajo. En cuanto a la plataforma en general, siente que se han superado sus expectativas, ya que las mejoras han satisfecho las necesidades que mencionó en entrevistas anteriores, como la mejora de interfaces y la internacionalización.
 
 Nombre: María Isabel
+
 Edad: 52 años
+
 Ocupación: Docente y gestora de proyectos de responsabilidad social
+
 Ubicación: Trujillo, La Libertad
+
 Dispositivos: Laptop & Celular
+
 Navegador: Chrome
+
 Momento de la entrevista: [0:00]
 
+
 Resumen de la entrevista:
+
 María Isabel, quien gestiona proyectos de responsabilidad social y ejerce la carrera de docencia, utiliza principalmente su laptop para gestionar proyectos, pero recurre al celular cuando está en trabajo de campo. En cuanto a la plataforma, destaca positivamente la landing page, mencionando que es intuitiva, sencilla y bien estructurada, lo que facilita el recorrido visual del usuario. Valora la claridad en la información presentada y la calidez del diseño.
 La interfaz de la aplicación web le parece muy intuitiva y fácil de usar para asignar tareas y gestionar proyectos, con las funciones clave accesibles de manera eficiente. Las métricas visualizadas, especialmente las que muestran el progreso de los proyectos, son vistas como útiles, destacando que esto le permite conocer en qué etapa se encuentran los proyectos y cómo se están gestionando.
 En cuanto a la aplicación móvil, María menciona que la experiencia es similar a la de la web y no encuentra dificultades en gestionar proyectos en ambas versiones. Destaca la integración de WhatsApp con la plataforma como un vínculo útil para contactar a los miembros del equipo.
@@ -5672,19 +5709,30 @@ Como mejora, sugiere agregar una funcionalidad para realizar videoconferencias d
 En general, María Isabel considera que las mejoras implementadas cumplen con sus expectativas, especialmente las relacionadas con las analíticas, la gestión de tareas y la funcionalidad del calendario.
 
 Nombre: Fabrizzio
+
 Edad: 22 años (próximo a cumplir 23)
+
 Ocupación: Gestor de proyectos en una ONG
+
 Ubicación: Trujillo, La Libertad
+
 Dispositivos: Computadora de escritorio, Laptop, y ocasionalmente celular
+
 Navegador: Chrome
+
 Momento de la entrevista: [0:00]
 
 
+
 Resumen de la entrevista:
+
 Fabrizzio, quien gestiona proyectos dentro de su ONG, utiliza principalmente computadoras de escritorio y laptops, con un uso mínimo de su celular. En cuanto a la plataforma, menciona que el diseño de la landing page es claro, y la organización de la información es efectiva. Sin embargo, señala que la plataforma debe tener la opción de establecer el idioma en español por defecto, ya que su equipo prefiere trabajar en ese idioma.
+
 En relación a las tareas, el sistema permite gestionar de manera adecuada las actividades, con un límite de tareas por usuario entre 10. Fabrizzio también sugiere que la plataforma debería tener un mensaje visual de advertencia para las tareas que se demoran, como un contorno rojo para llamar la atención, lo cual podría ayudar a priorizar tareas urgentes.
+
 Sobre las métricas, valora la facilidad con la que puede visualizar el desempeño del equipo, destacando la utilidad de las métricas de progreso y la claridad de los gráficos.
 Fabrizzio también considera que las versiones web y móvil cumplen con sus expectativas en términos de funcionalidad para la gestión de equipos y proyectos. Finalmente, menciona que está más satisfecho con las mejoras realizadas en la plataforma, especialmente en el sistema web, que considera muy eficiente y bien diseñado.
+
 En resumen, Fabrizzio está contento con las actualizaciones, aunque sugiere algunos ajustes visuales y de usabilidad para mejorar aún más la experiencia.
 
 
