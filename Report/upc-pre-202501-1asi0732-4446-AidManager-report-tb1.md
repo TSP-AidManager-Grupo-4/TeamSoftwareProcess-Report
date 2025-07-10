@@ -5603,6 +5603,21 @@ Resumen de la entrevista:
 María Teresa utiliza múltiples dispositivos (celular, tablet y laptop) para gestionar proyectos dentro de su ONG, lo que le permite estar conectada desde cualquier lugar. En cuanto a las mejoras implementadas en la plataforma, destaca positivamente el diseño de la landing page, mencionando que es amigable y clara. La interfaz de la aplicación web le resulta intuitiva, especialmente en la visualización de tareas y proyectos, y nota una mejora en la facilidad de uso, señalando que los colores y el diseño ayudan a mejorar la experiencia. Respecto a las métricas y las analíticas, María menciona que las mejoras realizadas para visualizar el desempeño del equipo y el progreso de las tareas son claras y útiles.
 Además, aprecia los cambios implementados en la aplicación móvil, aunque sugiere que el menú podría ser un poco más grande para facilitar su uso. La internacionalización también ha sido un aspecto positivo para ella, ya que puede trabajar en español e inglés sin problemas. María no encuentra dificultades en las interfaces ni sugiere mejoras adicionales, destacando que el gráfico de métricas es muy útil para gestionar los flujos de trabajo. En cuanto a la plataforma en general, siente que se han superado sus expectativas, ya que las mejoras han satisfecho las necesidades que mencionó en entrevistas anteriores, como la mejora de interfaces y la internacionalización.
 
+Nombre: María Isabel
+Edad: 52 años
+Ocupación: Docente y gestora de proyectos de responsabilidad social
+Ubicación: Trujillo, La Libertad
+Dispositivos: Laptop & Celular
+Navegador: Chrome
+Momento de la entrevista: [0:00]
+
+Resumen de la entrevista:
+María Isabel, quien gestiona proyectos de responsabilidad social y ejerce la carrera de docencia, utiliza principalmente su laptop para gestionar proyectos, pero recurre al celular cuando está en trabajo de campo. En cuanto a la plataforma, destaca positivamente la landing page, mencionando que es intuitiva, sencilla y bien estructurada, lo que facilita el recorrido visual del usuario. Valora la claridad en la información presentada y la calidez del diseño.
+La interfaz de la aplicación web le parece muy intuitiva y fácil de usar para asignar tareas y gestionar proyectos, con las funciones clave accesibles de manera eficiente. Las métricas visualizadas, especialmente las que muestran el progreso de los proyectos, son vistas como útiles, destacando que esto le permite conocer en qué etapa se encuentran los proyectos y cómo se están gestionando.
+En cuanto a la aplicación móvil, María menciona que la experiencia es similar a la de la web y no encuentra dificultades en gestionar proyectos en ambas versiones. Destaca la integración de WhatsApp con la plataforma como un vínculo útil para contactar a los miembros del equipo.
+Como mejora, sugiere agregar una funcionalidad para realizar videoconferencias directamente desde la plataforma, lo que sería útil para proyectos de campo donde no siempre se puede estar presente físicamente. Además, sugiere mejorar el calendario utilizando colores adicionales para diferenciar las actividades pendientes de las ya completadas, como el uso de verde para tareas realizadas y rojo para tareas pendientes.
+En general, María Isabel considera que las mejoras implementadas cumplen con sus expectativas, especialmente las relacionadas con las analíticas, la gestión de tareas y la funcionalidad del calendario.
+
 
 ### 8.4. Experiment Aftermath & Analysis
 #### 8.4.1. Analysis and Interpretation of Results
