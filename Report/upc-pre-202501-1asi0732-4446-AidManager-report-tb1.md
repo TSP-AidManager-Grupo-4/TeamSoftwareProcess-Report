@@ -5463,6 +5463,34 @@ Link de landing page: https://landing-page-aid-manager-37nb.vercel.app
 </p>
 
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
+Se evidencia la aplicación web desplegada y con la implementación de los experiment card que hemos realizado
+link de la aplicación web desplegada: https://aidmanager-experimentos.netlify.app/
+<br>
+
+**Dashboard de Analíticas:** Implementación del experiment card para visualización de métricas del proyecto. Incluye gráficos de progreso, distribución de tareas y presupuestos categorizados para monitoreo integral.
+
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-front-1.jpeg" alt="Dashboard de Analíticas con métricas del proyecto" width="600px">
+</p>
+
+**Gestión con Tablero Kanban:** Validación del experiment card para gestión visual de tareas. Sistema Kanban con columnas To-Do, Doing y Done para coordinación eficiente del equipo.
+
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-front-2.jpeg" alt="Vista detallada del proyecto con gestión de tareas Kanban" width="600px">
+</p>
+
+**Sistema de Calendario:** Implementación del experiment card para gestión temporal centralizada. Calendario interactivo con indicadores visuales y navegación optimizada para planificación de proyectos.
+
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-front-3.jpeg" alt="Sistema de calendario integrado para gestión temporal" width="600px">
+</p>
+
+**Perfil de Usuario:** Validación del experiment card para gestión personalizada de tareas. Vista individual con filtros avanzados que promueve responsabilidad personal del equipo.
+
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-front-4.jpeg" alt="Perfil de usuario y gestión personal de tareas" width="600px">
+</p>
+
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
 Se evidencia el Swagger desplegado con Render, así como el link de un endpoint que se consume en el frontend.
