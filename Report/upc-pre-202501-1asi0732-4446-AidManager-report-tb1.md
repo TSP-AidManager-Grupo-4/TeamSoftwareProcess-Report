@@ -5856,6 +5856,9 @@ Se adjunta el video about the team realizado con los testimonios de nuestros mie
 
 [Video About the Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EUqRhCrrTLZNmi4a01sIQF0BjjUrnatGGcPXhUmdNg_OHA?e=bWmeMG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EUqRhCrrTLZNmi4a01sIQF0BjjUrnatGGcPXhUmdNg_OHA?e=bWmeMG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
 # Conclusiones
 En conclusión, para la TB1 se realizó el desarrollo de la solución y la implementación de esta misma. En futuras entregas estaremos observando mas de cerca el código a nivel de pruebas.
 
