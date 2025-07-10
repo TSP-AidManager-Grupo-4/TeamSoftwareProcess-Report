@@ -5572,6 +5572,23 @@ Momento de la entrevista: [0:00]
 Resumen de la entrevista:
 Luis es miembro de un equipo en una ONG, encargado de tareas relacionadas con la comunicación. No lidera equipos, pero apoya en el área de comunicación. Usa principalmente su teléfono móvil para WhatsApp y su computadora para otras tareas. En cuanto a la interfaz y funcionalidad de las herramientas, menciona que la plataforma web y móvil son coherentes en diseño y fáciles de usar. Sugiere mejorar la interfaz visual agregando iconos o fotos de perfil para facilitar la identificación de los miembros del equipo. Destaca la mejora en la gestión de tareas dentro de la plataforma, señalando que la interfaz renovada de la sección de proyectos y las opciones de visualización de tareas asignadas mejoran la experiencia. En términos de usabilidad, Luis menciona que los cambios propuestos, especialmente aquellos que hacen la plataforma más intuitiva y visualmente agradable, cumplen con sus expectativas.
 
+Nombre Ariana Aranda
+Edad: 23 años
+Ocupación: Miembro de equipo
+Ubicación: San Luis
+Dispositivos: Laptop & Celular
+Navegador: Chrome
+Momento de la entrevista: [0:00]
+
+
+Resumen de la entrevista:
+Ariana, como Community Manager, maneja redes sociales y comunicaciones para una ONG. En la entrevista, destaca la facilidad de navegación de la plataforma, mencionando que el diseño de la página de inicio es claro y coherente con la oferta del producto, facilitando la visualización de tareas y la asignación de eventos. Resalta que la interfaz de la aplicación es intuitiva, lo que permitiría a cualquier persona adaptarse rápidamente, incluso sin experiencia previa.
+En cuanto a la gestión de tareas y responsabilidades, Ariana opina que la aplicación sería fácil de usar para un voluntario dentro de una ONG, ya que las opciones son accesibles y claras. También valora la confirmación visual que ofrece la plataforma, lo que facilita el seguimiento de tareas y eventos.
+Finalmente, sugiere una mejora relacionada con la gestión de usuarios dentro de la plataforma, recomendando incluir una opción que permita ver cuántas personas se han registrado o suscrito a la plataforma, lo que sería útil para gestionar equipos grandes dentro de una ONG. A pesar de esta sugerencia, considera que la aplicación está bien diseñada y cumple con las necesidades básicas de los usuarios.
+
+
+
+
 # Segmento 2
 
 Nombre: María Teresa
