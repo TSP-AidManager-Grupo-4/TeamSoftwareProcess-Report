@@ -1196,7 +1196,7 @@ Preguntas enfocadas en los empleados de la organización, considerando su experi
 ### 2.2.2. Registro de entrevistas
 Puedes acceder al video de las entrevistas mediante el siguiente enlace:
 
-🔗 **[Entrevista disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETGPw2njqWZHl6IrOkDoq0wBvExjz8a2pqnBQaWcUuKs8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MHCwWy)**.
+🔗 **[Entrevista disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETGPw2njqWZHl6IrOkDoq0wBvExjz8a2pqnBQaWcUuKs8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MHCwWy)**. https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETGPw2njqWZHl6IrOkDoq0wBvExjz8a2pqnBQaWcUuKs8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MHCwWy
 
 ### Segmento 1: María José Meléndez Villa-Lobos
 
@@ -5530,6 +5530,22 @@ Link de Swagger: https://aid-manager-general-backend.onrender.com/swagger/index.
    - Si pudieras sugerir una mejora para la plataforma, ¿qué cambiarías o añadirías para que te sea más útil como voluntario?
 
 #### 8.3.4.2. Registro de Entrevistas
+
+# Segmento 1
+
+Nombre: Luis Eduardo Herrera González
+Edad: 21 años
+Ocupación: Miembro de equipo
+Ubicación: San Borja
+Dispositivos: Móvil (WhatsApp) & Computadora personal
+Navegador: Chrome
+Momento de la entrevista: [0:00]
+
+Resumen de la entrevista:
+Luis es miembro de un equipo en una ONG, encargado de tareas relacionadas con la comunicación. No lidera equipos, pero apoya en el área de comunicación. Usa principalmente su teléfono móvil para WhatsApp y su computadora para otras tareas. En cuanto a la interfaz y funcionalidad de las herramientas, menciona que la plataforma web y móvil son coherentes en diseño y fáciles de usar. Sugiere mejorar la interfaz visual agregando iconos o fotos de perfil para facilitar la identificación de los miembros del equipo. Destaca la mejora en la gestión de tareas dentro de la plataforma, señalando que la interfaz renovada de la sección de proyectos y las opciones de visualización de tareas asignadas mejoran la experiencia. En términos de usabilidad, Luis menciona que los cambios propuestos, especialmente aquellos que hacen la plataforma más intuitiva y visualmente agradable, cumplen con sus expectativas.
+
+# Segmento 2
+
 
 ### 8.4. Experiment Aftermath & Analysis
 #### 8.4.1. Analysis and Interpretation of Results
