@@ -5493,7 +5493,11 @@ link de la aplicación web desplegada: https://aidmanager-experimentos.netlify.a
 
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 
+Se evidencia el despliegue de la aplicación móvil Aid Manager versión 1.0.0 a través de Firebase App Distribution. 
 
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-mobile.jpeg" alt="Firebase App Distribution - Aid Manager Mobile v1.0.0" width="600px">
+</p>
 
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
 Se evidencia el Swagger desplegado con Render, así como el link de un endpoint que se consume en el frontend.
@@ -5528,8 +5532,34 @@ Link de Swagger: https://aid-manager-general-backend.onrender.com/swagger/index.
 </p>
 
 #### 8.3.3.6. Team Collaboration Insights
+Se evidencian insights de los repositorios de Github donde se han trabajado las implementaciones.
+Link de organización: https://github.com/orgs/disenio-de-experimentos-4446/repositories
 
+Insights de repositorio de landing page
+Link: https://github.com/disenio-de-experimentos-4446/LandingPage-AidManager
 
+<p align="center">
+  <img src="../assets/insights 8.3/landing.png" alt="Landing page Aidmanager" width="600px">
+</p>
+
+Insights de repositorio de frontend
+Link: https://github.com/disenio-de-experimentos-4446/Aid-Manager-Web-Application
+<p align="center">
+  <img src="../assets/insights 8.3/front.png" alt="Landing page Aidmanager" width="600px">
+</p>
+
+Insights de repositorio de backend
+Link: https://github.com/disenio-de-experimentos-4446/Aid-Manager-General-BackEnd
+
+<p align="center">
+  <img src="../assets/insights 8.3/back.png" alt="Landing page Aidmanager" width="600px">
+</p>
+
+Insights de repositorio de mobile
+Link: https://github.com/disenio-de-experimentos-4446/Aid-Manager-Mobile-App
+<p align="center">
+  <img src="../assets/insights 8.3/mobile.png" alt="Landing page Aidmanager" width="600px">
+</p>
 
 ### 8.3.4. To-Be Validation Interviews
 #### 8.3.4.1. Diseño de Entrevistas
