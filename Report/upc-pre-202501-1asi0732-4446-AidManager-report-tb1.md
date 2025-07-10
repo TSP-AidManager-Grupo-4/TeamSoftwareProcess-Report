@@ -5602,6 +5602,8 @@ Link: https://github.com/disenio-de-experimentos-4446/Aid-Manager-Mobile-App
 
 #### 8.3.4.2. Registro de Entrevistas
 
+video de las entrevistas: https://youtu.be/EnOEZSLR6A8
+
 # Segmento 1
 
 Nombre: Luis Eduardo Herrera González
@@ -5617,6 +5619,11 @@ Dispositivos: Móvil (WhatsApp) & Computadora personal
 Navegador: Chrome
 
 Momento de la entrevista: [0:00]
+
+<p align="center">
+  <img src="../assets/entrevistas-finales/Luis.png" alt="Luis entrevista" width="600px">
+</p>
+
 
 Resumen de la entrevista:
 
@@ -5636,7 +5643,9 @@ Navegador: Chrome
 
 Momento de la entrevista: [0:00]
 
-
+<p align="center">
+  <img src="../assets/entrevistas-finales/aliz.png" alt="Ariana entrevista" width="600px">
+</p>
 
 Resumen de la entrevista:
 
@@ -5657,6 +5666,10 @@ Dispositivos: Celular & Laptop
 Navegador: Chrome
 
 Momento de la entrevista: [0:00]
+
+<p align="center">
+  <img src="../assets/entrevistas-finales/Keyli.png" alt="Keisi Entrevista final" width="600px">
+</p>
 
 Resumen de la entrevista:
 
@@ -5681,6 +5694,10 @@ Navegador: Chrome
 
 Momento de la entrevista: [0:00]
 
+<p align="center">
+  <img src="../assets/entrevistas-finales/tere.png" alt="Maria Entrevista" width="600px">
+</p>
+
 Resumen de la entrevista:
 
 María Teresa utiliza múltiples dispositivos (celular, tablet y laptop) para gestionar proyectos dentro de su ONG, lo que le permite estar conectada desde cualquier lugar. En cuanto a las mejoras implementadas en la plataforma, destaca positivamente el diseño de la landing page, mencionando que es amigable y clara. La interfaz de la aplicación web le resulta intuitiva, especialmente en la visualización de tareas y proyectos, y nota una mejora en la facilidad de uso, señalando que los colores y el diseño ayudan a mejorar la experiencia. Respecto a las métricas y las analíticas, María menciona que las mejoras realizadas para visualizar el desempeño del equipo y el progreso de las tareas son claras y útiles.
@@ -5700,6 +5717,9 @@ Navegador: Chrome
 
 Momento de la entrevista: [0:00]
 
+<p align="center">
+  <img src="../assets/entrevistas-finales/isa.png" alt="Isa entrevista" width="600px">
+</p>
 
 Resumen de la entrevista:
 
@@ -5723,7 +5743,9 @@ Navegador: Chrome
 
 Momento de la entrevista: [0:00]
 
-
+<p align="center">
+  <img src="../assets/entrevistas-finales/fa.png" alt="fabrizzio entrevista" width="600px">
+</p>
 
 Resumen de la entrevista:
 
@@ -5870,7 +5892,9 @@ Katti, V. S., & Sowmya, K. (2022). Flutter: Cross-platform IDE for mobile applic
 
 # Anexos
 
-[1.1 LeanUX Canvas]:
+Video Exposicion: https://youtu.be/Sz5WHDMyTL0
+
+Video Entrevistas Validacion: https://youtu.be/EnOEZSLR6A8
 
 [Repositorio] : https://github.com/orgs/Diseno-de-Experimentos-4446/repositories
 
@@ -5878,4 +5902,4 @@ Katti, V. S., & Sowmya, K. (2022). Flutter: Cross-platform IDE for mobile applic
 
 [Repositorio Mobile App] :  https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-Mobile-App
 
-[Backend Repositorio](https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-General-BackEnd)
+[Backend Repositorio] https://github.com/Diseno-de-Experimentos-4446/Aid-Manager-General-BackEnd
