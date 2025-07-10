@@ -5586,7 +5586,18 @@ Ariana, como Community Manager, maneja redes sociales y comunicaciones para una 
 En cuanto a la gestión de tareas y responsabilidades, Ariana opina que la aplicación sería fácil de usar para un voluntario dentro de una ONG, ya que las opciones son accesibles y claras. También valora la confirmación visual que ofrece la plataforma, lo que facilita el seguimiento de tareas y eventos.
 Finalmente, sugiere una mejora relacionada con la gestión de usuarios dentro de la plataforma, recomendando incluir una opción que permita ver cuántas personas se han registrado o suscrito a la plataforma, lo que sería útil para gestionar equipos grandes dentro de una ONG. A pesar de esta sugerencia, considera que la aplicación está bien diseñada y cumple con las necesidades básicas de los usuarios.
 
+Nombre: Keisy
+Edad: 23 años
+Ocupación: Team Member
+Ubicación: La Victoria
+Dispositivos: Celular & Laptop
+Navegador: Chrome
+Momento de la entrevista: [0:00]
 
+Resumen de la entrevista:
+Keisy, utiliza su celular y laptop en su día a día. En cuanto a la landing page de la plataforma, menciona que la interfaz es bastante clara, pero tiene algunas reservas sobre el uso del color verde, ya que lo asocia con la ecología, lo cual le parece apropiado. Sin embargo, encuentra que los íconos en la página son demasiado separados y sugirió que podrían ser más dinámicos y mejor organizados. Además, comenta que le gustaría que la navegación fuera más interactiva, con más movimiento y animaciones, para hacer la experiencia más atractiva visualmente para miembros de equipo.
+Respecto a la funcionalidad de crear posts, Kazy no entendió bien cómo funcionaba al principio, pero después de la explicación, sugirió que podría mejorar para que sea más claro y fácil de usar. También mencionó que los posts deberían incluir imágenes y que la opción para crear estos dentro de la organización podría ser más explicativa, similar a una plataforma como Facebook, donde se publican actualizaciones de proyectos.
+Finalmente, sugiere que la plataforma podría tener más interactividad y animaciones para hacerla más atractiva y funcional en su conjunto, especialmente en la página de inicio.
 
 
 # Segmento 2
