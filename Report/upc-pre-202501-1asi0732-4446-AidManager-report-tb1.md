@@ -5546,6 +5546,18 @@ Luis es miembro de un equipo en una ONG, encargado de tareas relacionadas con la
 
 # Segmento 2
 
+Nombre: María Teresa
+Edad: 51 años
+Ocupación: Organizadora de eventos, gestión de personal
+Ubicación: Trujillo, La Libertad
+Dispositivos: Celular, Tablet, Laptop
+Navegador: Chrome
+Momento de la entrevista: [0:00]
+
+Resumen de la entrevista:
+María Teresa utiliza múltiples dispositivos (celular, tablet y laptop) para gestionar proyectos dentro de su ONG, lo que le permite estar conectada desde cualquier lugar. En cuanto a las mejoras implementadas en la plataforma, destaca positivamente el diseño de la landing page, mencionando que es amigable y clara. La interfaz de la aplicación web le resulta intuitiva, especialmente en la visualización de tareas y proyectos, y nota una mejora en la facilidad de uso, señalando que los colores y el diseño ayudan a mejorar la experiencia. Respecto a las métricas y las analíticas, María menciona que las mejoras realizadas para visualizar el desempeño del equipo y el progreso de las tareas son claras y útiles.
+Además, aprecia los cambios implementados en la aplicación móvil, aunque sugiere que el menú podría ser un poco más grande para facilitar su uso. La internacionalización también ha sido un aspecto positivo para ella, ya que puede trabajar en español e inglés sin problemas. María no encuentra dificultades en las interfaces ni sugiere mejoras adicionales, destacando que el gráfico de métricas es muy útil para gestionar los flujos de trabajo. En cuanto a la plataforma en general, siente que se han superado sus expectativas, ya que las mejoras han satisfecho las necesidades que mencionó en entrevistas anteriores, como la mejora de interfaces y la internacionalización.
+
 
 ### 8.4. Experiment Aftermath & Analysis
 #### 8.4.1. Analysis and Interpretation of Results
