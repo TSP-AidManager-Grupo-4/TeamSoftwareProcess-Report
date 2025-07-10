@@ -5837,9 +5837,12 @@ Se adjunta el video about the team realizado con los testimonios de nuestros mie
 # Conclusiones
 En conclusión, para la TB1 se realizó el desarrollo de la solución y la implementación de esta misma. En futuras entregas estaremos observando mas de cerca el código a nivel de pruebas.
 
-En conclusión, para la TP1 se realizó el el testing necesario para nustras soluciones implementamos herramienas nuevas y distinos procesos para lograr nuestros objetivos.
+En conclusión, para la TP1 se realizó el testing necesario para nustras soluciones implementamos herramienas nuevas y distinos procesos para lograr nuestros objetivos.
 
-En conclusión, para la TP2 se realizó el las en trevistas, auditorias y adicion de features segun los experiment cards siguiendo el approach de experiment driven design
+En conclusión, para la TB2 se realizaron trevistas, auditorias y adicion de features segun los experiment cards siguiendo el approach de experiment driven design
+
+En En conclusión, para el TF se validaron los experiment cards del proceso de experimentacion asi como el desarrollo de las features vistas en las experiment card, el grupo ha completado efectivamente en aplicar conceptos de ingenieria y de cursos pasados para llevar al cabo este proyecto de manera satisfactoria.
+
 
 
 # Bibliografia
