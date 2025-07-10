@@ -5492,6 +5492,9 @@ link de la aplicación web desplegada: https://aidmanager-experimentos.netlify.a
 </p>
 
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
+
+
+
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
 Se evidencia el Swagger desplegado con Render, así como el link de un endpoint que se consume en el frontend.
 Link de Swagger: https://aid-manager-general-backend.onrender.com/swagger/index.html
@@ -5525,6 +5528,8 @@ Link de Swagger: https://aid-manager-general-backend.onrender.com/swagger/index.
 </p>
 
 #### 8.3.3.6. Team Collaboration Insights
+
+
 
 ### 8.3.4. To-Be Validation Interviews
 #### 8.3.4.1. Diseño de Entrevistas
@@ -5629,6 +5634,22 @@ En cuanto a la aplicación móvil, María menciona que la experiencia es similar
 Como mejora, sugiere agregar una funcionalidad para realizar videoconferencias directamente desde la plataforma, lo que sería útil para proyectos de campo donde no siempre se puede estar presente físicamente. Además, sugiere mejorar el calendario utilizando colores adicionales para diferenciar las actividades pendientes de las ya completadas, como el uso de verde para tareas realizadas y rojo para tareas pendientes.
 En general, María Isabel considera que las mejoras implementadas cumplen con sus expectativas, especialmente las relacionadas con las analíticas, la gestión de tareas y la funcionalidad del calendario.
 
+Nombre: Fabrizzio
+Edad: 22 años (próximo a cumplir 23)
+Ocupación: Gestor de proyectos en una ONG
+Ubicación: Trujillo, La Libertad
+Dispositivos: Computadora de escritorio, Laptop, y ocasionalmente celular
+Navegador: Chrome
+Momento de la entrevista: [0:00]
+
+
+Resumen de la entrevista:
+Fabrizzio, quien gestiona proyectos dentro de su ONG, utiliza principalmente computadoras de escritorio y laptops, con un uso mínimo de su celular. En cuanto a la plataforma, menciona que el diseño de la landing page es claro, y la organización de la información es efectiva. Sin embargo, señala que la plataforma debe tener la opción de establecer el idioma en español por defecto, ya que su equipo prefiere trabajar en ese idioma.
+En relación a las tareas, el sistema permite gestionar de manera adecuada las actividades, con un límite de tareas por usuario entre 10. Fabrizzio también sugiere que la plataforma debería tener un mensaje visual de advertencia para las tareas que se demoran, como un contorno rojo para llamar la atención, lo cual podría ayudar a priorizar tareas urgentes.
+Sobre las métricas, valora la facilidad con la que puede visualizar el desempeño del equipo, destacando la utilidad de las métricas de progreso y la claridad de los gráficos.
+Fabrizzio también considera que las versiones web y móvil cumplen con sus expectativas en términos de funcionalidad para la gestión de equipos y proyectos. Finalmente, menciona que está más satisfecho con las mejoras realizadas en la plataforma, especialmente en el sistema web, que considera muy eficiente y bien diseñado.
+En resumen, Fabrizzio está contento con las actualizaciones, aunque sugiere algunos ajustes visuales y de usabilidad para mejorar aún más la experiencia.
+
 
 ### 8.4. Experiment Aftermath & Analysis
 #### 8.4.1. Analysis and Interpretation of Results
@@ -5680,7 +5701,7 @@ A continuación, se presentan ejemplos de artefactos generados durante las sesio
 
 **Ejemplo de Artefacto 1**
 
-- **Título del Aprendizaje**: Optimización de despliegues en Railway  
+- **Título del Aprendizaje**: Optimización de despliegues en Render  
 - **Descripción**: Reducción del tiempo de despliegue automatizando la verificación de errores mediante GitHub Actions.  
 - **Evidencia**: Tiempo de despliegue se redujo de 4 min a 2 min en promedio.  
 - **Impacto en el Proyecto**: Aceleró la validación de cambios y mejoró el tiempo de respuesta ante errores.  
