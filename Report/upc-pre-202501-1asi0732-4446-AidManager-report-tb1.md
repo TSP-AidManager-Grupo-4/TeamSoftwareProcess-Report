@@ -5437,31 +5437,77 @@ A continuación, se detalla el Sprint Backlog con las tareas desarrolladas:
 #### 8.3.3.2. Implemented To-Be Landing Page Evidence
 
 Se evidencian capturas de la implementación de la landing page desplegado en Vercel.
-Se realizaron mejoras de optimización
+Se realizaron mejoras de optimización, usando Bundle con Vite y uso de @layer components para crear clases reutilizables
 Link de landing page: https://landing-page-aid-manager-37nb.vercel.app
 
 <p align="center">
   <img src="../assets/to-be-implemented/to-be-landing-page-1.png" alt="Seccion de landing page hero" width="600px">
 </p>
 <p align="center">
-  <img src="../assets/to-be-implemented/to-be-landing-page-2.png" alt="Seccion de landing page hero" width="600px">
+  <img src="../assets/to-be-implemented/to-be-landing-page-2.png" alt="Seccion de Que hacemos" width="600px">
 </p>
 <p align="center">
-  <img src="../assets/to-be-implemented/to-be-landing-page-3.png" alt="Seccion de landing page hero" width="600px">
+  <img src="../assets/to-be-implemented/to-be-landing-page-3.png" alt="Seccion de beneficios" width="600px">
 </p>
 <p align="center">
-  <img src="../assets/to-be-implemented/to-be-landing-page-4.png" alt="Seccion de landing page hero" width="600px">
+  <img src="../assets/to-be-implemented/to-be-landing-page-4.png" alt="Seccion de alianzas" width="600px">
 </p>
 <p align="center">
-  <img src="../assets/to-be-implemented/to-be-landing-page-5.png" alt="Seccion de landing page hero" width="600px">
+  <img src="../assets/to-be-implemented/to-be-landing-page-5.png" alt="Seccion de testimonios" width="600px">
 </p>
 <p align="center">
-  <img src="../assets/to-be-implemented/to-be-landing-page-6.png" alt="Seccion de landing page hero" width="600px">
+  <img src="../assets/to-be-implemented/to-be-landing-page-derf.png" alt="Seccion de contacto" width="600px">
+</p>
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-landing-page-6.png" alt="Seccion de nekofooter" width="600px">
 </p>
 
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
+
+En esta sección se presenta la evidencia de la implementación del backend To-Be de AidManager, desarrollado a partir de los aprendizajes obtenidos mediante las experiment cards realizadas en la iteración anterior. La implementación incluye un conjunto robusto de pruebas unitarias que validan el correcto funcionamiento de las funcionalidades core del sistema, así como pruebas de integración que verifican la comunicación efectiva entre los diferentes bounded contexts. Adicionalmente, se muestran los nuevos endpoints RESTful implementados que soportan las operaciones críticas de la plataforma, garantizando una arquitectura escalable y mantenible para la gestión de proyectos de ayuda humanitaria.
+
+<img src="../assets/Unit-Tests/UnitTest-UpdateRating.png" alt="imagen de unit test UpdateRating">  
+[Unit Test UpdateRating_WithValidRating_ShouldUpdateRating]
+<img src="../assets/Unit-Tests/UnitTest-CreateProject.png" alt="imagen de unit test CreateProject">  
+[Unit Test CreateProject_WithValidCommand_ShouldSetAllProperties]
+<img src="../assets/Unit-Tests/UnitTest-AddImage.png" alt="imagen de unit test AddImage">  
+[Unit Test AddImage_ShouldIncreaseImageCount]
+<img src="../assets/Unit-Tests/UnitTest-UpdateProject.png" alt="imagen de unit test UpdateProject">  
+[Unit Test UpdateProject_ShouldModifyAllProperties]
+<img src="../assets/Unit-Tests/UnitTest-Success.png" alt="imagen de unit test success">  
+[Unit Test Success]
+<img src="../assets/Integration-Tests/IntegrationTest-GetProjectsByCompany.png" alt="imagen de Integration TestGetProjectsByCompany">  
+[Integration Test GetProjectsByCompany_ShouldReturnProjectsForCompanyId]
+<img src="../assets/Integration-Tests/IntegrationTest-GetProjectsByCompany-2.png" alt="imagen de Integration TestGetProjectsByCompany parte 2">  
+[Integration Test GetProjectsByCompany_ShouldReturnProjectsForCompanyId 2]
+<img src="../assets/Integration-Tests/IntegrationTest-UpdateProjectWithTasks.png" alt="imagen de Integration UpdateProjectWithTasks">  
+[Integration Test UpdateProjectWithTasks_ShouldTrackTasksAcrossBoundedContexts]
+<img src="../assets/Integration-Tests/IntegrationTest-UpdateProjectWithTasks-2.png" alt="imagen de Integration UpdateProjectWithTasks parte 2">  
+
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-backend-1.png" alt="Endpoints de Aidmanager" width="600px">
+</p>
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-backend-2.png" alt="Endpoints de Aidmanager" width="600px">
+</p>
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-backend-3.png" alt="Endpoints de Aidmanager" width="600px">
+</p>
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-backend-4.png" alt="Endpoints de Aidmanager" width="600px">
+</p>
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-backend-5.png" alt="Endpoints de Aidmanager" width="600px">
+</p>
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-backend-6.png" alt="Endpoints de Aidmanager" width="600px">
+</p>
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-backend-7.png" alt="Endpoints de Aidmanager" width="600px">
+</p>
+
 #### 8.3.3.6. Team Collaboration Insights
 
 ### 8.3.4. To-Be Validation Interviews
