@@ -5465,27 +5465,15 @@ Link de landing page: https://landing-page-aid-manager-37nb.vercel.app
 #### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
 #### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
 #### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
+Se evidencia el Swagger desplegado con Render, así como el link de un endpoint que se consume en el frontend.
+Link de Swagger: https://aid-manager-general-backend.onrender.com/swagger/index.html
 
-En esta sección se presenta la evidencia de la implementación del backend To-Be de AidManager, desarrollado a partir de los aprendizajes obtenidos mediante las experiment cards realizadas en la iteración anterior. La implementación incluye un conjunto robusto de pruebas unitarias que validan el correcto funcionamiento de las funcionalidades core del sistema, así como pruebas de integración que verifican la comunicación efectiva entre los diferentes bounded contexts. Adicionalmente, se muestran los nuevos endpoints RESTful implementados que soportan las operaciones críticas de la plataforma, garantizando una arquitectura escalable y mantenible para la gestión de proyectos de ayuda humanitaria.
-
-<img src="../assets/Unit-Tests/UnitTest-UpdateRating.png" alt="imagen de unit test UpdateRating">  
-[Unit Test UpdateRating_WithValidRating_ShouldUpdateRating]
-<img src="../assets/Unit-Tests/UnitTest-CreateProject.png" alt="imagen de unit test CreateProject">  
-[Unit Test CreateProject_WithValidCommand_ShouldSetAllProperties]
-<img src="../assets/Unit-Tests/UnitTest-AddImage.png" alt="imagen de unit test AddImage">  
-[Unit Test AddImage_ShouldIncreaseImageCount]
-<img src="../assets/Unit-Tests/UnitTest-UpdateProject.png" alt="imagen de unit test UpdateProject">  
-[Unit Test UpdateProject_ShouldModifyAllProperties]
-<img src="../assets/Unit-Tests/UnitTest-Success.png" alt="imagen de unit test success">  
-[Unit Test Success]
-<img src="../assets/Integration-Tests/IntegrationTest-GetProjectsByCompany.png" alt="imagen de Integration TestGetProjectsByCompany">  
-[Integration Test GetProjectsByCompany_ShouldReturnProjectsForCompanyId]
-<img src="../assets/Integration-Tests/IntegrationTest-GetProjectsByCompany-2.png" alt="imagen de Integration TestGetProjectsByCompany parte 2">  
-[Integration Test GetProjectsByCompany_ShouldReturnProjectsForCompanyId 2]
-<img src="../assets/Integration-Tests/IntegrationTest-UpdateProjectWithTasks.png" alt="imagen de Integration UpdateProjectWithTasks">  
-[Integration Test UpdateProjectWithTasks_ShouldTrackTasksAcrossBoundedContexts]
-<img src="../assets/Integration-Tests/IntegrationTest-UpdateProjectWithTasks-2.png" alt="imagen de Integration UpdateProjectWithTasks parte 2">  
-
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-backend-render.jpeg" alt="Endpoints de Aidmanager" width="600px">
+</p>
+<p align="center">
+  <img src="../assets/to-be-implemented/to-be-backend-derf.jpeg" alt="Endpoints de Aidmanager" width="600px">
+</p>
 <p align="center">
   <img src="../assets/to-be-implemented/to-be-backend-1.png" alt="Endpoints de Aidmanager" width="600px">
 </p>
