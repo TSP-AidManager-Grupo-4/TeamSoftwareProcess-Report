@@ -25,8 +25,8 @@
             <td>u202217485</td>
         </tr>
         <tr>
-            <td>Cuadros Rodriguez, Juan Alejandro</td>
-            <td>U20221A359</td>
+            <td>Guia Carrasco, Pedro Andre</td>
+            <td>U202212010</td>
         </tr>
         <tr>
             <td>Peña Rivera, Manuel Sebastian</td>
@@ -36,10 +36,7 @@
             <td>Ramirez Hoffmann, Sebastian</td>
             <td>U202211894</td>
         </tr>
-         <tr>
-            <td>Ramírez Méndez, Sebastián André</td>
-            <td>U20191E575</td>
-         </tr>
+         
 </table>
 
 <br>
@@ -56,22 +53,10 @@
 |---------|-------------|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
 | TB1     | 18/04/2025  | Nicolas Esteban Garcia     | Redacción de antecedentes y revisiones del documento. |
 | TB1     | 20/04/2025  | Sebastian Peña            | Revisión completa del Lean UX Canvas.            |
-| TB1     | 20/04/2025  | Sebastian Ramirez Mendez           | Revisión completa del Entrevistas y competidores Canvas.            |
+| TB1     | 20/04/2025  | Sebastian Ramirez            | Revisión completa del Entrevistas y competidores Canvas.            |
 | TB1     | 21/04/2025  | Sebastian Ramirez Hoffmann           | Revisión completa del Lean UX Canvas.            |
-| TB1     | 22/04/2025  | Juan Cuadros           | Revisión completa del diseño de solución            |
-| TB1     | 23/04/2025  | Sebastian Ramirez Hoffmann           | Revisión general del informe            |
-| TP     | 18/04/2025  | Nicolas Esteban Garcia     | Redacción de feedback y revisiones del documento. |
-| TP     | 9/05/2025  | Sebastian Peña            | Revisión completa de testing unitario.            |
-| TP     | 10/05/2025  | Sebastian Ramirez Mendez           | Revisión completa de testing funcional.            |
-| TP     | 12/05/2025  | Sebastian Ramirez.H Hoffmann           | Revisión completa integracion con backend.            |
-| TP     | 12/05/2025  | Juan Cuadros           | Revisión completa del informe preliminar            |
-| TP     | 13/05/2025  | Sebastian Ramirez Hoffmann           | Revisión general backend            |
-| TB2     | 15/05/2025  | Nicolas Esteban Garcia     | Redacción de feedback y actualizacion front end. |
-| TB2     | 16/05/2025  | Sebastian Peña            | Preparacion de entrevistas.            |
-| TB2     | 17/05/2025  | Sebastian Ramirez Mendez           | Revisión completa de experiment cards.            |
-| TB2     | 14/06/2025  | Sebastian Ramirez Hoffmann           | Revisión de avances y audioria.            |
-| TB2     | 16/06/2025  | Juan Cuadros           | Revisión completa del informe preliminar            |
-| TB2     | 17/06/2025  | Sebastian Ramirez Hoffmann           | Revisión general backend    
+| TB1     | 22/04/2025  | Pedro Guia           | Revisión completa del diseño de solución            |
+| TB1     | 23/04/2025  | Sebastian Ramirez Hoffmann           | Revisión general del informe            |  
 
 
 
@@ -97,7 +82,7 @@ Proyecto:
 
 Para la entrega del TB1 se han realizado los procesos necesarios para lograr los objetivos propuestos de la entrega. Se toma en cuenta la importancia de la persistencia y como grupo nos dedicamos a mantener una frecuencia de commits y cambios proyectada a ser optima a futuro.
 
-Se muestran evidencias de los commits realizados en la entrega de la TB1 en el informe.
+Se muestran evidencias de los commits realizados en la entrega de la TB1 en la landing page.
 
 <img src="../assets/Insights/commits.png " alt="imagen de las colaboraciones">  
 
@@ -329,41 +314,13 @@ En ambos casos se puede observar el incremento de modificaciones y revisiones en
 
 | **Criterio Específico** | **Acciones Realizadas** | **Conclusiones** |
 |-------------------------|-------------------------|------------------|
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | **Esteban Garcia, Nicolas Sebastian** <br> **TB1**:  Durante el desarrollo del proyecto, participé activamente en los procesos de deployment de la aplicación y en el testeo del aplicativo móvil. Para ello, investigué herramientas modernas de despliegue, configuré entornos de prueba y producción, y realicé pruebas funcionales para asegurar el correcto desempeño del sistema. Esta experiencia me permitió actualizar y reforzar mis conocimientos en integración y entrega continua, así como en aseguramiento de calidad. <br><br> **Ramírez Hoffmann, Sebastián** <br> **TB1**: <br> Participé activamente en todas las etapas del proyecto, actualizando mis conocimientos en desarrollo backend mediante el uso de tecnologías modernas. Contribuí a la definición de las style guidelines del sistema y apliqué principios de diseño centrado en el usuario dentro del enfoque Lean UX. Esta participación permitió la integración efectiva entre los requerimientos técnicos y las necesidades del usuario final. <br><br> **Ramírez Méndez, Sebastián André** <br> **TB1**: <br> Reforcé mis conocimientos en gestión de proyectos aplicando metodologías ágiles. Contribuí al desarrollo de la interfaz de usuario, incorporando conceptos de accesibilidad y usabilidad. Investigué y propuse mejoras en la estructura de datos, y participé en la validación técnica del MVP para asegurar su viabilidad. <br><br> **Cuadros Rodriguez, Juan Alejandro** <br> **TB1**: <br>Realicé la investigación del documento, lo que me permitió repasar los conceptos y contribuir de manera significativa a la implementación de diversos apartados del proyecto.<br><br> **Peña Rivera, Manuel Sebastian** <br> **TB1**: Durante el proyecto, actualicé mis conocimientos en desarrollo de software mediante la implementación de Web Style Guidelines y General Style Guidelines, contribuyendo a la cohesión del diseño. También colaboré en la creación de User Personas, Historias de Usuario, Impact Mappings y Customer Journeys, alineando las funcionalidades con las necesidades del usuario final. <br><br> **Apellidos, Nombres** <br> **TB1**: <br> _[Espacio libre para completar]_ | El equipo logró actualizar y aplicar conceptos relevantes en soluciones de software, lo que contribuyó al fortalecimiento de nuestras competencias profesionales. Esta actualización de conocimientos fue clave para el desarrollo del proyecto. |
-| Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software. | **Esteban Garcia, Nicolas Sebastian** <br> **TB1**:  A lo largo del proyecto, enfrenté varios desafíos al probar el aplicativo móvil en diferentes entornos y dispositivos. Esto me llevó a investigar soluciones y aprender nuevas técnicas para resolver problemas de compatibilidad, errores y rendimiento. Esta búsqueda constante de mejora me permitió adaptarme mejor a los requerimientos del sistema y del equipo. <br><br> **Ramírez Hoffmann, Sebastián** <br> **TB1**: <br> Asumí una actitud activa de aprendizaje permanente durante todo el desarrollo del proyecto. Participé en las entrevistas a usuarios, analicé sus necesidades e incorporé ese conocimiento en decisiones técnicas. <br><br> **Ramírez Méndez, Sebastián André** <br> **TB1**: <br> Mantuve un compromiso constante con el aprendizaje, explorando nuevas herramientas de gestión colaborativa. Lideré sesiones de revisión técnica y busqué información actualizada para mejorar nuestras decisiones. Fomenté la mejora continua dentro del equipo, asegurando que nuestras soluciones estuvieran alineadas con las mejores prácticas. <br><br> **Cuadros Rodriguez, Juan Alejandro** <br> **TB1**: <br>Me comprometí con el equipo, procurando siempre respetar los tiempos establecidos. Este enfoque me permitió avanzar de manera ordenada y fomentar una mejora continua en el desarrollo del proyecto.<br><br> **Peña Rivera, Manuel Sebastian** <br> **TB1**: <br>Mantuve un enfoque de aprendizaje constante, participando en entrevistas con usuarios y aplicando sus necesidades en el proyecto. Además, trabajé con el equipo para definir y ajustar las Historias de Usuario y el Producto Backlog, promoviendo una mejora continua y asegurando que el desarrollo estuviera alineado con las mejores prácticas y las expectativas del usuario. <br><br> **Apellidos, Nombres** <br> **TB1**: <br> _[Espacio libre para completar]_ | A lo largo del proyecto, el grupo demostró consciencia sobre la importancia del aprendizaje permanente mediante la búsqueda de información actualizada, la revisión constante de buenas prácticas en software y la reflexión grupal sobre el trabajo realizado. |
+| Capacidad de comunicarse efectivamente con un rango de audiencias. | **Esteban Garcia, Nicolas Sebastian** <br> **TB1**: Durante el desarrollo del proyecto, participé activamente en los procesos de deployment de la aplicación y en el testeo del aplicativo móvil. Para comunicar de manera efectiva los avances, documenté la configuración de los entornos de prueba y producción, y compartí los resultados de las pruebas funcionales con el equipo. Esto permitió al grupo técnico y a los stakeholders comprender el estado de calidad del sistema. La experiencia reforzó mi capacidad de explicar procesos complejos de integración continua y aseguramiento de calidad de forma clara. <br><br> **Ramírez Hoffmann, Sebastián** <br> **TB1**: Participé activamente en todas las etapas del proyecto, actualizando mis conocimientos en desarrollo backend mediante tecnologías modernas. Contribuí a la definición de las *style guidelines* del sistema y comuniqué de forma clara su aplicación al resto del equipo, asegurando uniformidad. Además, traduje requerimientos técnicos a criterios de diseño centrado en el usuario dentro del enfoque Lean UX, facilitando la comprensión tanto de desarrolladores como de usuarios finales. <br><br> **Pedro Guia Carrazco** <br> **TB1**: Reforcé mis conocimientos en gestión de proyectos aplicando metodologías ágiles, donde la comunicación en reuniones diarias y revisiones de sprint fue clave. Contribuí al desarrollo de la interfaz de usuario explicando conceptos de accesibilidad y usabilidad a compañeros no especialistas en UX. También propuse mejoras en la estructura de datos y expuse su impacto al equipo de desarrollo, logrando alinear criterios técnicos con las necesidades del producto. <br><br> **Peña Rivera, Manuel Sebastian** <br> **TB1**: Durante el proyecto, comuniqué de manera efectiva lineamientos de diseño mediante la implementación de *Web Style Guidelines* y *General Style Guidelines*, lo que fortaleció la cohesión visual del sistema. Colaboré en la creación de *User Personas*, *Historias de Usuario*, *Impact Mappings* y *Customer Journeys*, comunicando estos artefactos al equipo para asegurar que todos comprendieran la relación entre funcionalidades técnicas y necesidades del usuario final.|Las acciones realizadas por los integrantes evidencian el uso de diferentes estrategias de comunicación dirigidas tanto a audiencias técnicas (compañeros de desarrollo, QA, diseñadores) como no técnicas (stakeholders, usuarios finales). Se logró transmitir información compleja de forma clara, facilitando la toma de decisiones y la alineación del equipo en torno a objetivos comunes. En conclusión, se cumplió el criterio al demostrar la capacidad de adaptar el lenguaje, los medios y los mensajes de acuerdo con la audiencia, garantizando comprensión y efectividad en el trabajo colaborativo. |
 
 <br>
 
 ---
 
 <br>
-
-##  Student Outcome - Avances TP1
-
-| **Criterio Específico** | **Acciones Realizadas** | **Conclusiones** |
-|-------------------------|-------------------------|------------------|
-| Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software. | **Esteban Garcia, Nicolas Sebastian** <br> **TP1**: Participé activamente en la implementación y corrección del módulo *Teams*, tanto en backend como frontend. Aprendí a conectar contextos acotados y depurar errores comunes en APIs REST. Asimismo, mejoré mis conocimientos sobre control de versiones y coordinación de tareas distribuidas. <br><br> **Ramírez Hoffmann, Sebastián** <br> **TP1**: Me enfoqué en fortalecer la arquitectura del sistema y la experiencia del usuario. Apliqué conceptos de diseño centrado en el usuario con Lean UX y ayudé a definir flujos coherentes de navegación. Además, participé en las pruebas funcionales automatizadas con Selenium IDE, lo que reforzó mi comprensión de calidad de software. <br><br> **Ramírez Méndez, Sebastián André** <br> **TP1**: Me encargué de integrar y depurar el módulo *Tasks*, trabajando tanto en la lógica del backend como en su consumo desde el frontend. Implementé mejoras en el flujo de edición y validación de tareas, además de colaborar en la automatización de pruebas. Esta experiencia consolidó mis conocimientos de arquitectura multicapa y pruebas funcionales. <br><br> **Cuadros Rodriguez, Juan Alejandro** <br> **TP1**: Me especialicé en el desarrollo y conexión del módulo *Projects*, asegurando la coherencia entre API y frontend. También participé en las pruebas automatizadas con Selenium para validar el correcto funcionamiento del flujo de creación de proyectos. Esta experiencia me permitió aplicar conceptos de testing y mejora continua. <br><br> **Peña Rivera, Manuel Sebastian** <br> **TP1**: Contribuí a la validación y corrección de los módulos *Analytics* y *Home*. Mejoré mis habilidades en integración de datos en dashboards y en la verificación de consistencia visual. Además, realicé pruebas funcionales para asegurar que la lógica de presentación fuera coherente. | Cada integrante del equipo logró actualizar conceptos claves en pruebas automatizadas, integración de contextos acotados y experiencia de usuario. El trabajo realizado fortaleció nuestras competencias técnicas en arquitectura de software, pruebas funcionales y despliegue controlado. |
-
-<br>
-
----
-
-<br>
-
-## Student Outcome - TB2
-
-| **Criterio Específico** | **Acciones Realizadas** | **Conclusiones** |
-|-------------------------|-------------------------|------------------|
-| **Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.** | **Esteban García, Nicolás Sebastián** <br> **TB2**: Implementé características acordes a los experiment cards, con un enfoque en analítica de datos. Colaboré también en la auditoría del grupo 4 y participé activamente en la selección de KPIs, objetivos y métricas. Esto me permitió comprender profundamente cómo las métricas impactan en el análisis del desempeño y en la toma de decisiones estratégicas en proyectos de software. También participé en la planificación de seguimiento para web y móvil, lo que me ayudó a fortalecer mis conocimientos en la gestión de proyectos y en el análisis de datos. <br><br> **Sebastián Ramirez Hoffmann** <br> **TB2**: Durante este proyecto, participé en las entrevistas de validación y en la implementación de funcionalidades acordes a los experiment cards. A través de las entrevistas, pude entender cómo las decisiones técnicas que tomamos deben alinearse con las necesidades de los usuarios finales. Esta experiencia me permitió mejorar mi comprensión del diseño centrado en el usuario, lo que considero crucial para el éxito de cualquier solución de software. <br><br> **Manuel Sebastián Peña Rivera** <br> **TB2**: Continué con la implementación de funcionalidades según los experiment cards. También trabajé en la implementación de Coding Standards & Code Conventions, lo que me permitió consolidar mis conocimientos sobre la importancia de la calidad del código. Además, participé en la validación de entrevistas y colaboré en la implementación de las condiciones de los experimentos. Esto me ayudó a actualizar mis conocimientos sobre cómo diseñar y validar experimentos dentro de un proyecto de software. <br><br> **Sebastián Ramírez Méndez** <br> **TB2**: Implementé características acordes a los experiment cards y participé en la auditoría del grupo 4. También trabajé en la creación del *question backlog*, lo cual me permitió asegurar que las funcionalidades y las historias de usuario estuvieran alineadas con los requerimientos del cliente. Esta experiencia me permitió fortalecer mis conocimientos en la gestión del backlog y en la calidad del código. <br><br> **Juan Alejandro Cuadros Rodríguez** <br> **TB2**: Me encargué de realizar entrevistas de validación e implementé características de acuerdo con los experiment cards. Además, formulé hipótesis y gestioné el *To-Be Product Backlog*, lo que me permitió mejorar mi comprensión de cómo las decisiones del backlog impactan el desarrollo y la priorización de funcionalidades en el proyecto. | El equipo actualizó y aplicó conceptos clave sobre analítica de datos, entrevistas de validación y estándares de codificación, lo que contribuyó a fortalecer nuestras competencias técnicas en la implementación de soluciones de software. |
-| **Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.** | **Esteban García, Nicolás Sebastián** <br> **TB2**: Reconocí la importancia del aprendizaje constante mientras enfrentaba nuevos desafíos en la implementación de características basadas en los experiment cards y en la auditoría del grupo 4. Comprendí que la necesidad de comprender cómo los KPIs y métricas impactan en las decisiones del negocio es clave para mejorar nuestro desempeño en proyectos de software. Esta experiencia me permitió valorar aún más el aprendizaje continuo como un pilar fundamental en mi carrera profesional. <br><br> **Sebastián Ramirez Hoffmann** <br> **TB2**: Durante todo el proyecto, mantuve una actitud activa de aprendizaje, participando en entrevistas con usuarios y aplicando este conocimiento en decisiones técnicas. Aprendí que para desarrollar soluciones de software efectivas, es crucial seguir aprendiendo constantemente y validando nuestras decisiones con los usuarios. Este proceso me ha hecho más consciente de la importancia de aprender de cada experiencia para mejorar continuamente. <br><br> **Manuel Sebastián Peña Rivera** <br> **TB2**: Me comprometí con el aprendizaje constante, participando en entrevistas con usuarios y aplicando sus necesidades en el proyecto. Al trabajar con el equipo para definir y ajustar las Historias de Usuario y el Producto Backlog, entendí que el aprendizaje permanente es crucial para alinear nuestras funcionalidades con las expectativas del usuario. También me di cuenta de que la mejora continua en las prácticas de codificación es esencial para mantener la calidad del código a lo largo del proyecto. <br><br> **Sebastián Ramírez Méndez** <br> **TB2**: Mantuve un enfoque activo de aprendizaje, buscando soluciones y mejorando la calidad del código durante la implementación de funcionalidades. A través de la creación de *user stories* y la evaluación de la calidad del código, entendí la importancia de mejorar de manera constante tanto en la parte técnica como en la gestión del proyecto. Aprendí que el aprendizaje constante es la base para garantizar el éxito y la evolución de nuestros proyectos. <br><br> **Juan Alejandro Cuadros Rodríguez** <br> **TB2**: Continué con mi enfoque de aprendizaje constante al participar en entrevistas de validación y en la formulación de hipótesis. Al formular y ajustar el *To-Be Product Backlog*, comprendí la importancia de revisar y adaptar las decisiones basadas en nuevas necesidades. Esta experiencia me permitió reconocer que el aprendizaje continuo es esencial para mejorar y adaptar el proyecto según las condiciones cambiantes del entorno. | A lo largo del proyecto, el equipo demostró consciencia sobre la importancia del aprendizaje permanente, buscando siempre soluciones innovadoras y adaptándose a las necesidades cambiantes del proyecto. Esta mentalidad de mejora continua nos permitió avanzar y adaptarnos a los desafíos que surgieron durante el desarrollo de las soluciones de software. |
-
-## Student Outcome - TF
-
-| **Criterio Específico** | **Acciones Realizadas** | **Conclusiones** |
-|-------------------------|-------------------------|------------------|
-| **Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.** | **Esteban García, Nicolás Sebastián** <br> **TF**: Logré documentar las entrevistas y desarrollar las funcionalidades necesarias en los experiment cards, lo cual reforzó mi comprensión sobre la importancia de respetar cada etapa del ciclo de vida de la experimentación dentro de la ingeniería de software. A través de estos procesos, he aprendido a manejar de manera efectiva los datos derivados de nuestras hipótesis, lo que facilita la implementación de soluciones concretas. Esta experiencia me reafirma lo esencial que es llevar a cabo estos pasos de forma ordenada y precisa. <br><br> **Sebastián Ramirez Hoffmann** <br> **TF**: Respecto a actualizar conceptos tuve que volver a entender el proceso de entrevistas y diseñar las preguntas más objetivas para nuestro caso, enfocándonos en recolectar información valiosa respecto a la validación del usuario. Finalmente, siento que actualizar estos conocimientos y conceptos son necesarios para mantener las soluciones de software actualizadas y a la par con las convenciones del mercado. <br><br> **Manuel Sebastián Peña Rivera** <br> **TF**: Implementé el To-Be completo: landing page, frontend web, backend y mobile app. Esto me ayudó a reforzar conceptos de full-stack development y APIs RESTful. También diseñé las entrevistas de validación To-Be y apoyé desarrollando las experiment cards, lo que me permitió entender mejor cómo validar features con usuarios reales y cómo los experimentos guían las decisiones de desarrollo. <br><br> **Sebastián Ramírez Méndez** <br> **TF**: Durante el desarrollo del Sprint 1, estructuré el Sprint Backlog 1 y organicé la documentación técnica del equipo. Estas tareas me ayudaron a actualizar mis conocimientos en gestión ágil de proyectos, redacción técnica y uso efectivo de herramientas colaborativas como markdown y GitHub, esenciales para la gestión de proyectos de software. <br><br> **Juan Alejandro Cuadros Rodríguez** <br> **TF**: Me enfoqué en la implementación de funcionalidades clave en el backend y apoyé en la integración de vistas del frontend. Esto me permitió reforzar conceptos de API REST, pruebas funcionales, y la lógica de negocio. Además, aprendí más sobre cómo organizar el flujo de trabajo técnico para mantener la calidad y cohesión del código del equipo. | Cada integrante del equipo logró actualizar conceptos claves en pruebas automatizadas, integración de contextos acotados y experiencia de usuario. El trabajo realizado fortaleció nuestras competencias técnicas en arquitectura de software, pruebas funcionales y despliegue controlado. |
-| **Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.** | **Esteban García, Nicolás Sebastián** <br> **TF**: Pude registrar las entrevistas e implementar funcionalidades en los experiment cards, lo que me permitió reconocer nuevamente la importancia de seguir correctamente el ciclo de vida de la experimentación en procesos de ingeniería de software. Considero que es a través de estas prácticas que aprendemos a gestionar adecuadamente los datos obtenidos a partir de nuestras hipótesis, y así avanzar en la implementación de soluciones de desarrollo. Esta experiencia me ha ayudado a comprender el valor de realizar estos procesos de forma estructurada y rigurosa. <br><br> **Sebastián Ramirez Hoffmann** <br> **TF**: Logré registrar las entrevistas e implementar features de los experiment cards, reconociendo nuevamente la importancia de respetar el flujo de vida de experimentación en este tipo de procesos de ingeniería de software. Siento que es gracias a estos procesos que aprendemos correctamente a manejar los datos recolectados de nuestras hipótesis y llegar a implementar las soluciones de desarrollo me ha ayudado a entender la importancia de realizar este tipo de procesos de manera correcta. <br><br> **Manuel Sebastián Peña Rivera** <br> **TF**: Implementar las nuevas funciones me mostró que siempre hay nuevas tecnologías y mejores prácticas que aprender. Al trabajar con las entrevistas de validación y experiment cards, me di cuenta de que el desarrollo no es solo código, sino también entender usuarios y validar ideas constantemente. Esto refuerza que necesito seguir aprendiendo tanto en lo técnico como en metodologías de producto. <br><br> **Sebastián Ramírez Méndez** <br> **TF**: Participar en la documentación del informe y la organización del backlog me permitió comprender que siempre hay oportunidades para mejorar nuestras prácticas de planificación, comunicación técnica y manejo de herramientas de soporte. Esta experiencia me reafirma la importancia de seguir aprendiendo sobre gestión ágil y desarrollo colaborativo. <br><br> **Juan Alejandro Cuadros Rodríguez** <br> **TF**: Al trabajar en la integración técnica del sistema, reconocí que el aprendizaje no termina al implementar una funcionalidad. Es clave mantenerse actualizado en temas de seguridad, rendimiento y buenas prácticas. Esta experiencia me impulsó a investigar nuevas herramientas y patrones de arquitectura que puedan aplicarse en nuestros futuros sprints. | A lo largo del proyecto, el equipo demostró consciencia sobre la importancia del aprendizaje permanente, buscando siempre soluciones innovadoras y adaptándose a las necesidades cambiantes del proyecto. Esta mentalidad de mejora continua nos permitió avanzar y adaptarnos a los desafíos que surgieron durante el desarrollo de las soluciones de software. |
-
 
 
 # Capítulo I: Presentación
@@ -393,18 +350,7 @@ Los siguientes integrantes del grupo son presentados con su carrera y sus conoci
 
 <table>
   <tr>
-    <th>
-      <img src="../assets/sebas_perfil.jpeg" alt="Foto de perfil de Sebastian Ramirez Mendez" width="800px">
-    </th>
-    <td valign="top">
-      <p><b>Ramírez Méndez, Sebastián André</b></p>
-      <p>
-        Soy una persona entusiasta que disfruta colaborar en equipo, y me caracterizo por ser transparente en mis objetivos y en mi enfoque de trabajo. Me enorgullece la capacidad que tengo para complementar a mi equipo en áreas donde puedan necesitar apoyo. Mi pasión por mi carrera me impulsa a desafiar mis habilidades y aspirar a alcanzar todo su potencial.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <th>
+      <th>
       <img src="../assets/integrantes/Sebastian-Ramirez-Hoffmann .jpeg" alt="Foto de perfil de Sebastian Ramirez Hoffmann" width="800px">
     </th>
     <td valign="top">
@@ -416,10 +362,10 @@ Los siguientes integrantes del grupo son presentados con su carrera y sus conoci
   </tr>
   <tr>
     <th>
-      <img src="../assets/profile-picture-integrants/Juan-Cuadros.jpg" alt="Foto de perfil de" width="800px">
+      <img src="../assets/pedro.jpg" alt="Foto de perfil de" width="800px">
     </th>
     <td valign="top">
-      <p><b>Cuadros Rodriguez, Juan Alejandro</b></p>
+      <p><b>Guia Carrasco, Pedro Andre</b></p>
       <p>
         Tengo conocimientos en los lenguajes de programación C/C++, Python y Java. También tengo conocimientos en Análisis de vulnerabilidades y explotación de datos. Estoy comprometido con el equipo y el proyecto.
       </p>
@@ -1202,6 +1148,7 @@ Preguntas enfocadas en los empleados de la organización, considerando su experi
 
 
 ### 2.2.2. Registro de entrevistas
+
 Puedes acceder al video de las entrevistas mediante el siguiente enlace:
 
 🔗 **[Entrevista disponible aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETGPw2njqWZHl6IrOkDoq0wBvExjz8a2pqnBQaWcUuKs8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MHCwWy)**. https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETGPw2njqWZHl6IrOkDoq0wBvExjz8a2pqnBQaWcUuKs8g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MHCwWy
@@ -1371,55 +1318,55 @@ El User Task Matrix nos sirve para identificar los procesos que realizan ambos s
     </tr>
   </thead>
   <tbody style="background-color: #1A2B3C; color: white;">
-    <tr>
-      <td>Comunicar al equipo de sus tareas en un proyecto.</td>
-      <td style="background-color: #B26A00;">Alta</td>
-      <td style="background-color: #665100;">Media</td>
-      <td style="background-color: #B26A00;">Alta</td>
-      <td style="background-color: #4D5F3C;">Baja</td>
-    </tr>
-    <tr>
-      <td>Establecer fechas importantes o un cronograma orientado a las actividades a realizar.</td>
-      <td style="background-color: #B26A00;">Alta</td>
-      <td style="background-color: #665100;">Media</td>
-      <td style="background-color: #665100;">Media</td>
-      <td style="background-color: #4D5F3C;">Baja</td>
-    </tr>
-    <tr>
-      <td>Evaluar los resultados del proyecto realizado.</td>
-      <td style="background-color: #B26A00;">Alta</td>
-      <td style="background-color: #665100;">Media</td>
-      <td style="background-color: #665100;">Media</td>
-      <td style="background-color: #4D5F3C;">Baja</td>
-    </tr>
-    <tr>
-      <td>Registrar información del proyecto.</td>
-      <td style="background-color: #B26A00;">Alta</td>
-      <td style="background-color: #665100;">Media</td>
-      <td style="background-color: #B26A00;">Alta</td>
-      <td style="background-color: #B26A00;">Alta</td>
-    </tr>
-    <tr>
-      <td>Planificar reuniones mensuales & anuales.</td>
-      <td style="background-color: #B26A00;">Alta</td>
-      <td style="background-color: #2F4F3E;">Baja</td>
-      <td style="background-color: #665100;">Media</td>
-      <td style="background-color: #4D5F3C;">Baja</td>
-    </tr>
-    <tr>
-      <td>Registrar datos en Excel.</td>
-      <td style="background-color: #B26A00;">Alta</td>
-      <td style="background-color: #665100;">Media</td>
-      <td style="background-color: #B26A00;">Alta</td>
-      <td style="background-color: #4D5F3C;">Baja</td>
-    </tr>
-    <tr>
-      <td>Supervisar proyecto en ejecución</td>
-      <td style="background-color: #B26A00;">Alta</td>
-      <td style="background-color: #665100;">Media</td>
-      <td style="background-color: #B26A00;">Alta</td>
-      <td style="background-color: #B26A00;">Alta</td>
-    </tr>
+    <tr class="odd">
+<td>Comunicar al equipo de sus tareas en un proyecto.</td>
+<td style="background-color: #B26A00;">Alta</td>
+<td style="background-color: #665100;">Media</td>
+<td style="background-color: #B26A00;">Alta</td>
+<td style="background-color: #4D5F3C;">Baja</td>
+</tr>
+<tr class="even">
+<td>Establecer fechas importantes o un cronograma orientado a las actividades a realizar.</td>
+<td style="background-color: #B26A00;">Alta</td>
+<td style="background-color: #665100;">Media</td>
+<td style="background-color: #665100;">Media</td>
+<td style="background-color: #4D5F3C;">Baja</td>
+</tr>
+<tr class="odd">
+<td>Evaluar los resultados del proyecto realizado.</td>
+<td style="background-color: #B26A00;">Alta</td>
+<td style="background-color: #665100;">Media</td>
+<td style="background-color: #665100;">Media</td>
+<td style="background-color: #4D5F3C;">Baja</td>
+</tr>
+<tr class="even">
+<td>Registrar información del proyecto.</td>
+<td style="background-color: #B26A00;">Alta</td>
+<td style="background-color: #665100;">Media</td>
+<td style="background-color: #B26A00;">Alta</td>
+<td style="background-color: #B26A00;">Alta</td>
+</tr>
+<tr class="odd">
+<td>Planificar reuniones mensuales & anuales.</td>
+<td style="background-color: #B26A00;">Alta</td>
+<td style="background-color: #2F4F3E;">Baja</td>
+<td style="background-color: #665100;">Media</td>
+<td style="background-color: #4D5F3C;">Baja</td>
+</tr>
+<tr class="even">
+<td>Registrar datos en Excel.</td>
+<td style="background-color: #B26A00;">Alta</td>
+<td style="background-color: #665100;">Media</td>
+<td style="background-color: #B26A00;">Alta</td>
+<td style="background-color: #4D5F3C;">Baja</td>
+</tr>
+<tr class="odd">
+<td>Supervisar proyecto en ejecución</td>
+<td style="background-color: #B26A00;">Alta</td>
+<td style="background-color: #665100;">Media</td>
+<td style="background-color: #B26A00;">Alta</td>
+<td style="background-color: #B26A00;">Alta</td>
+</tr>
   </tbody>
 </table>
 
@@ -1550,7 +1497,7 @@ Este escenario muestra:
   <tbody style="background-color: #006D8F; color: white;">
     <tr>
       <td>EP01</td>
-      <td>Informar del producto y empresa</td>
+      <td>Informar de la empresa y producto</td>
       <td style="background-color: #8B4513;">HU01 – HU05</td>
     </tr>
     <tr>
@@ -1805,44 +1752,26 @@ pone la información requerida,</p>
 <p><strong>Then</strong> aparece un mensaje solicitando la información
 solicitada.</p></td>
 </tr>
-</tbody>
-</table>
-
-<table>
-<colgroup>
-<col style="width: 8%" />
-<col style="width: 16%" />
-<col style="width: 21%" />
-<col style="width: 53%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th rowspan="2">HU10</th>
-<th rowspan="2">Autenticar usuarios por medio de código de
-organización</th>
-<th rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+<tr class="odd">
+<td rowspan="2">HU10</td>
+<td rowspan="2">Autenticar usuarios por medio de código de organización</td>
+<td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
 invitar a un miembro de equipo usando un código de organización
-<strong>para</strong> que este pueda registrarse a la organización.</th>
-<th><p><strong>Caso: El miembro de equipo se registra
+<strong>para</strong> que este pueda registrarse a la organización.</td>
+<td><p><strong>Caso: El miembro de equipo se registra
 correctamente.</strong></p>
 <p><strong>Given</strong> el gestor envía el código de invitación al
 usuario miembro de equipo,</p>
 <p><strong>When</strong> ingresa el código al registrarse en la
-aplicación, <strong>Then</strong> ingresa sin problema a la organización
-del código.</p></th>
+aplicación,</p>
+<p><strong>Then</strong> ingresa sin problema a la organización
+del código.</p></td>
 </tr>
-<tr class="odd">
-<th><p><strong>Caso: El miembro de equipo ingresa un código
-invalido.</strong></p>
-<p><strong>Given</strong> el gestor no envía el código de invitación al
-usuario miembro de equipo,</p>
-<p><strong>When</strong> no ingresa el código o ingresa el código
-incorrecto al registrarse en la aplicación,</p>
-<p><strong>Then</strong> sale un error solicitando que ingrese un código
-valido.</p></th>
+<tr class="even">
+<td><p><strong>Given</strong> el usuario está en la pantalla de login,</p>
+<p><strong>When</strong> ocurre un error en la autenticación,</p>
+<p><strong>Then</strong> debería ver un mensaje de error indicando que no se pudo iniciar sesión.</p></td>
 </tr>
-</thead>
-<tbody>
 <tr class="odd">
 <td rowspan="2">HU11</td>
 <td rowspan="2">Mostrar lista de perfiles de miembros de equipo.</td>
@@ -2066,39 +1995,26 @@ tarea, pero esta no cambia,</p>
 <p><strong>Then</strong> se muestra un mensaje solicitando que vuelva a
 intentarlo.</p></td>
 </tr>
-</tbody>
-</table>
-
-<table>
-<colgroup>
-<col style="width: 8%" />
-<col style="width: 16%" />
-<col style="width: 21%" />
-<col style="width: 53%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th rowspan="2">HU21</th>
-<th rowspan="2">Eliminar una tarea</th>
-<th rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+<tr class="odd">
+<td rowspan="2">HU21</td>
+<td rowspan="2">Eliminar una tarea</td>
+<td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
 eliminar una tarea <strong>para</strong> quitar una tarea que no
-correspondía con el proyecto.</th>
-<th><p><strong>Caso: Se borra la tarea exitosamente</strong></p>
+correspondía con el proyecto.</td>
+<td><p><strong>Caso: Se borra la tarea exitosamente</strong></p>
 <p><strong>Given</strong> el gestor está en la sección de tareas,</p>
 <p><strong>When</strong> presiona el botón de eliminar tareas y confirma
 su acción,</p>
-<p><strong>Then</strong> se quita la tarea de la columna.</p></th>
+<p><strong>Then</strong> se quita la tarea de la columna.</p></td>
 </tr>
-<tr class="odd">
-<th><p><strong>Caso: Ocurre un error al borrar la tarea</strong></p>
+<tr class="even">
+<td><p><strong>Caso: Falla la eliminación un post</strong></p>
 <p><strong>Given</strong> el gestor está en la sección de tareas,</p>
-<p><strong>When</strong> presiona el botón de eliminar tareas y confirma
-su acción, pero sucede un error al eliminar la tarea,</p>
-<p><strong>Then</strong> se muestra un mensaje mencionando que ocurrió
-un error y que intente de nuevo.</p></th>
+<p><strong>When</strong> presiona el botón de eliminar tareas y tarda en
+procesarse la operación,</p>
+<p><strong>Then</strong> se muestra un mensaje de error pidiendo que
+intente de nuevo.</p></td>
 </tr>
-</thead>
-<tbody>
 <tr class="odd">
 <td rowspan="2">HU22</td>
 <td rowspan="2">Visualizar de fechas vinculadas con las tareas y
@@ -2130,7 +2046,7 @@ recargue.</p></td>
 <td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
 agregar una fecha importante <strong>para</strong> organizar los tiempos
 del equipo.</td>
-<td><p><strong>Caso: Se ingresa una fecha</strong></p>
+<td><p><strong>Caso: Se ingresa la fecha</strong></p>
 <p><strong>Given</strong> el gestor está en la sección de
 calendario,</p>
 <p><strong>When</strong> ingresa los datos como nombre, fecha y
@@ -2261,38 +2177,25 @@ procesarse la operación,</p>
 <p><strong>Then</strong> se muestra un mensaje de error pidiendo que
 intente de nuevo.</p></td>
 </tr>
-</tbody>
-</table>
-
-<table>
-<colgroup>
-<col style="width: 8%" />
-<col style="width: 16%" />
-<col style="width: 21%" />
-<col style="width: 53%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th rowspan="2">HU29</th>
-<th rowspan="2">Visualizar las estadísticas del proyecto</th>
-<th rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
+<tr class="odd">
+<td rowspan="2">HU29</td>
+<td rowspan="2">Visualizar las estadísticas del proyecto</td>
+<td rowspan="2"><strong>Como</strong> gestor, <strong>quiero</strong>
 observar las analíticas del proyecto <strong>para</strong> evaluar
-tendencias y revisar el progreso.</th>
-<th><p><strong>Caso: Se cargan los gráficos correctamente</strong></p>
+tendencias y revisar el progreso.</td>
+<td><p><strong>Caso: Se cargan los gráficos correctamente</strong></p>
 <p><strong>Given</strong> el gestor está en la sección de métricas,</p>
 <p><strong>When</strong> cargan los gráficos,</p>
 <p><strong>Then</strong> se muestran los gráficos de tareas completadas
-y análisis de presupuesto.</p></th>
+y análisis de presupuesto.</p></td>
 </tr>
-<tr class="odd">
-<th><p><strong>Caso: No cargan los gráficos correctamente</strong></p>
+<tr class="even">
+<td><p><strong>Caso: No cargan los gráficos correctamente</strong></p>
 <p><strong>Given</strong> el gestor está en la sección de métricas,</p>
 <p><strong>When</strong> no cargan los gráficos como se debería,</p>
 <p><strong>Then</strong> se muestra un mensaje de error solicitando que
-se recargue la sección.</p></th>
+se recargue la sección.</p></td>
 </tr>
-</thead>
-<tbody>
 <tr class="odd">
 <td rowspan="2">HU30</td>
 <td rowspan="2">Agregar datos de presupuesto</td>
@@ -2356,46 +2259,45 @@ aplicación y falla el proceso de encriptación,</p>
 <p><strong>Then</strong> se registra la anomalía y se devuelve un
 error.</p></td>
 </tr>
-</tbody>
-</table>
-
-<table>
-<colgroup>
-<col style="width: 8%" />
-<col style="width: 16%" />
-<col style="width: 21%" />
-<col style="width: 53%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th rowspan="2">HU33</th>
-<th rowspan="2">Verificar que el código de organización sea
-correcto</th>
-<th rowspan="2"><strong>Como</strong> desarrollador,
+<tr class="odd">
+<td rowspan="2">HU33</td>
+<td rowspan="2">Verificar que el código de organización sea
+correcto</td>
+<td rowspan="2"><strong>Como</strong> desarrollador,
 <strong>quiero</strong> mantener la integridad del código de
 organización <strong>para</strong> validar el código de
-organización.</th>
-<th><p><strong>Caso: La validación es realizada
+organización.</td>
+<td><p><strong>Caso: La validación es realizada
 correctamente</strong></p>
 <p><strong>Given</strong> el desarrollador utiliza algoritmos de
 validación</p>
 <p><strong>When</strong> se ingresa un código de organización al api de
 la aplicación y es válido,</p>
 <p><strong>Then</strong> se guarda en la base de datos de manera
-encriptada.</p></th>
+encriptada.</p></td>
 </tr>
-<tr class="odd">
-<th><p><strong>Caso: La validación es realizada
+<tr class="even">
+<td><p><strong>Caso: La validación es realizada
 incorrectamente</strong></p>
 <p><strong>Given</strong> el desarrollador utiliza algoritmos de
 validación</p>
 <p><strong>When</strong> se ingresa un código de organización al api de
 la aplicación y no es válido,</p>
 <p><strong>Then</strong> se devuelve un error con el mensaje de código
-invalido.</p></th>
+invalido.</p></td>
 </tr>
-</thead>
-<tbody>
+<tr class="odd">
+<td>HU34</td>
+<td>Autenticación con OAuth2</td>
+<td>Como usuario, quiero poder autenticarme usando OAuth2 para acceder de forma segura y rápida sin tener que crear una nueva contraseña</td>
+<td>Caso A: Autenticación exitosa.<br>Given el usuario está en la página de inicio de sesión,<br>When selecciona la opción de OAuth2 y completa la autenticación con éxito,<br>Then debería ser redirigido a la página principal de la aplicación y ver su perfil de usuario.<br><br>Caso B: Autenticación fallida.<br>Given el usuario intenta autenticarse con OAuth2,<br>When la autenticación falla (ej. credenciales incorrectas, denegación de permisos),<br>Then debería mostrarse un mensaje de error claro y el usuario debería permanecer en la página de inicio de sesión.</td>
+</tr>
+<tr class="even">
+<td>HU35</td>
+<td>Pago de suscripción mediante pasarela</td>
+<td>Como usuario, quiero pagar mi suscripción usando una pasarela de pago segura para poder acceder a los servicios premium de manera instantánea.</td>
+<td>Caso A: Pago exitoso.<br>Given el usuario ha seleccionado un plan de suscripción,<br>When completa el pago a través de la pasarela de pago con éxito,<br>Then su cuenta debería actualizarse al plan premium y debería recibir una confirmación de pago.<br><br>Caso B: Pago fallido.<br>Given el usuario ha seleccionado un plan de suscripción,<br>When el pago falla (ej. tarjeta rechazada, datos incorrectos),<br>Then debería mostrarse un mensaje de error claro y se le debería dar la opción de reintentar o usar otro método de pago.</td>
+</tr>
 </tbody>
 </table>
 
@@ -2444,6 +2346,8 @@ Asimismo, se ha realizado un Trello para hacer seguimiento de nuestras tareas.
     <tr><td>HU31</td><td>Editar datos de presupuesto</td><td>Media</td><td>2</td></tr>
     <tr><td>HU32</td><td>Implementar encriptación de contraseñas y código de organización</td><td>Media</td><td>3</td></tr>
     <tr><td>HU33</td><td>Verificar que el código de organización sea correcto</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU34</td><td>Autenticación con OAuth2</td><td>Alta</td><td>3</td></tr>
+    <tr><td>HU35</td><td>Pago de suscripción mediante pasarela</td><td>Alta</td><td>3</td></tr>
   </tbody>
 </table>
 
@@ -2533,7 +2437,7 @@ Estos colores complementarios enriquecen la identidad visual, manteniendo cohere
 
 ---
 
-### **Tipografía**
+#### **Tipografía**
 
 Nuestra selección tipográfica fue pensada para combinar modernidad, elegancia y legibilidad, asegurando una comunicación clara y atractiva.
 
@@ -2914,7 +2818,7 @@ Para el desarrollo de los prototipos de la **interfaz móvil** de AidManager, se
 
 ### **Video del Prototipo Funcional:**
 
-[Ver Video del Prototipo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/Ec5ztdvdCSNBsrwPHs9oaPwBUkfUaqyH38pDoOj_rVYPTg?e=nVMy6P&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[Ver Video del Prototipo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/Ec5ztdvdCSNBsrwPHs9oaPwBUkfUaqyH38pDoOj_rVYPTg?e=nVMy6P&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0%3D)
 
 ---
 
@@ -3028,7 +2932,7 @@ Figma es una herramienta colaborativa basada en la nube, ampliamente usada en el
 ### Beneficios de esta configuración:
 - Facilita la **colaboración remota** del equipo de diseño y desarrollo.
 - Permite iterar rápidamente sobre la interfaz con herramientas visuales.
-- Despliegue ágil de versiones funcionales accesibles desde cualquier dispositivo.
+- Despliegue ágil de versiones accesibles desde cualquier dispositivo.
 
 
 
@@ -3136,6 +3040,14 @@ Para asegurar la consistencia y legibilidad del código en todo el proyecto AidM
 
 ---
 
+#### **Guía de Estilo de Compromiso de Código**
+
+- Todos los commits deben ser claros y descriptivos.
+- Usar el tiempo presente para describir cambios (por ejemplo, "Agrega nueva funcionalidad" en lugar de "Agregado nueva funcionalidad").
+- Incluir referencias a tareas o incidencias relacionadas cuando sea relevante.
+
+---
+
 ### 5.1.4. Software Deployment Configuration
 
 La configuración del despliegue de AidManager se basa en herramientas modernas que permiten una gestión eficiente del código y una implementación ágil.
@@ -3154,7 +3066,8 @@ La configuración del despliegue de AidManager se basa en herramientas modernas 
 
 #### **Vercel – Despliegue Web**
 
-- **Vercel** se emplea para el despliegue de la **Landing Page** y futuras versiones de la aplicación.
+- **Herramienta:** Vercel  
+- **Propósito:** Vercel se emplea para el despliegue de la **Landing Page** y futuras versiones de la aplicación.
 - Ideal para aplicaciones web **estáticas** o con interacciones mínimas.
 - Permite un despliegue rápido y escalable, integrándose directamente con GitHub para **implementación automática** tras cada push a ramas configuradas.
 
@@ -3166,2708 +3079,134 @@ La configuración del despliegue de AidManager se basa en herramientas modernas 
 - Despliegue automatizado y accesible con Vercel, facilitando el acceso a versiones actualizadas del producto.
 
 
-## 5.2. Software Implementation & Deployment
-### 5.2.1. Sprint Backlogs
+## 5.2. Landing Page, Services & Applications Implementation
 
-| Id   | Title            | Id   | Title                           | Description                                                                           | Estimations (Hours) | Assigned To                       | Status |
-|------|------------------|------|---------------------------------|---------------------------------------------------------------------------------------|---------------------|-----------------------------------|--------|
-| CC01 | Projects | C01  | Correciones y Conexion de bounded context de Projects | Correciones de la API y Front End, Asimismo conectarlos	 |           2        |    Cuadros Rodriguez, Juan Alejandro   | Done   |
-| CC02 | Teams | C02 | Correciones y Conexion de bounded context de Teams | Correciones de la API y Front End, Asimismo conectarlos    	 |          2      |   Nicolas Esteban Garcia    | Done   |
-| CC03 | Tasks | C03 | Correciones y Conexion de bounded context de Tasks | Correciones de la API y Front End, Asimismo conectarlos	 |   	             2        |    Sebastián Ramírez Méndez   | Done   |
-| CC04 | Dashboard | C04 | Correciones y Conexion de bounded context para los Dashboards de Analytics | Correciones de la API y Front End, Asimismo conectarlos	 |   	           3        |   Sebastian Peña Rivera    | Done   |
-| CC05 | Home | C05 | Correciones y Conexion de bounded context relacionado a Home | Correciones de la API y Front End, Asimismo conectarlos	 |   	       2             |  Nicolas Esteban Garcia     | Done   |
-| CC06 | Calendar | C06 | Correciones y Conexion de bounded context relacionado con Calendar | Correciones de la API y Front End, Asimismo conectarlos	 |   	       3            |   Juan Cuadros Rodriguez    | Done   |
-| CC07 | Analytics | C07 | Correciones y Conexion de bounded context Analytics | Correciones de la API y Front End, Asimismo conectarlos	 |            2        |   Sebastian Peña Rivera    | Done   |
-| CC08 | Users | C08 | Correciones y Conexion de bounded context relacionado a los usuarios | Correciones de la API y Front End, Asimismo conectarlos	 |          3          |   Sebastian Ramírez Méndez    | Done   |
+### 5.2.1. Sprint 0
 
-### 5.2.2. Implemented Landing Page Evidence
-Se presenta la implementación de la landing page
-Los botones call to action funcionales y redirigiendo a los enlaces requeridos en el contexto de nuestra aplicación.
+#### 5.2.1.1. Sprint Planning 0
+| Item                     | Detail |
+|--------------------------|--------|
+| Sprint #                 | Sprint 0 |
+| Date                     | 10/09/2025 |
+| Time                     | 13:00 |
+| Location                 | Discord Plataforma virtual |
+| Prepared By              | Sebastian Ramirez Hoffmann|
+| Attendees (Planning)     | Todos atendieron |
 
-<center><img src="../assets/Implementations/Landing_implementation.jpg" alt="WebApp deployed" style="width:80%;"></center>
+- **Sprint Goal:** Configuración y planeamiento inicial de la Landing y repositorio.  
+- **Sprint Velocity:** 0 puntos.  
+- **Sum of Story Points:** 0 puntos.  
 
-### 5.2.3. Implemented Frontend-Web Application Evidence
-Se presenta la implementación de la aplicación Front End, en esta entrega se dejaron las funcionalidades de manera optima mas la conexión de base de datos requiere cambios.
+#### 5.2.1.2. Sprint Backlog 0
+(No aplica backlog complejo, se centró en la organización inicial y preparación del entorno.)
 
-<center><img src="../assets/Implementations/WEBAplications.jpg" alt="WebApp deployed" style="width:80%;"></center>
+#### 5.2.1.3. Development Evidence for Sprint Review
+Configuración de repositorios y despliegue base de la estructura de la Landing.
 
-### 5.2.4. Acuerdo de Servicio - SaaS
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+Se realizaron pruebas manuales de verificación de entorno.
 
-El presente **Acuerdo de Servicio** regula los términos y condiciones bajo los cuales los usuarios acceden y utilizan la plataforma **AidRecruits**, una solución SaaS (Software as a Service) desarrollada para mejorar la gestión de proyectos en organizaciones sin fines de lucro en el Perú.
+#### 5.2.1.5. Execution Evidence for Sprint Review
+Commits iniciales de preparación del proyecto. como los init y chore
 
-Este acuerdo se incorpora como parte integral de los "Términos y Condiciones" disponibles públicamente en el sitio web de AidRecruits, y su aceptación es obligatoria para completar el registro y uso de la plataforma.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+No aplica, ya que no hay servicios asociados en este sprint.
 
----
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Despliegue base del repositorio para Landing. Ya se tenia una version anterior.
 
-#### 1. Definiciones
+#### 5.2.1.8. Team Collaboration Insights during Sprint
+Evidencia de commits y comunicación inicial del equipo.
 
-- **"Plataforma"**: Aplicación móvil y/o web conocida como AidRecruits, operada por el equipo de desarrollo de AidRecruits.
-- **"Usuario"**: Persona natural o jurídica que accede o utiliza la plataforma, sea en calidad de gestor de proyectos, ayudante, colaborador o invitado.
-- **"ONG"**: Organización no gubernamental registrada que hace uso de la plataforma.
-- **"Cuenta"**: Perfil de acceso individual asignado a cada usuario dentro de una organización.
-- **"Plan"**: Modalidad de suscripción elegida por la ONG, según número de cuentas y duración (mensual o anual).
 
----
+#### 5.2.1.9. Actas de Reunión
 
-#### 2. Objeto del Acuerdo
+Acta de Reunión - Planificación Inicial (Sprint 0)
 
-AidRecruits concede al usuario una **licencia limitada, no exclusiva, intransferible y revocable** para utilizar la plataforma, exclusivamente con fines de gestión interna de proyectos sociales.
+| **Elemento**             | **Detalle**                                                |
+|---------------------------|------------------------------------------------------------|
+| **Número de reunión**    | 0.1                                                        |
+| **Fecha**                | 10/09/2025                                                 |
+| **Hora**                 | 13:00                                                      |
+| **Director de reunión**  | Sebastian Ramirez Hoffmann                                 |
+| **Asistentes**           | Todos los miembros del equipo                              |
+| **Discusión**            | Acta de reunión de planificación inicial (Sprint 0).       |
 
----
-
-#### 3. Registro y Acceso
-
-- El uso de la plataforma requiere la **creación de una cuenta** mediante un formulario de registro o código de organización provisto por un gestor.
-- Cada usuario es responsable de la **confidencialidad de sus credenciales** y del uso que se haga bajo su sesión.
-- AidRecruits se reserva el derecho de **suspender o eliminar cuentas** que infrinjan este acuerdo o que realicen usos no autorizados.
-
----
-
-#### 4. Tarifas y Planes
-
-- La plataforma opera bajo un modelo de **suscripción** que varía en función del número de cuentas activas y del periodo contratado (mensual o anual).
-- AidRecruits podrá ofrecer **descuentos u opciones gratuitas promocionales**, a discreción del equipo, por tiempo limitado.
-- Las suscripciones se **renuevan automáticamente**, salvo que el usuario manifieste su voluntad de cancelación antes del vencimiento del periodo actual.
-- En caso de impago o rechazo del método de pago, AidRecruits se reserva el derecho de **suspender temporalmente el servicio** hasta regularización.
-
----
-
-#### 5. Propiedad Intelectual
-
-- Todos los derechos sobre la plataforma, su código fuente, diseño, marcas y funcionalidades pertenecen exclusivamente a **AidRecruits**.
-- El usuario no podrá copiar, distribuir, descompilar, modificar ni revender ningún componente de la plataforma, salvo autorización expresa.
-
----
-
-#### 6. Uso Aceptable
-
-Queda expresamente prohibido:
-
-- Utilizar la plataforma con fines ilegales o no éticos.
-- Compartir credenciales o permitir el acceso a terceros no autorizados.
-- Cargar contenido que infrinja derechos de autor, privacidad o confidencialidad.
-- Interferir con la operación técnica de la plataforma.
-
----
-
-#### 7. Protección de Datos y Privacidad
-
-AidRecruits garantiza el cumplimiento de la **Ley N.º 29733 - Ley de Protección de Datos Personales** del Perú. En ese sentido:
-
-- Los datos personales proporcionados serán usados únicamente para fines operativos de la plataforma.
-- Los usuarios tienen derecho a **acceder, rectificar, actualizar o suprimir sus datos personales**, mediante solicitud escrita.
-- AidRecruits emplea medidas de seguridad técnicas y organizativas adecuadas para proteger la confidencialidad de los datos.
-
----
-
-#### 8. Disponibilidad del Servicio
-
-- AidRecruits procura una **alta disponibilidad** del servicio, aunque no garantiza continuidad absoluta, ya que pueden existir interrupciones por mantenimiento programado o causas externas.
-- En caso de interrupciones prolongadas, el equipo podrá ofrecer compensaciones proporcionales en el siguiente periodo de suscripción.
-
----
-
-#### 9. Limitación de Responsabilidad
-
-- AidRecruits no se responsabiliza por pérdidas indirectas, interrupciones por causas externas, ni por decisiones tomadas en base a datos gestionados por la plataforma.
-- El uso del sistema es responsabilidad del usuario, quien acepta asumir los riesgos asociados a su operación.
-
----
-
-#### 10. Modificaciones del Acuerdo
-
-AidRecruits podrá actualizar este acuerdo cuando lo estime conveniente. En tal caso, notificará a los usuarios registrados con al menos **5 días de anticipación**. La continuidad en el uso de la plataforma implica la aceptación de las nuevas condiciones.
-
----
-
-#### 11. Ley Aplicable y Jurisdicción
-
-Este acuerdo se rige por las leyes de la **República del Perú**. En caso de controversia, ambas partes se someten a la jurisdicción de los juzgados y tribunales de **Lima Metropolitana**, con renuncia expresa a cualquier otro fuero.
-
-
-
-### 5.2.5. Implemented Native-Mobile Application Evidence
-Se presenta la implementación de la aplicación móvil, en esta entrega se puede considerar la implementación mas completa.
-
-### 5.2.6. Implemented RESTful API and/or Serverless Backend Evidence
-
-Se presenta la implementación de la aplicación back end, se toma en cuenta también la base de datos en un servicio cloud.
-
-Primero que nada evidencias del funcionamiento en swagger
-<center><img src="../assets/Implementations/Swagger.png" alt="swagger deployed" style="width:80%;"></center>
-
-Seguimos con evidencias del deployment en railway
-<center><img src="../assets/Implementations/Railway.png" alt="railway deployment" style="width:80%;"></center>
-
-### 5.2.7. RESTful API documentation
-
-Se presenta la documentación de la API mencionando los endpoints que tiene.
-
-#### Analytics
-
-```
-GET
-/api/v1/projects/{projectId}/analytics
-Get Analytics by Project Id
-
-PATCH
-/api/v1/projects/{projectId}/analytics/lines
-Update BarData
-
-PATCH
-/api/v1/projects/{projectId}/analytics/bardata
-Update LineBarData
-
-
-PATCH
-/api/v1/projects/{projectId}/analytics/tasks
-
-
-PATCH
-/api/v1/projects/{projectId}/analytics/progressbar
-
-
-PATCH
-/api/v1/projects/{projectId}/analytics/status
-
-
-GET
-/api/v1/analytics-by-company/{companyId}
-Get Analytics by Company Id
-
-```
-#### Authentication
-```
-
-
-POST
-/api/v1/authentication/sign-in
-SignIn
-
-```
-
-#### Comments
-
-```
-POST
-/api/v1/posts/{postId}/comments
-Post comment
-
-
-GET
-/api/v1/posts/{postId}/comments
-Get comments
-
-
-DELETE
-/api/v1/posts/{postId}/comments/{commentId}
-Delete comment
-
-
-GET
-/api/v1/posts/{postId}/comments/{commentId}
-Get a specific comment
-
-
-GET
-/api/v1/comments/user/{userId}
-Get comments by User Id
-```
-#### Company
-```
-
-GET
-/api/v1/company/{companyId}
-Get Company by Id
-
-
-PUT
-/api/v1/company/{companyId}
-Update Company
-```
-
-#### Events
-
-```
-POST
-/api/v1/events
-
-
-GET
-/api/v1/events
-
-
-GET
-/api/v1/events/{projectId}
-
-
-PUT
-/api/v1/events/{eventId}
-
-
-DELETE
-/api/v1/events/{eventId}
-
-```
-
-#### PaymentDetail
-
-```
-
-POST
-/api/v1/payment-detail
-
-
-GET
-/api/v1/payment-detail/{id}
-
-```
-#### PostInteraction
-```
-
-POST
-/api/v1/posts/post-interaction
-Add Favorite Post
-
-
-DELETE
-/api/v1/posts/post-interaction
-Remove favorite post
-
-
-GET
-/api/v1/posts/post-interaction/user/{userId}
-Get all favorite posts by user id
-```
-#### Posts
-
-```
-POST
-/api/v1/posts
-Create a new post
-
-
-PUT
-/api/v1/posts/{id}/update/{userId}/company/{companyId}
-Update post by id
-
-
-PATCH
-/api/v1/posts/{id}/rating/{userId}
-Update rating field of post by id
-
-
-GET
-/api/v1/posts/{id}
-Get post by id
-
-
-DELETE
-/api/v1/posts/{id}
-Delete post by id
-
-
-GET
-/api/v1/posts/company/{companyId}
-Get all posts by company id
-
-
-GET
-/api/v1/posts/user/{userId}
-Get all posts by author/user id
-
-
-GET
-/api/v1/posts/liked/{userId}
-Get all liked posts by user id
-```
-#### Projects
-
-```
-POST
-/api/v1/projects
-Creates a Project
-
-
-PUT
-/api/v1/projects/{projectId}
-Update project
-
-
-PATCH
-/api/v1/projects/{projectId}
-Update project rating
-
-
-DELETE
-/api/v1/projects/{projectId}
-Delete project
-
-
-GET
-/api/v1/projects/{companyId}
-Get All Projects
-
-
-GET
-/api/v1/projects/get/{projectId}
-Get Project
-
-
-PATCH
-/api/v1/projects/{projectId}/images
-Update a project Images
-
-
-GET
-/api/v1/projects/team/{projectId}
-Get all project Team Members
-
-
-GET
-/api/v1/projects/user/{userId}
-Get all projects by user
-
-
-POST
-/api/v1/projects/favorite
-Save project as favorite
-
-
-DELETE
-/api/v1/projects/favorite
-Delete project from favorite
-
-
-GET
-/api/v1/projects/favorite/{userId}
-Get all favorite projects by user
-
-```
-
-#### TaskItems
-
-
-```
-
-POST
-/api/v1/projects/{projectId}/task-items
-Creates a Task
-
-
-GET
-/api/v1/projects/{projectId}/task-items/{id}
-Get a Task by Id
-
-
-PATCH
-/api/v1/projects/{projectId}/task-items/{id}
-Change Status
-
-
-DELETE
-/api/v1/projects/{projectId}/task-items/{id}
-Deletes a Task
-
-
-PUT
-/api/v1/projects/{projectId}/task-items/edit/{id}
-Update a Task
-
-
-GET
-/api/v1/projects/{projectId}/task-items/all
-Get All Tasks from a project
-
-
-GET
-/api/v1/company-tasks/{companyId}
-Get All Tasks from a Company
-
-
-GET
-/api/v1/company-tasks/{companyId}/user/{userId}
-Get All Tasks assigned User by Company
-
-
-GET
-/api/v1/projects/{projectId}/task-items/user/{userId}
-Get All Tasks by User
-```
-
-#### Users
-
-```
-POST
-/api/v1/users/sign-up
-Creates a new user
-
-
-GET
-/api/v1/users/{companyId}
-Obtains all users
-
-
-GET
-/api/v1/users/user/{id}
-Obtains a user by id
-
-
-PUT
-/api/v1/users/{userId}
-Update a User
-
-
-PATCH
-/api/v1/users/update-image/{userId}
-Update User Image
-
-
-DELETE
-/api/v1/users/kick-member/{userId}
-Kick User
-
-GET
-/api/v1/users/deleted-users/{companyId}
-Obtains all deleted users
-
-```
-
-### 5.2.8. Team Collaboration Insights
-
-Se presentan los commits de los Integrantes del equipo
-
-<img src="../assets/Insights/commits.png " alt="imagen de las colaboraciones">  
-
-[Contribuciones del repositorio]
-
-<img src="../assets/Insights/Screenshot 2025-04-25 230238.png" alt="imagen de las colaboraciones">  
-
-[Colaboradores del repositorio]
-
-<img src="/assets/Insights/ins.png " alt="imagen de los commits">  
-[Registro de los commits donde se realizaron la mayor cantidad]
-
-## 5.3. Video About-the-Product
-Link: https://youtu.be/5C6CFJQ90q8
-
-# Capítulo VI: Product Verification & Validation
-
-## 6.1. Testing Suites & Validation
-### 6.1.1. Core Entities Unit Tests.
-
-Las pruebas unitarias son importantes para el proyecto debido a que aseguran que cada módulo/componente funcione correctamente por sí solo. Estas pruebas nos permiten validar que cada parte del sistema cumple su propósito antes de integrarse al conjunto. Para garantizar un adecuado desarrollo del proyecto, se mostrarán las pruebas unitarias más importantes que realizamos en nuestro proyecto, las cuales garantizan que las funcionalidades clave estén correctamente implementadas y funcionando como se espera.
-
-**Test Unitario: Actualización de la calificación del proyecto**
-
-Este test verifica que el método UpdateRating funcione correctamente cuando se le pasa una calificación válida. Asegura que la calificación se actualice a 4.5.
-
-<img src="../assets/Unit-Tests/UnitTest-UpdateRating.png" alt="imagen de unit test UpdateRating">  
-[Unit Test UpdateRating_WithValidRating_ShouldUpdateRating]
-
-<br>
-
-* Descripción: Este test asegura que cuando se llama al método UpdateRating con un valor válido, la calificación del proyecto se actualice correctamente.
-* Resultado esperado: La calificación del proyecto debe coincidir con el valor proporcionado (4.5).
-* Explicación: Esta prueba es fundamental, ya que verifica que el sistema mantenga la coherencia al actualizar las calificaciones de los proyectos, lo que es crucial para la experiencia del usuario al interactuar con los proyectos.
-
-**Test Unitario: Creación de un proyecto con comando válido**
-
-Este test valida que la creación de un nuevo proyecto mediante el comando CreateProjectCommand configure correctamente todas las propiedades del proyecto, como el nombre, la descripción, la fecha y la ubicación.
-
-<img src="../assets/Unit-Tests/UnitTest-CreateProject.png" alt="imagen de unit test CreateProject">  
-[Unit Test CreateProject_WithValidCommand_ShouldSetAllProperties]
-
-<br>
-
-* Descripción: Verifica que al crear un proyecto mediante un comando válido, todas las propiedades del proyecto sean configuradas correctamente, incluidas las imágenes, la fecha y la ubicación.
-* Resultado esperado: Todas las propiedades del proyecto deben coincidir con los valores proporcionados en el comando.
-* Explicación: Este test garantiza que la creación de un proyecto se ejecute correctamente, configurando adecuadamente los detalles del proyecto como la fecha, ubicación y la información visual asociada.
-
-**Test Unitario: Adición de imágenes al proyecto**
-
-Este test valida que, al agregar imágenes a un proyecto, el sistema incremente correctamente el número de imágenes asociadas al proyecto.
-
-<img src="../assets/Unit-Tests/UnitTest-AddImage.png" alt="imagen de unit test AddImage">  
-[Unit Test AddImage_ShouldIncreaseImageCount]
-
-<br>
-
-* Descripción: Este test asegura que el método AddImage aumente el número de imágenes del proyecto correctamente al recibir un comando con nuevas imágenes.
-* Resultado esperado: El número de imágenes debe aumentar y las URLs de las imágenes deben coincidir con las proporcionadas.
-* Explicación: La capacidad de agregar imágenes a un proyecto es crucial para muchos sistemas de gestión de proyectos, ya que permite que los proyectos sean más visuales y atractivos para los usuarios.
-
-**Test Unitario: Actualización de las propiedades del proyecto**
-
-Este test valida que cuando se llama al método UpdateProject con un comando de actualización, todas las propiedades del proyecto se actualicen correctamente.
-
-<img src="../assets/Unit-Tests/UnitTest-UpdateProject.png" alt="imagen de unit test UpdateProject">  
-[Unit Test UpdateProject_ShouldModifyAllProperties]
-
-<br>
-
-* Descripción: Verifica que cuando se actualiza un proyecto con un comando, todas sus propiedades (nombre, descripción, imágenes, etc.) se modifican correctamente.
-* Resultado esperado: El proyecto debe reflejar todos los cambios del comando de actualización.
-* Explicación: Esta prueba es esencial para asegurar que las actualizaciones de proyectos se realicen correctamente y sin errores, lo que es fundamental para mantener la integridad de los datos dentro del sistema.
-
-Todas las pruebas unitarias realizadas fueron ejecutadas con éxito, lo que asegura que las funciones clave, como la creación, actualización y manejo de imágenes en proyectos, funcionan de manera correcta. La ejecución de estas pruebas refuerza la confianza en que el sistema maneja correctamente los proyectos y sus propiedades, garantizando un software robusto y confiable.
-
-<img src="../assets/Unit-Tests/UnitTest-Success.png" alt="imagen de unit test success">  
-[Unit Test Success]
-
-### 6.1.2. Core Integration Tests.
-
-Las pruebas de integración son fundamentales para garantizar que diferentes componentes del sistema trabajen de manera conjunta y sin problemas. A diferencia de las pruebas unitarias, que validan el comportamiento aislado de una función o clase, las pruebas de integración se enfocan en verificar que los sistemas y módulos interactúan correctamente entre sí. Es vital en nuestra solución debido a que  múltiples servicios y capas del sistema interactúan, por lo que las pruebas de integración aseguran que los distintos componentes funcionen correctamente cuando se combinan. (Por ejemplo: la gestión de tareas, la autenticación y la gestión de proyectos)
-
-Estas pruebas son cruciales para el éxito del proyecto, ya que nos permiten verificar que las interacciones entre servicios o "bounded contexts" se realicen de manera fluida, sin generar errores o inconsistencias en el sistema.
-
-A continuación, se detallan algunas de las pruebas de integración clave que hemos implementado en AidManager para verificar el funcionamiento de los proyectos y las tareas dentro del sistema.
-
-**Test de Integración: Obtener proyectos por ID de empresa**
-
-Este test valida que el servicio de gestión de tareas sea capaz de recuperar correctamente los proyectos asociados a un ID de empresa específico. Se verifica que el sistema sea capaz de devolver una lista de proyectos que coincidan con el CompanyId proporcionado.
-
-<img src="../assets/Integration-Tests/IntegrationTest-GetProjectsByCompany.png" alt="imagen de Integration TestGetProjectsByCompany">  
-[Integration Test GetProjectsByCompany_ShouldReturnProjectsForCompanyId]
-<br>
-<br>
-
-<img src="../assets/Integration-Tests/IntegrationTest-GetProjectsByCompany-2.png" alt="imagen de Integration TestGetProjectsByCompany parte 2">  
-[Integration Test GetProjectsByCompany_ShouldReturnProjectsForCompanyId 2]
-
-<br>
-
-* Descripción: Este test asegura que la interacción entre el servicio que gestiona las tareas y los proyectos sea efectiva al recuperar los proyectos asociados a un CompanyId. Se valida que el servicio de gestión de tareas pueda retornar correctamente los proyectos correspondientes.
-* Importancia: Esta prueba es esencial para garantizar que el sistema pueda consultar y recuperar proyectos de manera efectiva, lo cual es una parte crucial en el flujo de trabajo donde las empresas gestionan sus proyectos y tareas asociadas.
-
-**Test de Integración: Actualización de proyecto con tareas**
-
-Este test verifica que las tareas asociadas a un proyecto se actualicen correctamente en un sistema que involucra múltiples "bounded contexts". El test asegura que los cambios en el estado de una tarea se reflejan adecuadamente, incluso cuando están distribuidos entre diferentes contextos.
-
-<img src="../assets/Integration-Tests/IntegrationTest-UpdateProjectWithTasks.png" alt="imagen de Integration UpdateProjectWithTasks">  
-[Integration Test UpdateProjectWithTasks_ShouldTrackTasksAcrossBoundedContexts]
-<br>
-<br>
-
-<img src="../assets/Integration-Tests/IntegrationTest-UpdateProjectWithTasks-2.png" alt="imagen de Integration UpdateProjectWithTasks parte 2">  
-
-[Integration Test UpdateProjectWithTasks_ShouldTrackTasksAcrossBoundedContexts 2]
-
-<br>
-
-* Descripción: Este test asegura que los cambios en las tareas de un proyecto sean reflejados en los contextos involucrados, validando que el estado de las tareas se mantenga consistente y actualizado entre los diferentes servicios que manejan el proyecto y sus tareas asociadas.
-* Importancia: Esta prueba valida la integridad y consistencia de las interacciones entre los diferentes servicios del sistema, como la gestión de proyectos y la gestión de tareas. Es esencial para sistemas donde múltiples módulos o servicios deben trabajar juntos de manera sincronizada.
-
-### 6.1.3. Core Behavior-Driven Development
-En esta sección se colocará el desarrollo del Behavior-Driven Development Tests (BDD). Esto se desarrolló gracias el lenguaje Gherkin con el que mediremos el comportamiento de nuestro software.
-De igual manera, se han subido las historias del usuario al repositorio de testing de la organización:
-https://github.com/disenio-de-experimentos-4446/acceptance-tests
-
-![add-Repo](../assets/acceptense-test/featurefirst.png)
-
-Se presentan algunas historias de usuario core:  
-![add-Acceptense-test](../assets/acceptense-test/feature1.png)
-![add-Acceptense-test](../assets/acceptense-test/feature2.png)
-![add-Acceptense-test](../assets/acceptense-test/feature3.png)
-![add-Acceptense-test](../assets/acceptense-test/feature4.png)
-![add-Acceptense-test](../assets/acceptense-test/feature5.png)
-![add-Acceptense-test](../assets/acceptense-test/feature6.png)
-![add-Acceptense-test](../assets/acceptense-test/feature7.png)
-
-
-### 6.1.4. Core System Tests
-
-Las pruebas del sistema central (Core System Tests) se realizaron utilizando **Selenium IDE**, enfocándonos en validar las funcionalidades principales de la plataforma *AidManager*. Estas pruebas son de tipo **funcional**, ya que verifican que las funcionalidades claves del sistema operen según lo esperado desde la perspectiva del usuario final.
-
-A continuación, se presentan tres pruebas automatizadas que validan las funciones esenciales del sistema:
-
----
-
-#### ✅ Prueba 1: Agregar nuevo proyecto (`add-project`)
-
-Esta prueba automatiza el flujo para agregar un nuevo proyecto al sistema, incluyendo los campos de nombre, imagen y descripción. La prueba concluye exitosamente cuando se visualiza el nuevo proyecto agregado en la lista.
-
-![add-project](../assets/add-project.png)
-*Evidencia de ejecución automática de la funcionalidad "Agregar proyecto".*
-
----
-
-#### ✅ Prueba 2: Editar tarea (`edit-task`)
-
-Se automatiza la edición de una tarea existente, seleccionándola desde la interfaz y modificando su título. La prueba termina con una aserción para comprobar que el nuevo título fue actualizado correctamente.
-
-![edit-task](../assets/edit-task.png)
-*Evidencia de ejecución de la prueba de edición de una tarea existente.*
-
----
-
-#### ✅ Prueba 3: Cambiar estado de tarea (`task-status`)
-
-Esta prueba automatiza el cambio de estado de una tarea dentro de un proyecto, moviéndola entre columnas (por ejemplo, de "In Progress" a "To Do"). Se valida que el título de la tarea se muestre correctamente en su nueva ubicación.
-
-![task-status](../assets/task-status.png)
-
-*Evidencia de automatización del cambio de estado de una tarea dentro del tablero.*
-
----
-
-Estas pruebas funcionales aseguran que los principales componentes del sistema AidManager funcionan correctamente de forma integrada, proporcionando confianza en la estabilidad del producto.
-
-## 6.2. Static Testing & Verification
-
-### 6.2.1. Static Code Analysis
-
-#### 6.2.1.1. Coding Standard & Code Conventions
-
-<p> Landing Page:</p>
-
-* <p>Arquitectura Modular y Separación de Responsabilidades <p>
-<p>Estructura organizada del Proyecto debido a que se implementa una arquitectura modular ejemplar siguiendo las mejores prácticas de React. </p>
-<p>Cada componente tiene su propia carpeta con archivos JSX y CSS separados, facilitando el mantenimiento, escalabilidad y reutilización del código. Esta estructura permite que múltiples desarrolladores trabajen simultáneamente sin conflictos y sigue el principio de responsabilidad única. </p>
-<center>
-
-![folder-structure](../assets/code-standards/folder-structure.png)
-</center>
-
-* <p>Convenciones de Nomenclatura React (PascalCase)</p>
-<p>El código cumple estrictamente con las convenciones de nomenclatura de React usando PascalCase para todos los componentes.</p> 
-<p> Esto mejora la legibilidad, permite diferenciación inmediata entre componentes React y elementos HTML, y facilita la detección de errores durante el desarrollo. </p>
-<center>
-
-![code-components](../assets/code-standards/code-components.png)
-</center>
-
-* <p>Implementación Correcta de React Hooks</p>
-<p>Su funcionalidad es para la gestión de Estado y Efectos, el código demuestra un uso correcto y profesional de React Hooks (useState y useEffect) siguiendo las reglas de hooks y mejores prácticas. </p> 
-<p>La implementación incluye cleanup de event listeners, gestión apropiada de dependencias, y manejo de estado local sin mutaciones directas, lo que garantiza un comportamiento predecible y eficiente.</p>
-<center>
-
-![code-burger](../assets/code-standards/burger-code.png)
-</center>
-
-<p>Web Application:</p>
-
-* <p>Arquitectura Modular y Separación de Responsabilidades </p>
-
-<p>Estructura organizada del proyecto debido a que se implementa una arquitectura modular ejemplar siguiendo las mejores prácticas de Vue.js.</p> 
-<p>El proyecto mantiene una separación clara de responsabilidades con carpetas dedicadas para modelos (entities), servicios (API communication), componentes reutilizables organizados por funcionalidad, páginas principales, y gestión de estado centralizada con Vue.
-<p> Esta estructura permite que múltiples desarrolladores trabajen simultáneamente sin conflictos, facilita el mantenimiento y escalabilidad del código, y sigue el principio de responsabilidad única donde cada archivo tiene un propósito específico y bien definido. Arquitectura de front-end modular basada en la separación de responsabilidades</p>
-
-<center>
-
-![folder-structure](../assets/code-standards/web-folder-structure.png)
-</center>
-
-* <p>Gestión de estado centralizada con vue</p>
-
-<p>Implementación de store centralizado para el manejo de estado global siguiendo las mejores prácticas de Vue con una estructura bien organizada. </p>
-<p>El store incluye state para gestión del usuario y formularios, mutations con nombres descriptivos para modificaciones síncronas del estado, actions para operaciones asíncronas de actualización de datos, e integración con localStorage para persistencia de sesión. </p>
-<p>Esta implementación garantiza un flujo de datos predecible, facilita el debugging, y permite compartir estado entre componentes de manera eficiente sin prop drilling. </p>
-
-<center>
-
-![code-store](../assets/code-standards/code-store.png)
-</center>
-
-* <p>Modelos de dominio bien estructurados</p>
-
-<p>Implementación de entidades de dominio con constructores claros y propiedades bien definidas que reflejan fielmente el modelo de negocio. Los modelos como User.entity.js definen constructores explícitos con todos los parámetros necesarios, utilizan nombres de propiedades descriptivos y consistentes, y mantienen una estructura clara que refleja el dominio del negocio. </p>
-<p>Esta implementación facilita la validación de datos, mejora la legibilidad del código, reduce errores de tipeo en propiedades, y permite un mapeo directo entre los datos de la API y los objetos del frontend.</p>
-
-<center>
-
-![code-entity](../assets/code-standards/code-entity.png)
-</center>
-
-* <p>Manejo Robusto de Errores y Operaciones Asíncronas </p>
-
-<p>Implementación consistente de manejo de errores y operaciones asíncronas siguiendo las mejores prácticas de JavaScript moderno con async/await.</p>
-<p> El código utiliza bloques try-catch sistemáticamente en todos los métodos de servicio para capturar errores, proporciona mensajes de error descriptivos con console.error que incluyen contexto específico como IDs y parámetros, y maneja correctamente las promesas con async/await evitando callback hell. </p>
-<p>Esta implementación garantiza una experiencia de usuario más estable, facilita el debugging en desarrollo, previene crashes inesperados de la aplicación, y proporciona información valiosa para el monitoreo en producción.</p>
-<center>
-
-![code-user](../assets/code-standards/code-user.png)
-</center>
-
-<p>API:</p>
-
-* <p>Arquitectura Limpia y Patrones de Diseño Consistentes</p>
-
-<p>Implementación sistemática de Domain-Driven Design (DDD) y arquitectura en capas siguiendo las mejores prácticas de desarrollo gestion con .NET.</p>
-<p>El código utiliza una estructura arquitectónica bien definida organizando el proyecto en bounded contexts claramente separados (Authentication, Collaborate, IAM, ManageCosts, ManageTasks, Payment, UserProfile), implementa el patrón Repository con interfaces bien definidas que separan la lógica de dominio de la infraestructura de datos, y mantiene consistencia en la nomenclatura usando PascalCase para clases y métodos públicos (UserCommandService, CreateProjectCommand) y camelCase para parámetros y variables locales. </p>
-<p>El código también implementa primary constructors de C# de manera consistente en todas las clases de servicio, como en public class AnalyticsCommandService(IAnalyticsRepository analyticsRepository, IUnitOfWork unitOfWork), y utiliza convenciones de nombres descriptivos que expresan claramente la intención del código.</p>
-
-<p>Esta implementación garantiza mantenibilidad a largo plazo del código, facilita la comprensión del dominio de negocio por parte de nuevos desarrolladores, promueve la reutilización de componentes y establece una base sólida para el crecimiento y evolución del sistema.</p>
-
-<center>
-
-![back-folder-structure](../assets/code-standards/back-folder-structure.png)
-</center>
-
-* <p>Manejo Robusto de Errores y Operaciones Asíncronas</p>
-
-<p>Implementación consistente de manejo de errores y operaciones asíncronas siguiendo las mejores prácticas de C# moderno con async/await.</p>
-
-<p>El código utiliza bloques try-catch sistemáticamente en todos los métodos de servicio para capturar errores, proporciona mensajes de error descriptivos con Console.WriteLine que incluyen contexto específico como IDs y parámetros, y maneja correctamente las promesas con async/await evitando deadlocks. Los servicios implementan transacciones de base de datos robustas con rollback automático en caso de error, como se observa en BaseRepository donde cada operación utiliza using (var trans = Context.Database.BeginTransaction()) con manejo explícito de commit y rollback. </p>
-
-<p>Esta implementación garantiza una experiencia de usuario más estable, facilita el debugging en desarrollo, previene crashes inesperados de la aplicación, y proporciona información valiosa para el monitoreo en producción.</p>
-
-<center>
-<p> bloques try-catch</p>
-
-![code-try-catch](../assets/code-standards/code-try-catch.png)
-
-<p> Async/Await</p>
-
-![code-async](../assets/code-standards/code-async.png)
-
-<p> Transaction handling</p>
-
-![code-repository](../assets/code-standards/code-repository.png)
-</center>
-
-* <p>Configuración Diferenciada por Entorno y Gestión Segura de Variables</p>
-
-<p>Implementación de configuración adaptativa por entorno con gestión segura de variables de entorno y logging contextual.</p>
-
-<p>El código implementa configuración diferenciada por entorno de ejecución, cargando variables de entorno de forma segura usando Env.Load() y Environment.GetEnvironmentVariable("CONN_STRING"), configura diferentes niveles de logging según el entorno (LogLevel.Information para desarrollo y LogLevel.Error para producción), y habilita características específicas de debugging como EnableSensitiveDataLogging() y EnableDetailedErrors() únicamente en entornos de desarrollo. La configuración también incluye la detección automática del entorno mediante builder.Environment.IsDevelopment() y builder.Environment.IsProduction() para aplicar configuraciones específicas sin intervención manual.</p>
-
-<p>Esta implementación garantiza seguridad en producción al ocultar información sensible, optimiza el rendimiento reduciendo el logging innecesario en producción, facilita el debugging en desarrollo con información detallada, y permite despliegues automáticos sin cambios de configuración manual.</p>
-
-<center>
-
-![code-db-api](../assets/code-standards/api-db.png)
-
-</center>
-
-#### 6.2.1.2. Code Quality & Code Security
-
-Durante el desarrollo del sistema **AidManager**, se aplicaron prácticas orientadas a garantizar la calidad del código y su seguridad. Las medidas implementadas incluyen:
-
-- Linting automático mediante herramientas como ESLint (frontend) y SonarLint (backend), lo que permitió detectar y corregir errores de estilo, declaraciones redundantes o malas prácticas de programación.
-
-- Uso de revisiones por pares (code reviews) en cada solicitud de merge (pull request), garantizando la validación cruzada de lógica, rendimiento y claridad.
-
-- Gestión segura de credenciales y secretos, utilizando variables de entorno (`.env`) para almacenar claves API, tokens y credenciales, evitando exposición en el repositorio.
-
-- Separación de capas siguiendo principios de arquitectura limpia (Clean Architecture) para evitar lógica de negocio en el controlador o acceso inseguro a la base de datos.
-- Uso de control de versiones (Git) con ramas organizadas (`main`, `dev`, `feature/*`) que facilitaron trazabilidad, integración continua y rollback cuando fue necesario.
-
-Estas prácticas no solo fortalecen la base del software, sino que también reducen el riesgo de fallos en producción y mejoran la seguridad de los datos manejados por la plataforma.
-
-
-### 6.2.2. Reviews
-
-Durante el desarrollo del sistema **AidManager**, se llevaron a cabo revisiones periódicas del producto con el objetivo de validar el avance, identificar mejoras y garantizar la alineación con los requerimientos del usuario. Las principales revisiones realizadas fueron:
-
-#### Sprint Reviews
-
-Al final de cada sprint se realizaron reuniones de revisión (Sprint Review) donde se presentaron los entregables funcionales al equipo y se recolectaron observaciones clave. Estas sesiones incluyeron:
-
-- Demostraciones del sistema en su estado actual.
-- Validación de historias de usuario completadas.
-- Feedback inmediato por parte de los integrantes del grupo.
-- Ajustes propuestos para el siguiente sprint.
-
-#### Peer Reviews de Código
-
-Cada componente desarrollado pasó por un proceso de revisión entre pares (peer review) antes de ser fusionado en la rama principal. En este proceso se revisaron aspectos como:
-
-- Claridad del código y legibilidad.
-- Cumplimiento de convenciones establecidas.
-- Detección de errores lógicos o redundancias.
-- Posibles mejoras en rendimiento y seguridad.
-
-## 6.3. Validation Interviews
-
-### 6.3.1. Diseño de Entrevistas
-
-Estas preguntas se aplicaron a todos los entrevistados de validación para recopilar información demográfica y de uso tecnológico, relevante para el contexto de la solución AidManager.
-
-<p>Nombre Completo: (Para identificación interna y seguimiento, si es necesario).</p>
-<p>Edad: (Dato demográfico).</p>
-<p>Rol Actual / Ocupación: (Confirmar su alineación con el segmento objetivo).</p>
-<p>¿En qué distrito reside / Dónde desarrolla principalmente sus actividades? (Contexto geográfico).</p>
-<p>¿Qué tipo de navegador web utiliza con mayor frecuencia para actividades laborales/voluntariado? (Ej. Chrome, Firefox, Safari, Edge).</p>
-<p>¿Qué dispositivos utiliza con mayor frecuencia para acceder a herramientas o plataformas digitales (ordenador, tablet, smartphone)?</p>
 
 
 ---
 
-#### Segmento 1: (Managers) Gestor de proyectos de ONG
+### 5.2.2. Sprint 1
 
-- "Después de la interacción, ¿te resultó fácil saber dónde ir o qué hacer en cada momento? ¿Encontraste alguna sección confusa o dónde te perdiste?"
+#### 5.2.2.1. Sprint Planning 1
+| Item                     | Detail |
+|--------------------------|--------|
+| Sprint #                 | Sprint 1 |
+| Date                     | 13/09/2025 |
+| Time                     | 13:00 |
+| Location                 | Discord Virtual |
+| Prepared By              | Sebastian Ramirez Hoffmann |
+| Attendees (Planning)     | Todos Atendieron |
 
-- "Cuando realizaste las tareas (ej. al crear un proyecto o asignar una tarea), ¿tuviste claro si la acción se había completado con éxito, si había un error, o qué estaba ocurriendo? ¿Recibiste feedback adecuado?"
+- **Sprint Goal:** Implementar y desplegar la Landing Page.  
+- **Sprint Velocity:** 15 puntos.  
+- **Sum of Story Points:** 15 puntos.  
 
-- "Para las tareas que realizaste (ej. crear proyecto, asignar tarea), ¿qué tan rápido o fácil te pareció completarlas? ¿Hubo algo que te tomó más tiempo de lo esperado o que sentiste que podría ser más directo?"
+#### 5.2.2.2. Sprint Backlog 1
+| Id   | Title            | Description                                   | Estimation (Hours) | Assigned To                  | Status |
+|------|------------------|-----------------------------------------------|--------------------|------------------------------|--------|
+| LP01 | Landing Setup    | Configuración inicial del proyecto Landing    | 2                  | Sebastián Ramírez Méndez     | Done   |
+| LP02 | Landing Deploy   | Despliegue de la Landing en el servidor       | 3                  | Pedro Guia Rodríguez       | Done   |
+| LP03 | CTA Buttons      | Implementación de botones con redirecciones   | 2                  | Nicolás Esteban García       | Done   |
+| LP04 | Revisión         | Corrección de detalles y pruebas generales    | 2                  | Sebastián Peña Rivera        | Done   |
 
-- "Si cometiste un error o quisiste deshacer algo, ¿te resultó fácil corregirlo o volver atrás? ¿Sentiste que tenías control sobre la aplicación?"
+#### 5.2.2.3. Development Evidence for Sprint Review
+Se presenta la implementación de la landing page con botones call to action funcionales.
 
-- "Los términos usados en la aplicación (ej. 'proyecto', 'tarea', 'team Register Code') y el diseño general (botones, iconos), ¿te parecieron consistentes y fáciles de entender? ¿Se alinean con lo que esperas de una herramienta de gestión?"
+<center><img src="../assets/Implementations/Landing_implementation.jpg" alt="Landing deployed" style="width:80%;"></center>
 
-- "¿Qué te pareció el diseño visual de la aplicación? ¿Sentiste que había información innecesaria o que la interfaz estaba recargada?"
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+Pruebas manuales de navegación, redirección y carga de elementos.  
+(Omitidas pruebas críticas por simplicidad de la Landing.)
 
-- "Pensando en tus desafíos actuales de gestión, ¿crees que AidManager, tal como lo probaste, te ayudaría a resolver alguno de esos problemas? ¿Cuál específicamente?"
+#### 5.2.2.5. Execution Evidence for Sprint Review
+Evidencia de commits realizados durante el desarrollo y despliegue. Considerar que gran parte de la landing ya se encontraba en desarrollo previo.
 
-- "Si tuvieras que priorizar las funcionalidades que probaste o imaginaste, ¿cuáles serían las más valiosas para ti? ¿Hay alguna funcionalidad clave que sentiste que faltaba o que te gustaría ver mejorada?"
+<center><img src="../assets/Insights/ins.png" alt="Landing deployed" style="width:80%;"></center>
 
----
 
-#### Segmento 2: (TeamMembers) Ayudante de Eventos ONG
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+No aplica de manera crítica, al no existir servicios asociados por el momento.
 
-- "Al buscar tus tareas o la información de un proyecto, ¿te pareció que la información estaba clara y era fácil de entender? ¿Las etiquetas o textos tenían sentido para ti?"
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Despliegue de la Landing Page en el entorno asignado.
 
-- "Cuando necesitaste encontrar una tarea específica o los detalles de un evento, ¿te resultó sencillo llegar a esa información? ¿Hubo algo que te costó encontrar?"
+<center><img src="../assets/Implementations/Landing_implementation.jpg" alt="Landing deployed" style="width:80%;"></center>
 
-- "Para las tareas que realizaste (ej. marcar tarea como completada), ¿qué tan fácil te resultó ejecutar esa acción? ¿Cómo supiste que tu acción se había guardado correctamente?"
+Se hace un deployment en vercel o netlify como fallback por un miembro del equipo
 
-- "Al intentar comunicarte con tu gestor, ¿te pareció un proceso intuitivo? ¿Crees que este canal te permitiría una comunicación efectiva en tu rol de voluntario?"
-- "El diseño general de la aplicación, ¿te pareció coherente entre las diferentes pantallas? ¿Hubo algo que te llamó la atención positivamente o negativamente en la parte visual?"
-- "¿Crees que usar una herramienta como AidManager, tal como la probaste, mejoraría tu experiencia como voluntario o simplificaría alguna parte de tu participación?"
 
-- "Si pudieras darle una sugerencia basada en tu experiencia de hoy, ¿cuál sería? ¿Qué te gustaría ver añadido o cambiado para que fuera aún más útil para ti?"
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+Se evidencia la colaboración a través de commits en el repositorio. Como se menciono previamente la landing page ya se encontraba en un estado operativo y se hicieron cambios mas en "server side" para el redeployment
 
+<center><img src="../assets/Insights/commits.png" alt="Landing deployed" style="width:80%;"></center>
 
-### 6.3.2. Registro de Entrevistas
 
-## Segmento 1: (Managers) Gestores de proyectos ONG
+#### 5.2.2.9. Actas de Reunión
+Actas de reuniones correspondientes a Sprint 1.
 
-Nombre: Diego Ávalos
-Edad: 28
-Ocupación: Comunicación de Eventos y RRPP
-Browser: Chrome
-Device: Laptop, Celular (en campo)
-Distrito: San Isidro
-Timing: 0:30 (Inicio de la entrevista)
-
-<center>
-<img src="../assets/entrevistasvalidar/diego.png" alt="Entrevista 1 Segmento TeamMember" width="500"/></center>
-
-<p>Diego Ávalos, quien se dedica a la comunicación de eventos y relaciones públicas para diversas ONGs, utiliza Chrome en su laptop o celular para trabajar. Durante la entrevista, se le mostró una demo de una herramienta de gestión de proyectos para ONGs, que incluía funcionalidades como la gestión de tareas, analíticas, un calendario y la creación de publicaciones.</p>
-
-<p>En su experiencia con la herramienta, Diego encontró que la información de las tareas era digerible y entendible, pero sugirió que los plazos y las funciones podrían ser más definidos para una mejor comprensión. Le resultó complicado encontrar información específica y el historial de eventos pasados debido a que la información estaba descentralizada. Sin embargo, marcar las tareas como completadas fue sencillo y le gustó la confirmación visual de que su acción se había guardado correctamente. La comunicación con el gestor a través de la aplicación le pareció intuitiva y útil, a pesar de no saber si los mensajes se recibían de inmediato.</p>
-
-<p>En cuanto al diseño, la coherencia visual y el uso de colores le resultaron agradables y no generaron distracciones. Diego cree que esta herramienta de gestión de proyectos mejoraría significativamente su experiencia como voluntario, ya que permitiría un seguimiento integral de los proyectos y reduciría la necesidad de buscar información en correos o chats dispersos. Como sugerencia, propuso añadir un calendario que permitiera visualizar los eventos y tareas por días, con la posibilidad de vincularse con otras aplicaciones de calendario como Google Calendar u Outlook.</p>
-
-
-Nombre: Isabel Hoffmann
-Edad: 51
-Ocupación: Gestion de eventos
-Browser: Chrome
-Device: Laptop, Celular 
-Distrito: La Libertad
-Timing: 13:22
-
-Isabel es gestora de proyectos de ONG donde menciona que el uso de excel y la baja comunicacion puede generar problemas a la hora de organizarse.
-En la entrevista un poco breve menciona que le encanto la propuesta y que esta muy interesada en la seccion de analiticas de la solucion ya que menciona que el seguimiento financiero y gestion de tareas es sumamente relevante en su rubro.
-
-<center>
-<img src="../assets/entrevistasvalidar/maria.png" alt="Entrevista 1 Segmento TeamMember" width="500"/>
-</center>
-
- ---
-
-Nombre: Maria Hoffmann
-Edad: 51
-Ocupación: Gestion de eventos
-Browser: Chrome
-Device: Laptop, Celular 
-Distrito: La Libertad
-Timing: 40:00
-
-Maria trabaja como gestora de eventos en una ONG donde ya ha participado de distintos proyectos de ayuda social, maneja un equipo de voluntarios en cada equipo y menciona que se comunica con ellos via whatsapp.
-Cuando Maria prueba la app se ve interesada en saber las restriciones que tiene los voluntarios respecto as sus tareas, es decir que solo vean aquellas tareas que les corresponden, adicionalmente, menciona que la UI de la aplicacion movil es muy  fluida y se siente profesional, efficiente y rapida.
-Como comentario final se sorprende de la velocidad y simpleza del proceso que implica usar la aplicacion movil.
-
-
-<center>
-<img src="../assets/entrevistasvalidar/mariah.png" alt="Entrevista 1 Segmento TeamMember" width="500"/>
-</center>
-
-## Segmento 2: (TeamMembers) Ayudante de Eventos ONG
-
-**Nombre:** Alvaro Jimenez Agapito  
-**Edad:** 19
-**Ocupación:** Voluntario de ONG 
-**Browser:** Google Chrome  
-**Device:** Laptop Toshiba  
-**Distrito:** Miraflores, Lima  
-**Timing:** 25:02  
-
-<center>
-<img src="../assets/interview-3-validation.png" alt="Entrevista 1 Segmento TeamMember" width="500"/>
-</center>
-
-<p>Alvaro Jimenez Agapito, Voluntario de ONG, utiliza herramientas manuales como hojas de cálculo y registros en papel para gestionar los proyectos. Con AidManager, encontró que la información de las tareas era clara, pero sugirió que sería útil tener más detalles visibles sin abrir cada tarea. La interfaz fue intuitiva, aunque al principio le costó entender cómo filtrar las tareas correctamente. </p>
-
-<p>Marcar tareas como completadas fue fácil y recibió una confirmación visual clara. La comunicación con el lider del proyecto fue buena, pero sugirió un chat en tiempo real o notificaciones para mejorar la efectividad. El diseño de la aplicación le pareció coherente, aunque recomendó mejorar el contraste de los textos pequeños.</p>
-
-<p>Alvaro cree que AidManager mejoraría su experiencia como voluntario y recomendó añadir un sistema de notificaciones y una vista de calendario para facilitar la planificación y evitar olvidar fechas importantes.</p>
-
----
-
-**Nombre:** Luis Eduardo 
-
-**Edad:** 21
-
-**Ocupación:** Voluntario de ONG 
-
-**Browser:** Chrome  
-
-**Device:** Laptop y Movil 
-
-**Distrito:** SanBorja, Lima  
-**Timing:** 59:38
-
-<center>
-<img src="../assets/entrevistasvalidar/luis.png" alt="Entrevista 1 Segmento TeamMember" width="500"/>
-</center>
-
-<p>Luis Eduardo, un joven de 21 años residente en San Borja, es estudiante de Ingeniería de Software y colabora como TEAM Member en diversas ONGs. Para sus actividades de voluntariado y estudio, prefiere los navegadores web Brave o Chrome y utiliza principalmente su computadora y laptop.</p>
-
-<p>Durante la demostración de la aplicación (que asumo fue para él, dado que se inicia una nueva sección de demo después de su presentación), se le mostró el flujo de ingreso a la plataforma, donde el usuario debe introducir credenciales y un código de ONG provisto por el gestor. Se resaltó la vista principal donde aparecen los posts de su project manager y la sección de proyectos. Como TEAM Member, Luis Eduardo no puede agregar proyectos, pero sí puede observar los que tiene asignados y moverlos según su estado (ej. a "done"), después de un proceso de validación. También se le presentó la sección de analíticas, la cual se actualiza mensualmente (con planes de futura actualización en vivo), y la función de calendario, donde debería ver las fechas de las tareas de sus proyectos.</p>
-
-Nombre: Diego Bazán
-Edad: 25 años
-Ocupación: Estudiante y Asesor de ventas para una ONG
-Browser: Chrome
-Device: Laptop
-Distrito: San Isidro
-Timing: 1:07:00
-
-<center>
-<img src="../assets/entrevistasvalidar/bazan.png" alt="Entrevista 1 Segmento TeamMember" width="500"/>
-</center>
-
-<p>Diego Bazán, un estudiante de 25 años con más de dos años de experiencia como asesor de ventas para una ONG, fue entrevistado sobre su percepción de una herramienta de gestión de proyectos. Para él, la información general y las etiquetas en la herramienta eran entendibles y digeribles, pero notó que los plazos extendidos y la desorganización en la creación de eventos y gestión de ventas dificultaban el proceso. Sugirió que los plazos y funciones deberían estar más definidos para mayor claridad y entendimiento.</p>
-
-<p>Al buscar tareas específicas o detalles de eventos, Diego encontró complicaciones debido a que la información estaba descentralizada, haciendo difícil localizar lo necesario para la creación del evento o la asignación de roles. También le resultó difícil encontrar el historial de eventos pasados.</p>
-
-<p>Marcar las tareas como completadas fue un proceso fácil, y le agradó la confirmación visual (un "check verde") que le daba seguridad de que su acción se había guardado correctamente. Como mejora, sugirió un mensaje de confirmación que pudiera ser anexado al correo para doble verificación y visibilidad para el equipo.</p>
-
-<p>La comunicación con el gestor a través de la herramienta le pareció bastante intuitiva, con un botón visible que llevaba a un chat o formulario directo. Aunque no sabía si los mensajes se recibían de forma inmediata, tenía la confirmación de envío y que serían leídos.</p>
-
-<p>El diseño visual de la aplicación le pareció perfecto, coherente y ordenado, con colores que no generaban distracciones ni fatiga. Destacó la claridad como primordial y el tamaño de las letras como adecuado.</p>
-
-<p>Diego cree que una herramienta como Aid Manager mejoraría "definitivamente" su experiencia como voluntario y simplificaría su participación. La considera "perfecta" para la organización y seguimiento integral de tareas y proyectos para todo un equipo, ya que reduce la necesidad de buscar información dispersa en correos o chats primitivos. Su principal sugerencia para mejorar la herramienta es la adición de un tipo de calendario integrado donde pueda visualizar eventos y tareas organizados por días, con la posibilidad de vincular alertas a otras aplicaciones de calendario como Google Calendar u Outlook.</p>
-
-
-### 6.3.3. Evaluaciones según heurísticas
-
-
-CARRERA: Ingeniería de Software
-CURSO:  Diseño de Experimentos de Ingeniería de Software
-SECCIÓN: 4446
-PROFESORES: Cenas Vasquez, Lennin Percy
-AUDITOR: PManagers
-
-SITE o APP A EVALUAR:
-AidManager
-
-TAREAS A EVALUAR:
-El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
-
-Tareas a Evaluar:
-El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
-
-Registro de un usuario nuevo (Gestor de Proyectos).
-Selección y pago de plan de suscripción.
-Añadir un nuevo proyecto.
-Agendar reuniones o hitos de proyecto.
-Actualizar información de un proyecto.
-Visualizar estadísticas de proyectos en el Dashboard (Web).
-Enviar consultas a un gestion.
-Eliminar un proyecto.
-Monitoreo rápido de información de proyectos (Móvil).
-Registrar/Editar proyecto desde la aplicación móvil.
-
-Tareas No Incluidas en esta Versión:
-Cualquier funcionalidad no cubierta o no principal para esta etapa de validación, tales como el cambio de datos de perfil, implementación de CRM en su totalidad en móvil, etc
-
-<table>
-    <tr>
-        <td>Nivel</td>
-        <td>Descripción</td>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>Problema superficial puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia No necesita ser arreglado a no ser que exista disponibilidad de tiempo</td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>Problema menor puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>Problema mayor  ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe  signar una prioridad alta.</td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>Problema muy grave un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
-    </tr>
-</table>
-
-<table>
-        <thead>
-            <tr>
-                <th>#</th>
-                <th>Problema</th>
-                <th>Escala de Severidad</th>
-                <th>Heurística/Principio violada(o)</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr class="severity-3">
-                <td>1</td>
-                <td>Problemas en el proceso de registro de cuenta: Hubo un "error técnico" durante el registro  y las restricciones de contraseña (mayúscula, minúscula, admiración)  requirieron guía verbal, lo que dificultó la primera impresión.</td>
-                <td>3</td>
-                <td>Usabilidad: Prevención de errores / Ayuda y documentación / Coincidencia entre el sistema y el mundo real.</td>
-            </tr>
-            <tr class="severity-3">
-                <td>2</td>
-                <td>Confusión y dificultad en el proceso de selección de fecha para la instalación: Un usuario "se perdió"  y tuvo que ser guiado para seleccionar la fecha correcta en el calendario.</td>
-                <td>3</td>
-                <td>Usabilidad: Reconocimiento en lugar de recuerdo / Prevención de errores / Flexibilidad y eficiencia de uso.</td>
-            </tr>
-            <tr class="severity-3">
-                <td>3</td>
-                <td>Falta de opción de idioma español en la interfaz. </td>
-                <td>3</td>
-                <td>Diseño Inclusivo: Localización / Accesibilidad.</td>
-            </tr>
-            <tr class="severity-2">
-                <td>4</td>
-                <td>Problemas de visibilidad de scroll: Usuarios tuvieron que ser guiados para desplazarse hacia abajo y encontrar campos adicionales o selecciones de horario en formularios (ej. añadir proyecto, agendar instalación, secciones iniciales de Landing Page). </td>
-                <td>2</td>
-                <td>Usabilidad: Visibilidad del estado del sistema / Estética y diseño minimalista.</td>
-            </tr>
-            <tr class="severity-2">
-                <td>5</td>
-                <td>Falta de opciones avanzadas de facturación y exportación de datos para el segmento gestion: El usuario gestion deseaba opciones de facturación más detalladas (ej. RUC, nombre de empresa)  y la capacidad de descargar datos del dashboard (ej. Excel) para análisis. </td>
-                <td>2</td>
-                <td>Usabilidad: Flexibilidad y eficiencia de uso / Coincidencia entre el sistema y el mundo real.</td>
-            </tr>
-            <tr class="severity-2">
-                <td>6</td>
-                <td>Iconografía o etiquetado poco claro: El significado del icono "ojo" para ver más información de la proyecto no fue inmediatamente claro para un usuario.  Hubo ligera confusión entre "nombre" y "tipo" de proyecto, y "título" y "descripción" para preguntas. </td>
-                <td>2</td>
-                <td>Usabilidad: Reconocimiento en lugar de recuerdo / Coincidencia entre el sistema y el mundo real.</td>
-            </tr>
-            <tr class="severity-2">
-                <td>7</td>
-                <td>Incapacidad para subir fotos a la información de la proyecto. </td>
-                <td>2</td>
-                <td>Usabilidad: Flexibilidad y eficiencia de uso (característica esperada).</td>
-            </tr>
-            <tr class="severity-1">
-                <td>8</td>
-                <td>Información de perfil estática: La sección de perfil del usuario mostraba datos fijos debido a problemas de conexión con la base de datos, lo que afectó la expectativa del usuario de ver su información dinámica. </td>
-                <td>1</td>
-                <td>Usabilidad: Coincidencia entre el sistema y el mundo real (limitación técnica impactando la expectativa).</td>
-            </tr>
-            <tr class="severity-1">
-                <td>9</td>
-                <td>Interrupciones o pausas en la aplicación móvil: Se observó una pausa inicial o problema de carga antes de que el usuario pudiera interactuar completamente con la aplicación móvil. </td>
-                <td>1</td>
-                <td>Usabilidad: Visibilidad del estado del sistema / Tiempos de respuesta.</td>
-            </tr>
-        </tbody>
-    </table>
-
-
-#### Problema #1: Problemas en el proceso de registro de cuenta y restricciones de contraseña.
-Severidad: 3
-Heurística violada: Usabilidad: Prevención de errores / Ayuda y documentación / Coincidencia entre el sistema y el mundo real.
-
-Problema:
-Durante el proceso de registro de una nueva cuenta, se reportó un "error técnico" no relacionado con la contraseña que interrumpió el flujo. Adicionalmente, las restricciones de contraseña (requiriendo una mayúscula, una minúscula y un signo de admiración) no fueron comunicadas claramente en la interfaz, lo que obligó al entrevistador a brindar guía verbal ("Básicamente, la contraseña tiene una restricción que solicita que se tenga una mayúscula, una minúscula de admiración."). Esta falta de claridad y el error técnico inicial generan frustración y dificultan la primera interacción del usuario con la aplicación, afectando la experiencia de incorporación.
-
-Recomendación:
-
-Manejo de Errores: Investigar y resolver la causa del "error técnico" reportado durante el registro. Todos los errores deben ser comunicados al usuario de forma clara, con un lenguaje sencillo y ofreciendo una solución o indicando los siguientes pasos.
-Visibilidad de Restricciones de Contraseña: Mostrar las restricciones de contraseña de forma clara y visible junto al campo de entrada (ej., "La contraseña debe tener al menos 8 caracteres, incluyendo una mayúscula, una minúscula y un carácter especial como !"). Validar la entrada en tiempo real con feedback instantáneo al usuario para guiarlo hacia una contraseña válida antes de enviar el formulario.
-#### Problema #2: Confusión y dificultad en el proceso de selección de fecha para la agenda de hitos.
-Severidad: 3
-Heurística violada: Usabilidad: Reconocimiento en lugar de recuerdo / Prevención de errores / Flexibilidad y eficiencia de uso.
-
-Problema:
-Un usuario durante la prueba del agendamiento de un hito o reunión de proyecto expresó confusión ("acá me perdí") y tuvo dificultades para seleccionar una fecha correctamente, requiriendo intervención del entrevistador ("creo que debe presionar 2 meses, creo para que se registre correctamente. No, acá me perdí pásale ahí un botón, no, no selecciono la fecha"). Esto sugiere que la interacción con el calendario o el selector de fechas no es intuitiva, o que la confirmación de la selección no es suficientemente clara, impidiendo al usuario completar la tarea de forma autónoma.
-
-Recomendación:
-
-Claridad del Selector de Fechas: Revisar el diseño del componente del selector de fechas para asegurar que sea intuitivo.
-Feedback Visual: Proporcionar un feedback visual claro e inmediato cuando una fecha es seleccionada (ej. resaltando la fecha, o mostrando la fecha seleccionada en un resumen).
-Guía Explícita: Si hay pasos adicionales (ej., presionar "2 meses"), deben ser explícitos en la interfaz, no implícitos o que requieran conjeturas del usuario. Asegurar que haya un botón de "confirmar" o "siguiente" bien visible una vez que la selección esté completa.
-#### Problema #3: Falta de opción de idioma español en la interfaz.
-Severidad: 3
-Heurística violada: Diseño Inclusivo: Localización / Accesibilidad.
-
-Problema:
-Un usuario recomendó explícitamente que la aplicación "sea también en idioma, en en español, español". Aunque la entrevista se realizó en español, la interfaz de usuario de la aplicación no ofrecía una opción clara para cambiar el idioma, sugiriendo que podría estar configurada en inglés o no ser adaptable. Esto limita la accesibilidad y la usabilidad para los usuarios hispanohablantes nativos, lo que es crítico en un mercado como Perú.
-
-Recomendación:
-
-Soporte Multi-idioma: Implementar un sistema de localización que permita traducir toda la interfaz de usuario al español y a otros idiomas relevantes.
-Selector de Idioma Visible: Colocar un selector de idioma de fácil acceso (ej., en el encabezado, pie de página o configuración del perfil) para que los usuarios puedan cambiar el idioma según sus preferencias.
-Detección Automática (Opcional): Considerar la detección del idioma del navegador o del dispositivo para ofrecer la aplicación en el idioma preferido del usuario por defecto, siempre con la opción de cambiarlo.
-
-#### Problema #4: Problemas de visibilidad de scroll y falta de indicación de contenido oculto (y botones pequeños).
-
-Severidad: 2
-Heurística violada: Usabilidad: Visibilidad del estado del sistema / Estética y diseño minimalista.
-Problema:
-En múltiples ocasiones, los entrevistadores tuvieron que indicar a los usuarios que "bajen" o "hagan scroll hacia abajo" para poder ver campos adicionales en formularios (como al añadir un proyecto, ingresar el correo y país en el registro, o ver las opciones de horarios para agendar un hito). Esto indica que no hay suficientes indicadores visuales (ej., barras de scroll, elementos "cortados" en la parte inferior de la pantalla) que sugieran la presencia de contenido más allá del área visible inicial, lo que interrumpe el flujo del usuario y puede llevar a la omisión de información importante. Adicionalmente, la mención de "botones pequeños" puede contribuir a la dificultad de interacción, haciendo que los usuarios no los perciban o les cueste interactuar con ellos, especialmente si están cerca de los bordes o requieren scroll.
-
-Recomendación:
-
-Indicadores Visuales de Scroll: Asegurar que los formularios y secciones largas tengan barras de desplazamiento visibles o que los elementos se "corten" sutilmente en el borde inferior de la pantalla para indicar que hay más contenido.
-Optimización del Espacio: Rediseñar las interfaces para que los campos más importantes sean visibles sin necesidad de scroll inicial, especialmente en los primeros pasos de un proceso.
-Diseño Responsivo: Confirmar que la aplicación se adapta correctamente a diferentes tamaños de pantalla, minimizando la necesidad de scroll vertical excesivo en resoluciones comunes.
-Tamaño de Botones: Revisar el tamaño de los botones interactivos para asegurar que sean fácilmente visibles y se pueda interactuar con ellos sin dificultad, siguiendo las guías de diseño de interfaz de usuario para botones táctiles (ej. un tamaño mínimo de 48x48 dp).
-#### Problema #5: Ambigüedad en la entrada de datos de prueba.
-Severidad: 2
-Heurística violada: Usabilidad: Consistencia y estándares / Ayuda y documentación.
-
-Problema:
-Durante el proceso de pago simulado, los usuarios tuvieron dudas sobre cómo ingresar los datos de la tarjeta de prueba. Específicamente, se les tuvo que indicar verbalmente que la fecha de expiración debía ser "mayor" a la actual (ej. "28"), y hubo confusión sobre cómo llenar el número de tarjeta de prueba ("repetir el número 42, o sea, eso lo pongo 42 muchas... me imagino que es hasta el límite"). Esta falta de instrucciones claras en la interfaz para datos de prueba genera fricción y dependencia de la guía externa, lo que sería un problema en un entorno de usuario real.
-
-Recomendación:
-
-Instrucciones Claras para Datos de Prueba: En entornos de prueba o demostración, añadir instrucciones explícitas y sencillas sobre cómo introducir los datos de prueba (ej., "Para fines de demostración, use MM/AA: 12/28" o "Ingrese 16 dígitos cualesquiera, ejemplo: 4242...").
-Validación en Tiempo Real: Implementar validaciones en tiempo real para los campos que ofrezcan feedback inmediato y claro sobre el formato esperado.
-Campos de Entrada Estándar: Asegurarse de que los campos de entrada sigan convenciones estándar de la industria para tipos de datos como números de tarjeta o fechas.
-#### Problema #6: Falta de opciones avanzadas de gestión y exportación de datos para el segmento de Gestor de Proyectos, y centralización de analíticas.
-Severidad: 2
-Heurística violada: Usabilidad: Flexibilidad y eficiencia de uso / Coincidencia entre el sistema y el mundo real.
-
-Problema:
-El usuario del segmento de Gestor de Proyectos expresó la necesidad de funcionalidades de gestión de proyectos más robustas, como la capacidad de incluir datos específicos del proyecto (ej. presupuesto asignado, tipo de tarea) en los reportes, lo cual no estaba visiblemente disponible. Además, solicitó opciones de filtrado más avanzadas en el dashboard (ej. por trimestre, por mes) y la capacidad de exportar datos a formatos como Excel, para un análisis más profundo ("una opción de descarga en Excel también me sirve porque a esos datos hay que tratarlos más"). Se mencionó también que "la vista de analíticas podría ser más centralizada y que tenga distintas áreas", lo que sugiere una necesidad de una visión más comprensiva y personalizable de los datos del proyecto. Esto indica que la aplicación, en su estado actual, no satisface completamente las necesidades de gestión y análisis de datos más complejas de un usuario de perfil gestion.
-
-Recomendación:
-
-Gestión de Proyectos gestion: Expandir las opciones de reportes para incluir campos para información corporativa y de proyecto detallada (presupuesto, hitos, responsabilidades, etc.) y permitir la generación de informes detallados.
-Filtros Avanzados en Dashboard: Añadir opciones de filtrado de tiempo más granulares (ej. día, semana, mes, trimestre, año) y personalizables en el dashboard, permitiendo a los usuarios segmentar y analizar datos por diferentes criterios de proyecto (ej. por estado, por tipo de tarea, por miembro del equipo).
-Exportación de Datos: Implementar funcionalidades de exportación de datos del dashboard a formatos comunes como CSV o Excel para permitir a los usuarios realizar análisis externos.
-Centralización de Analíticas: Rediseñar la sección de analíticas para ofrecer una vista más consolidada y personalizable, permitiendo a los usuarios visualizar diferentes aspectos del rendimiento del proyecto en un solo lugar y navegar fácilmente entre ellos.
-#### Problema #7: Iconografía o etiquetado poco claro.
-Severidad: 2
-Heurística violada: Usabilidad: Reconocimiento en lugar de recuerdo / Coincidencia entre el sistema y el mundo real.
-
-Problema:
-Un usuario tuvo dudas sobre el significado del icono de "ojito" en la interfaz ("el del ojito no estaba seguro. ¿Para qué era?"). Además, se observó una ligera confusión entre los términos "nombre" y "tipo" de proyecto al registrar un nuevo proyecto, y entre "título" y "descripción". Estas inconsistencias o ambigüedades en la terminología y la iconografía requieren que el usuario adivine o dependa de la guía, lo que reduce la eficiencia y aumenta la carga cognitiva.
-
-Recomendación:
-
-Iconografía Intuitiva: Utilizar iconos universalmente reconocibles o añadir etiquetas de texto debajo de los iconos. Considerar tooltips al pasar el cursor sobre los iconos para proporcionar una descripción.
-Claridad Terminológica: Revisar la terminología utilizada en toda la aplicación para asegurar consistencia y que coincida con el lenguaje que los usuarios esperarían. Utilizar etiquetas claras para campos como "Nombre del Proyecto" y "Tipo de Proyecto", o "Asunto de la Pregunta" y "Detalle de la Pregunta".
-Pruebas de Usabilidad Continua: Realizar más pruebas con usuarios para identificar cualquier otra área donde el etiquetado o la iconografía puedan ser ambiguos.
-#### Problema #8: Ausencia de la función para adjuntar archivos o documentos a proyectos.
-Severidad: 2
-Heurística violada: Usabilidad: Flexibilidad y eficiencia de uso.
-
-Problema:
-Un usuario sugirió la adición de una funcionalidad para "colocarle las fotos, ahí hay imágenes" al registrar o gestionar un proyecto. Adaptando este comentario, se infiere que la capacidad de adjuntar documentos relevantes al proyecto (como planes, imágenes, reportes, etc.) no estaba presente. Esta característica, que es común y esperada en aplicaciones de gestión de proyectos, no estaba disponible. Su ausencia limita la capacidad del usuario para centralizar y contextualizar la información de sus proyectos de manera visual y documental, lo que podría mejorar significativamente la experiencia y la utilidad de la aplicación para los Gestores de Proyectos.
-
-Recomendación:
-
-Implementar Carga de Archivos: Desarrollar e integrar una funcionalidad que permita a los usuarios adjuntar documentos, imágenes y otros archivos relevantes a sus proyectos.
-Beneficios Claros: Comunicar cómo esta característica puede enriquecer la experiencia del usuario (ej., "Adjunte planes, presupuestos y recursos clave a su proyecto", "Centralice toda la información de su proyecto").
-
-#### Problema #9: Pausas o cargas iniciales en la aplicación móvil.
-Severidad: 1
-Heurística violada: Usabilidad: Visibilidad del estado del sistema / Tiempos de respuesta.
-
-Problema:
-Se observó una pausa o un momento de carga inicial en la aplicación móvil antes de que el usuario pudiera ingresar su contraseña y acceder a la interfaz. Aunque no impidió el uso, cualquier retraso inicial en el acceso puede generar una percepción de lentitud o ineficiencia en la aplicación.
-
-Recomendación:
-
-Optimización del Rendimiento: Optimizar el rendimiento de la aplicación móvil para reducir los tiempos de carga inicial y asegurar una experiencia fluida desde el primer momento.
-Indicadores de Carga: Si la carga es inevitable, proporcionar un indicador visual claro (ej., spinner, barra de progreso) para que el usuario sepa que la aplicación está funcionando y no está congelada.
-Aspectos Positivos Destacados:
-Durante la validación, los usuarios también mencionaron aspectos positivos importantes de EcoGuardian:
-
-Tareas asignadas visibles solo por miembros del equipo: Los usuarios percibieron positivamente la funcionalidad de que las tareas asignadas sean visibles únicamente para los miembros del equipo relevantes. Esto fomenta la claridad y reduce el ruido informativo, siendo una característica bien recibida para la gestión de tareas.
-Layout similar a aplicaciones de CRM y gestión: La familiaridad del layout con aplicaciones de CRM y gestión existentes fue un punto a favor. Esto reduce la curva de aprendizaje y hace que la interfaz sea intuitiva para los usuarios familiarizados con este tipo de herramientas.
-Diseño atractivo: Los usuarios expresaron que "les gustó mucho cómo quedó" el diseño general de la aplicación, lo que contribuye a una experiencia de usuario más agradable y profesional.
-Procesos rápidos: La velocidad de los procesos fue un aspecto muy valorado, indicando que "los procesos son super rápidos lo cual está excelente". La eficiencia en las operaciones es crucial para la productividad y la satisfacción del usuario.
-## 6.4. Auditoría de Experiencias de Usuario
-
-### 6.4.1. Auditoría realizada
-
-#### 6.4.1.1. Información del grupo auditado
-
-En esta auditoria hacemos una evaluacion del sistema del equipo 4 enfocandonos en la app web y app movil.
-
-<p>Grupo 4: Tegnogurus - Proyecto Kitchen Tech </p>
-
-<p>Miembros de equipo:</p>
-
-- <p>Diego Jesus Alonso Garay</p>
-- <p>Gabriel Anthony Braithuaite Toledo</p>
-- <p>Johan Príncipe Godoy</p>
-- <p>Nicolás Zagal Vallejo</p>
-
-##### Objetivos
-
-El equipo 4 de la startup Kitchen Tech se enfocan en el rubro de la industria de Restaurantes y a lo largo del curso han realizado su aplicacion movil y web, en esta auditoria nos enfocaremos en utilizar las soluciones y el flujo principal.
-
-Objetivo del negocio:
-
-Usuarios Principales (Segmentos):
-- 1 Meseros
-- 2 Administradores
-
-#### 6.4.1.2. Cronograma de auditoría realizada
-
-Tomando en cuenta que el producto del grupo a auditar estaba en fase de pruebas cuando nos contactamos acordamos en hacer la auditoria el 18 de Junio del 2025.
-
-- la auditoria inico el 18 de Junio del 2025
-
-- la auditoria finalizo el 20 de Junio del 2025
-
-#### 6.4.1.3. Contenido de auditoría realizada
-
-Objetivos de la auditoría: Evaluar la usabilidad de la nueva funcionalidad de reporte y verificar la conformidad con principios de accesibilidad.
-
-Metodología utilizada: Revisión heurística y análisis de flujo de usuario.
-
-Áreas evaluadas: Registro de usuario, funciones principales como: y  sistema core de la solucion.
-
-Principales hallazgos y problemas identificados: 
-
-- Dificultad para encontrar la sección de ayuda
-- Proceso de pago con demasiados pasos
-- Botones de llamado a la acción no suficientemente visibles
-
-Recomendaciones clave: 
-- Simplificar el proceso de registro a 3 pasos
-- Rediseñar la navegación principal con etiquetas más claras
-- Implementar iconos reconocibles en los botones
-
-### 6.4.2. Auditoría recibida
-
-#### 6.4.2.1. Información del grupo auditor
-
-Para esta auditoria el mismo grupo 4 nos hara una revision a nuestros productos web y mobil enfocandose en los cambios en base a nuestras nuevas features, igualmente haran uso del sistema completo y daran su retroalimentacion.
-
-Nombre del grupo/entidad auditora: Grupo 4 Tegnogurus - Proyecto Kitchen Tech
-
-
-#### 6.4.2.2. Cronograma de auditoría recibida
-
-Tomando en cuenta que nuestros productos a auditar estaban listos cuando nos contactamos acordamos en que hagan la auditoria el 17 de Junio del 2025.
-
-- la auditoria inicoo el 17 de Junio del 2025
-
-- la auditoria finalizo el 20 de Junio del 2025
-
-#### 6.4.2.3. Contenido de auditoría recibida
-
-En la auditoria el equipo de Kitchen Tech realiza la auditoria y nos presenta las siguientes observaciones. 
-A continuacion, se muestran los puntos clave de la auditoria.
-
-Objetivos de la auditoría: Evaluar la usabilidad de la nueva funcionalidad de reporte y verificar la conformidad con principios de accesibilidad.
-
-Metodología utilizada: Revisión heurística y análisis de flujo de usuario.
-
-Áreas evaluadas: Registro de usuario, funciones principales como: y  sistema core de la solución.
-
-Principales hallazgos y problemas identificados: 
-
-- Dificultad para encontrar la sección de ayuda
-- Botones de llamado a la acción no suficientemente visibles
-- Necesidad de mejora en la estructura de navegación
-
-Recomendaciones clave: 
-- Simplificar el proceso de registro a 3 pasos
-- Rediseñar la navegación principal con etiquetas más claras
-- Implementar iconos reconocibles en los botones
-
-#### 6.4.2.4. Resumen de modificaciones para subsanar hallazgos
-
-**Hallazgos priorizados para subsanar**: De lo que se reporto tomamos en consideracion para corregir lo siguiente:
-
-- Dificultad para encontrar la sección de ayuda: Esto se resolverá reubicando la sección de ayuda en una posición más prominente en la navegación principal, para facilitar su acceso.
-
-- Mejora de la navegación: Se reorganizará la navegación de la aplicación para que sea más intuitiva, con etiquetas claras y accesibles en todo momento, mejorando la experiencia del usuario al interactuar con las funciones principales.
-
-- Botones de llamado a la acción no suficientemente visibles: Se aumentará el contraste y el tamaño de los botones para hacerlos más destacables en todas las pantallas.
-
-
-**Acciones tomadas o planificadas**: En base al feedback, el plan será el siguiente:*
-
-- Reestructuración de la sección de ayuda: Reubicaremos la sección de ayuda en el menú principal, además de incorporar un acceso rápido en el pie de página para que los usuarios siempre tengan fácil acceso.
-
-- Rediseño de la navegación: Trabajaremos en una reorganización de la estructura de navegación para hacerla más clara y accesible, asegurando que las funciones clave sean fáciles de encontrar y utilizar sin esfuerzo.
-
-- Mejoras en la visibilidad de los botones de acción: Implementaremos cambios de diseño para los botones, agregando más contraste visual y usando iconos reconocibles que guíen mejor al usuario en sus acciones.
-
-
-**Estado actual de las modificaciones**: las modificaciones estan en los siguientes estados:
-
-- Sección de ayuda: El rediseño y reubicación están en fase de desarrollo, con el diseño final aprobado y la implementación programada para la próxima semana.
-
-- Navegación: El rediseño de la navegación ha comenzado, con los primeros prototipos ya creados y el proceso de validación con usuarios en curso.
-
-- Botones de acción: El rediseño de los botones ya está en la fase de prueba de usuario, con los ajustes de visibilidad listos para implementarse en la próxima actualización.
-
-Fecha de implementación o fecha estimada: estos cambios estan estimados a cambiarse el 25/06/2025 aproximadamente
-
-# Capítulo VII: DevOps Practices
-## 7.1. Continuous Integration
-### 7.1.1. Tools and Practices.
-En esta sección, se detallan las herramientas y prácticas utilizadas durante el desarrollo del proyecto. Estas herramientas jugaron un papel fundamental en la implementación exitosa del proyecto y en la garantía de su calidad y eficiencia.
-
-* GitHub Actions sirvió como plataforma central para la gestión del código fuente y el control de versiones. Facilitó el despliegue de producción desde la rama master hacia la aplicación web en Azure. 
-
-<br>
-<img src="../assets/github-actions-logo.png" alt="imagen de Integration UpdateProjectWithTasks">  
-
-### 7.1.2. Build & Test Suite Pipeline Components.
-
-Se implementó un pipeline de compilación y ejecución de pruebas automatizadas utilizando **GitHub Actions**, con el objetivo de validar la calidad y funcionamiento del backend desarrollado en .NET 8 antes de su despliegue.
-
-El pipeline se activa automáticamente al realizar `push` o `pull_request` en las ramas `main`, `testing` o `pipeline-test`. Este asegura que el código se descargue, compile correctamente, restaure sus dependencias y que la suite completa de pruebas unitarias y de integración se ejecute satisfactoriamente.
-
-## Estructura del Pipeline
-
-El pipeline está definido en el archivo `.github/workflows/build-test-suite.yml`, compuesto por los siguientes pasos:
-
-1. **Clonación del repositorio**  
-   Descarga el código fuente para trabajar con la versión más reciente.
-
-2. **Configuración del SDK de .NET 8**  
-   Se instala la versión 8 del SDK de .NET para asegurar la compatibilidad con el proyecto.
-
-3. **Restauración de dependencias**  
-   Se restauran los paquetes NuGet necesarios para compilar el proyecto.
-
-4. **Compilación de la solución**  
-   El proyecto se compila en modo Release para garantizar que el código está listo para producción.
-
-5. **Ejecución de la suite de pruebas**  
-   Se ejecutan todas las pruebas unitarias e integración definidas en la solución, asegurando la calidad del código.
-
-```yaml
-steps:
-  - uses: actions/checkout@v3
-  - uses: actions/setup-dotnet@v3
-    with:
-      dotnet-version: '8.0.x'
-  - run: dotnet restore AidManager-BackEnd.sln
-  - run: dotnet build AidManager-BackEnd.sln --configuration Release --no-restore
-  - run: dotnet test AidManager-BackEnd.sln --configuration Release --no-build --verbosity normal --logger "trx"
-```
-
-<img src="../assets/gh-actions-one.jpg" alt="imagen de Integration UpdateProjectWithTasks">  
-<br>
-<br>
-
-
-<img src="../assets/gh-actions-two.jpg" alt="imagen de Integration UpdateProjectWithTasks">  
-
-
-## 7.2. Continuous Delivery
-
-### 7.2.1. Tools and Practices.
-<!-- Benchmark en HTML embebido dentro de Markdown -->
-
-<h2>Benchmark</h2>
-
-<table border="1" cellspacing="0" cellpadding="8">
-  <tr>
-    <th colspan="4" style="text-align:left;">
-      <strong>¿Por qué llevar a cabo este análisis?</strong><br/>
-      Realizar un análisis competitivo es importante ya que es esencial para averiguar qué hacen las diferentes opciones que podremos tener. Asimismo, nos otorga la capacidad de reconocer sus fortalezas, oportunidades y debilidades y así poder tomar una decisión.
-    </th>
-  </tr>
-  <tr>
-    <th>Nombre</th>
-    <th>Jenkins</th>
-    <th>Bamboo</th>
-    <th>Azure DevOps</th>
-  </tr>
-  <tr>
-    <td><strong>Logo</strong></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins" width="80"/></td>
-    <td><img src="https://cdn.prod.website-files.com/6203daf47137054c031fa0e6/66bf5b4bf7dece48d211a4ac_Atlassian%20Bamboo.svg" alt="Bamboo" width="100"/></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png" alt="Azure DevOps" width="100"/></td>
-  </tr>
-  <tr>
-    <td><strong>Perfil</strong><br/>Overview</td>
-    <td>Jenkins es un servidor open source para la integración continua. Es una herramienta extensible que permite compilar y probar software de forma continua, lo que facilita a los desarrolladores integrar cambios en un proyecto y entregar nuevas versiones a los usuarios.</td>
-    <td>Bamboo es una herramienta de integración continua de Atlassian que reúne compilaciones, pruebas y versiones automatizadas en un solo flujo de trabajo. Permite automatizar el flujo desde el código hasta la implementación, lo que facilita la entrega continua.</td>
-    <td>Azure DevOps es un conjunto de servicios y herramientas proporcionado por Microsoft para gestionar todo el ciclo de vida del desarrollo de software. Esta plataforma es muy utilizada para las empresas que desean integrar metodologías ágiles y prácticas modernas implementando la metodología DevOps.</td>
-  </tr>
-  <tr>
-    <td><strong>Perfil de Producto</strong><br/>Fortalezas</td>
-    <td>
-      <ul>
-        <li>Ofrece una amplia gama de plugins.</li>
-        <li>Gran comunidad de usuarios y soporte.</li>
-        <li>Open source y flexible.</li>
-        <li><strong>Ventajas:</strong> Integración continua, extensibilidad y comunidad.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Integra perfectamente con otros productos de Atlassian como JIRA y Bitbucket.</li>
-        <li>Proporciona una interfaz intuitiva y fácil de usar.</li>
-        <li><strong>Ventajas:</strong> Integración con Atlassian, seguimiento automatizado.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>Proporciona servicios de compilación, gestión de repositorios, testing, integración y despliegue continuo.</li>
-        <li><strong>Ventajas:</strong> Integración nativa con Azure, control de calidad y seguridad de código.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Desventajas</strong></td>
-    <td>
-      <ul>
-        <li><strong>Complejidad inicial:</strong> Configurar Jenkins puede ser complicado debido a su amplia gama de opciones y complementos.</li>
-        <li><strong>Mantenimiento:</strong> Requiere actualizaciones y mantenimiento regular para evitar problemas de seguridad.</li>
-        <li><strong>Escalabilidad:</strong> A medida que crece, puede volverse más difícil de administrar.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><strong>Costo:</strong> Bamboo no es de código abierto y requiere una licencia, lo que puede ser costoso para algunas organizaciones.</li>
-        <li><strong>Menos personalización:</strong> Aunque es fácil de usar, tiene menos opciones de personalización en comparación con Jenkins.</li>
-        <li><strong>Dependencia de Atlassian:</strong> Si no utilizas otros productos de Atlassian, algunas características pueden no ser tan útiles.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><strong>Curva de aprendizaje:</strong> Puede llevar tiempo familiarizarse con todas las características de Azure DevOps.</li>
-        <li><strong>Integración limitada con otras herramientas:</strong> Aunque funciona bien con Azure, la integración con otras herramientas puede ser menos fluida.</li>
-        <li><strong>Costo:</strong> Algunas características avanzadas pueden requerir una suscripción de pago.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-### 7.2.2. Stages Deployment Pipeline Components.
-
-Se implementó un pipeline de integración continua (CI) utilizando **GitHub Actions** para automatizar la validación del backend desarrollado en .NET 8. Este pipeline se activa al realizar `push` o `pull_request` en las ramas `main`, `testing` o `pipeline-test`.
-
-El objetivo del pipeline es asegurar que el código se descargue, compile, restaure sus dependencias y pase las pruebas unitarias antes de cualquier despliegue.
-
----
-
-##Estructura del Pipeline
-
-El pipeline está definido en el archivo `.github/workflows/ci-cd.yml`, y está compuesto por los siguientes pasos:
-
-1. **Clonación del repositorio**
-2. **Configuración del SDK de .NET 8**
-3. **Restauración de dependencias**
-4. **Compilación del proyecto**
-5. **Ejecución de pruebas unitarias**
-
-```yaml
-steps:
-  - uses: actions/checkout@v3
-  - uses: actions/setup-dotnet@v3
-    with:
-      dotnet-version: '8.0.x'
-  - run: dotnet restore AidManager-BackEnd.sln
-  - run: dotnet build AidManager-BackEnd.sln --configuration Release --no-restore
-  - run: dotnet test AidManager-BackEnd.sln --configuration Release --no-build 
-```
-Resultado de la ejecucion: Visualizacion del archivo .yml
-1. Visualizacion del archivo .yml
-   <br>
-   <img src="../assets/pipe1.png" alt="imagen de Visualizacion del archivo .yml">  
-
-2. Inicio del pipeline tras un commit en la rama pipeline-test
-   <br>
-   <img src="../assets/pipe2.png" alt="imagen de pipeline">  
-
-3. Resultado general del build test
-   <br>
-   <img src="../assets/pipe3.png" alt="imagen de Build Test">  
-
-4. Logs detallados del pipeline
-   <br>
-   <img src="../assets/pipe4.png" alt="imagen de detalles del pipeline">  
-
-5. Compilacion y pruebas unitarias exitosa
-    <br>
-   <img src="../assets/pipe5.png" alt="imagen de compilacion y pruebas unitarias exitosa">
-   
-## 7.3. Continuous deployment
-### 7.3.1. Tools and Practices.
-<h2>Benchmark</h2>
-
-<table border="1" cellspacing="0" cellpadding="8">
-  <tr>
-    <th colspan="4" style="text-align:left;">
-      <strong>¿Por qué llevar a cabo este análisis?</strong><br/>
-      Realizar un análisis competitivo es importante ya que es esencial para averiguar qué hacen las diferentes opciones que podremos tener. Asimismo, nos otorga la capacidad de reconocer sus fortalezas, oportunidades y debilidades y así poder tomar una decisión.
-    </th>
-  </tr>
-  <tr>
-    <th>Nombre</th>
-    <th>GitHub Actions</th>
-    <th>Jenkins</th>
-    <th>GitLab CI/CD</th>
-  </tr>
-  <tr>
-    <td><strong>Logo</strong></td>
-    <td><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" alt="GitHub Actions Logo"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="80" alt="Jenkins Logo"/></td>
-    <td><img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="80" alt="GitLab Logo"/></td>
-  </tr>
-  <tr>
-    <td><strong>Perfil</strong><br/>Overview</td>
-    <td>GitHub Actions es un servicio de CI/CD integrado directamente en GitHub que permite automatizar flujos de trabajo y gestión de repositorios.</td>
-    <td>Jenkins es una herramienta de automatización de código abierto que permite la integración continua y la entrega continua (CI/CD).</td>
-    <td>GitLab CI/CD es una característica integrada en GitLab para la automatización del ciclo de vida del desarrollo de software.</td>
-  </tr>
-  <tr>
-    <td><strong>Perfil de Producto</strong><br/>Fortalezas</td>
-    <td>
-      <ul>
-        <li><strong>Integración Profunda:</strong> Totalmente integrado con GitHub.</li>
-        <li><strong>Personalización:</strong> Permite flujos personalizados con acciones reutilizables.</li>
-        <li><strong>Comunidad y Ecosistema:</strong> Amplia comunidad y acciones disponibles.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><strong>Flexibilidad:</strong> Altamente personalizable con una gran variedad de plugins.</li>
-        <li><strong>Escalabilidad:</strong> Administra proyectos grandes y complejos.</li>
-        <li><strong>Gran Comunidad:</strong> Amplio soporte activo.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><strong>Integración Completa:</strong> Integrado en todo el ecosistema GitLab.</li>
-        <li><strong>Automatización Extensa:</strong> CI/CD, Issues, Repos, Monitorización y más.</li>
-        <li><strong>Registros y Reportes:</strong> Visibilidad completa y herramientas de análisis.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Desventajas</strong></td>
-    <td>
-      <ul>
-        <li><strong>Curva de Aprendizaje:</strong> Configurar flujos personalizados puede ser complejo.</li>
-        <li><strong>Límites de uso:</strong> Recursos limitados en planes gratuitos.</li>
-        <li><strong>Almacenamiento y ejecución:</strong> Restricciones para usuarios gratuitos.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><strong>Configuración compleja:</strong> Requiere conocimiento técnico para configurar y mantener.</li>
-        <li><strong>Escalado Manual:</strong> La administración puede volverse compleja con el crecimiento.</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><strong>Requerimientos de Infraestructura:</strong> Puede necesitar runners propios.</li>
-        <li><strong>Complejidad:</strong> Algunas configuraciones requieren más tiempo y planificación.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-### 7.3.2. Production Deployment Pipeline Components.
-
-Este apartado describe la configuración y ejecución del pipeline de despliegue a producción del proyecto **AidManager-General-BackEnd** utilizando GitHub Actions y Railway.
-
-### Configuración del Workflow
-
-El workflow `deploy-to-production.yml` se activa automáticamente cuando se hace `push` a la rama `testing`, permitiendo automatizar las etapas de build, test y despliegue del proyecto.
-
-```yaml
-name: AidManager CI/CD Pipeline
-
-on:
-  push:
-    branches: [testing]  # Rama de despliegue
-
-jobs:
-  build-test-deploy:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v3
-
-      - uses: actions/setup-dotnet@v3
-        with:
-          dotnet-version: '8.0.x'
-
-      - run: dotnet restore AidManager-BackEnd.sln
-
-      - run: dotnet build AidManager-BackEnd.sln --configuration Release --no-restore
-
-      - run: dotnet test AidManager-BackEnd.sln --configuration Release --no-build
-
-      - run: npm install -g @railway/cli
-
-      - run: railway login --token ${{ secrets.RAILWAY_TOKEN }}
-
-      - run: railway up --production
-```
-
-### Éxito en ejecución del pipeline:
-![Pipeline Success](../assets/deploy1.png)
-## 7.4. Continuous Monitoring
-
-Esta sección describe las herramientas, prácticas y componentes implementados para garantizar una estrategia efectiva de monitoreo continuo, enfocada en asegurar la disponibilidad del sistema, detectar fallas de forma proactiva y mejorar la confiabilidad general del servicio.
-
-### 7.4.1. Tools and Practices
-
-Se utilizaron diversas herramientas orientadas a monitoreo de aplicaciones distribuidas:
-
-- **Prometheus:** Para la recolección de métricas del backend y contenedores. <img src="https://miro.medium.com/v2/resize:fit:800/1*XE0ObomSZ6cwRHKNZ751Vg.png" alt="Prometheus"/>
-- **Grafana:** Visualización de métricas clave mediante dashboards personalizables. <img src="https://images.icon-icons.com/2699/PNG/512/grafana_logo_icon_171049.png" alt="Grafana"/>
-- **Elastic Stack (Elasticsearch, Logstash, Kibana):** Gestión centralizada de logs para facilitar auditorías, trazabilidad y diagnóstico. <img src="https://www.dariawan.com/media/images/tech-elastic-stack.width-400.png" alt="Elastic Stack"/>
-- **Firebase Crashlytics:** Diagnóstico de errores en tiempo real en la aplicación móvil. <img src="https://i.ibb.co/21P5WbHf/1-u-Jfn7k-Aw-O6d-Q2z-Paca8-MKA-removebg-preview.png" alt="Firebase Crashlytics"/>
-- **StatusCake:** Verificación continua de disponibilidad en endpoints críticos. <img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/177420/horizontal-logo-blackberry-text.png" alt="Statuscake"/>
-
-Prácticas clave aplicadas:
-
-- **Establecimiento de líneas base:** Se definieron indicadores de referencia de uso de CPU, memoria y latencia por servicio.
-- **Monitoreo de métricas clave:** Incluye uso de recursos, tiempos de respuesta, tasa de errores HTTP, disponibilidad y actividad por módulo.
-- **Monitoreo sintético:** Simulación de peticiones a rutas específicas como `/health` para asegurar disponibilidad continua.
-- **Registro centralizado:** Logs del backend, frontend y base de datos son recolectados y almacenados en Elasticsearch mediante Filebeat.
-- **Cheques de salud automatizados:** Incluidos en el pipeline de despliegue, ejecutados antes de habilitar cada servicio.
-
-### 7.4.2. Monitoring Pipeline Components
-
-El pipeline de monitoreo está compuesto por múltiples módulos para recolectar, almacenar y analizar datos operativos.
-
-**Agentes de recolección de datos:**
-- **Node Exporter:** Métricas del sistema operativo en servidores Linux.
-- **cAdvisor:** Métricas de uso de contenedores.
-- **Filebeat:** Recolección de logs desde múltiples fuentes.
-
-**Agregación y almacenamiento:**
-- **Prometheus Server:** Almacenamiento de métricas de series temporales.
-- **Elasticsearch:** Indexación de logs para búsqueda eficiente.
-- **InfluxDB:** Base de datos de métricas con alta frecuencia de escritura.
-
-**Procesamiento y análisis:**
-- **Logstash:** Transformación de logs antes de enviarlos a Elasticsearch.
-- **Kibana:** Interfaz para visualización y exploración de registros.
-- **Grafana:** Dashboards para monitoreo en tiempo real.
-- **Alertmanager:** Encargado de gestionar alertas generadas desde Prometheus.
-  
-### 7.4.3. Alerting Pipeline Components
-
-**Generación de alertas:**
-- **Reglas en Prometheus:** Condiciones configuradas para métricas como uso de CPU elevado, errores HTTP 5xx, y caídas en servicios críticos.
-- **StatusCake:** Alertas cuando la API o servicios clave no están disponibles.
-
-**Gestión de alertas:**
-- **Alertmanager:** Agrupación y envío de alertas a través de múltiples canales.
-- **OpsGenie:** Enrutamiento automatizado hacia el equipo responsable según nivel de severidad.
-
-**Integración y escalación:**
-- **PagerDuty:** Escalación programada para incidentes fuera del horario laboral.
-- **Slack:** Canal específico para alertas técnicas y colaboración en incidentes.
-  
-### 7.4.4. Notification Pipeline Components
-
-**Configuración de notificaciones:**
-- **Alertmanager:** Define receptores y reglas de enrutamiento por tipo de alerta.
-- **Webhooks:** Integración con sistemas externos y dashboards de operación.
-
-**Canales de notificación:**
-- **Correo electrónico:** Notificaciones automáticas de errores críticos y fallas de disponibilidad.
-- **SMS (Twilio):** Para notificaciones de incidentes urgentes al equipo de soporte.
-
-**Aplicaciones de mensajería:**
-- **Slack:** Alertas en tiempo real para el equipo de desarrollo y operaciones.
-- **Microsoft Teams:** Integración para notificaciones al equipo de gestión y análisis.
-
-**Paneles de control:**
-- **Grafana:** Visualización del estado de los servicios, métricas clave y alertas.
-- **Kibana:** Exploración de eventos, errores y logs históricos en múltiples entornos.
-
-# Capítulo VIII: Experiment-Driven Development
-## 8.1. Experiment Planning
-### 8.1.1. As-Is Summary
-
-Actualmente, las ONG en Perú enfrentan una serie de desafíos relacionados con la gestión de sus proyectos, recursos humanos y fondos financieros. A pesar de contar con personal comprometido y voluntad de generar impacto, la mayoría de estas organizaciones no dispone de herramientas adecuadas para optimizar su operativa interna.
-
----
-
-#### Herramientas utilizadas actualmente
-
-- **Microsoft Excel:** Es la herramienta más utilizada para llevar registros financieros y planificar tareas, aunque presenta limitaciones para colaboración y seguimiento en tiempo real.
-- **WhatsApp / Correo electrónico:** Utilizados como medios principales de comunicación entre gestores y equipos, lo cual genera dispersión, falta de trazabilidad y pérdida de información.
-- **Reuniones presenciales o por videollamada:** Son el medio más formal para coordinar acciones, pero requieren tiempo, logística y disponibilidad simultánea.
-
----
-
-#### Problemas identificados
-
-- Fragmentación en la gestión de información.
-- Dificultad para realizar seguimiento de tareas asignadas.
-- Poca claridad en roles, metas y avance de proyectos.
-- Limitado uso de datos para evaluar impacto y tomar decisiones.
-- Comunicación ineficiente y poco estructurada entre los miembros del equipo.
-
----
-
-#### Necesidad de mejora
-
-Existe una oportunidad significativa para implementar una solución **todo-en-uno** que integre planificación, comunicación, análisis financiero y gestión de tareas, en un entorno centralizado y accesible. Esto permitiría mejorar la eficiencia operativa, reducir errores de coordinación y facilitar la transparencia del impacto social generado por cada ONG.
-
----
-
-### 8.1.2. Raw Material: Assumptions, Knowledge Gaps, Ideas, Claims
-
-En esta sección se listan los insumos en bruto que alimentan el diseño de nuestros experimentos. Se clasifican en cuatro categorías: **supuestos (assumptions)**, **lagunas de conocimiento (knowledge gaps)**, **ideas** y **afirmaciones (claims)** que influencian la estrategia de validación.
-
----
-
-####  Assumptions
-
-- Las ONG desean digitalizar su gestión pero no cuentan con herramientas accesibles ni adaptadas a su contexto.
-- Los gestores de proyectos tienen disposición para adoptar nuevas tecnologías si estas no requieren capacitación extensa.
-- Los voluntarios y ayudantes valoran la claridad en tareas y comunicación directa con el gestor.
-- La falta de adopción tecnológica se debe más a desconocimiento que a resistencia al cambio.
-- La gestión financiera es un punto crítico que influye directamente en la sostenibilidad de los proyectos sociales.
-
----
-
-#### Knowledge Gaps
-
-- ¿Cuáles son las principales razones por las que las ONG no usan soluciones existentes como Trello o Jira?
-- ¿Qué funcionalidades consideran imprescindibles los gestores al momento de organizar sus proyectos?
-- ¿Qué tan dispuestos están los usuarios a pagar por una plataforma de gestión si actualmente usan medios gratuitos como Excel o WhatsApp?
-- ¿Qué porcentaje del tiempo se pierde actualmente en tareas de coordinación que podrían automatizarse?
-- ¿Qué nivel de digitalización tienen las ONGs fuera de Lima y cómo afecta esto la viabilidad del producto?
-
----
-
-#### Ideas
-
-- Incluir un onboarding simplificado con tutorial interactivo para nuevos usuarios.
-- Implementar recordatorios automáticos para tareas pendientes vía notificación push.
-- Usar un sistema de tags para clasificar proyectos por tipo, zona de impacto o prioridad.
-- Diseñar dashboards visuales que faciliten el seguimiento del impacto social por proyecto.
-- Ofrecer un modo offline que sincronice datos al recuperar conexión, útil para zonas rurales.
-
----
-
-#### Claims 
-
-- “Las ONG peruanas tienen necesidades tecnológicas específicas que no están siendo atendidas por plataformas genéricas.”  
-- “Una solución ágil y adaptada a las ONG puede mejorar sustancialmente la eficiencia operativa.”  
-- “La adopción de tecnología en el tercer sector está limitada por la falta de productos asequibles y adecuados, no por falta de interés.”  
-- “La mejora en la gestión interna tiene un efecto directo en el impacto social de los proyectos.”  
-- “La comunicación fluida entre gestores y ayudantes puede reducir errores y tiempos muertos en la ejecución de actividades.”
-
----
-### 8.1.3. Experiment-Ready Questions
-
-Esta sección presenta un conjunto de **preguntas listas para experimentar**, diseñadas para validar las hipótesis clave planteadas previamente. Cada pregunta busca descubrir información crítica sobre el comportamiento, las necesidades y la aceptación del usuario hacia la solución propuesta.
-
----
-
-#### Validación del producto y su utilidad
-
-- ¿Los gestores de ONG consideran que una plataforma especializada puede reemplazar sus métodos actuales como Excel o WhatsApp?
-- ¿Qué funcionalidades consideran imprescindibles para organizar sus proyectos de forma efectiva?
-- ¿Los ayudantes entienden fácilmente las tareas asignadas dentro de la plataforma?
-- ¿La plataforma permite una comunicación más eficiente que los medios actuales?
-
----
-
-#### Validación del modelo de negocio
-
-- ¿Están dispuestos los gestores a pagar por una suscripción mensual/anual por una herramienta que centraliza tareas, finanzas y comunicación?
-- ¿El precio por cuenta adicional representa una barrera significativa para organizaciones en crecimiento?
-- ¿Qué tipo de planes o esquemas de pago serían más atractivos para organizaciones con presupuestos limitados?
-
----
-
-#### Validación de impacto y retención
-
-- ¿Qué tan seguido ingresan los usuarios a la plataforma para monitorear tareas o revisar presupuestos?
-- ¿Los usuarios continuarían usando la plataforma después del primer mes?
-- ¿Los usuarios perciben una mejora tangible en la organización de sus proyectos sociales?
-
----
-
-#### Validación de atracción y recomendación
-
-- ¿Los usuarios recomendarían esta herramienta a otras ONG?
-- ¿Qué elementos de la landing page captan más la atención del visitante?
-- ¿Qué canal de comunicación (redes, email, referidos) genera más registros?
-
----
-
-Estas preguntas permitirán diseñar experimentos enfocados, como pruebas de usabilidad, entrevistas, encuestas y análisis de métricas, que servirán para evaluar el nivel de aceptación del producto, la utilidad real de sus funciones y la viabilidad del modelo de negocio.
-
----
-
-
-### 8.1.4. Question Backlog
-
-- ¿Cuánto tiempo de gestión y seguimiento de tareas se ahorrará con el uso de AidManager en comparación con métodos tradicionales como Excel o WhatsApp?
-- ¿Cómo influirá el uso de un sistema de comunicación interno en la rapidez y eficacia de la coordinación entre gestores y ayudantes?
-- ¿Qué impacto tendrá la visualización en tiempo real del avance de proyectos en la toma de decisiones de los gestores?
-- ¿La herramienta de gestión financiera permitirá detectar desviaciones presupuestarias de manera más rápida que los métodos actuales?
-- ¿Qué porcentaje de organizaciones estaría dispuesto a pagar por un plan mejorado después de probar el sistema por tres meses?
-- ¿La inclusión de dashboards visuales incrementará el uso semanal de la aplicación por parte de los gestores?
-- ¿Qué funcionalidades son percibidas como imprescindibles por los ayudantes de proyectos en campo?
-- ¿Cuánto mejora la satisfacción del usuario al contar con una única plataforma para comunicación, gestión y seguimiento?
-
-### 8.1.5. Experiment Cards
-
-## Experiment Card 1: Implementación de Gráficos Analíticos para el Desempeño del Proyecto
-
-### **Question**
-¿La implementación de gráficos analíticos en AidManager mejora la toma de decisiones y la visibilidad del desempeño del proyecto?
-
-### **Why (¿Por qué es importante para el negocio?)**
-Los gráficos analíticos proporcionan a los usuarios una forma visual y clara de evaluar el progreso y desempeño de sus proyectos. Esto puede ayudar a los gestores a identificar rápidamente áreas de mejora y tomar decisiones informadas para optimizar los plazos y resultados.
-
-### **What (¿Cuál es la manera más fácil de validarlo?)**
-Desarrollar gráficos analíticos que muestren métricas clave del proyecto, como el progreso general, las tareas completadas y los retrasos. Realizar un análisis A/B entre un grupo de usuarios con acceso a estos gráficos y un grupo de control sin ellos, midiendo el impacto en la eficiencia de la gestión de proyectos.
-
-### **Hypothesis**
-Los usuarios que tienen acceso a gráficos analíticos mejorarán su capacidad de gestionar proyectos y tomar decisiones, aumentando la eficiencia del proyecto en un 15%.
-
-### **Métricas**
-- Tasa de toma de decisiones informadas (medida por la cantidad de cambios realizados basados en la información de los gráficos)
-- Tiempo promedio para completar proyectos
-- Nivel de satisfacción del usuario con los gráficos analíticos
-
-### **Metas**
-- Incrementar la eficiencia de la gestión de proyectos en un 15%.
-- Aumentar el uso de los gráficos analíticos en un 20%.
-  
-### **Análisis Previo**
-Sin herramientas visuales para el análisis del desempeño, los usuarios se han basado principalmente en informes textuales, lo que podría dificultar la rápida identificación de áreas críticas dentro de los proyectos.
-
----
-
-## Experiment Card 2: Gestión de Tareas con Estado "Todo", "In Process" y "Done"
-
-### **Question**
-¿El uso de un gestor de tareas con estados "Todo", "In Process" y "Done" mejora la organización y el seguimiento de tareas en AidManager?
-
-### **Why (¿Por qué es importante para el negocio?)**
-Un sistema visual y claro de gestión de tareas, donde los usuarios puedan ver el estado de cada tarea, facilita el seguimiento del progreso y mejora la organización dentro de los equipos. Esto podría mejorar la eficiencia operativa y la entrega de proyectos a tiempo.
-
-### **What (¿Cuál es la manera más fácil de validarlo?)**
-Implementar un sistema de gestión de tareas en tres estados: "Todo", "In Process" y "Done". Realizar un test A/B entre un grupo que utiliza este sistema y un grupo de control sin el sistema, para evaluar cómo afecta a la productividad y al cumplimiento de plazos.
-
-### **Hypothesis**
-Los usuarios que utilizan el sistema de gestión de tareas con los estados definidos aumentarán la eficiencia de la gestión de proyectos en un 20%.
-
-### **Métricas**
-- Número de tareas completadas dentro del tiempo asignado
-- Tiempo promedio de transición entre estados
-- Nivel de satisfacción de los usuarios con el sistema de gestión de tareas
-
-### **Metas**
-- Aumentar la tasa de tareas completadas dentro del tiempo en un 25%.
-- Reducir el tiempo promedio de transición entre estados en un 15%.
-
-### **Análisis Previo**
-Los usuarios han experimentado dificultades para visualizar el progreso de las tareas y a menudo pierden de vista el estado actual de cada tarea dentro del proyecto.
-
----
-
-## Experiment Card 3: Impacto de la Mejora de la Visibilidad de Tareas Pendientes en la Productividad
-
-### **Question**
-¿La mejora en la visibilidad de las tareas pendientes mediante el sistema de "Todo", "In Process" y "Done" incrementa la productividad general del equipo?
-
-### **Why (¿Por qué es importante para el negocio?)**
-Un sistema claro para visualizar las tareas pendientes puede ayudar a los usuarios a enfocarse en lo que es importante en cada momento, aumentando su productividad y reduciendo el tiempo perdido en la gestión de tareas.
-
-### **What (¿Cuál es la manera más fácil de validarlo?)**
-Implementar el sistema de gestión de tareas con los tres estados mencionados y medir la eficiencia del equipo en términos de tiempo de entrega y número de tareas completadas antes de la fecha límite.
-
-### **Hypothesis**
-Mejorar la visibilidad de las tareas pendientes mediante la implementación de un sistema organizado de "Todo", "In Process" y "Done" incrementará la productividad del equipo en un 30%.
-
-### **Métricas**
-- Número de tareas completadas dentro del tiempo límite
-- Tiempo promedio de finalización de tareas
-- Nivel de satisfacción del usuario con la visibilidad de las tareas pendientes
-
-### **Metas**
-- Incrementar la productividad del equipo en un 30%.
-- Reducir el tiempo de finalización de tareas en un 20%.
-
-### **Análisis Previo**
-Los equipos han reportado dificultades para gestionar las tareas debido a la falta de un sistema claro de priorización y seguimiento. Las tareas pendientes no siempre son visibles o bien gestionadas, lo que causa retrasos en el proyecto.
-
-
-## 8.2. Experiment Design
-
-### 8.2.1. Hypotheses
-
-A continuación, se presentan las principales hipótesis del proyecto AidManager, siguiendo la estructura de Lean UX. Cada hipótesis responde a una necesidad concreta detectada en los usuarios y se puede validar mediante pruebas reales con el MVP y entrevistas.
-
----
-
-| **Hipótesis**                                                                                                   | **Cómo lo validaremos**                                                                 |
-|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| Creemos que al ofrecer una **interfaz sencilla para asignar tareas**, los gestores podrán trabajar más rápido. | Observaremos un aumento del **20% en la creación de tareas** durante las primeras semanas. |
-| Creemos que al implementar un **módulo financiero claro**, los gestores podrán planificar mejor sus recursos.  | El **uso del módulo financiero** alcanzará al menos un **50% de adopción** entre proyectos activos. |
-| Creemos que una **comunicación integrada** mejorará la coordinación equipo-gestor.                             | Se observará un **incremento del 20% en la frecuencia de mensajes** enviados dentro del sistema. |
-| Creemos que una **plataforma orientada a ONGs peruanas** generará mayor adopción que herramientas genéricas.   | Al menos un **60% de los entrevistados** preferirá nuestra solución sobre herramientas existentes. |
-| Creemos que una **versión premium con más cuentas** atraerá a ONGs en expansión.                               | Un **10% de usuarios** migrará al plan premium en los primeros seis meses. |
-| Creemos que una **landing page informativa** generará interés inicial suficiente para validar demanda.         | Mediremos una tasa de conversión de **al menos 10%** de visitantes a registros en lista de espera. |
-
----
-
-Cada una de estas hipótesis se vincula directamente con funcionalidades clave del MVP y será contrastada con datos reales a través de pruebas controladas, entrevistas y análisis de comportamiento de los usuarios.
-
---
-
-### 8.2.2. Measures
-
-En esta sección se definen las **medidas clave** que permitirán evaluar el éxito o fracaso de los experimentos. Estas métricas se alinean con los resultados esperados del usuario y del negocio, permitiendo validar o refutar las hipótesis formuladas.
-
----
-
-#### Métricas cuantitativas
-
-| Métrica                                 | Descripción                                                                                 | Objetivo esperado           |
-|-----------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------|
-| **Tasa de activación**                  | Porcentaje de usuarios que completan el registro y configuran su primer proyecto           | ≥ 45% de usuarios nuevos    |
-| **Retención mensual**                   | Porcentaje de usuarios activos que retornan a la plataforma al siguiente mes               | ≥ 60%                       |
-| **Tasa de tareas completadas**          | Porcentaje de tareas asignadas que son marcadas como completadas por los ayudantes         | ≥ 80% de cumplimiento       |
-| **Uso del módulo financiero**           | Número de veces que los usuarios acceden al módulo de análisis financiero                  | ≥ 50 sesiones por semana    |
-| **Frecuencia de uso de la mensajería**  | Cantidad de mensajes enviados entre gestores y ayudantes en la plataforma                  | ≥ 20 mensajes por proyecto  |
-| **Tasa de mejora de plan**              | Porcentaje de usuarios que cambian a un plan premium por necesidad de más cuentas          | ≥ 10% de los usuarios activos |
-| **Tasa de referencia**                  | Porcentaje de usuarios que recomiendan la plataforma a otras ONG                           | ≥ 5%                        |
-
----
-
-#### Métricas cualitativas
-
-- **Satisfacción del usuario (NPS)**: Recogida mediante encuestas post-uso sobre la utilidad del sistema.
-- **Feedback abierto en entrevistas de validación**: Comentarios sobre facilidad de uso, velocidad, claridad y percepción de impacto.
-- **Percepción de impacto social**: Evaluaciones sobre si la plataforma ayudó a mejorar la ejecución del proyecto social.
-
----
-
-#### Indicadores de validación mínima
-
-- Si el **NPS** es mayor a **+30**, se considera validado el enfoque de experiencia de usuario.
-- Si al menos el **60% de los gestores** indican que prefieren la solución frente a sus métodos actuales (Excel/WhatsApp), se valida la propuesta de valor.
-- Si el uso del módulo de tareas supera el **70%** de los proyectos registrados, se valida la funcionalidad central.
-
----
-
-### 8.2.3. Conditions
-
-## **Experimental Condition:**
-
-### **Pregunta de investigación**
-¿El sistema de gráficos analíticos mejora la visibilidad del desempeño del proyecto y ayuda en la toma de decisiones?
-
-### **Hipótesis**
-Los usuarios que tienen acceso a los gráficos analíticos mejorarán su capacidad para gestionar proyectos, aumentando la eficiencia en la toma de decisiones y la finalización de tareas.
-
-### **Condición experimental**
-Los usuarios que participen en el grupo experimental tendrán acceso a gráficos analíticos que muestren el progreso del proyecto, como el porcentaje de tareas completadas, los plazos cumplidos y los retrasos. El objetivo es medir cómo el acceso a estos gráficos mejora la productividad de los proyectos y la toma de decisiones informadas.
-
----
-
-### **Control Condition:**
-
-### **Pregunta de investigación**
-¿El sistema de gestión de tareas con estados "Todo", "In Process" y "Done" mejora la eficiencia y organización de los proyectos?
-
-### **Hipótesis**
-Los usuarios que utilicen el sistema de gestión de tareas con los estados definidos ("Todo", "In Process", "Done") aumentarán la eficiencia de los proyectos gestionados.
-
-### **Condición control**
-Los usuarios en el grupo de control seguirán utilizando el sistema tradicional de gestión de tareas sin una visualización clara de los estados de las tareas. No tendrán acceso a los gráficos analíticos ni a las mejoras de organización que permite la gestión de tareas con estados definidos.
-
-### 8.2.4. Scale Calculations and Decisions
-
-Esta sección define los criterios y decisiones a tomar en función de los resultados obtenidos durante los experimentos, tanto para el sistema de **gráficos analíticos** como para la **gestión de tareas con estados definidos**.
-
-| **Condición**                  | **Resultado Esperado**                                                                                                                                     | **Decisión**                                                                                  |
-|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| Validación total            | - Los usuarios del grupo experimental usan los gráficos de forma recurrente.<br> - Aumenta el porcentaje de tareas completadas y decisiones efectivas.   | Escalar los **gráficos analíticos** a todos los usuarios y convertirlo en funcionalidad principal. |
-| Validación del tablero Kanban | - Los usuarios del grupo de control muestran mejoras claras con la visualización "Todo", "In Process", "Done".                                            | Incorporar el **sistema de estados de tareas** como parte central de la UX del módulo de tareas. |
-| Validación parcial          | - Solo se cumple una de las dos métricas clave (por ejemplo, mayor visibilidad pero sin aumento en tareas finalizadas).                                   | Iterar sobre la funcionalidad (por ejemplo, simplificar gráficos o mejorar onboarding del sistema de tareas). |
-| Resultado inconcluso        | - El uso fue bajo, o los resultados muestran mucha variabilidad según el tipo de usuario u ONG.                                                             | Ajustar la segmentación de usuarios o rediseñar los dashboards/estados según tipo de proyecto. |
-| Invalidación                | - No hay diferencia significativa entre grupo control y experimental.<br> - El sistema añade complejidad sin mejoras en productividad.                     | Descartar la funcionalidad en su forma actual y considerar otras soluciones (como alertas automatizadas o dashboards simplificados). |
-
----
-
-#### ✔ Reglas de decisión para escalar (thresholds)
-
-- **Gráficos analíticos se escalarán** si el 60% de los usuarios activos en el experimento reportan mejoras en toma de decisiones **y** hay un aumento de al menos **20% en finalización de tareas**.
-- **Sistema de estados de tareas se escalará** si el 70% de los proyectos experimentales registran **una disminución del tiempo promedio por tarea** o un incremento en tareas "Done".
-- Se considerará **validación parcial** si solo se cumple uno de los dos indicadores clave en cada funcionalidad.
-- Si **ninguno de los objetivos mínimos se cumple**, se considera **invalidado** y se propone rediseño o descarte.
-
----
-
-### 8.2.5. Methods Selection
-
-Para analizar los datos y validar las hipótesis de nuestro producto AidManager, evaluamos tres herramientas ampliamente utilizadas en el mercado: **Google Analytics**, **Matomo** y **Plausible Analytics**. Esta evaluación se basó en criterios relevantes como: precio, privacidad, facilidad de integración, nivel de personalización, escalabilidad y enfoque hacia organizaciones sin fines de lucro.
-
-<table border="1" style="border-collapse: collapse; width: 100%; text-align: center;">
-  <thead>
-    <tr>
-      <th>Característica</th>
-      <th>Google Analytics</th>
-      <th>Matomo</th>
-      <th>Plausible Analytics</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Precio</td>
-      <td>Gratis (GA4) / Premium (GA360)</td>
-      <td>Gratis (self-hosted) / Premium (cloud-hosted)</td>
-      <td>Pago mensual (modelo transparente, open source)</td>
-    </tr>
-    <tr>
-      <td>Privacidad de datos</td>
-      <td>Datos almacenados en servidores de Google</td>
-      <td>Alto control de privacidad, self-hosted</td>
-      <td>Sin cookies, cumple con GDPR, datos anónimos</td>
-    </tr>
-    <tr>
-      <td>Facilidad de implementación</td>
-      <td>Alta, especialmente en ecosistema Google</td>
-      <td>Alta (self-hosted), media (cloud)</td>
-      <td>Muy alta, se integra con una línea de código</td>
-    </tr>
-    <tr>
-      <td>Nivel de personalización</td>
-      <td>Avanzado, requiere curva de aprendizaje</td>
-      <td>Muy alto, informes personalizables</td>
-      <td>Básico pero efectivo</td>
-    </tr>
-    <tr>
-      <td>Integraciones</td>
-      <td>Amplia (Google Ads, Firebase, etc.)</td>
-      <td>CMS, e-commerce, CRMs</td>
-      <td>Compatible con CMS modernos</td>
-    </tr>
-    <tr>
-      <td>Visualización de datos</td>
-      <td>Dashboards avanzados, informes completos</td>
-      <td>Dashboards editables, exportación a Excel</td>
-      <td>Gráficos simples y fáciles de entender</td>
-    </tr>
-    <tr>
-      <td>Soporte y comunidad</td>
-      <td>Documentación extensa, comunidad activa</td>
-      <td>Comunidad fuerte, soporte en versión de pago</td>
-      <td>Comunidad activa, documentación clara</td>
-    </tr>
-    <tr>
-      <td>Escalabilidad</td>
-      <td>Alta, recomendada para grandes volúmenes</td>
-      <td>Alta en ambientes auto-gestionados</td>
-      <td>Ideal para startups y ONGs pequeñas</td>
-    </tr>
-    <tr>
-      <td>Actualizaciones</td>
-      <td>Constantes</td>
-      <td>Comunidad activa, mejoras frecuentes</td>
-      <td>Constantes, con foco en rendimiento y privacidad</td>
-    </tr>
-  </tbody>
-</table>
-
-**Elección final:**  
-Seleccionamos **Google Analytics 4** por su integración nativa con herramientas de seguimiento web, métricas de usuario, y por ser ampliamente adoptado y documentado. Asimismo, su plan gratuito es funcional para ONGs en crecimiento y nos permite configurar eventos clave sin costo adicional.
-
-### 8.2.6. Data Analytics: Goals, KPIs and Metrics Selection
-
-A continuación, se describen los **objetivos**, **KPIs** y **métricas** que utilizaremos para evaluar el desempeño del producto AidManager, en relación con nuestros experimentos y validaciones.
-
-1. **Tasa de activación de gestores**
-   - **Descripción:** Porcentaje de usuarios gestores que completan el registro de su ONG y configuran al menos un proyecto.
-   - **Meta:** Alcanzar una tasa del 40% durante los primeros dos meses tras el lanzamiento.
-
-2. **Tasa de asignación de tareas**
-   - **Descripción:** Porcentaje de proyectos en los que se han asignado tareas a al menos un miembro del equipo.
-   - **Meta:** Lograr que el 60% de los gestores activos utilicen el módulo de asignación en el primer mes.
-
-3. **Frecuencia de uso del módulo de comunicación**
-   - **Descripción:** Número de veces que se utiliza el chat interno o se envían mensajes entre gestores y miembros del equipo.
-   - **Meta:** Promediar al menos 2 interacciones por usuario activo semanalmente.
-
-4. **Tasa de tareas completadas a tiempo**
-   - **Descripción:** Porcentaje de tareas marcadas como completadas antes o en la fecha límite establecida.
-   - **Meta:** Superar el 70% de cumplimiento puntual al tercer mes.
-
-5. **Uso del módulo financiero**
-   - **Descripción:** Porcentaje de usuarios gestores que ingresan presupuestos y gastos en el sistema.
-   - **Meta:** Lograr que el 50% de los gestores activen y utilicen el módulo financiero dentro de los primeros 45 días.
-
-6. **Tiempo promedio en la aplicación**
-   - **Descripción:** Tiempo promedio que un usuario pasa dentro de la aplicación móvil o web en cada sesión.
-   - **Meta:** Aumentar el tiempo medio a más de 7 minutos por sesión luego de 2 meses de uso continuo.
-
-7. **Tasa de upgrade al plan premium**
-   - **Descripción:** Porcentaje de organizaciones que migran a un plan con mayor capacidad de usuarios.
-   - **Meta:** Alcanzar un 10% de upgrade en los primeros 6 meses.
-
-Estas métricas nos permitirán analizar con precisión el comportamiento de los usuarios y validar si nuestro producto logra resolver los problemas identificados en la etapa de needfinding.
-
-### 8.2.7. Web and Mobile Tracking Plan
-
-Con el objetivo de evaluar en tiempo real el comportamiento de los usuarios en la plataforma **AidManager**, se implementará un plan de seguimiento integral tanto para la versión web como para la aplicación móvil. Este plan permitirá recolectar datos clave para validar hipótesis, medir la efectividad del diseño de UX y analizar el impacto funcional del producto en contextos reales de uso.
-
----
-
-#### Herramienta de Tracking Seleccionada
-
-La herramienta elegida para el seguimiento es **Google Analytics 4 (GA4)**, por su capacidad multiplataforma, soporte de eventos personalizados, y su integración sencilla con Firebase para la app móvil.
-
-Además, se utilizará **Google Tag Manager (GTM)** para facilitar la gestión de eventos sin necesidad de intervención directa en el código.
-
----
-
-#### Eventos y Acciones a Rastrear
-
-| **Categoría**                | **Evento de Tracking**         | **Propósito**                                                              |
-|-----------------------------|-------------------------------|---------------------------------------------------------------------------|
-| Onboarding                  | `onboarding_completed`        | Medir tasa de activación de nuevos usuarios                               |
-| Registro de ONG             | `org_created`                 | Validar si los usuarios configuran correctamente su primera organización  |
-| Creación de proyecto        | `project_created`             | Confirmar el inicio de actividad en la plataforma                         |
-| Asignación de tareas        | `task_assigned`               | Rastrear adopción del módulo de tareas                                    |
-| Cambio de estado de tarea   | `task_status_updated`         | Medir uso del sistema "Todo/In Progress/Done"                             |
-| Envío de mensajes           | `message_sent`                | Analizar uso del canal de comunicación interno                            |
-| Acceso al módulo financiero | `financial_module_opened`     | Validar uso de herramientas de planificación financiera                   |
-| Registro de gasto           | `expense_registered`          | Medir profundidad del uso del módulo financiero                           |
-| Visualización de gráficos   | `analytics_viewed`            | Rastrear el interés por los dashboards de análisis de desempeño           |
-| Tiempo en pantalla          | `session_duration`            | Obtener promedio de interacción por sesión                                |
-| Upgrade de plan             | `plan_upgraded`               | Medir conversión al plan premium                                          |
-| Referencia                  | `referral_invited`            | Evaluar el crecimiento por recomendaciones                                |
-
----
-
-#### Segmentación
-
-Los datos serán segmentados por:
-
-- Tipo de usuario: **Manager**, **TeamMember**, 
-- Plataforma: **Web** y **Mobile**
-- Región geográfica: Lima, provincias, zonas rurales
-- Tipo de proyecto: educación, salud, medioambiente, etc.
-- Frecuencia de uso: usuarios recurrentes vs. nuevos
-
----
-
-#### Objetivo del Tracking
-
-- Validar hipótesis clave mediante comportamiento real
-- Optimizar los flujos de usuario (UX) a partir de los embudos de conversión
-- Identificar puntos de abandono o fricción
-- Detectar funcionalidades subutilizadas que requieran mejoras o rediseño
-- Medir la eficacia del onboarding y del contenido informativo
-
----
-
-#### Consideraciones de Privacidad
-
-- Se implementará el anonimato de IP y eventos conforme al reglamento **GDPR** y **Ley de Protección de Datos Personales en Perú (Ley 29733)**.
-- Se incluirá un consentimiento de cookies y política de privacidad explícita en el sitio y la app.
-- No se capturarán datos sensibles ni identificadores personales sin autorización explícita.
-
-## 8.3. Experimentation
-### 8.3.1. To-Be User Stories
-
-A continuación se detallan las historias de usuario previstas para la plataforma **AidManager**, orientadas a mejorar la eficiencia operativa de organizaciones sociales mediante la gestión digital de proyectos, tareas, usuarios y métricas de impacto.
-
-| ID         | Actor              | User Story                                                                 | Criterios de Aceptación                                                                                   |
-|------------|--------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| US-AM-01   | Coordinador ONG    | Como coordinador, quiero registrar nuevos proyectos sociales, para gestionarlos desde la plataforma. | - El sistema debe permitir crear proyectos con título, descripción, objetivos, fechas y responsables.<br>- Se debe mostrar mensaje de confirmación tras el registro. |
-| US-AM-02   | Voluntario         | Como voluntario, quiero visualizar los proyectos en los que participo, para conocer mis tareas asignadas. | - El sistema debe mostrar una lista de proyectos relacionados al usuario logueado.<br>- Debe incluir fechas clave y responsables del proyecto. |
-| US-AM-03   | Coordinador ONG    | Como coordinador, quiero asignar tareas específicas a los voluntarios, para asegurar una correcta distribución del trabajo. | - El sistema debe permitir crear tareas y asignarlas a usuarios del proyecto.<br>- Cada tarea debe tener estado, prioridad y fecha límite. |
-| US-AM-04   | Voluntario         | Como voluntario, quiero registrar el progreso de mis tareas, para mantener al equipo informado. | - El sistema debe permitir actualizar el estado de una tarea.<br>- Se debe guardar un historial de cambios por tarea. |
-| US-AM-05   | Coordinador ONG    | Como coordinador, quiero visualizar un dashboard con el avance de cada proyecto, para tomar decisiones informadas. | - El sistema debe mostrar porcentaje de avance, tareas completadas y pendientes por proyecto.<br>- Debe permitir filtrar por fechas o responsables. |
-| US-AM-06   | Administrador ONG  | Como administrador, quiero gestionar los usuarios de la plataforma, para controlar accesos y roles. | - El sistema debe permitir registrar, editar, eliminar y asignar roles a los usuarios.<br>- Se deben validar roles antes de mostrar funcionalidades. |
-| US-AM-07   | Coordinador ONG    | Como coordinador, quiero enviar notificaciones automáticas a los voluntarios sobre tareas pendientes, para mejorar la eficiencia del equipo. | - El sistema debe enviar recordatorios según fecha límite configurada.<br>- Debe notificarse por correo o dentro de la app. |
-| US-AM-08   | Administrador ONG  | Como administrador, quiero visualizar métricas de impacto social por proyecto, para sustentar reportes institucionales. | - El sistema debe mostrar indicadores como beneficiarios alcanzados, horas voluntarias, etc.<br>- Debe poder exportarse a PDF o Excel. |
-| US-AM-09   | Voluntario         | Como voluntario, quiero recibir notificaciones de nuevas tareas asignadas, para actuar con rapidez. | - El sistema debe generar una notificación inmediata tras la asignación.<br>- Debe incluir un enlace directo a la tarea correspondiente. |
-
-### 8.3.2. To-Be Product Backlog
-
-A continuación se presenta el backlog de producto correspondiente al sistema **AidManager**, basado en las historias de usuario definidas en la sección anterior. Cada ítem está priorizado según su valor funcional y esfuerzo estimado para el desarrollo.
-
-| ID         | Historia de Usuario Relacionada | Épica                   | Característica                                              | Prioridad | Esfuerzo Estimado |
-|------------|----------------------------------|--------------------------|-------------------------------------------------------------|-----------|--------------------|
-| PB-AM-01   | US-AM-01                         | Gestión de Proyectos     | Registro de nuevos proyectos sociales                       | Alta      | 5 puntos           |
-| PB-AM-02   | US-AM-02                         | Visualización Personal   | Listado de proyectos asignados al voluntario                | Alta      | 3 puntos           |
-| PB-AM-03   | US-AM-03                         | Gestión de Tareas        | Asignación de tareas a voluntarios                          | Alta      | 5 puntos           |
-| PB-AM-04   | US-AM-04                         | Seguimiento de Tareas    | Registro y actualización del progreso de tareas             | Alta      | 5 puntos           |
-| PB-AM-05   | US-AM-05                         | Panel de Control         | Dashboard con avance y estado de proyectos                  | Alta      | 8 puntos           |
-| PB-AM-06   | US-AM-06                         | Gestión de Usuarios      | Alta, edición y eliminación de usuarios y asignación de roles | Media     | 5 puntos           |
-| PB-AM-07   | US-AM-07                         | Notificaciones           | Recordatorios automáticos de tareas pendientes              | Media     | 5 puntos           |
-| PB-AM-08   | US-AM-08                         | Reportes e Indicadores   | Métricas de impacto social y exportación                    | Alta      | 8 puntos           |
-| PB-AM-09   | US-AM-09                         | Notificaciones           | Aviso inmediato al voluntario por nueva tarea asignada      | Media     | 3 puntos           |
-
-### 8.3.3. Pipeline-supported, Experiment-Driven To-Be Software Platform Lifecycle
-
-#### 8.3.3.1. To-Be Sprint Backlogs
-
-Durante el Sprint del proyecto **AidManager**, se priorizaron historias de usuario clave que permiten la gestión de proyectos sociales, visualización de asignaciones, y seguimiento del avance de tareas por parte de los voluntarios. El enfoque fue construir una base funcional sólida, cubriendo tanto el backend como el frontend, y garantizando una experiencia de usuario clara y útil para cada actor involucrado.
-
-A continuación, se detalla el Sprint Backlog con las tareas desarrolladas:
-
-
----
-
-| User story                                         | Id  | Title                                  | Description                                                                 | Estimation (Hours) | Assigned To                | Status |
-|---------------------------------------------------|-----|----------------------------------------|-----------------------------------------------------------------------------|---------------------|-----------------------------|--------|
-| US-AM-01 – Registro de nuevos proyectos sociales  | T1  | Backend: Crear endpoint de registro    | Implementar `POST /projects` con validaciones de campos obligatorios       | 5                   | Sebastián Ramírez Hoffmann | Done   |
-|                                                   | T2  | Frontend: Formulario de registro       | UI para registrar proyectos con conexión al backend y validación           | 4                   | Juan Cuadros               | Done   |
-| US-AM-02 – Listado de proyectos asignados         | T3  | Backend: Endpoint de proyectos asignados | Implementar `GET /volunteers/{id}/projects` con datos filtrados         | 3                   | Manuel Peña                | Done   |
-|                                                   | T4  | Frontend: Vista de proyectos asignados | Tabla dinámica con filtros por fecha y estado del proyecto                 | 3                   | Juan Cuadros               | Done   |
-| US-AM-03 – Asignación de tareas a voluntarios     | T5  | Backend: Endpoint de asignación        | Crear `POST /tasks/assign` para asignar tareas con lógica de validación    | 5                   | Nicolás Esteban            | Done   |
-|                                                   | T6  | Frontend: Vista de asignación          | Selector de voluntarios para tareas desde vista de proyecto               | 4                   | Sebastián Ramírez Méndez   | Done   |
-| US-AM-04 – Seguimiento de tareas                  | T7  | Backend: Actualización de tareas       | Endpoint `PATCH /tasks/{id}` para progreso y comentarios                   | 4                   | Manuel Peña                | Done   |
-|                                                   | T8  | Frontend: Vista de seguimiento         | Visualización de progreso con barra de avance y comentarios               | 4                   | Sebastián Ramírez Méndez   | Done   |
-| US-AM-05 – Dashboard con estado de proyectos      | T9  | Backend: KPIs generales                | Crear endpoint de métricas de avance y estados por proyecto               | 5                   | Nicolás Esteban            | Done   |
-|                                                   | T10 | Frontend: Dashboard de estado          | Mostrar gráficas e indicadores clave de los proyectos                      | 5                   | Juan Cuadros               | Done   |
-#### 8.3.3.2. Implemented To-Be Landing Page Evidence
-
-Se evidencian capturas de la implementación de la landing page desplegado en Vercel.
-Se realizaron mejoras de optimización, usando Bundle con Vite y uso de @layer components para crear clases reutilizables
-Link de landing page: https://landing-page-aid-manager-37nb.vercel.app
-
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-landing-page-1.png" alt="Seccion de landing page hero" width="600px">
-</p>
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-landing-page-2.png" alt="Seccion de Que hacemos" width="600px">
-</p>
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-landing-page-3.png" alt="Seccion de beneficios" width="600px">
-</p>
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-landing-page-4.png" alt="Seccion de alianzas" width="600px">
-</p>
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-landing-page-5.png" alt="Seccion de testimonios" width="600px">
-</p>
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-landing-page-derf.png" alt="Seccion de contacto" width="600px">
-</p>
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-landing-page-6.png" alt="Seccion de nekofooter" width="600px">
-</p>
-
-#### 8.3.3.3. Implemented To-Be Frontend-Web Application Evidence
-Se evidencia la aplicación web desplegada y con la implementación de los experiment card que hemos realizado
-link de la aplicación web desplegada: https://aidmanager-experimentos.netlify.app/
-<br>
-
-**Dashboard de Analíticas:** Implementación del experiment card para visualización de métricas del proyecto. Incluye gráficos de progreso, distribución de tareas y presupuestos categorizados para monitoreo integral.
-
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-front-1.jpeg" alt="Dashboard de Analíticas con métricas del proyecto" width="600px">
-</p>
-
-**Gestión con Tablero Kanban:** Validación del experiment card para gestión visual de tareas. Sistema Kanban con columnas To-Do, Doing y Done para coordinación eficiente del equipo.
-
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-front-2.jpeg" alt="Vista detallada del proyecto con gestión de tareas Kanban" width="600px">
-</p>
-
-**Sistema de Calendario:** Implementación del experiment card para gestión temporal centralizada. Calendario interactivo con indicadores visuales y navegación optimizada para planificación de proyectos.
-
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-front-3.jpeg" alt="Sistema de calendario integrado para gestión temporal" width="600px">
-</p>
-
-**Perfil de Usuario:** Validación del experiment card para gestión personalizada de tareas. Vista individual con filtros avanzados que promueve responsabilidad personal del equipo.
-
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-front-4.jpeg" alt="Perfil de usuario y gestión personal de tareas" width="600px">
-</p>
-
-#### 8.3.3.4. Implemented To-Be Native-Mobile Application Evidence
-
-Se evidencia el despliegue de la aplicación móvil Aid Manager versión 1.0.0 a través de Firebase App Distribution. 
-
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-mobile.jpeg" alt="Firebase App Distribution - Aid Manager Mobile v1.0.0" width="600px">
-</p>
-
-#### 8.3.3.5. Implemented To-Be RESTful API and/or Serverless Backend Evidence
-Se evidencia el Swagger desplegado con Render, así como el link de un endpoint que se consume en el frontend.
-Link de Swagger: https://aid-manager-general-backend.onrender.com/swagger/index.html
-
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-backend-render.jpeg" alt="Endpoints de Aidmanager" width="600px">
-</p>
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-backend-derf.jpeg" alt="Endpoints de Aidmanager" width="600px">
-</p>
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-backend-1.png" alt="Endpoints de Aidmanager" width="600px">
-</p>
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-backend-2.png" alt="Endpoints de Aidmanager" width="600px">
-</p>
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-backend-3.png" alt="Endpoints de Aidmanager" width="600px">
-</p>
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-backend-4.png" alt="Endpoints de Aidmanager" width="600px">
-</p>
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-backend-5.png" alt="Endpoints de Aidmanager" width="600px">
-</p>
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-backend-6.png" alt="Endpoints de Aidmanager" width="600px">
-</p>
-<p align="center">
-  <img src="../assets/to-be-implemented/to-be-backend-7.png" alt="Endpoints de Aidmanager" width="600px">
-</p>
-
-#### 8.3.3.6. Team Collaboration Insights
-Se evidencian insights de los repositorios de Github donde se han trabajado las implementaciones.
-Link de organización: https://github.com/orgs/disenio-de-experimentos-4446/repositories
-
-Insights de repositorio de landing page
-Link: https://github.com/disenio-de-experimentos-4446/LandingPage-AidManager
-
-<p align="center">
-  <img src="../assets/insights 8.3/landing.png" alt="Landing page Aidmanager" width="600px">
-</p>
-
-Insights de repositorio de frontend
-Link: https://github.com/disenio-de-experimentos-4446/Aid-Manager-Web-Application
-<p align="center">
-  <img src="../assets/insights 8.3/front.png" alt="Landing page Aidmanager" width="600px">
-</p>
-
-Insights de repositorio de backend
-Link: https://github.com/disenio-de-experimentos-4446/Aid-Manager-General-BackEnd
-
-<p align="center">
-  <img src="../assets/insights 8.3/back.png" alt="Landing page Aidmanager" width="600px">
-</p>
-
-Insights de repositorio de mobile
-Link: https://github.com/disenio-de-experimentos-4446/Aid-Manager-Mobile-App
-<p align="center">
-  <img src="../assets/insights 8.3/mobile.png" alt="Landing page Aidmanager" width="600px">
-</p>
-
-### 8.3.4. To-Be Validation Interviews
-#### 8.3.4.1. Diseño de Entrevistas
-
-##### 1. **Preguntas Generales:**
-   - ¿Cuál es tu nombre completo? 
-   - ¿Qué edad tienes? 
-   - ¿En qué distrito resides actualmente?
-   - ¿Cuál es tu ocupación y cuál es tu rol en la ONG?
-   - ¿Que dispositivos usas?
-
-##### **Preguntas para Gestores de Proyectos**
-   - ¿Qué te parece el diseño de la landing page de AidManager? ¿Es clara y fácil de navegar para gestionar tus proyectos?
-   - ¿La interfaz de la aplicación web te resulta intuitiva al asignar tareas y gestionar proyectos? ¿Te fue fácil encontrar las funciones clave?
-   - ¿La plataforma te permite gestionar las tareas de tu equipo de manera efectiva? ¿Las métricas visualizadas te son útiles para el desempeño del proyecto?
-   - Al marcar tareas como completadas o asignadas, ¿el proceso es fácil y recibes una confirmación visual clara de que se guardó correctamente?
-   - ¿La experiencia en la aplicación móvil es la misma que en la aplicación web? ¿Encuentras que ambas versiones son funcionales para la gestión de tu equipo y proyectos?
-   - ¿Te resulta coherente el diseño entre la aplicación web y móvil? ¿Encontraste alguna dificultad en la interfaz al gestionar múltiples proyectos?
-   - ¿Qué funcionalidad adicional te gustaría ver en la plataforma para mejorar la gestión de tus proyectos o tareas de equipo?
-
----
-
-#### **Preguntas para Voluntarios**
-   - ¿Qué te parece el diseño de la landing page de AidManager? ¿Te resulta clara y fácil de navegar para encontrar tus tareas asignadas?
-   - ¿La interfaz de la aplicación web es fácil de usar? ¿Pudiste encontrar rápidamente las tareas y eventos que te han sido asignados?
-   - ¿Te resultó fácil marcar las tareas como completadas? ¿La acción fue clara y recibiste una confirmación visual de que se guardó correctamente?
-   - ¿La plataforma te permite organizar tus tareas de manera eficiente? ¿Te ayudó a tener una visión clara de qué tareas tienes pendientes y cuáles están en progreso?
-   - ¿La aplicación móvil ofrece la misma experiencia que la aplicación web? ¿Te resultó fácil utilizar ambas versiones para gestionar tus tareas como voluntario?
-   - ¿El diseño de la plataforma es coherente entre la versión móvil y la web? ¿Te resultó cómodo usar la aplicación en tu dispositivo móvil para realizar tus tareas?
-   - ¿Te parece que la plataforma facilita la gestión de tus responsabilidades como voluntario? ¿Cómo crees que AidManager podría ayudarte a organizar mejor tu día a día?
-   - Si pudieras sugerir una mejora para la plataforma, ¿qué cambiarías o añadirías para que te sea más útil como voluntario?
-
-#### 8.3.4.2. Registro de Entrevistas
-
-video de las entrevistas: https://youtu.be/EnOEZSLR6A8
-
-# Segmento 1
-
-Nombre: Luis Eduardo Herrera González
-
-Edad: 21 años
-
-Ocupación: Miembro de equipo
-
-Ubicación: San Borja
-
-Dispositivos: Móvil (WhatsApp) & Computadora personal
-
-Navegador: Chrome
-
-Momento de la entrevista: [0:00]
-
-<p align="center">
-  <img src="../assets/entrevistas-finales/Luis.png" alt="Luis entrevista" width="600px">
-</p>
-
-
-Resumen de la entrevista:
-
-Luis es miembro de un equipo en una ONG, encargado de tareas relacionadas con la comunicación. No lidera equipos, pero apoya en el área de comunicación. Usa principalmente su teléfono móvil para WhatsApp y su computadora para otras tareas. En cuanto a la interfaz y funcionalidad de las herramientas, menciona que la plataforma web y móvil son coherentes en diseño y fáciles de usar. Sugiere mejorar la interfaz visual agregando iconos o fotos de perfil para facilitar la identificación de los miembros del equipo. Destaca la mejora en la gestión de tareas dentro de la plataforma, señalando que la interfaz renovada de la sección de proyectos y las opciones de visualización de tareas asignadas mejoran la experiencia. En términos de usabilidad, Luis menciona que los cambios propuestos, especialmente aquellos que hacen la plataforma más intuitiva y visualmente agradable, cumplen con sus expectativas.
-
-Nombre Ariana Aranda
-
-Edad: 23 años
-
-Ocupación: Miembro de equipo
-
-Ubicación: San Luis
-
-Dispositivos: Laptop & Celular
-
-Navegador: Chrome
-
-Momento de la entrevista: [0:00]
-
-<p align="center">
-  <img src="../assets/entrevistas-finales/aliz.png" alt="Ariana entrevista" width="600px">
-</p>
-
-Resumen de la entrevista:
-
-Ariana, como Community Manager, maneja redes sociales y comunicaciones para una ONG. En la entrevista, destaca la facilidad de navegación de la plataforma, mencionando que el diseño de la página de inicio es claro y coherente con la oferta del producto, facilitando la visualización de tareas y la asignación de eventos. Resalta que la interfaz de la aplicación es intuitiva, lo que permitiría a cualquier persona adaptarse rápidamente, incluso sin experiencia previa.
-En cuanto a la gestión de tareas y responsabilidades, Ariana opina que la aplicación sería fácil de usar para un voluntario dentro de una ONG, ya que las opciones son accesibles y claras. También valora la confirmación visual que ofrece la plataforma, lo que facilita el seguimiento de tareas y eventos.
-Finalmente, sugiere una mejora relacionada con la gestión de usuarios dentro de la plataforma, recomendando incluir una opción que permita ver cuántas personas se han registrado o suscrito a la plataforma, lo que sería útil para gestionar equipos grandes dentro de una ONG. A pesar de esta sugerencia, considera que la aplicación está bien diseñada y cumple con las necesidades básicas de los usuarios.
-
-Nombre: Keisy
-
-Edad: 23 años
-
-Ocupación: Team Member
-
-Ubicación: La Victoria
-
-Dispositivos: Celular & Laptop
-
-Navegador: Chrome
-
-Momento de la entrevista: [0:00]
-
-<p align="center">
-  <img src="../assets/entrevistas-finales/Keyli.png" alt="Keisi Entrevista final" width="600px">
-</p>
-
-Resumen de la entrevista:
-
-Keisy, utiliza su celular y laptop en su día a día. En cuanto a la landing page de la plataforma, menciona que la interfaz es bastante clara, pero tiene algunas reservas sobre el uso del color verde, ya que lo asocia con la ecología, lo cual le parece apropiado. Sin embargo, encuentra que los íconos en la página son demasiado separados y sugirió que podrían ser más dinámicos y mejor organizados. Además, comenta que le gustaría que la navegación fuera más interactiva, con más movimiento y animaciones, para hacer la experiencia más atractiva visualmente para miembros de equipo.
-Respecto a la funcionalidad de crear posts, Kazy no entendió bien cómo funcionaba al principio, pero después de la explicación, sugirió que podría mejorar para que sea más claro y fácil de usar. También mencionó que los posts deberían incluir imágenes y que la opción para crear estos dentro de la organización podría ser más explicativa, similar a una plataforma como Facebook, donde se publican actualizaciones de proyectos.
-Finalmente, sugiere que la plataforma podría tener más interactividad y animaciones para hacerla más atractiva y funcional en su conjunto, especialmente en la página de inicio.
-
-
-# Segmento 2
-
-Nombre: María Teresa
-
-Edad: 51 años
-
-Ocupación: Organizadora de eventos, gestión de personal
-
-Ubicación: Trujillo, La Libertad
-
-Dispositivos: Celular, Tablet, Laptop
-
-Navegador: Chrome
-
-Momento de la entrevista: [0:00]
-
-<p align="center">
-  <img src="../assets/entrevistas-finales/tere.png" alt="Maria Entrevista" width="600px">
-</p>
-
-Resumen de la entrevista:
-
-María Teresa utiliza múltiples dispositivos (celular, tablet y laptop) para gestionar proyectos dentro de su ONG, lo que le permite estar conectada desde cualquier lugar. En cuanto a las mejoras implementadas en la plataforma, destaca positivamente el diseño de la landing page, mencionando que es amigable y clara. La interfaz de la aplicación web le resulta intuitiva, especialmente en la visualización de tareas y proyectos, y nota una mejora en la facilidad de uso, señalando que los colores y el diseño ayudan a mejorar la experiencia. Respecto a las métricas y las analíticas, María menciona que las mejoras realizadas para visualizar el desempeño del equipo y el progreso de las tareas son claras y útiles.
-Además, aprecia los cambios implementados en la aplicación móvil, aunque sugiere que el menú podría ser un poco más grande para facilitar su uso. La internacionalización también ha sido un aspecto positivo para ella, ya que puede trabajar en español e inglés sin problemas. María no encuentra dificultades en las interfaces ni sugiere mejoras adicionales, destacando que el gráfico de métricas es muy útil para gestionar los flujos de trabajo. En cuanto a la plataforma en general, siente que se han superado sus expectativas, ya que las mejoras han satisfecho las necesidades que mencionó en entrevistas anteriores, como la mejora de interfaces y la internacionalización.
-
-Nombre: María Isabel
-
-Edad: 52 años
-
-Ocupación: Docente y gestora de proyectos de responsabilidad social
-
-Ubicación: Trujillo, La Libertad
-
-Dispositivos: Laptop & Celular
-
-Navegador: Chrome
-
-Momento de la entrevista: [0:00]
-
-<p align="center">
-  <img src="../assets/entrevistas-finales/isa.png" alt="Isa entrevista" width="600px">
-</p>
-
-Resumen de la entrevista:
-
-María Isabel, quien gestiona proyectos de responsabilidad social y ejerce la carrera de docencia, utiliza principalmente su laptop para gestionar proyectos, pero recurre al celular cuando está en trabajo de campo. En cuanto a la plataforma, destaca positivamente la landing page, mencionando que es intuitiva, sencilla y bien estructurada, lo que facilita el recorrido visual del usuario. Valora la claridad en la información presentada y la calidez del diseño.
-La interfaz de la aplicación web le parece muy intuitiva y fácil de usar para asignar tareas y gestionar proyectos, con las funciones clave accesibles de manera eficiente. Las métricas visualizadas, especialmente las que muestran el progreso de los proyectos, son vistas como útiles, destacando que esto le permite conocer en qué etapa se encuentran los proyectos y cómo se están gestionando.
-En cuanto a la aplicación móvil, María menciona que la experiencia es similar a la de la web y no encuentra dificultades en gestionar proyectos en ambas versiones. Destaca la integración de WhatsApp con la plataforma como un vínculo útil para contactar a los miembros del equipo.
-Como mejora, sugiere agregar una funcionalidad para realizar videoconferencias directamente desde la plataforma, lo que sería útil para proyectos de campo donde no siempre se puede estar presente físicamente. Además, sugiere mejorar el calendario utilizando colores adicionales para diferenciar las actividades pendientes de las ya completadas, como el uso de verde para tareas realizadas y rojo para tareas pendientes.
-En general, María Isabel considera que las mejoras implementadas cumplen con sus expectativas, especialmente las relacionadas con las analíticas, la gestión de tareas y la funcionalidad del calendario.
-
-Nombre: Fabrizzio
-
-Edad: 22 años (próximo a cumplir 23)
-
-Ocupación: Gestor de proyectos en una ONG
-
-Ubicación: Trujillo, La Libertad
-
-Dispositivos: Computadora de escritorio, Laptop, y ocasionalmente celular
-
-Navegador: Chrome
-
-Momento de la entrevista: [0:00]
-
-<p align="center">
-  <img src="../assets/entrevistas-finales/fa.png" alt="fabrizzio entrevista" width="600px">
-</p>
-
-Resumen de la entrevista:
-
-Fabrizzio, quien gestiona proyectos dentro de su ONG, utiliza principalmente computadoras de escritorio y laptops, con un uso mínimo de su celular. En cuanto a la plataforma, menciona que el diseño de la landing page es claro, y la organización de la información es efectiva. Sin embargo, señala que la plataforma debe tener la opción de establecer el idioma en español por defecto, ya que su equipo prefiere trabajar en ese idioma.
-
-En relación a las tareas, el sistema permite gestionar de manera adecuada las actividades, con un límite de tareas por usuario entre 10. Fabrizzio también sugiere que la plataforma debería tener un mensaje visual de advertencia para las tareas que se demoran, como un contorno rojo para llamar la atención, lo cual podría ayudar a priorizar tareas urgentes.
-
-Sobre las métricas, valora la facilidad con la que puede visualizar el desempeño del equipo, destacando la utilidad de las métricas de progreso y la claridad de los gráficos.
-Fabrizzio también considera que las versiones web y móvil cumplen con sus expectativas en términos de funcionalidad para la gestión de equipos y proyectos. Finalmente, menciona que está más satisfecho con las mejoras realizadas en la plataforma, especialmente en el sistema web, que considera muy eficiente y bien diseñado.
-
-En resumen, Fabrizzio está contento con las actualizaciones, aunque sugiere algunos ajustes visuales y de usabilidad para mejorar aún más la experiencia.
-
-
-### 8.4. Experiment Aftermath & Analysis
-#### 8.4.1. Analysis and Interpretation of Results
-  - Desde una perspectiva tanto individual como grupal, realizaremos un análisis exhaustivo de los resultados obtenidos durante la implementación de Aidmanager, enfocándonos en el rendimiento de las funciones tanto para los directores como para los miembros del equipo.
-   - Nuestro objetivo es identificar, mediante los datos recopilados, qué técnicas o tendencias podemos integrar en nuestra plataforma para optimizar su funcionalidad y efectividad. A través del análisis, buscaremos entender cómo las características clave de la plataforma, como el panel administrativo, la creación de nuevos proyectos, la asignación de tareas, el calendario de tareas y la sección de publicaciones, están contribuyendo a la mejora de la gestión y organización de las ONGs.
-   - Nos enfocaremos en responder preguntas clave: ¿Los directores sienten que Aidmanager les facilita la organización y el control de los proyectos y recursos? ¿Los miembros del equipo están utilizando eficientemente las herramientas para colaborar y compartir ideas? ¿La plataforma ha mejorado la visibilidad de los proyectos y la interacción entre los miembros del equipo?
-   - Además, realizaremos un análisis del impacto de las mejoras implementadas en Aidmanager, en relación con los objetivos establecidos. Evaluaremos si la implementación de nuevas funcionalidades ha tenido un impacto positivo en la eficiencia y coordinación del equipo, y si se ha alcanzado una mayor satisfacción por parte de los usuarios de la plataforma.
-   - Registraremos las conclusiones más relevantes y nos encargaremos de comunicarlas de manera clara y concisa, para que tanto el equipo de desarrollo como los stakeholders puedan comprender de manera efectiva los hallazgos y las posibles áreas de mejora para la plataforma.
-#### 8.4.2. Re-scored and Re-prioritized Question Backlog
-  - Con los resultados del análisis y la retroalimentación de los usuarios de Aidmanager en mano, procederemos a revisar y reevaluar el backlog de preguntas que hemos ido acumulando hasta ahora.
-   - Con base en los resultados obtenidos y las conclusiones derivadas del análisis, ajustaremos las prioridades de las preguntas que hemos identificado hasta el momento. Por ejemplo, si la retroalimentación indica que la funcionalidad del calendario de tareas necesita mejoras o que la interfaz del panel administrativo no es lo suficientemente intuitiva, estas áreas podrían ascender en nuestra lista de prioridades para el desarrollo futuro.
-   - Actualizaremos y reorganizaremos el backlog de preguntas según lo que consideremos más relevante e importante en este momento. Esto puede implicar la eliminación de algunas preguntas que ya no sean pertinentes o la inclusión de nuevas cuestiones que hayan surgido a partir de los hallazgos de la experimentación.
-   - Colaboraremos estrechamente con el equipo de desarrollo para determinar qué preguntas requieren atención inmediata y cuáles podrían ser abordadas más adelante o incluso descartadas, con el fin de asegurar que el enfoque y los esfuerzos se alineen con las necesidades más urgentes de nuestros usuarios y los objetivos de la plataforma.
-
-### 8.5. Continuous Learning
-
-#### 8.5.1. Shareback Session Artifacts: Learning Workflow
-
-El aprendizaje continuo ha sido un pilar fundamental en el desarrollo de **AidManager**. Para garantizar la mejora constante del equipo y del producto, se implementaron sesiones periódicas de retroalimentación conocidas como *Shareback Sessions*.
-
-#### Formato de la Shareback Session
-
-Estas sesiones fueron diseñadas para promover un espacio colaborativo donde los integrantes del equipo pudieran compartir sus aprendizajes, desafíos y buenas prácticas adquiridas durante cada ciclo de desarrollo. La estructura seguida fue:
-
-1. Introducción y objetivos de la sesión.
-2. Presentación de aprendizajes individuales.
-3. Análisis y discusión colectiva de los hallazgos.
-4. Registro de acciones para mejorar procesos, tecnología y colaboración.
-
-#### Documentación de los Aprendizajes
-
-Cada sesión generó artefactos que fueron almacenados en un repositorio interno accesible para todo el equipo. Esta documentación permitió visibilizar el progreso del equipo y fomentar la reutilización de soluciones. Los aprendizajes se registraron utilizando el siguiente formato:
-
-- **Título del Aprendizaje**
-- **Descripción Detallada**
-- **Evidencia (datos, ejemplos concretos)**
-- **Impacto en el Proyecto**
-- **Acciones Futuras**
-
-#### Integración con la Mejora Continua
-
-Los aprendizajes extraídos fueron discutidos y reaplicados en las retrospectivas de sprint, permitiendo ajustar prácticas de desarrollo, pruebas, comunicación y despliegue. Esto aseguró que el conocimiento no se quede aislado, sino que retroalimente el proceso ágil adoptado por el equipo.
-
-#### Artefactos de la Sesión
-
-A continuación, se presentan ejemplos de artefactos generados durante las sesiones de aprendizaje:
-
----
-
-**Ejemplo de Artefacto 1**
-
-- **Título del Aprendizaje**: Optimización de despliegues en Render  
-- **Descripción**: Reducción del tiempo de despliegue automatizando la verificación de errores mediante GitHub Actions.  
-- **Evidencia**: Tiempo de despliegue se redujo de 4 min a 2 min en promedio.  
-- **Impacto en el Proyecto**: Aceleró la validación de cambios y mejoró el tiempo de respuesta ante errores.  
-- **Acciones Futuras**: Mantener documentación actualizada de los workflows e integrar alertas automáticas.
-
----
-
-**Ejemplo de Artefacto 2**
-
-- **Título del Aprendizaje**: Mejora de comunicación entre backend y frontend  
-- **Descripción**: Uso de Swagger para alinear definiciones de API y evitar errores por interpretación ambigua.  
-- **Evidencia**: Disminución del 40% en errores de integración entre microservicios.  
-- **Impacto en el Proyecto**: Facilitó la colaboración entre desarrolladores de distintas capas.  
-- **Acciones Futuras**: Definir contratos de API desde etapas tempranas del sprint.
-
----
-
-### 8.6. To-Be Software Platform Pre-launch
-
-#### 8.6.1. About-the-Product Intro Video
-
-En esta sección se presenta el video **about-the-product** que introduce de manera concisa las principales funcionalidades de la aplicación **AidManager** a usuarios potenciales, especialmente gestores y miembros de ONGs.
-
-El video tiene como objetivo mostrar cómo AidManager facilita la gestión de tareas, proyectos, comunicación interna y análisis financiero dentro de una plataforma intuitiva y accesible.
-
-#### Enlaces del video:
-
-- *Microsoft Stream**: [Ver video en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a359_upc_edu_pe/EYbJuyXOTX9DtQJzU_p6V7ABlDaHvU3h3Ei1NwjH5P03sA?e=yPsjN4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-- **YouTube**: [Ver video en YouTube](https://www.youtube.com/watch?v=2cZpH5GsaWg)
-
-
-#### Duración del video:  
-**01:15 segundos**
-
-#### Screenshot del video:
-
-<p align="center">
-  <img src="../assets/AidManager-Video.png" alt="Screenshot del video de presentación de AidManager" width="600px">
-</p>
-
-# Video About The Team
-
-Se adjunta el video about the team realizado con los testimonios de nuestros miembros de equipo
-
-[Video About the Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EUqRhCrrTLZNmi4a01sIQF0BjjUrnatGGcPXhUmdNg_OHA?e=bWmeMG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EUqRhCrrTLZNmi4a01sIQF0BjjUrnatGGcPXhUmdNg_OHA?e=bWmeMG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+| **Elemento**             | **Detalle**                                                                 |
+|---------------------------|-----------------------------------------------------------------------------|
+| **Número de reunión**    | 1.1                                                                         |
+| **Fecha**                | 13/09/2025                                                                  |
+| **Hora**                 | 13:00                                                                       |
+| **Director de reunión**  | Sebastian Ramirez Hoffmann                                                   |
+| **Asistentes**           | Todos los miembros del equipo                                                |
+| **Discusión**            | Organizarse en base al deployment nuevo de la landing page junto con las correcciones del TB1 |
 
 
 # Conclusiones
-En conclusión, para la TB1 se realizó el desarrollo de la solución y la implementación de esta misma. En futuras entregas estaremos observando mas de cerca el código a nivel de pruebas.
-
-En conclusión, para la TP1 se realizó el testing necesario para nustras soluciones implementamos herramienas nuevas y distinos procesos para lograr nuestros objetivos.
-
-En conclusión, para la TB2 se realizaron trevistas, auditorias y adicion de features segun los experiment cards siguiendo el approach de experiment driven design
-
-En En conclusión, para el TF se validaron los experiment cards del proceso de experimentacion asi como el desarrollo de las features vistas en las experiment card, el grupo ha completado efectivamente en aplicar conceptos de ingenieria y de cursos pasados para llevar al cabo este proyecto de manera satisfactoria.
-
+En conclusión, para la TB1 se realizó el desarrollo de la solución y la implementación de esta misma. En futuras entregas estaremos observando mas de cerca el código a nivel de pruebas estamos planeando integrar los sistemas faltantes de Oauth2 y una pasarela de pagos para el sprint 3.
 
 
 # Bibliografia
@@ -5890,12 +3229,7 @@ Katti, V. S., & Sowmya, K. (2022). Flutter: Cross-platform IDE for mobile applic
 ```
 
 
-
-
-
 # Anexos
-
-Video Exposicion: https://youtu.be/Sz5WHDMyTL0
 
 Video Entrevistas Validacion: https://youtu.be/EnOEZSLR6A8
 
