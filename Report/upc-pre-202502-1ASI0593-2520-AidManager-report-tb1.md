@@ -36,6 +36,10 @@
             <td>Ramirez Hoffmann, Sebastian</td>
             <td>U202211894</td>
         </tr>
+        <tr>
+            <td>Arroyo Ormeño, André Alonso</td>
+            <td>U202114714</td>
+        </tr>
          
 </table>
 
@@ -56,7 +60,8 @@
 | TB1     | 10/09/2025  | Sebastian Ramirez            | Revisión completa del Entrevistas y competidores Canvas.            |
 | TB1     | 12/09/2025  | Sebastian Ramirez Hoffmann           | Revisión completa del Lean UX Canvas.            |
 | TB1     | 13/09/2025  | Pedro Guia           | Revisión completa del diseño de solución            |
-| TB1     | 14/09/2025  | Sebastian Ramirez Hoffmann           | Revisión general del informe            |  
+| TB1     | 14/09/2025  | Sebastian Ramirez Hoffmann           | Revisión general del informe            |
+| TB1     | 22/09/2025  | André Alonso Arroyo Ormeño           | Actualizacion de los diagrama de componentes            |    
 
 
 
@@ -390,6 +395,17 @@ Los siguientes integrantes del grupo son presentados con su carrera y sus conoci
       <p><b>Esteban Garcia, Nicolas Sebastian</b></p>
       <p>
         Tengo experiencia en frameworks como Astro, Vue y React, y actualmente estoy aprendiendo Next.js y Express. Me apasiona el desarrollo frontend, siempre enfocado en ofrecer una experiencia de usuario fluida y cómoda. Me considero una persona sociable, responsable y proactiva, además, disfruto participar en proyectos multidisciplinarios y apoyar a comunidades que promueven el desarrollo web. Siempre busco dar lo mejor de mí para asegurar un rendimiento óptimo en cada aplicación.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="../assets/profile-picture-integrants/andre-image.png" alt="Foto de perfil de André" width="700px">
+    </th>
+    <td valign="top">
+      <p><b>Arroyo Ormeño, André Alonso</b></p>
+      <p>
+        Soy estudiante de la carrera de Ingeniería de Software en la UPC. Me considero una persona responsable, estudioso y disciplinado. Desde pequeño siempre he tenido ese interés por la tecnología y dicha curiosidad me ha llevado a elegir esta carrera. Espero en el futuro adquirir los conocimientos necesarios de esta carrera para poder vivir de lo que me gusta.
       </p>
     </td>
   </tr>
@@ -2843,12 +2859,35 @@ El **Container Level Diagram** descompone el sistema en contenedores, tales como
 El **Component Level Diagram** explora la estructura interna de cada contenedor, detallando los componentes clave y sus interacciones. Esto permite entender cómo se organiza y distribuye la funcionalidad dentro del sistema.
 
 ---
+**Authentication Bounded Context**
 
-![C4_Components](../assets/c4_components1.png)  
-![C4_Components2](../assets/c4_components2.png)  
-![C4_Components3](../assets/c4_components3.png)  
-![C4_Components4](../assets/c4_components4.png)  
-![C4_Components5](../assets/c4_components5.png.png)
+Se encarga de la gestión de autenticación de usuarios dentro del sistema. Contiene la lógica necesaria para el inicio de sesión, validación de credenciales y emisión de tokens de acceso. Está compuesto por capas bien definidas (dominio, aplicación, infraestructura e interfaz), lo que asegura separación de responsabilidades. Es el primer punto de contacto de los clientes (web y móvil) para autenticarse en AidManager.
+![C4_Components](../assets/diagram-component/Authentication%20Bounded%20Context.png?raw=true)
+
+**IAM Bounded Context**
+
+Responsable de la administración de identidades, permisos y roles de usuarios. Complementa al contexto de autenticación, pero su enfoque está en la autorización y control de acceso mediante OAuth2 y un façade que permite exponer funcionalidades a otros bounded contexts. Garantiza que los usuarios autenticados tengan únicamente los permisos que les corresponden, asegurando la protección de datos y funciones críticas.
+![C4_Components2](../assets/diagram-component/IAM%20Bounded%20Context.png?raw=true)  
+
+**UserProfile Bounded Context**
+
+Centraliza la gestión del perfil de usuario y su información personal, incluyendo datos básicos, configuraciones y preferencias. Expone un façade (IUserAccountFacade) que otros contextos pueden consumir para consultar información de usuarios. Además, integra un servicio externo de autenticación de usuarios (ExternalUserAuthService) que depende de IAM, lo cual permite sincronizar datos y mantener consistencia entre autenticación, autorización y perfiles.
+![C4_Components3](../assets/diagram-component/UserProfile%20Bounded%20Context.png?raw=true)  
+
+**ManageTask Bounded Context**
+
+Diseñado para la gestión de tareas y proyectos de las ONG dentro de AidManager. Contiene lógica para la creación, asignación, seguimiento y finalización de tareas. Expone un façade (IManageTasksFacade) para que otros contextos (por ejemplo, costos) puedan reutilizar su funcionalidad. También consume servicios externos de UserProfile (a través de ExternalUserService) para asociar tareas a usuarios registrados en el sistema.
+![C4_Components4](../assets/diagram-component/ManageTask%20Bounded%20Context.png?raw=true)
+
+**ManageCosts Bounded Context**  
+
+Dedicado a la gestión de costos y finanzas de los proyectos y tareas. Permite registrar, calcular y controlar gastos relacionados con las actividades de la ONG. Consume servicios de ManageTask (mediante ExternalProjectsService) para asociar costos con proyectos y tareas específicos. Con esta integración, asegura una trazabilidad clara entre la planificación de tareas y la ejecución presupuestaria.
+![C4_Components5](../assets/diagram-component/ManageCosts%20Bounded%20Context.png?raw=true)
+
+**Payment Bounded Context**
+
+Encargado de la gestión de pagos y transacciones económicas. Su función principal es integrar AidManager con proveedores externos de pago, en este caso Stripe, para manejar donaciones, aportes y otros flujos de dinero. Al igual que los demás bounded contexts, mantiene separación por capas y permite a las aplicaciones cliente (web y móvil) realizar operaciones seguras de pago mediante API expuestas en la capa de interfaz.
+![C4_Components5](../assets/diagram-component/Payment%20Bounded%20Context.png?raw=true)
 
 
 ## 4.9. Software Object-Oriented Design
