@@ -2840,17 +2840,17 @@ Para el desarrollo de los prototipos de la **interfaz móvil** de AidManager, se
 
 ### 4.8.1. Software Architecture – Context Level Diagram
 
-El **Context Level Diagram** proporciona una visión general de alto nivel del sistema AidManager. Define cómo interactúa con usuarios externos (actores) y otros sistemas, estableciendo sus límites y relaciones clave.
+El diagrama de contexto de AidManager representa cómo los usuarios principales —el Project Manager y el Team Member— interactúan con el sistema mediante la aplicación web y móvil, y cómo este se conecta con servicios externos como OAuth2 para autenticación, Stripe para pagos y donaciones, y Cloudinary para la gestión de imágenes.
 
-![C4_context](../assets/c4_context.png)
+![C4_context](../assets/digram-context-container/Diagram-Context-AidManager.png?raw=true)
 
 ---
 
 ### 4.8.2. Software Architecture – Container Level Diagram
 
-El **Container Level Diagram** descompone el sistema en contenedores, tales como aplicaciones, bases de datos y servicios, mostrando cómo cada uno colabora para cumplir con los objetivos del sistema. Este nivel detalla las tecnologías utilizadas y sus responsabilidades principales.
+El diagrama de contenedores abre la vista interna de AidManager y muestra la aplicación web en Vue.js y la aplicación móvil en Flutter como frontends, una API REST en .NET como backend central de negocio, una base de datos MySQL para el almacenamiento de información, y la interacción del backend con los sistemas externos OAuth2, Stripe y Cloudinary para cubrir necesidades de autenticación, pagos y gestión multimedia.
 
-![C4_container](../assets/c4_container.png)
+![C4_container](../assets/digram-context-container/Diagram-Container-AidManager.png?raw=true)
 
 ---
 
