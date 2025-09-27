@@ -355,59 +355,59 @@ Los siguientes integrantes del grupo son presentados con su carrera y sus conoci
 
 <table>
   <tr>
-      <th>
-      <img src="../assets/integrantes/Sebastian-Ramirez-Hoffmann .jpeg" alt="Foto de perfil de Sebastian Ramirez Hoffmann" width="800px">
-    </th>
-    <td valign="top">
+      <th>Foto de Perfil</th>
+      <th>Información Técnica</th>
+      <th>Rol a Desempeñar</th>
+  </tr>
+  <tr>
+    <td><img src="../assets/integrantes/Sebastian-Ramirez-Hoffmann .jpeg" alt="Foto de perfil de Sebastian Ramirez Hoffmann" width="800px"></td>
+    <td>
       <p><b>Ramirez Hoffmann, Sebastian</b></p>
       <p>
-        Me dedico a realizar soluciones de software utilizando distintas tecnologías y frameworks de desarrollo como .NetCore, SpringBoot, Angular y Vue. Asimismo cuento con experiencia implementando tecnologías mas actuales como Large Learning Models asi como modelos de cyber seguridad. Personalmente me considero una persona proactiva con vision y dispuesto a trabajar eficientemente en proyectos colaborativos.
+        Me dedico a liderar proyectos ágiles y coordinar equipos multifuncionales. Cuento con experiencia en la gestión de proyectos y liderazgo dentro de metodologías como Scrum, y en el uso de tecnologías como .NetCore, SpringBoot, Angular y Vue. Mi enfoque es asegurar la entrega de productos de software que cumplan con los requisitos del cliente, manteniendo un ambiente colaborativo y eficiente dentro del equipo.
       </p>
     </td>
+    <td>Product Owner y Scrum Master</td>
   </tr>
   <tr>
-    <th>
-      <img src="../assets/pedro.jpg" alt="Foto de perfil de" width="800px">
-    </th>
-    <td valign="top">
+    <td><img src="../assets/pedro.jpg" alt="Foto de perfil de Pedro Guia" width="800px"></td>
+    <td>
       <p><b>Guia Carrasco, Pedro Andre</b></p>
       <p>
-        Tengo conocimientos en los lenguajes de programación C/C++, Python y Java. También tengo conocimientos en Análisis de vulnerabilidades y explotación de datos. Estoy comprometido con el equipo y el proyecto.
+        Tengo amplia experiencia en el desarrollo de backend, trabajando con lenguajes como C/C++, Python y Java. Mi enfoque principal es crear y mantener soluciones robustas, escalables y seguras. También cuento con experiencia en el análisis de vulnerabilidades y explotación de datos, lo que me permite asegurar que el software sea seguro y confiable en todo momento.
       </p>
     </td>
+    <td>Desarrollador Backend</td>
   </tr>
   <tr>
-    <th>
-      <img src="../assets/profile-picture-integrants/Manuel-Peña-Rivera.jpg" alt="Foto de perfil de" width="800px">
-    </th>
-    <td valign="top">
+    <td><img src="../assets/profile-picture-integrants/Manuel-Peña-Rivera.jpg" alt="Foto de perfil de Manuel Peña Rivera" width="800px"></td>
+    <td>
       <p><b>Peña Rivera, Manuel Sebastian</b></p>
       <p>
-        Cuento con experiencia en programación en C++, así como en desarrollo frontend con Vue, Angular y backend con tecnologías como JavaScript, Java, Spring Boot, C# y .NET. Me considero una persona responsable, flexible e innovadora, siempre abierta a escuchar activamente y mejorar en cada proyecto. Me esfuerzo por aprender constantemente y aportar soluciones efectivas, trabajando de manera colaborativa y con una actitud proactiva para lograr los objetivos del equipo.
+        Soy un profesional con experiencia tanto en desarrollo frontend como backend. Mi enfoque está en asegurar la calidad del software a través de pruebas rigurosas y análisis de datos. Además, colaboro estrechamente con el equipo para implementar soluciones que garanticen el cumplimiento de los estándares de calidad, desde la fase de desarrollo hasta la entrega final.
       </p>
     </td>
+    <td>QA y Analista de Datos</td>
   </tr>
   <tr>
-    <th>
-      <img src="../assets/NIKOKADO.jpg" alt="Foto de perfil de Nicolas" width="700px">
-    </th>
-    <td valign="top">
-      <p><b>Esteban Garcia, Nicolas Sebastian</b></p>
+    <td><img src="../assets/NIKOKADO.jpg" alt="Foto de perfil de Nicolas Esteban" width="700px"></td>
+    <td>
+      <p><b>Esteban Garcia, Nicolas Sebastian - u202217485</b></p>
       <p>
-        Tengo experiencia en frameworks como Astro, Vue y React, y actualmente estoy aprendiendo Next.js y Express. Me apasiona el desarrollo frontend, siempre enfocado en ofrecer una experiencia de usuario fluida y cómoda. Me considero una persona sociable, responsable y proactiva, además, disfruto participar en proyectos multidisciplinarios y apoyar a comunidades que promueven el desarrollo web. Siempre busco dar lo mejor de mí para asegurar un rendimiento óptimo en cada aplicación.
+        Me especializo en el desarrollo frontend, creando interfaces de usuario atractivas y funcionales. Utilizo frameworks como Astro, Vue y React para garantizar una experiencia de usuario fluida. Mi enfoque también incluye la colaboración estrecha con diseñadores y desarrolladores backend para asegurar una integración perfecta y una experiencia de usuario sin interrupciones.
       </p>
     </td>
+    <td>Diseñador UI/UX y Desarrollador Frontend</td>
   </tr>
   <tr>
-    <th>
-      <img src="../assets/profile-picture-integrants/andre-image.png" alt="Foto de perfil de André" width="700px">
-    </th>
-    <td valign="top">
+    <td><img src="../assets/profile-picture-integrants/andre-image.png" alt="Foto de perfil de André Arroyo" width="700px"></td>
+    <td>
       <p><b>Arroyo Ormeño, André Alonso</b></p>
       <p>
-        Soy estudiante de la carrera de Ingeniería de Software en la UPC. Me considero una persona responsable, estudioso y disciplinado. Desde pequeño siempre he tenido ese interés por la tecnología y dicha curiosidad me ha llevado a elegir esta carrera. Espero en el futuro adquirir los conocimientos necesarios de esta carrera para poder vivir de lo que me gusta.
+        Como arquitecto de software, me encargo de diseñar las estructuras de sistemas escalables y eficientes, asegurando que los proyectos cumplan con los estándares de calidad y arquitectura técnica. Mi rol también involucra la toma de decisiones clave sobre las tecnologías y herramientas a utilizar, coordinando con los equipos de desarrollo para lograr una implementación exitosa de las soluciones.
       </p>
     </td>
+    <td>Arquitecto de Software</td>
   </tr>
 </table>
 
@@ -3181,15 +3181,15 @@ Acta de Reunión - Planificación Inicial (Sprint 0)
 | Item                     | Detail |
 |--------------------------|--------|
 | Sprint #                 | Sprint 1 |
-| Date                     | 13/09/2025 |
+| Date                     | 24/09/2025 |
 | Time                     | 13:00 |
 | Location                 | Discord Virtual |
 | Prepared By              | Sebastian Ramirez Hoffmann |
 | Attendees (Planning)     | Todos Atendieron |
 
-- **Sprint Goal:** Implementar y desplegar la Landing Page.  
+- **Sprint Goal:** Implementar la autenticación de usuarios mediante OAuth2, asegurando una integración segura con proveedores de identidad. Además, integrar Stripe como solución para el procesamiento de pagos, permitiendo realizar transacciones de forma eficiente y segura en la plataforma.  
 - **Sprint Velocity:** 15 puntos.  
-- **Sum of Story Points:** 15 puntos.  
+- **Sum of Story Points:** 15 puntos.
 
 #### 5.2.2.2. Sprint Backlog 1
 | Id   | Title            | Description                                   | Estimation (Hours) | Assigned To                  | Status |
