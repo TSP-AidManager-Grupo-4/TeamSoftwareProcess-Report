@@ -3233,13 +3233,35 @@ Acta de Reunión - Planificación Inicial (Sprint 0)
 
 
 #### 5.2.2.3. Development Evidence for Sprint Review
-Se presenta la implementación de la landing page con botones call to action funcionales.
+Durante este primer Sprint se trabajó principalmente en la documentación del proyecto, la definición de roles, la planificación de historias de usuario y la actualización de los diagramas C4. Además, se incorporó la información del nuevo integrante André Alonso Arroyo Ormeño. Los avances específicos fueron:
 
-<center><img src="../assets/Implementations/Landing_implementation.jpg" alt="Landing deployed" style="width:80%;"></center>
+- **Documentación:**
+  - Creación de información relacionada al Sprint 0 y Sprint 1.
+  - Actualización de roles de los integrantes del equipo.
+  - Definición de objetivos y metas del Sprint.
+  
+- **Diagramas:**
+  - Actualización de diagramas de componentes, contexto y contenedores.
+  - Corrección y mantenimiento de modelos C4.
+  - Inclusión de información del nuevo integrante.
+
+|        Repository        | Branch | Commit Id | Commit Message                                      | Commit Message Body | Committed on (Date) |
+| :----------------------- | :----- | :-------- | :-------------------------------------------------- | :------------------ | :-----------------: |
+| aidmanager-docs          | main   | 4139031fc823286b28a97e822ffecbd37065c0a1          | docs: add information about sprint 1                |                     | 28/09/2025 |
+| aidmanager-docs          | main   | c4d0b951f6e328b15eba473c4652f13cf1b7bdb4          | docs: add sprint 0                                  |                     | 28/09/2025 |
+| aidmanager-docs          | main   | c74b97b49da6fd741e0bbe8f94a9bda66b647843          | docs: updates roles of members                      |                     | 28/09/2025 |
+| aidmanager-docs          | main   | 021f9b5869b3e936417fe2a50a86ef53b4627b05          | docs: update information about diagram components   |                     | 28/09/2025 |
+| aidmanager-docs          | main   | 7e5150f294ed61d6fb780ba8f978c60d1b3954a3          | Merge branch 'SEBRH:main' into main                 |                     | 27/09/2025 |
+| aidmanager-docs          | main   | 89561e4ccb0dd16abd3c5bbe468a03d98a3cedf8          | docs: update information about diagram components   |                     | 27/09/2025 |
+| aidmanager-docs          | main   | 3d92a12bf11feabfbcb8683092f32dc3c6fc5934          | docs: update team member profiles and sprint goals  |                     | 27/09/2025 |
+| aidmanager-docs          | main   | 3d4c828adf2c23ee781595c7da236a11a765a0bc          | docs: update context and container diagrams         |                     | 26/09/2025 |
+| aidmanager-docs          | main   | 890997c18211bfc57fba0f9d5a3fb92029fe72fa          | docs: update diagram components                     |                     | 26/09/2025 |
+| aidmanager-docs          | main   | 1c2d104b2f33024a6086a563f229fee6378f8559          | docs: update diagrams components and add info about Andre |              | 23/09/2025 |
+| aidmanager-docs          | main   | 5fea327f004927380a2445db5d085b775c6d1857          | update tb1                                          |                     | 14/09/2025 |
+| aidmanager-docs          | main   | b09bba49ef256947b6e33540c17a0bfbaaa77671          | new ver                                             |                     | 14/09/2025 |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
-Pruebas manuales de navegación, redirección y carga de elementos.  
-(Omitidas pruebas críticas por simplicidad de la Landing.)
+No aplica para esta entrega
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 Evidencia de commits realizados durante el desarrollo y despliegue. Considerar que gran parte de la landing ya se encontraba en desarrollo previo.
