@@ -3264,20 +3264,23 @@ Durante este primer Sprint se trabajó principalmente en la documentación del p
 No aplica para esta entrega
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
-Evidencia de commits realizados durante el desarrollo y despliegue. Considerar que gran parte de la landing ya se encontraba en desarrollo previo.
+Las capturas evidencian la planificación y gestión de las User Stories en Jira para el Sprint 2 (26 Sep - 12 Oct) y el backlog del proyecto. Se puede observar la organización del tablero, las historias asignadas al sprint actual (principalmente relacionadas con la integración de OAuth2) y un listado más extenso de historias de usuario en el backlog, con sus asignaciones y fechas de vencimiento.
 
-<center><img src="../assets/Insights/ins.png" alt="Landing deployed" style="width:80%;"></center>
+Vista general del proyecto AidManager-TSP en Jira, mostrando el tablero del Sprint 2 con las historias HU35 y HU37 enfocadas en la integración de OAuth2, junto con otras historias del backlog relacionadas con Stripe.
+<center><img src="../assets/jira-sprint2/jira-image1.jpg?raw=true" alt="Vista general del tablero Jira - Sprint 2" style="width:80%;"></center>
+
+Vista detallada de las columnas del tablero (Por hacer, En curso, Listo) mostrando específicamente las tarjetas de HU35 - Integrar tecnología OAUTH2 al backend y HU37 - Implementar Interfaz para OAUTH2.
+<center><img src="../assets/jira-sprint2/jira-image2.jpg?raw=true" alt="Detalle de historias OAuth2 en tablero Jira" style="width:80%;"></center>
+
+Lista completa de historias de usuario del backlog con detalles técnicos incluyendo clave, resumen, estado, asignee y fecha de vencimiento, mostrando el avance en múltiples funcionalidades del sistema.
+<center><img src="../assets/jira-sprint2/jira-image3.jpg?raw=true" alt="Lista completa de historias de usuario en backlog" style="width:80%;"></center>
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 No aplica de manera crítica, al no existir servicios asociados por el momento.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
-Despliegue de la Landing Page en el entorno asignado.
-
-<center><img src="../assets/Implementations/Landing_implementation.jpg" alt="Landing deployed" style="width:80%;"></center>
-
-Se hace un deployment en vercel o netlify como fallback por un miembro del equipo
+No aplica para esta entrega
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
