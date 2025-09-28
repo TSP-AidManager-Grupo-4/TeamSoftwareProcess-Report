@@ -3220,48 +3220,74 @@ Acta de Reunión - Planificación Inicial (Sprint 0)
 | Prepared By              | Sebastian Ramirez Hoffmann |
 | Attendees (Planning)     | Todos Atendieron |
 
-- **Sprint Goal:** Implementar la autenticación de usuarios mediante OAuth2, asegurando una integración segura con proveedores de identidad. Además, integrar Stripe como solución para el procesamiento de pagos, permitiendo realizar transacciones de forma eficiente y segura en la plataforma.  
+- **Sprint Goal:** Realizar la planificación de user stories para futuros sprints, definir los roles de cada integrante del equipo y establecer la previsión de integración futura de Stripe, Cloudinary y OAuth2. Además, se formalizó la incorporación del nuevo integrante André Alonso Arroyo Ormeño al equipo.
 - **Sprint Velocity:** 15 puntos.  
 - **Sum of Story Points:** 15 puntos.
 
 #### 5.2.2.2. Sprint Backlog 1
-| Id   | Title            | Description                                   | Estimation (Hours) | Assigned To                  | Status |
-|------|------------------|-----------------------------------------------|--------------------|------------------------------|--------|
-| LP01 | Landing Setup    | Configuración inicial del proyecto Landing    | 2                  | Sebastián Ramírez Méndez     | Done   |
-| LP02 | Landing Deploy   | Despliegue de la Landing en el servidor       | 3                  | Pedro Guia Rodríguez       | Done   |
-| LP03 | CTA Buttons      | Implementación de botones con redirecciones   | 2                  | Nicolás Esteban García       | Done   |
-| LP04 | Revisión         | Corrección de detalles y pruebas generales    | 2                  | Sebastián Peña Rivera        | Done   |
+| Id   | Title                   | Description                                                         | Estimation (Hours) | Assigned To                        | Status |
+|------|-------------------------|---------------------------------------------------------------------|--------------------|------------------------------------|--------|
+| PL01 | Role Assignment         | Asignación de roles para cada integrante del equipo                 | 2                  | Sebastián Ramírez Hoffmann         | Done   |
+| PL02 | Trello → Jira Migration | Migración del tablero de Trello a Jira                              | 3                  | Sebastián Ramírez Hoffmann         | Done   |
+| PL03 | User Stories Planning   | Planificación y distribución de user stories para futuros sprints   | 4                  | Manuel Sebastián Peña Rivera        | Done   |
+| PL04 | C4 Model Update         | Correcciones y actualización de los diagramas C4                    | 4                  | André Alonso Arroyo Ormeño          | Done   |
+
 
 #### 5.2.2.3. Development Evidence for Sprint Review
-Se presenta la implementación de la landing page con botones call to action funcionales.
+Durante este primer Sprint se trabajó principalmente en la documentación del proyecto, la definición de roles, la planificación de historias de usuario y la actualización de los diagramas C4. Además, se incorporó la información del nuevo integrante André Alonso Arroyo Ormeño. Los avances específicos fueron:
 
-<center><img src="../assets/Implementations/Landing_implementation.jpg" alt="Landing deployed" style="width:80%;"></center>
+- **Documentación:**
+  - Creación de información relacionada al Sprint 0 y Sprint 1.
+  - Actualización de roles de los integrantes del equipo.
+  - Definición de objetivos y metas del Sprint.
+  
+- **Diagramas:**
+  - Actualización de diagramas de componentes, contexto y contenedores.
+  - Corrección y mantenimiento de modelos C4.
+  - Inclusión de información del nuevo integrante.
+
+|        Repository        | Branch | Commit Id | Commit Message                                      | Commit Message Body | Committed on (Date) |
+| :----------------------- | :----- | :-------- | :-------------------------------------------------- | :------------------ | :-----------------: |
+| aidmanager-docs          | main   | 4139031fc823286b28a97e822ffecbd37065c0a1          | docs: add information about sprint 1                |                     | 28/09/2025 |
+| aidmanager-docs          | main   | c4d0b951f6e328b15eba473c4652f13cf1b7bdb4          | docs: add sprint 0                                  |                     | 28/09/2025 |
+| aidmanager-docs          | main   | c74b97b49da6fd741e0bbe8f94a9bda66b647843          | docs: updates roles of members                      |                     | 28/09/2025 |
+| aidmanager-docs          | main   | 021f9b5869b3e936417fe2a50a86ef53b4627b05          | docs: update information about diagram components   |                     | 28/09/2025 |
+| aidmanager-docs          | main   | 7e5150f294ed61d6fb780ba8f978c60d1b3954a3          | Merge branch 'SEBRH:main' into main                 |                     | 27/09/2025 |
+| aidmanager-docs          | main   | 89561e4ccb0dd16abd3c5bbe468a03d98a3cedf8          | docs: update information about diagram components   |                     | 27/09/2025 |
+| aidmanager-docs          | main   | 3d92a12bf11feabfbcb8683092f32dc3c6fc5934          | docs: update team member profiles and sprint goals  |                     | 27/09/2025 |
+| aidmanager-docs          | main   | 3d4c828adf2c23ee781595c7da236a11a765a0bc          | docs: update context and container diagrams         |                     | 26/09/2025 |
+| aidmanager-docs          | main   | 890997c18211bfc57fba0f9d5a3fb92029fe72fa          | docs: update diagram components                     |                     | 26/09/2025 |
+| aidmanager-docs          | main   | 1c2d104b2f33024a6086a563f229fee6378f8559          | docs: update diagrams components and add info about Andre |              | 23/09/2025 |
+| aidmanager-docs          | main   | 5fea327f004927380a2445db5d085b775c6d1857          | update tb1                                          |                     | 14/09/2025 |
+| aidmanager-docs          | main   | b09bba49ef256947b6e33540c17a0bfbaaa77671          | new ver                                             |                     | 14/09/2025 |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
-Pruebas manuales de navegación, redirección y carga de elementos.  
-(Omitidas pruebas críticas por simplicidad de la Landing.)
+No aplica para esta entrega
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
-Evidencia de commits realizados durante el desarrollo y despliegue. Considerar que gran parte de la landing ya se encontraba en desarrollo previo.
+Las capturas evidencian la planificación y gestión de las User Stories en Jira para el Sprint 2 (26 Sep - 12 Oct) y el backlog del proyecto. Se puede observar la organización del tablero, las historias asignadas al sprint actual (principalmente relacionadas con la integración de OAuth2) y un listado más extenso de historias de usuario en el backlog, con sus asignaciones y fechas de vencimiento.
 
-<center><img src="../assets/Insights/ins.png" alt="Landing deployed" style="width:80%;"></center>
+Vista general del proyecto AidManager-TSP en Jira, mostrando el tablero del Sprint 2 con las historias HU35 y HU37 enfocadas en la integración de OAuth2, junto con otras historias del backlog relacionadas con Stripe.
+<center><img src="../assets/jira-sprint2/jira-image1.jpg?raw=true" alt="Vista general del tablero Jira - Sprint 2" style="width:80%;"></center>
+
+Vista detallada de las columnas del tablero (Por hacer, En curso, Listo) mostrando específicamente las tarjetas de HU35 - Integrar tecnología OAUTH2 al backend y HU37 - Implementar Interfaz para OAUTH2.
+<center><img src="../assets/jira-sprint2/jira-image2.jpg?raw=true" alt="Detalle de historias OAuth2 en tablero Jira" style="width:80%;"></center>
+
+Lista completa de historias de usuario del backlog con detalles técnicos incluyendo clave, resumen, estado, asignee y fecha de vencimiento, mostrando el avance en múltiples funcionalidades del sistema.
+<center><img src="../assets/jira-sprint2/jira-image3.jpg?raw=true" alt="Lista completa de historias de usuario en backlog" style="width:80%;"></center>
 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 No aplica de manera crítica, al no existir servicios asociados por el momento.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
-Despliegue de la Landing Page en el entorno asignado.
-
-<center><img src="../assets/Implementations/Landing_implementation.jpg" alt="Landing deployed" style="width:80%;"></center>
-
-Se hace un deployment en vercel o netlify como fallback por un miembro del equipo
+No aplica para esta entrega
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
-Se evidencia la colaboración a través de commits en el repositorio. Como se menciono previamente la landing page ya se encontraba en un estado operativo y se hicieron cambios mas en "server side" para el redeployment
+Se evidencia la colaboración a través de commits en el repositorio.
 
-<center><img src="../assets/Insights/commits.png" alt="Landing deployed" style="width:80%;"></center>
+<center><img src="../assets/Insights/commits - sprint 2.png" alt="commits contributors" style="width:80%;"></center>
 
 
 #### 5.2.2.9. Actas de Reunión
@@ -3270,11 +3296,11 @@ Actas de reuniones correspondientes a Sprint 1.
 | **Elemento**             | **Detalle**                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
 | **Número de reunión**    | 1.1                                                                         |
-| **Fecha**                | 13/09/2025                                                                  |
+| **Fecha**                | 25/09/2025                                                                  |
 | **Hora**                 | 13:00                                                                       |
 | **Director de reunión**  | Sebastian Ramirez Hoffmann                                                   |
 | **Asistentes**           | Todos los miembros del equipo                                                |
-| **Discusión**            | Organizarse en base al deployment nuevo de la landing page junto con las correcciones del TB1 |
+| **Discusión**            | Planficacion de los futuros sprints y definicion de roles para cada miembro del equipo |
 
 
 # Conclusiones
