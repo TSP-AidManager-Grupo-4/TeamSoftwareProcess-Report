@@ -61,7 +61,8 @@
 | TB1     | 12/09/2025  | Sebastian Ramirez Hoffmann           | Revisión completa del Lean UX Canvas.            |
 | TB1     | 13/09/2025  | Pedro Guia           | Revisión completa del diseño de solución            |
 | TB1     | 14/09/2025  | Sebastian Ramirez Hoffmann           | Revisión general del informe            |
-| TB1     | 22/09/2025  | André Alonso Arroyo Ormeño           | Actualizacion de los diagrama de componentes            |    
+| TB2     | 22/09/2025  | André Alonso Arroyo Ormeño           | Actualizacion de los diagrama de componentes            |   
+| TB2     | 27/09/2025  | André Alonso Arroyo Ormeño           | Actualizacion de correciones de los diagrama de componentes            |     
 
 
 
@@ -2861,12 +2862,12 @@ El **Component Level Diagram** explora la estructura interna de cada contenedor,
 ---
 **Authentication Bounded Context**
 
-Se encarga de la gestión de autenticación de usuarios dentro del sistema. Contiene la lógica necesaria para el inicio de sesión, validación de credenciales y emisión de tokens de acceso. Está compuesto por capas bien definidas (dominio, aplicación, infraestructura e interfaz), lo que asegura separación de responsabilidades. Es el primer punto de contacto de los clientes (web y móvil) para autenticarse en AidManager.
+Se encarga de la gestión de autenticación de usuarios dentro del sistema. Contiene la lógica necesaria para el registro de usuarios, validación de credenciales. Está compuesto por capas bien definidas (dominio, aplicación, infraestructura e interfaz), lo que asegura separación de responsabilidades. Es el primer punto de contacto de los clientes (web y móvil) para autenticarse en AidManager. Este sistema utiliza codigos generados para el segmento de managers de manera que la organizacion tiene un codigo de acceso y permite el registro de usuarios miembros de equipo bajo dicha.
 ![C4_Components](../assets/diagram-component/Authentication%20Bounded%20Context.png?raw=true)
 
 **IAM Bounded Context**
 
-Responsable de la administración de identidades, permisos y roles de usuarios. Complementa al contexto de autenticación, pero su enfoque está en la autorización y control de acceso mediante OAuth2 y un façade que permite exponer funcionalidades a otros bounded contexts. Garantiza que los usuarios autenticados tengan únicamente los permisos que les corresponden, asegurando la protección de datos y funciones críticas.
+Responsable de la administración de identidades, permisos y roles de usuarios. Complementa al contexto de autenticación, pero su enfoque está en la autorización y control de acceso mediante OAuth2 y un façade que permite exponer funcionalidades a otros bounded contexts. Garantiza que los usuarios autenticados tengan únicamente los permisos que les corresponden, asegurando la protección de datos y funciones críticas se genran tokens para mantener la seguridad de la cuenta y autenticacion.
 ![C4_Components2](../assets/diagram-component/IAM%20Bounded%20Context.png?raw=true)  
 
 **UserProfile Bounded Context**
