@@ -2871,7 +2871,7 @@ Responsable de la administración de identidades, permisos y roles de usuarios. 
 
 **UserProfile Bounded Context**
 
-Centraliza la gestión del perfil de usuario y su información personal, incluyendo datos básicos, configuraciones y preferencias. Expone un façade (IUserAccountFacade) que otros contextos pueden consumir para consultar información de usuarios. Además, integra un servicio externo de autenticación de usuarios (ExternalUserAuthService) que depende de IAM, lo cual permite sincronizar datos y mantener consistencia entre autenticación, autorización y perfiles.
+Centraliza la gestión del perfil de usuario y su información personal, incluyendo datos básicos, configuraciones y preferencias. Expone un façade (IUserAccountFacade) que otros contextos pueden consumir para consultar información de usuarios. Además, integra un servicio externo de autenticación de usuarios (ExternalUserAuthService) que depende de IAM, lo cual permite sincronizar datos y mantener consistencia entre autenticación, autorización y perfiles. Asimismo, incorpora el servicio de gestión de imágenes en la nube (Cloudinary) para almacenar, optimizar y entregar las imágenes asociadas a los perfiles de usuario, garantizando un manejo eficiente y escalable de recursos multimedia.
 ![C4_Components3](../assets/diagram-component/UserProfile%20Bounded%20Context.png?raw=true)  
 
 **ManageTask Bounded Context**
