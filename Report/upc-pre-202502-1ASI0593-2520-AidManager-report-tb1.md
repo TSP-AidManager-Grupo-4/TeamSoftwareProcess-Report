@@ -3153,7 +3153,8 @@ La configuración del despliegue de AidManager se basa en herramientas modernas 
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review
-Configuración de repositorios y despliegue base de la estructura de la Landing.
+
+![image_5.png](../assets/image_5.png)
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
