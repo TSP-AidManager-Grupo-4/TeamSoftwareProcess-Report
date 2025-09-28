@@ -3124,39 +3124,70 @@ La configuración del despliegue de AidManager se basa en herramientas modernas 
 ### 5.2.1. Sprint 0
 
 #### 5.2.1.1. Sprint Planning 0
-| Item                     | Detail |
-|--------------------------|--------|
-| Sprint #                 | Sprint 0 |
-| Date                     | 10/09/2025 |
-| Time                     | 13:00 |
-| Location                 | Discord Plataforma virtual |
-| Prepared By              | Sebastian Ramirez Hoffmann|
-| Attendees (Planning)     | Todos atendieron |
+| Sprint # | Sprint 0                                                                                                                                                                                       |
+|----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background** |
+| **Date** | 10/09/2025                                                                                                                                                                                     |
+| **Time** | 13:00                                                                                                                                                                                          |
+| **Location** | Discord                                                                                                                                                                                        |
+| **Prepared By** | *Aid Manager*                                                                                                                                                                                  |
+| **Attendees** | Arroyo Ormeño, André Alonso  <br> Esteban Garcia, Nicolas Sebastian  <br> Guia Carrasco, Pedro Andre  <br> Peña Rivera, Manuel Sebastian  <br> Ramirez Hofmann, Sebastian                      |
+| **Sprint-0 Review Summary** | Se hace una revisión y retroalimentación para las tareas anteriores realizadas                                                                                                                 |
+| **Sprint-0 Retrospective Summary** | En este Sprint se coordinó lo que se desarrollaría en la aplicación móvil con Flutter, donde se implementaría vistas según historias de usuario y correcciones a levantar del anterior sprint. |
 
-- **Sprint Goal:** Configuración y planeamiento inicial de la Landing y repositorio.  
-- **Sprint Velocity:** 0 puntos.  
-- **Sum of Story Points:** 0 puntos.  
+- **Sprint Goal:** Mejorar funciones de nuestra aplicación, concluir con vistas finales para este e implementar “terminos y condiciones”
+- **Sprint Velocity:** 14 puntos.  
+- **Sum of Story Points:** 10 puntos.  
 
 #### 5.2.1.2. Sprint Backlog 0
-(No aplica backlog complejo, se centró en la organización inicial y preparación del entorno.)
+
+| Sprint #       | **Sprint 4**               |                      |                               |                                                         |              |                   | ---------- |
+| -------------- | -------------------------- | -------------------- | ----------------------------- | ------------------------------------------------------- | ------------ |-------------------| ---------- |
+| **User Story** |                            | **Work-Item / Task** |                               |                                                         |              |                   |            |
+| **Id**         | **Title**                  | **Id**               | **Title**                      | **Description**                                         | **Est. (h)** | **Assigned To**   | **Status** |
+| **HU09**       | Editar perfil              | **T35**              | Cambiar perfil                  | Actualizar foto de perfil con ayuda de API externa.<br>Implementación de uso de la cámara. | 2            | Sebastián Peña    | Done       |
+| **HU10**       | Autenticar usuarios por medio de código de organización | **T36**              | Código de organización           | Implementar uso de código de autentificación.<br>Implementar términos y condiciones.      | 3            | Sebastián Ramírez | Done       |
+| **HU22**       | Editar tarea               | **T37**              | Editar estado de tarea          | Función de eliminar tarea.                              | 3            | Pedro Guia        | Done       |
+| **HU31**       | Editar post                | **T40**              | Estado de Post                   | Función completa de CRUD para post.<br>Agregar a favoritos. | 3            | Nicolás Esteban   | Done       |
+| **HU36**       | Verificar que el código de organización sea correcto | **T41**              | Código de organización           | Implementar código de verificación de organización.     | 3            | Andre Arroyo      | Done       |
+
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 Configuración de repositorios y despliegue base de la estructura de la Landing.
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
-Se realizaron pruebas manuales de verificación de entorno.
+
+Para esta entrega ya se logró completar la aplicación móvil y el back end ya se encuentra desplegado desde sprints anteriores.
+
+![image_1.png](../assets/image_1.png)
 
 #### 5.2.1.5. Execution Evidence for Sprint Review
-Commits iniciales de preparación del proyecto. como los init y chore
+
+![image_2.png](../assets/image_2.png)
+
+![image_3.png](../assets/image_3.png)
+
+![image_4.png](../assets/image_4.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
-No aplica, ya que no hay servicios asociados en este sprint.
+
+
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
-Despliegue base del repositorio para Landing. Ya se tenia una version anterior.
+
+Tenemos el deploy del Backend en Azure Database for My SQL, esta actividad se realizó ya los sprint anteriores.
+
+![image_1.png](../assets/image_1.png)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint
-Evidencia de commits y comunicación inicial del equipo.
+
+| Alumno            | Actividad                                                                                        |
+|-------------------|--------------------------------------------------------------------------------------------------|
+| Sebastian Ramirez | Implementación del uso de código de autenticación <br> Implementación de términos y condiciones. |
+| Andre Arroyo      | Implementación del código de verificación de la organización                                     |
+| Sebastian Peña    | Actualización foto de perfil con ayuda de Api externa. <br> Implementación de uso de la cámara   |
+| Pedro Guia        | Implementación para eliminar tarea.                                                              |
+| Nicolas Esteban   | Función completa de CRUD para post.  <br> Agregar a favoritos.                                   |
 
 
 #### 5.2.1.9. Actas de Reunión
