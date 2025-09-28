@@ -3219,17 +3219,18 @@ Acta de Reunión - Planificación Inicial (Sprint 0)
 | Prepared By              | Sebastian Ramirez Hoffmann |
 | Attendees (Planning)     | Todos Atendieron |
 
-- **Sprint Goal:** Implementar la autenticación de usuarios mediante OAuth2, asegurando una integración segura con proveedores de identidad. Además, integrar Stripe como solución para el procesamiento de pagos, permitiendo realizar transacciones de forma eficiente y segura en la plataforma.  
+- **Sprint Goal:** Realizar la planificación de user stories para futuros sprints, definir los roles de cada integrante del equipo y establecer la previsión de integración futura de Stripe, Cloudinary y OAuth2. Además, se formalizó la incorporación del nuevo integrante André Alonso Arroyo Ormeño al equipo.
 - **Sprint Velocity:** 15 puntos.  
 - **Sum of Story Points:** 15 puntos.
 
 #### 5.2.2.2. Sprint Backlog 1
-| Id   | Title            | Description                                   | Estimation (Hours) | Assigned To                  | Status |
-|------|------------------|-----------------------------------------------|--------------------|------------------------------|--------|
-| LP01 | Landing Setup    | Configuración inicial del proyecto Landing    | 2                  | Sebastián Ramírez Méndez     | Done   |
-| LP02 | Landing Deploy   | Despliegue de la Landing en el servidor       | 3                  | Pedro Guia Rodríguez       | Done   |
-| LP03 | CTA Buttons      | Implementación de botones con redirecciones   | 2                  | Nicolás Esteban García       | Done   |
-| LP04 | Revisión         | Corrección de detalles y pruebas generales    | 2                  | Sebastián Peña Rivera        | Done   |
+| Id   | Title                   | Description                                                         | Estimation (Hours) | Assigned To                        | Status |
+|------|-------------------------|---------------------------------------------------------------------|--------------------|------------------------------------|--------|
+| PL01 | Role Assignment         | Asignación de roles para cada integrante del equipo                 | 2                  | Sebastián Ramírez Hoffmann         | Done   |
+| PL02 | Trello → Jira Migration | Migración del tablero de Trello a Jira                              | 3                  | Sebastián Ramírez Hoffmann         | Done   |
+| PL03 | User Stories Planning   | Planificación y distribución de user stories para futuros sprints   | 4                  | Manuel Sebastián Peña Rivera        | Done   |
+| PL04 | C4 Model Update         | Correcciones y actualización de los diagramas C4                    | 4                  | André Alonso Arroyo Ormeño          | Done   |
+
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 Se presenta la implementación de la landing page con botones call to action funcionales.
@@ -3258,9 +3259,9 @@ Se hace un deployment en vercel o netlify como fallback por un miembro del equip
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
-Se evidencia la colaboración a través de commits en el repositorio. Como se menciono previamente la landing page ya se encontraba en un estado operativo y se hicieron cambios mas en "server side" para el redeployment
+Se evidencia la colaboración a través de commits en el repositorio.
 
-<center><img src="../assets/Insights/commits.png" alt="Landing deployed" style="width:80%;"></center>
+<center><img src="../assets/Insights/commits - sprint 2.png" alt="commits contributors" style="width:80%;"></center>
 
 
 #### 5.2.2.9. Actas de Reunión
@@ -3269,11 +3270,11 @@ Actas de reuniones correspondientes a Sprint 1.
 | **Elemento**             | **Detalle**                                                                 |
 |---------------------------|-----------------------------------------------------------------------------|
 | **Número de reunión**    | 1.1                                                                         |
-| **Fecha**                | 13/09/2025                                                                  |
+| **Fecha**                | 25/09/2025                                                                  |
 | **Hora**                 | 13:00                                                                       |
 | **Director de reunión**  | Sebastian Ramirez Hoffmann                                                   |
 | **Asistentes**           | Todos los miembros del equipo                                                |
-| **Discusión**            | Organizarse en base al deployment nuevo de la landing page junto con las correcciones del TB1 |
+| **Discusión**            | Planficacion de los futuros sprints y definicion de roles para cada miembro del equipo |
 
 
 # Conclusiones
