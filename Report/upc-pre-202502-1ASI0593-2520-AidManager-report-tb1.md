@@ -368,7 +368,7 @@ Los siguientes integrantes del grupo son presentados con su carrera y sus conoci
         Me dedico a liderar proyectos ágiles y coordinar equipos multifuncionales. Cuento con experiencia en la gestión de proyectos y liderazgo dentro de metodologías como Scrum, y en el uso de tecnologías como .NetCore, SpringBoot, Angular y Vue. Mi enfoque es asegurar la entrega de productos de software que cumplan con los requisitos del cliente, manteniendo un ambiente colaborativo y eficiente dentro del equipo.
       </p>
     </td>
-    <td>Product Owner y Scrum Master</td>
+    <td>Product Owner</td>
   </tr>
   <tr>
     <td><img src="../assets/pedro.jpg" alt="Foto de perfil de Pedro Guia" width="800px"></td>
@@ -388,7 +388,7 @@ Los siguientes integrantes del grupo son presentados con su carrera y sus conoci
         Soy un profesional con experiencia tanto en desarrollo frontend como backend. Mi enfoque está en asegurar la calidad del software a través de pruebas rigurosas y análisis de datos. Además, colaboro estrechamente con el equipo para implementar soluciones que garanticen el cumplimiento de los estándares de calidad, desde la fase de desarrollo hasta la entrega final.
       </p>
     </td>
-    <td>QA y Analista de Datos</td>
+    <td>QA y Scrum Master</td>
   </tr>
   <tr>
     <td><img src="../assets/NIKOKADO.jpg" alt="Foto de perfil de Nicolas Esteban" width="700px"></td>
